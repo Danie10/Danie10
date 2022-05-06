@@ -1,3 +1,5 @@
+![](https://yt3.ggpht.com/ytc/AKedOLTjSvgBgtLmvQSNuuP-z22LFql2QOlcweAzH50-GW8=s88-c-k-c0x00ffffff-no-rj)
+
 # About Me
 
 Technology and gadgets are my passion! I spend my days reading tech news and blogging about what I find interesting. I try to transform the techspeak into something that ordinary non-tech folk can see a use for. My interests lean toward open source, green technology, security, privacy, amateur radio (ZS1OSS), alternative social networks, etc.
