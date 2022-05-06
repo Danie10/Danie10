@@ -8,7 +8,7 @@ Technology and gadgets are my passion! I spend my days reading tech news and blo
 # Follow Me
 
 I blog on various social networks suuch as:
-- Mastodon: <a rel="me" href="https://mastodon.social/@danie10">Mastodon</a>
+- Mastodon: <a rel="me" href="https://mastodon.social/@danie10">Danie10</a>
 - Twitter: https://twitter.com/danie10
 - Friendica: https://squeet.me/profile/danie10/
 - Hubzilla: https://hub.vilarejo.pro.br/channel/gadgeteer
