@@ -18,9 +18,14 @@ I blog on various social networks suuch as:
 - Secure Scuttlebutt: @0Tv5f/opjv/m1ONAKl6S79HWbHdLaCtt/emdXl2MCO0=.ed25519
 
 ----
-#Videos
+# Videos
 
 I also publish videos mostly about technology, open source and alternative social media at:
 - YouTube: https://www.youtube.com/DanievanderMerwe
 - Odysee: https://odysee.com/@GadgeteerZA:4
 - Peertube: https://video.hardlimit.com/c/gadgeteerza/videos?languageOneOf=af&languageOneOf=nl&languageOneOf=en&s=2
+
+----
+# Coding
+
+Although I've not coded for many years, I recently restarted again in 2022 with Python. Python has long been on my bucket list as a general programming language, and I must say if you've learnt any other language previously, Python is not difficult to get going with. So as and when I need some utility to use, and it's not available elsewhere, I'llbe doing taht in Python. I started out with a GUI manager on LInux for Cloudflare WARP, and will see where I end up with Python. 
