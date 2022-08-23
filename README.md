@@ -13,12 +13,15 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 - Friendica: https://squeet.me/profile/danie10/
 - Hubzilla: https://hub.vilarejo.pro.br/channel/gadgeteer
 - Reddit: https://www.reddit.com/r/GadgeteerZA/
+- Linkedin: https://www.linkedin.com/company/gadgeteerza/
 - Minds: https://www.minds.com/danievdm/
 - WordPress (option to subscribe to e-mails): https://gadgeteer.co.za/blog/
 - RSS feed: https://gadgeteer.co.za/category/uncategorized/feed/
 - Pixelfed: https://pixelfed.social/i/web/profile/9484
-- Secure Scuttlebutt: @0Tv5f/opjv/m1ONAKl6S79HWbHdLaCtt/emdXl2MCO0=.ed25519
+- Secure Scuttlebutt (P2P): @0Tv5f/opjv/m1ONAKl6S79HWbHdLaCtt/emdXl2MCO0=.ed25519
 - Matrix Room (also bridged to my IRC channel): https://matrix.to/#/#gadgeteerza:libera.chat
+- XMPP Chatroom: gadgeteerza-tech-blog@conference.movim.eu
+- XMPP Community Channel: https://mov.im/?community/news.movim.eu/gadgeteerza-tech-blog
 
 ----
 # Videos
