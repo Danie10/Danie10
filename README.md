@@ -25,9 +25,8 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 ----
 # 📰 Recent Blog Posts
-{{ range rss "https://gadgeteer.co.za/blog/" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ----
 # Videos
