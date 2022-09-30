@@ -24,6 +24,12 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 - XMPP Community Channel: https://mov.im/?community/news.movim.eu/gadgeteerza-tech-blog
 
 ----
+# 📰 Recent Blog Posts
+{{ range rss "https://gadgeteer.co.za/blog/" 5 }}
+- [{{ .Title }}]({{ .URL }})
+{{- end }}
+
+----
 # Videos
 
 I also publish videos mostly about technology, open source and alternative social media at:
