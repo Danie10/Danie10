@@ -26,11 +26,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prosthetic teeth turn out to be effective carriers of vibrations, making them suitable as potential hearing aids](https://gadgeteer.co.za/prosthetic-teeth-turn-out-to-be-effective-carriers-of-vibrations-making-them-suitable-as-potential-hearing-aids/)
 - [How to run a Winlink RMS Gateway in VHF Packet mode as stand alone Radio-only](https://gadgeteer.co.za/how-run-a-winlink-rms-gateway-in-vhf-packet-mode-as-stand-alone-radio-only/)
 - [Google Stadia game streaming platform is shutting down – many just don’t want to try new Google products anymore](https://gadgeteer.co.za/google-stadia-game-streaming-platform-is-shutting-down-many-just-dont-want-to-try-new-google-products-anymore/)
 - [Open Book abridged version is an open source 4.2″ E-Ink screen ereader now built around a Raspberry Pi Pico](https://gadgeteer.co.za/open-book-abridged-version-is-an-open-source-4-2%e2%80%b3-e-ink-screen-ereader-now-built-around-a-raspberry-pi-pico/)
 - [Amazon’s $340 10.2″ 300 ppi Kindle Scribe is its first e-reader with handwriting and pen support](https://gadgeteer.co.za/amazons-340-10-2-300-ppi-kindle-scribe-is-its-first-e-reader-with-handwriting-and-pen-support/)
-- [Microsoft’s discontinuing SwiftKey keyboard on iOS next week, but it will continue to work unless you uninstall it or get a new device](https://gadgeteer.co.za/microsofts-discontinuing-swiftkey-keyboard-on-ios-next-week-but-it-will-continue-to-work-unless-you-uninstall-it-or-get-a-new-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
