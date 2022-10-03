@@ -26,11 +26,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 of the ‘best’ social apps on Android in 2022, which are not Facebook – Sometimes alternative apps are also better](https://gadgeteer.co.za/8-of-the-best-social-apps-on-android-in-2022-which-are-not-facebook-sometimes-alternative-apps-are-also-better/)
 - [TikTok tracking activity across the web — even if you don’t use the app – because it’s not in the app itself](https://gadgeteer.co.za/tiktok-tracking-activity-across-the-web-even-if-you-dont-use-the-app-because-its-not-in-the-app-itself/)
 - [CPU-X for Linux is an Open Source Alternative to CPU-Z for Windows](https://gadgeteer.co.za/cpu-x-for-linux-is-an-open-source-alternative-to-cpu-z-for-windows/)
 - [Prosthetic teeth turn out to be effective carriers of vibrations, making them suitable as potential hearing aids](https://gadgeteer.co.za/prosthetic-teeth-turn-out-to-be-effective-carriers-of-vibrations-making-them-suitable-as-potential-hearing-aids/)
 - [How to run a Winlink RMS Gateway in VHF Packet mode as stand alone Radio-only](https://gadgeteer.co.za/how-run-a-winlink-rms-gateway-in-vhf-packet-mode-as-stand-alone-radio-only/)
-- [Google Stadia game streaming platform is shutting down – many just don’t want to try new Google products anymore](https://gadgeteer.co.za/google-stadia-game-streaming-platform-is-shutting-down-many-just-dont-want-to-try-new-google-products-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
