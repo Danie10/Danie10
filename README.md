@@ -26,11 +26,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GlucoCheck – Sensor breakthrough brings us closer to blood glucose monitoring on wearables](https://gadgeteer.co.za/glucocheck-sensor-breakthrough-brings-us-closer-to-blood-glucose-monitoring-on-wearables/)
+- [Scientists make AI laser turret for killing cockroaches – What could possibly go wrong?](https://gadgeteer.co.za/scientists-make-ai-laser-turret-for-killing-cockroaches-what-could-possibly-go-wrong/)
+- [Why I bought a cheap Samsung A13 phone to carry, and my iPhone 12 Pro sits at home, but I’ll keep both](https://gadgeteer.co.za/why-i-bought-a-cheap-samsung-a13-phone-to-carry-and-my-iphone-12-pro-sits-at-home-but-ill-keep-both/)
 - [8 of the ‘best’ social apps on Android in 2022, which are not Facebook – Sometimes alternative apps are also better](https://gadgeteer.co.za/8-of-the-best-social-apps-on-android-in-2022-which-are-not-facebook-sometimes-alternative-apps-are-also-better/)
 - [TikTok tracking activity across the web — even if you don’t use the app – because it’s not in the app itself](https://gadgeteer.co.za/tiktok-tracking-activity-across-the-web-even-if-you-dont-use-the-app-because-its-not-in-the-app-itself/)
-- [CPU-X for Linux is an Open Source Alternative to CPU-Z for Windows](https://gadgeteer.co.za/cpu-x-for-linux-is-an-open-source-alternative-to-cpu-z-for-windows/)
-- [Prosthetic teeth turn out to be effective carriers of vibrations, making them suitable as potential hearing aids](https://gadgeteer.co.za/prosthetic-teeth-turn-out-to-be-effective-carriers-of-vibrations-making-them-suitable-as-potential-hearing-aids/)
-- [How to run a Winlink RMS Gateway in VHF Packet mode as stand alone Radio-only](https://gadgeteer.co.za/how-run-a-winlink-rms-gateway-in-vhf-packet-mode-as-stand-alone-radio-only/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
