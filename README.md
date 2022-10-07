@@ -26,11 +26,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Btrfs Assistant is a useful GUI management tool to make managing a Btrfs filesystem easier on Linux](https://gadgeteer.co.za/btrfs-assistant-is-a-useful-gui-management-tool-to-make-managing-a-btrfs-filesystem-easier-on-linux/)
 - [Ukama: Be your own cell carrier, using your internet connection even when you’re away from home](https://gadgeteer.co.za/ukama-be-your-own-cell-carrier-using-your-internet-connection-even-when-youre-away-from-home/)
 - [AI eye-scanner can tell whether you’ll croak it from a heart attack – maybe soon blood tests may not be required and testing much quicker](https://gadgeteer.co.za/ai-eye-scanner-can-tell-whether-youll-croak-it-from-a-heart-attack-maybe-soon-blood-tests-may-not-be-required-and-testing-much-quicker/)
 - [Debian Linux accepts proprietary firmware in major policy change because the world is full of compromises, and you already bought the proprietary hardware](https://gadgeteer.co.za/debian-linux-accepts-proprietary-firmware-in-major-policy-change-because-the-world-is-full-of-compromises-and-you-already-bought-the-proprietary-hardware/)
 - [Google adds voice dictation support for 8 South African languages and for Rwanda](https://gadgeteer.co.za/google-adds-voice-dictation-support-for-8-south-african-languages-and-for-rwanda/)
-- [Google Camera Port Hub: Get the best GCam APK for Samsung, Xiaomi, Redmi, and other phones!](https://gadgeteer.co.za/google-camera-port-hub-get-the-best-gcam-apk-for-samsung-xiaomi-redmi-and-other-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
