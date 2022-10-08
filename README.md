@@ -2,7 +2,9 @@
 
 # About Me
 
-Technology and gadgets are my passion! After spending my career in IT, I now spend my days reading tech news and blogging daily about what I find interesting. I try to transform the techspeak into something that ordinary non-tech folk can see a use for. My interests lean toward open source, green technology, security, privacy, amateur radio (ZS1OSS), alternative social networks, etc.
+Technology and gadgets are my passion! After spending most of my career in IT, I now spend my days reading tech news and blogging daily about what I find interesting. I try to transform the techspeak into something that ordinary non-tech folk can see a use for, and I just post about what I find really interesting that day.
+
+My interests lean toward open source, green technology, security, privacy, amateur radio (ZS1OSS), alternative social networks, etc.
 
 ----
 # Follow Me
