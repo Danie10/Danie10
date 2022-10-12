@@ -28,11 +28,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [National Science Media Museum in Bradford has 52 years of the Daily Herald Newspaper Archive online](https://gadgeteer.co.za/national-science-media-museum-in-bradford-has-52-years-of-the-daily-herald-newspaper-archive-online/)
 - [SIM vs. eSIM vs. iSIM: What are the differences? The past, present, and future of SIMs](https://gadgeteer.co.za/sim-vs-esim-vs-isim-what-are-the-differences-the-past-present-and-future-of-sims/)
 - [Video guide to some of the best beginner safety razors](https://gadgeteer.co.za/video-guide-to-some-of-the-best-beginner-safety-razors/)
 - [Why I’m interested in BTRFS filesystem instead of ext4 on Linux](https://gadgeteer.co.za/why-im-interested-btrfs-filesystem-instead-ext4-linux/)
 - [Drop Everything and Get This $150 Painting Software for $10 – Rebelle 5 pro is available for $10 to celebrate its 10-year anniversary](https://gadgeteer.co.za/drop-everything-and-get-this-150-painting-software-for-10-rebelle-5-pro-is-available-for-10-to-celebrate-its-10-year-anniversary/)
-- [Btrfs Assistant is a useful GUI management tool to make managing a Btrfs filesystem easier on Linux](https://gadgeteer.co.za/btrfs-assistant-is-a-useful-gui-management-tool-to-make-managing-a-btrfs-filesystem-easier-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
