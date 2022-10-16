@@ -28,11 +28,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help people circumvent censorship: operate a Snowflake proxy which is as easy as installing a Firefox or Chromium based extension](https://gadgeteer.co.za/help-people-circumvent-censorship-operate-a-snowflake-proxy-which-is-as-easy-as-installing-a-firefox-or-chromium-based-extension/)
 - [Be wary of locking yourself into Apple, Google, etc platform passkeys: Dashlane is ready to replace all your passwords with passkeys, and Bitwarden is working on theirs](https://gadgeteer.co.za/be-wary-of-locking-yourself-into-apple-google-etc-platform-paasskeys-dashlane-is-ready-to-replace-all-your-passwords-with-passkeys-and-bitwarden-is-working-on-theirs/)
 - [While South Africa still PUNISHES EV buyers, Ethiopia removes ALL taxes on them](https://gadgeteer.co.za/while-south-africa-still-punishes-ev-buyers-ethiopia-removes-all-taxes-on-them/)
 - [Frustrated at pedestrian crossings when light is red and no-one crossing: First-of-its-kind in SA, thermal body sensors implemented in Cape Town](https://gadgeteer.co.za/frustrated-at-pedestrian-crossings-when-light-is-red-and-no-one-crossing-first-of-its-kind-in-sa-thermal-body-sensors-implemented-in-cape-town/)
 - [ElectraMeccanica Solo EV Review – up to 100 miles &lpar;160 km&rpar; range from US$18,500](https://gadgeteer.co.za/electrameccanica-solo-ev-review-up-to-100-miles-160-km-range-from-us18500/)
-- [Death to passwords: Beta passkey support comes to Chrome and Android – But there are still unanswered questions about lock-ins](https://gadgeteer.co.za/death-to-passwords-beta-passkey-support-comes-to-chrome-and-android-but-there-are-still-unanswered-questions-about-lock-ins/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
