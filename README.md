@@ -28,11 +28,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How “data-free” messaging app MoyaApp is taking on WhatsApp in South Africa &lpar;now also on iOS and macOS&rpar;](https://gadgeteer.co.za/how-data-free-messaging-app-moyaapp-is-taking-on-whatsapp-in-south-africa-now-also-on-ios-and-macos/)
+- [The WiFi Coconut is a router’s evil twin – It’s good advice to disable a mobile device’s auto-join to any public Wi-Fi networks](https://gadgeteer.co.za/the-wifi-coconut-is-a-routers-evil-twin-its-good-advice-to-disable-a-mobile-devices-auto-join-to-any-public-wi-fi-networks/)
 - [Help people circumvent censorship: operate a Snowflake proxy which is as easy as installing a Firefox or Chromium based extension](https://gadgeteer.co.za/help-people-circumvent-censorship-operate-a-snowflake-proxy-which-is-as-easy-as-installing-a-firefox-or-chromium-based-extension/)
 - [Be wary of locking yourself into Apple, Google, etc platform passkeys: Dashlane is ready to replace all your passwords with passkeys, and Bitwarden is working on theirs](https://gadgeteer.co.za/be-wary-of-locking-yourself-into-apple-google-etc-platform-paasskeys-dashlane-is-ready-to-replace-all-your-passwords-with-passkeys-and-bitwarden-is-working-on-theirs/)
 - [While South Africa still PUNISHES EV buyers, Ethiopia removes ALL taxes on them](https://gadgeteer.co.za/while-south-africa-still-punishes-ev-buyers-ethiopia-removes-all-taxes-on-them/)
-- [Frustrated at pedestrian crossings when light is red and no-one crossing: First-of-its-kind in SA, thermal body sensors implemented in Cape Town](https://gadgeteer.co.za/frustrated-at-pedestrian-crossings-when-light-is-red-and-no-one-crossing-first-of-its-kind-in-sa-thermal-body-sensors-implemented-in-cape-town/)
-- [ElectraMeccanica Solo EV Review – up to 100 miles &lpar;160 km&rpar; range from US$18,500](https://gadgeteer.co.za/electrameccanica-solo-ev-review-up-to-100-miles-160-km-range-from-us18500/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
