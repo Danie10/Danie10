@@ -28,11 +28,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter’s Bluesky app for a decentralized protocol for Twitter, will use the AT protocol](https://gadgeteer.co.za/twitters-bluesky-app-for-a-decentralized-protocol-for-twitter-will-use-the-at-protocol/)
+- [In theory, eSIM makes it easier to jump between devices and phone plans, that’s far from the case right now](https://gadgeteer.co.za/in-theory-esim-makes-it-easier-to-jump-between-devices-and-phone-plans-thats-far-from-the-case-right-now/)
 - [Cheaper hearing aids hit stores in US today, available over the counter for first time – They often cost thousands and by prescription only. Now they’re as low as $199 at Walmart](https://gadgeteer.co.za/cheaper-hearing-aids-hit-stores-in-us-today-available-over-the-counter-for-first-time-they-often-cost-thousands-and-by-prescription-only-now-theyre-as-low-as-199-at-walmart/)
 - [How “data-free” messaging app MoyaApp is taking on WhatsApp in South Africa &lpar;now also on iOS and macOS&rpar;](https://gadgeteer.co.za/how-data-free-messaging-app-moyaapp-is-taking-on-whatsapp-in-south-africa-now-also-on-ios-and-macos/)
 - [The WiFi Coconut is a router’s evil twin – It’s good advice to disable a mobile device’s auto-join to any public Wi-Fi networks](https://gadgeteer.co.za/the-wifi-coconut-is-a-routers-evil-twin-its-good-advice-to-disable-a-mobile-devices-auto-join-to-any-public-wi-fi-networks/)
-- [Help people circumvent censorship: operate a Snowflake proxy which is as easy as installing a Firefox or Chromium based extension](https://gadgeteer.co.za/help-people-circumvent-censorship-operate-a-snowflake-proxy-which-is-as-easy-as-installing-a-firefox-or-chromium-based-extension/)
-- [Be wary of locking yourself into Apple, Google, etc platform passkeys: Dashlane is ready to replace all your passwords with passkeys, and Bitwarden is working on theirs](https://gadgeteer.co.za/be-wary-of-locking-yourself-into-apple-google-etc-platform-paasskeys-dashlane-is-ready-to-replace-all-your-passwords-with-passkeys-and-bitwarden-is-working-on-theirs/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
