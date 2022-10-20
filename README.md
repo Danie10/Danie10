@@ -28,11 +28,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup Docker And Docker Compose With DockSTARTer with a text-based user interface](https://gadgeteer.co.za/setup-docker-and-docker-compose-with-dockstarter-with-a-text-based-user-interface/)
 - [Twitter’s Bluesky app for a decentralized protocol for Twitter, will use the AT protocol](https://gadgeteer.co.za/twitters-bluesky-app-for-a-decentralized-protocol-for-twitter-will-use-the-at-protocol/)
 - [In theory, eSIM makes it easier to jump between devices and phone plans, that’s far from the case right now](https://gadgeteer.co.za/in-theory-esim-makes-it-easier-to-jump-between-devices-and-phone-plans-thats-far-from-the-case-right-now/)
 - [Cheaper hearing aids hit stores in US today, available over the counter for first time – They often cost thousands and by prescription only. Now they’re as low as $199 at Walmart](https://gadgeteer.co.za/cheaper-hearing-aids-hit-stores-in-us-today-available-over-the-counter-for-first-time-they-often-cost-thousands-and-by-prescription-only-now-theyre-as-low-as-199-at-walmart/)
 - [How “data-free” messaging app MoyaApp is taking on WhatsApp in South Africa &lpar;now also on iOS and macOS&rpar;](https://gadgeteer.co.za/how-data-free-messaging-app-moyaapp-is-taking-on-whatsapp-in-south-africa-now-also-on-ios-and-macos/)
-- [The WiFi Coconut is a router’s evil twin – It’s good advice to disable a mobile device’s auto-join to any public Wi-Fi networks](https://gadgeteer.co.za/the-wifi-coconut-is-a-routers-evil-twin-its-good-advice-to-disable-a-mobile-devices-auto-join-to-any-public-wi-fi-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
