@@ -28,11 +28,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 ----
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loop is a Cape Town-based tech start-up that enables commuters to book a minibus taxi for once-off trips](https://gadgeteer.co.za/loop-is-a-cape-town-based-tech-start-up-that-enables-commuters-to-book-a-minibus-taxi-for-once-off-trips/)
 - [PhotoPrism vs Piwigo for Open-Source Self-Hosted Photo Album Management](https://gadgeteer.co.za/photoprism-vs-piwigo-for-open-source-self-hosted-photo-album-management/)
 - [Setup Docker And Docker Compose With DockSTARTer with a text-based user interface](https://gadgeteer.co.za/setup-docker-and-docker-compose-with-dockstarter-with-a-text-based-user-interface/)
 - [Twitter’s Bluesky app for a decentralized protocol for Twitter, will use the AT protocol](https://gadgeteer.co.za/twitters-bluesky-app-for-a-decentralized-protocol-for-twitter-will-use-the-at-protocol/)
 - [In theory, eSIM makes it easier to jump between devices and phone plans, that’s far from the case right now](https://gadgeteer.co.za/in-theory-esim-makes-it-easier-to-jump-between-devices-and-phone-plans-thats-far-from-the-case-right-now/)
-- [Cheaper hearing aids hit stores in US today, available over the counter for first time – They often cost thousands and by prescription only. Now they’re as low as $199 at Walmart](https://gadgeteer.co.za/cheaper-hearing-aids-hit-stores-in-us-today-available-over-the-counter-for-first-time-they-often-cost-thousands-and-by-prescription-only-now-theyre-as-low-as-199-at-walmart/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
