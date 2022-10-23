@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop charging your iPhone every night: You can now believe it, as TikTok shows it to be ‘true’](https://gadgeteer.co.za/stop-charging-your-iphone-every-night-you-can-now-believe-it-as-tiktok-shows-it-to-be-true/)
 - [Flipper Zero: Hottest Hacking Device of 2022? Either ways, it does show why you don’t want to lock an RFID safe with your credit card](https://gadgeteer.co.za/flipper-zero-hottest-hacking-device-of-2022-either-ways-it-does-show-why-you-dont-want-to-lock-an-rfid-safe-with-your-credit-card/)
 - [Loop is a Cape Town-based tech start-up that enables commuters to book a minibus taxi for once-off trips](https://gadgeteer.co.za/loop-is-a-cape-town-based-tech-start-up-that-enables-commuters-to-book-a-minibus-taxi-for-once-off-trips/)
 - [PhotoPrism vs Piwigo for Open-Source Self-Hosted Photo Album Management](https://gadgeteer.co.za/photoprism-vs-piwigo-for-open-source-self-hosted-photo-album-management/)
 - [Setup Docker And Docker Compose With DockSTARTer with a text-based user interface](https://gadgeteer.co.za/setup-docker-and-docker-compose-with-dockstarter-with-a-text-based-user-interface/)
-- [Twitter’s Bluesky app for a decentralized protocol for Twitter, will use the AT protocol](https://gadgeteer.co.za/twitters-bluesky-app-for-a-decentralized-protocol-for-twitter-will-use-the-at-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 
