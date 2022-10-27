@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just tested migrating my profile with all my followers from one peer to another on Secure Scuttlebutt social network](https://gadgeteer.co.za/just-tested-migrating-my-profile-with-all-my-followers-from-one-peer-to-another-on-secure-scuttlebutt-social-network/)
 - [The Fastest Ways to Compress Video on iPhone and Android up to 70% Smaller while still outputting a video in full HD](https://gadgeteer.co.za/the-fastest-ways-to-compress-video-on-iphone-and-android-up-to-70-smaller-while-still-outputting-a-video-in-full-hd/)
 - [Slow Roads offers a chill, endless driving experience in your browser – No ads, no installations, no registration, no login](https://gadgeteer.co.za/slow-roads-offers-a-chill-endless-driving-experience-in-your-browser-no-ads-no-installations-no-registration-no-login/)
 - [5 Kernel Live Patching Tools That Will Help To Run Linux Servers Without Reboots – They cost money but 100% up-time may be worth it for a business](https://gadgeteer.co.za/5-kernel-live-patching-tools-that-will-help-to-run-linux-servers-without-reboots-they-cost-money-but-100-up-time-may-be-worth-it-for-a-business/)
 - [Create Persistent Live USB On Ubuntu Using Mkusb](https://gadgeteer.co.za/create-persistent-live-usb-on-ubuntu-using-mkusb/)
-- [How to Upgrade Python Packages with Pip – I had a page full, so may be worth checking](https://gadgeteer.co.za/how-to-upgrade-python-packages-with-pip-i-had-a-page-full-so-may-be-worth-checking/)
 <!-- BLOG-POST-LIST:END -->
 
 
