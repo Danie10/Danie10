@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RIP: Kathleen Booth, the inventor of assembly language – Builder and programmer of the ARC and SEC turned 100 this year](https://gadgeteer.co.za/rip-kathleen-booth-the-inventor-of-assembly-language-builder-and-programmer-of-the-arc-and-sec-turned-100-this-year/)
 - [Pebble smartwatches will now work with the Pixel 7 and Pixel 7 Pro – Yes, a smartwatch ‘can’ work for 10+ years if not designed to be obsolete](https://gadgeteer.co.za/pebble-smartwatches-will-now-work-with-the-pixel-7-and-pixel-7-pro-yes-a-smartwatch-can-work-for-10-years-if-not-designed-to-be-obsolete/)
 - [Just tested migrating my profile with all my followers from one peer to another on Secure Scuttlebutt social network](https://gadgeteer.co.za/just-tested-migrating-my-profile-with-all-my-followers-from-one-peer-to-another-on-secure-scuttlebutt-social-network/)
 - [The Fastest Ways to Compress Video on iPhone and Android up to 70% Smaller while still outputting a video in full HD](https://gadgeteer.co.za/the-fastest-ways-to-compress-video-on-iphone-and-android-up-to-70-smaller-while-still-outputting-a-video-in-full-hd/)
 - [Slow Roads offers a chill, endless driving experience in your browser – No ads, no installations, no registration, no login](https://gadgeteer.co.za/slow-roads-offers-a-chill-endless-driving-experience-in-your-browser-no-ads-no-installations-no-registration-no-login/)
-- [5 Kernel Live Patching Tools That Will Help To Run Linux Servers Without Reboots – They cost money but 100% up-time may be worth it for a business](https://gadgeteer.co.za/5-kernel-live-patching-tools-that-will-help-to-run-linux-servers-without-reboots-they-cost-money-but-100-up-time-may-be-worth-it-for-a-business/)
 <!-- BLOG-POST-LIST:END -->
 
 
