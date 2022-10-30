@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I think my posts on Mastodon consistently get more favourites and reshares than on Twitter](https://gadgeteer.co.za/why-i-think-my-posts-on-mastodon-get-more-favourites-and-reshares-than-on-twitter/)
 - [The power of crowdsourcing data for good: Android phones got a notification that a temblor was about to rock Silicon Valley](https://gadgeteer.co.za/the-power-of-crowd-sourcing-data-for-good-android-phones-got-a-notification-that-a-temblor-was-about-to-rock-silicon-valley/)
 - [HAMNET Western Cape conducted a successful emergency radio communications exercise via the QO-100 satellite today to Europe and Middle Eastern countries](https://gadgeteer.co.za/hamnet-western-cape-conducted-a-successful-emergency-radio-communications-exercise-via-the-qo-100-satellite-today-to-europe-and-middle-eastern-countries/)
 - [RIP: Kathleen Booth, the inventor of assembly language – Builder and programmer of the ARC and SEC turned 100 this year](https://gadgeteer.co.za/rip-kathleen-booth-the-inventor-of-assembly-language-builder-and-programmer-of-the-arc-and-sec-turned-100-this-year/)
 - [Pebble smartwatches will now work with the Pixel 7 and Pixel 7 Pro – Yes, a smartwatch ‘can’ work for 10+ years if not designed to be obsolete](https://gadgeteer.co.za/pebble-smartwatches-will-now-work-with-the-pixel-7-and-pixel-7-pro-yes-a-smartwatch-can-work-for-10-years-if-not-designed-to-be-obsolete/)
-- [Just tested migrating my profile with all my followers from one peer to another on Secure Scuttlebutt social network](https://gadgeteer.co.za/just-tested-migrating-my-profile-with-all-my-followers-from-one-peer-to-another-on-secure-scuttlebutt-social-network/)
 <!-- BLOG-POST-LIST:END -->
 
 
