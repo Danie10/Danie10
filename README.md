@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An easy-to-make Pi-powered pocket password pal – using self-hosted Bitwarden](https://gadgeteer.co.za/an-easy-to-make-pi-powered-pocket-password-pal-using-self-hosted-bitwarden/)
 - [All but one of South Africa’s major mobile operators offer RCS messaging](https://gadgeteer.co.za/all-but-one-of-south-africas-major-mobile-operators-offer-rcs-messaging/)
 - [Scrolla is making news more accessible to South Africans by being extra light on data use, especially for pre-paid data customers](https://gadgeteer.co.za/scrolla-is-making-news-more-accessible-to-south-africans-by-being-extra-light-on-data-use-especially-for-pre-paid-data-customers/)
 - [Why I think my posts on Mastodon consistently get more favourites and reshares than on Twitter](https://gadgeteer.co.za/why-i-think-my-posts-on-mastodon-get-more-favourites-and-reshares-than-on-twitter/)
 - [The power of crowdsourcing data for good: Android phones got a notification that a temblor was about to rock Silicon Valley](https://gadgeteer.co.za/the-power-of-crowd-sourcing-data-for-good-android-phones-got-a-notification-that-a-temblor-was-about-to-rock-silicon-valley/)
-- [HAMNET Western Cape conducted a successful emergency radio communications exercise via the QO-100 satellite today to Europe and Middle Eastern countries](https://gadgeteer.co.za/hamnet-western-cape-conducted-a-successful-emergency-radio-communications-exercise-via-the-qo-100-satellite-today-to-europe-and-middle-eastern-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 
