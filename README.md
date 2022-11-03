@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Volume Master is a Chromium-type browser extension to adjust the volume of individual tabs](https://gadgeteer.co.za/volume-master-is-a-chromium-type-browser-extension-to-adjust-the-volume-of-individual-tabs/)
+- [Rain launching Nvidia GeForce Now — first cloud gaming platform in South Africa](https://gadgeteer.co.za/rain-launching-nvidia-geforce-now-first-cloud-gaming-platform-in-south-africa/)
 - [Xiaomi concept clips a full-size Leica lens onto a smartphone with a screw-on mount and 10-bit RAW capture, but we won’t likely be able to buy it](https://gadgeteer.co.za/xiaomi-concept-clips-a-full-size-leica-lens-onto-a-smartphone-with-a-screw-on-mount-and-10-bit-raw-capture-but-we-wont-likely-be-able-to-buy-it/)
 - [An easy-to-make Pi-powered pocket password pal – using self-hosted Bitwarden](https://gadgeteer.co.za/an-easy-to-make-pi-powered-pocket-password-pal-using-self-hosted-bitwarden/)
 - [All but one of South Africa’s major mobile operators offer RCS messaging](https://gadgeteer.co.za/all-but-one-of-south-africas-major-mobile-operators-offer-rcs-messaging/)
-- [Scrolla is making news more accessible to South Africans by being extra light on data use, especially for pre-paid data customers](https://gadgeteer.co.za/scrolla-is-making-news-more-accessible-to-south-africans-by-being-extra-light-on-data-use-especially-for-pre-paid-data-customers/)
-- [Why I think my posts on Mastodon consistently get more favourites and reshares than on Twitter](https://gadgeteer.co.za/why-i-think-my-posts-on-mastodon-get-more-favourites-and-reshares-than-on-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 
