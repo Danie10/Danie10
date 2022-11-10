@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t just throw away that ‘junk’ in your grandparents’ basement – Redditor discovers legendary 1956 computer in grandparents’ basement](https://gadgeteer.co.za/dont-just-throw-away-that-junk-in-your-grandparents-basement-redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
+- [Building a Sinclair ZX81 in 2022 with all new parts](https://gadgeteer.co.za/building-a-sinclair-zx81-in-2022-with-all-new-parts/)
 - [Eufy has launched an Apple AirTag alternative with Find My integration, Android OS support, does more, costs less than Apple’s tracker](https://gadgeteer.co.za/eufy-has-launched-an-apple-airtag-alternative-with-find-my-integration-android-os-support-does-more-costs-less-than-apples-tracker/)
 - [Best Graphical Package Managers for Arch Linux](https://gadgeteer.co.za/best-graphical-package-managers-for-arch-linux/)
 - [Four simple steps to make Linux’s Bash prettier and more functional for non-expert users](https://gadgeteer.co.za/four-simple-steps-to-make-linuxs-bash-prettier-and-more-functional-for-non-expert-users/)
-- [The many branches of the Fediverse and why Mastodon is only one of many other connected social networks](https://gadgeteer.co.za/the-many-branches-of-the-fediverse-and-why-mastodon-is-only-one-of-many-other-connected-social-networks/)
-- [Microsoft sued for open-source piracy through GitHub Copilot – Yes if an open-source license requires attribution, you need to do that](https://gadgeteer.co.za/microsoft-sued-for-open-source-piracy-through-github-copilot-yes-if-an-open-source-license-requires-attribution-you-need-to-do-that/)
 <!-- BLOG-POST-LIST:END -->
 
 
