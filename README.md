@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which Safety Razor Should I Buy?](https://gadgeteer.co.za/which-safety-razor-should-i-buy/)
+- [The best open source alternatives to Google Calendar for Android](https://gadgeteer.co.za/the-best-open-source-alternatives-to-google-calendar-for-android/)
 - [Subway Tooter – a high customisable open-source Mastodon app for Android &lpar;video&rpar;](https://gadgeteer.co.za/subway-tooter-a-high-customisable-open-source-mastodon-app-for-android-video/)
 - [Don’t just throw away that ‘junk’ in your grandparents’ basement – Redditor discovers legendary 1956 computer in grandparents’ basement](https://gadgeteer.co.za/dont-just-throw-away-that-junk-in-your-grandparents-basement-redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
 - [Building a Sinclair ZX81 in 2022 with all new parts](https://gadgeteer.co.za/building-a-sinclair-zx81-in-2022-with-all-new-parts/)
-- [Eufy has launched an Apple AirTag alternative with Find My integration, Android OS support, does more, costs less than Apple’s tracker](https://gadgeteer.co.za/eufy-has-launched-an-apple-airtag-alternative-with-find-my-integration-android-os-support-does-more-costs-less-than-apples-tracker/)
-- [Best Graphical Package Managers for Arch Linux](https://gadgeteer.co.za/best-graphical-package-managers-for-arch-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
