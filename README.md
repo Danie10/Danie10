@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Buster Open-Source Extension for Chromium, Firefox, Edge and Opera Browsers: Captcha Solver for Humans](https://gadgeteer.co.za/buster-open-source-extension-for-chromium-firefox-edge-and-opera-browsers-captcha-solver-for-humans/)
 - [Which Safety Razor Should I Buy?](https://gadgeteer.co.za/which-safety-razor-should-i-buy/)
 - [The best open source alternatives to Google Calendar for Android](https://gadgeteer.co.za/the-best-open-source-alternatives-to-google-calendar-for-android/)
 - [Subway Tooter – a high customisable open-source Mastodon app for Android &lpar;video&rpar;](https://gadgeteer.co.za/subway-tooter-a-high-customisable-open-source-mastodon-app-for-android-video/)
 - [Don’t just throw away that ‘junk’ in your grandparents’ basement – Redditor discovers legendary 1956 computer in grandparents’ basement](https://gadgeteer.co.za/dont-just-throw-away-that-junk-in-your-grandparents-basement-redditor-discovers-legendary-1956-computer-in-grandparents-basement/)
-- [Building a Sinclair ZX81 in 2022 with all new parts](https://gadgeteer.co.za/building-a-sinclair-zx81-in-2022-with-all-new-parts/)
 <!-- BLOG-POST-LIST:END -->
 
 
