@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [1Password Will Support Passkeys Starting in Early 2023 – NOT as a Single-Ecosystem like Apple](https://gadgeteer.co.za/1password-will-support-passkeys-starting-in-early-2023-not-as-a-single-ecosystem-like-apple/)
 - [How to sideload apps on any iPhone using AltStore](https://gadgeteer.co.za/how-to-sideload-apps-on-any-iphone-using-altstore/)
 - [Here’s what it’s like to use Apple’s Emergency SOS via satellite – You can also send your location via satellite in the Find My app](https://gadgeteer.co.za/heres-what-its-like-to-use-apples-emergency-sos-via-satellite-you-can-also-send-your-location-via-satellite-in-the-find-my-app/)
 - [Europe’s Spyware Scandal Is a Global Wakeup Call](https://gadgeteer.co.za/europes-spyware-scandal-is-a-global-wakeup-call/)
 - [Zram is an alternative on Linux to swap partitions or swap files](https://gadgeteer.co.za/zram-is-an-alternative-on-linux-to-swap-partitions-or-swap-files/)
-- [Why is software created using taxpayers’ money not released as Free Software? Code paid by the people should be available to the people!](https://gadgeteer.co.za/why-is-software-created-using-taxpayers-money-not-released-as-free-software-code-paid-by-the-people-should-be-available-to-the-people/)
 <!-- BLOG-POST-LIST:END -->
 
 
