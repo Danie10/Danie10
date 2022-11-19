@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The US FCC says most broadband carriers have to slap on ‘nutrition labels’ within six months](https://gadgeteer.co.za/the-us-fcc-says-most-broadband-carriers-have-to-slap-on-nutrition-labels-within-six-months/)
 - [Clickbait Remover for YouTube open-source extension – Replaces thumbnails and modifies titles of videos on YouTube](https://gadgeteer.co.za/clickbait-remover-for-youtube-open-source-extension-replaces-thumbnails-and-modifies-titles-of-videos-on-youtube/)
 - [Automatisch is an open-source self-hosted Zapier alternative](https://gadgeteer.co.za/automatisch-is-an-open-source-self-hosted-zapier-alternative/)
 - [1Password Will Support Passkeys Starting in Early 2023 – NOT as a Single-Ecosystem like Apple](https://gadgeteer.co.za/1password-will-support-passkeys-starting-in-early-2023-not-as-a-single-ecosystem-like-apple/)
 - [How to sideload apps on any iPhone using AltStore](https://gadgeteer.co.za/how-to-sideload-apps-on-any-iphone-using-altstore/)
-- [Here’s what it’s like to use Apple’s Emergency SOS via satellite – You can also send your location via satellite in the Find My app](https://gadgeteer.co.za/heres-what-its-like-to-use-apples-emergency-sos-via-satellite-you-can-also-send-your-location-via-satellite-in-the-find-my-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
