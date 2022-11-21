@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open source Five Filters Full Text RSS can be self-hosted in a Docker container to retrieve full text from RSS articles](https://gadgeteer.co.za/open-source-five-filters-full-text-rss-can-be-self-hosted-in-a-docker-container-to-retrieve-full-text-from-rss-articles/)
 - [Xiaomi launches 12T and 12T Pro in South Africa from R14k, with a DxOMark camera score of 129 &lpar;21st in world&rpar;](https://gadgeteer.co.za/xiaomi-launches-12t-and-12t-pro-in-south-africa-from-r14k-with-a-dxomark-camera-score-of-129-21st-in-world/)
 - [The US FCC says most broadband carriers have to slap on ‘nutrition labels’ within six months](https://gadgeteer.co.za/the-us-fcc-says-most-broadband-carriers-have-to-slap-on-nutrition-labels-within-six-months/)
 - [Clickbait Remover for YouTube open-source extension – Replaces thumbnails and modifies titles of videos on YouTube](https://gadgeteer.co.za/clickbait-remover-for-youtube-open-source-extension-replaces-thumbnails-and-modifies-titles-of-videos-on-youtube/)
 - [Automatisch is an open-source self-hosted Zapier alternative](https://gadgeteer.co.za/automatisch-is-an-open-source-self-hosted-zapier-alternative/)
-- [1Password Will Support Passkeys Starting in Early 2023 – NOT as a Single-Ecosystem like Apple](https://gadgeteer.co.za/1password-will-support-passkeys-starting-in-early-2023-not-as-a-single-ecosystem-like-apple/)
 <!-- BLOG-POST-LIST:END -->
 
 
