@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thinking about taking your computer to the repair shop? Be very afraid! Not surprisingly, female customers bear the brunt of the privacy violations](https://gadgeteer.co.za/thinking-about-taking-your-computer-to-the-repair-shop-be-very-afraid-not-surprisingly-female-customers-bear-the-brunt-of-the-privacy-violations/)
+- [Your Gmail Account &lpar;and other e-mail&rpar; Has Unlimited Addresses – Useful For Seeing Who Leaked Your Address to Spammers](https://gadgeteer.co.za/your-gmail-account-and-other-e-mail-has-unlimited-addresses-useful-for-seeing-who-leaked-your-address-to-spammers/)
+- [Cross-Platform Open-Source Fluent Reader is my current best choice for an offline RSS news aggregator](https://gadgeteer.co.za/cross-platform-open-source-fluent-reader-is-my-current-best-choice-for-an-offline-rss-news-aggregator/)
 - [France says non to Office 365 and Google Workspace in school due to cloud data sovereignty, competition, and privacy rules](https://gadgeteer.co.za/france-says-non-to-office-365-and-google-workspace-in-school-due-to-cloud-data-sovereignty-competition-and-privacy-rules/)
 - [Open source Five Filters Full Text RSS can be self-hosted in a Docker container to retrieve full text from RSS articles](https://gadgeteer.co.za/open-source-five-filters-full-text-rss-can-be-self-hosted-in-a-docker-container-to-retrieve-full-text-from-rss-articles/)
-- [Xiaomi launches 12T and 12T Pro in South Africa from R14k, with a DxOMark camera score of 129 &lpar;21st in world&rpar;](https://gadgeteer.co.za/xiaomi-launches-12t-and-12t-pro-in-south-africa-from-r14k-with-a-dxomark-camera-score-of-129-21st-in-world/)
-- [The US FCC says most broadband carriers have to slap on ‘nutrition labels’ within six months](https://gadgeteer.co.za/the-us-fcc-says-most-broadband-carriers-have-to-slap-on-nutrition-labels-within-six-months/)
-- [Clickbait Remover for YouTube open-source extension – Replaces thumbnails and modifies titles of videos on YouTube](https://gadgeteer.co.za/clickbait-remover-for-youtube-open-source-extension-replaces-thumbnails-and-modifies-titles-of-videos-on-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 
