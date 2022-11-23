@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Converting Your Twitter Archive to Markdown, and t.co links to original URL](https://gadgeteer.co.za/converting-your-twitter-archive-to-markdown-and-t-co-links-to-original-url/)
 - [Thinking about taking your computer to the repair shop? Be very afraid! Not surprisingly, female customers bear the brunt of the privacy violations](https://gadgeteer.co.za/thinking-about-taking-your-computer-to-the-repair-shop-be-very-afraid-not-surprisingly-female-customers-bear-the-brunt-of-the-privacy-violations/)
 - [Your Gmail Account &lpar;and other e-mail&rpar; Has Unlimited Addresses – Useful For Seeing Who Leaked Your Address to Spammers](https://gadgeteer.co.za/your-gmail-account-and-other-e-mail-has-unlimited-addresses-useful-for-seeing-who-leaked-your-address-to-spammers/)
 - [Cross-Platform Open-Source Fluent Reader is my current best choice for an offline RSS news aggregator](https://gadgeteer.co.za/cross-platform-open-source-fluent-reader-is-my-current-best-choice-for-an-offline-rss-news-aggregator/)
 - [France says non to Office 365 and Google Workspace in school due to cloud data sovereignty, competition, and privacy rules](https://gadgeteer.co.za/france-says-non-to-office-365-and-google-workspace-in-school-due-to-cloud-data-sovereignty-competition-and-privacy-rules/)
-- [Open source Five Filters Full Text RSS can be self-hosted in a Docker container to retrieve full text from RSS articles](https://gadgeteer.co.za/open-source-five-filters-full-text-rss-can-be-self-hosted-in-a-docker-container-to-retrieve-full-text-from-rss-articles/)
 <!-- BLOG-POST-LIST:END -->
 
 
