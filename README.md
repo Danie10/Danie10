@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extensity is an open source extension for Chromium browsers to quickly enable/disable extensions to save RAM and speed up the browser](https://gadgeteer.co.za/extensity-is-an-open-source-extension-for-chromium-browsers-to-quickly-enable-disable-extensions-to-save-ram-and-speed-up-the-browser/)
 - [One Utility Tool for Everything on MS Windows](https://gadgeteer.co.za/one-utility-tool-for-everything-on-ms-windows/)
 - [Brave Browser Beta v1.47 now has vertical tabs](https://gadgeteer.co.za/brave-browser-beta-v1-47-now-has-vertical-tabs/)
 - [Winlink by RadioMail is now available in TestFlight beta for iOS](https://gadgeteer.co.za/winlink-by-radiomail-is-now-available-in-testflight-beta-for-ios/)
 - [Checker Plus for GMail extension for Chromium browser allows me to close multiple GMail tabs which I kept open](https://gadgeteer.co.za/checker-plus-for-gmail-extension-for-chromium-browser-allows-me-to-close-multiple-gmail-tabs-which-i-kept-open/)
-- [Windows Subsystem for Linux &lpar;WSL&rpar; with GUI apps, launches for Windows 10 and 11 users](https://gadgeteer.co.za/windows-subsystem-for-linux-wsl-with-gui-apps-launches-for-windows-10-and-11-users/)
 <!-- BLOG-POST-LIST:END -->
 
 
