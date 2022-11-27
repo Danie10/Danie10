@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keyoxide is a privacy-friendly open source tool to create and verify decentralized online identities using a cryptography-based approach to bidirectional linking](https://gadgeteer.co.za/keyoxide-is-a-privacy-friendly-open-source-tool-to-create-and-verify-decentralized-online-identities-using-a-cryptography-based-approach-to-bidirectional-linking/)
 - [History of the Internet 1961 to 2022](https://gadgeteer.co.za/history-of-the-internet-1961-to-2022/)
 - [Extensity is an open source extension for Chromium browsers to quickly enable/disable extensions to save RAM and speed up the browser](https://gadgeteer.co.za/extensity-is-an-open-source-extension-for-chromium-browsers-to-quickly-enable-disable-extensions-to-save-ram-and-speed-up-the-browser/)
 - [One Utility Tool for Everything on MS Windows](https://gadgeteer.co.za/one-utility-tool-for-everything-on-ms-windows/)
 - [Brave Browser Beta v1.47 now has vertical tabs](https://gadgeteer.co.za/brave-browser-beta-v1-47-now-has-vertical-tabs/)
-- [Winlink by RadioMail is now available in TestFlight beta for iOS](https://gadgeteer.co.za/winlink-by-radiomail-is-now-available-in-testflight-beta-for-ios/)
 <!-- BLOG-POST-LIST:END -->
 
 
