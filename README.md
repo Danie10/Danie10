@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Remember BBSes &lpar;Bulletin Board Systems&rpar;? Here’s How You Can Visit One Today Using A Telnet Connection](https://gadgeteer.co.za/remember-bbses-bulletin-board-systems-heres-how-you-can-visit-one-today-using-a-telnet-connection/)
 - [University of Waterloo has developed a drone-powered device that can use Wi-Fi networks to ‘see’ Wi-Fi devices through walls: No software patch possible](https://gadgeteer.co.za/university-of-waterloo-has-developed-a-drone-powered-device-that-can-use-wi-fi-networks-to-see-wi-fi-devices-through-walls-no-software-patch-possible/)
 - [Keyoxide is a privacy-friendly open source tool to create and verify decentralized online identities using a cryptography-based approach to bidirectional linking](https://gadgeteer.co.za/keyoxide-is-a-privacy-friendly-open-source-tool-to-create-and-verify-decentralized-online-identities-using-a-cryptography-based-approach-to-bidirectional-linking/)
 - [History of the Internet 1961 to 2022](https://gadgeteer.co.za/history-of-the-internet-1961-to-2022/)
 - [Extensity is an open source extension for Chromium browsers to quickly enable/disable extensions to save RAM and speed up the browser](https://gadgeteer.co.za/extensity-is-an-open-source-extension-for-chromium-browsers-to-quickly-enable-disable-extensions-to-save-ram-and-speed-up-the-browser/)
-- [One Utility Tool for Everything on MS Windows](https://gadgeteer.co.za/one-utility-tool-for-everything-on-ms-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 
