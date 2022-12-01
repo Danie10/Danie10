@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Scientific Advancements Inspired by Sci-Fi Stories: Including how the TASER got its Name](https://gadgeteer.co.za/11-scientific-advancements-inspired-by-sci-fi-stories-including-how-the-taser-got-its-name/)
 - [German Government on Mastodon and fully self-verified and self-hosted](https://gadgeteer.co.za/german-government-on-mastodon-and-fully-self-verified-and-self-hosted/)
 - [OnePlus beats Google with four years of major Android OS updates: OnePlus and Samsung are now tied in having the longest update plans](https://gadgeteer.co.za/oneplus-beats-google-with-four-years-of-major-android-os-updates-oneplus-and-samsung-are-now-tied-in-having-the-longest-update-plans/)
 - [Microsoft 365 faces more GDPR headwinds as Germany bans it in schools: Redmond disputes report that ‘it is not possible to use without transferring personal data to the USA’](https://gadgeteer.co.za/microsoft-365-faces-more-gdpr-headwinds-as-germany-bans-it-in-schools-redmond-disputes-report-that-it-is-not-possible-to-use-without-transferring-personal-data-to-the-usa/)
 - [Remember BBSes &lpar;Bulletin Board Systems&rpar;? Here’s How You Can Visit One Today Using A Telnet Connection](https://gadgeteer.co.za/remember-bbses-bulletin-board-systems-heres-how-you-can-visit-one-today-using-a-telnet-connection/)
-- [University of Waterloo has developed a drone-powered device that can use Wi-Fi networks to ‘see’ Wi-Fi devices through walls: No software patch possible](https://gadgeteer.co.za/university-of-waterloo-has-developed-a-drone-powered-device-that-can-use-wi-fi-networks-to-see-wi-fi-devices-through-walls-no-software-patch-possible/)
 <!-- BLOG-POST-LIST:END -->
 
 
