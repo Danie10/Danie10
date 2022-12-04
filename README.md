@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s official: France bans short haul domestic flights in favour of train journeys of less than 2.5 hours](https://gadgeteer.co.za/its-official-france-bans-short-haul-domestic-flights-in-favour-of-train-journeys-of-less-than-2-5-hours/)
+- [MyBroadband journalist reviews this article that was written by artificial intelligence](https://gadgeteer.co.za/mybroadband-journalist-reviews-this-article-that-was-written-by-artificial-intelligence/)
 - [People Attending Africa Electric Mobility Week Exhibition Were Pleasantly Surprised About The Progress In E-Mobility in East Africa](https://gadgeteer.co.za/people-attending-africa-electric-mobility-week-exhibition-were-pleasantly-surprised-about-the-progress-in-e-mobility-in-east-africa/)
 - [Make free and open source LibreOffice more compatible with Microsoft Office and 365](https://gadgeteer.co.za/make-free-and-open-source-libreoffice-more-compatible-with-microsoft-office-and-365/)
 - [CustomTkinter is a Python UI-library based on Tkinter, which provides new, modern and fully customizable widgets](https://gadgeteer.co.za/customtkinter-is-a-python-ui-library-based-on-tkinter-which-provides-new-modern-and-fully-customizable-widgets/)
-- [11 Scientific Advancements Inspired by Sci-Fi Stories: Including how the TASER got its Name](https://gadgeteer.co.za/11-scientific-advancements-inspired-by-sci-fi-stories-including-how-the-taser-got-its-name/)
-- [German Government on Mastodon and fully self-verified and self-hosted](https://gadgeteer.co.za/german-government-on-mastodon-and-fully-self-verified-and-self-hosted/)
 <!-- BLOG-POST-LIST:END -->
 
 
