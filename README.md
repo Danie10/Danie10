@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI opens doors to ChatGPT, another AI to fill the world with kinda-true stuff](https://gadgeteer.co.za/openai-opens-doors-to-chatgpt-another-ai-to-fill-the-world-with-kinda-true-stuff/)
+- [South African app shows which petrol stations to use for best rewards and cheapest diesel](https://gadgeteer.co.za/south-african-app-shows-which-petrol-stations-to-use-for-best-rewards-and-cheapest-diesel/)
+- [The PalmPilot returns, this time in your browser](https://gadgeteer.co.za/the-palmpilot-returns-this-time-in-your-browser/)
 - [How Belgium Nearly Invented The Internet: From 1910 they already had an analogue version of Wikipedia called the Mundaneum](https://gadgeteer.co.za/how-belgium-nearly-invented-the-internet-from-1910-they-already-had-an-analogue-version-of-wikipedia-called-the-mundaneum/)
 - [It’s official: France bans short haul domestic flights in favour of train journeys of less than 2.5 hours](https://gadgeteer.co.za/its-official-france-bans-short-haul-domestic-flights-in-favour-of-train-journeys-of-less-than-2-5-hours/)
-- [MyBroadband journalist reviews this article that was written by artificial intelligence](https://gadgeteer.co.za/mybroadband-journalist-reviews-this-article-that-was-written-by-artificial-intelligence/)
-- [People Attending Africa Electric Mobility Week Exhibition Were Pleasantly Surprised About The Progress In E-Mobility in East Africa](https://gadgeteer.co.za/people-attending-africa-electric-mobility-week-exhibition-were-pleasantly-surprised-about-the-progress-in-e-mobility-in-east-africa/)
-- [Make free and open source LibreOffice more compatible with Microsoft Office and 365](https://gadgeteer.co.za/make-free-and-open-source-libreoffice-more-compatible-with-microsoft-office-and-365/)
 <!-- BLOG-POST-LIST:END -->
 
 
