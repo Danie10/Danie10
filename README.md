@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunbird is a new app trying to bring iMessage to Android may have found the secret formula, but is it a ‘person-in-the-middle’?](https://gadgeteer.co.za/sunbird-is-a-new-app-trying-to-bring-imessage-to-android-may-have-found-the-secret-formula-but-is-it-a-person-in-the-middle/)
 - [OpenAI opens doors to ChatGPT, another AI to fill the world with kinda-true stuff](https://gadgeteer.co.za/openai-opens-doors-to-chatgpt-another-ai-to-fill-the-world-with-kinda-true-stuff/)
 - [South African app shows which petrol stations to use for best rewards and cheapest diesel](https://gadgeteer.co.za/south-african-app-shows-which-petrol-stations-to-use-for-best-rewards-and-cheapest-diesel/)
 - [The PalmPilot returns, this time in your browser](https://gadgeteer.co.za/the-palmpilot-returns-this-time-in-your-browser/)
 - [How Belgium Nearly Invented The Internet: From 1910 they already had an analogue version of Wikipedia called the Mundaneum](https://gadgeteer.co.za/how-belgium-nearly-invented-the-internet-from-1910-they-already-had-an-analogue-version-of-wikipedia-called-the-mundaneum/)
-- [It’s official: France bans short haul domestic flights in favour of train journeys of less than 2.5 hours](https://gadgeteer.co.za/its-official-france-bans-short-haul-domestic-flights-in-favour-of-train-journeys-of-less-than-2-5-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 
