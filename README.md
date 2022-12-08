@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mini Tokyo 3D – is an open source real-time 3D digital map of Tokyo’s public transport system: Watch the trains and planes moving](https://gadgeteer.co.za/mini-tokyo-3d-is-an-open-source-real-time-3d-digital-map-of-tokyos-public-transport-system-watch-the-trains-and-planes-moving/)
 - [Thunderbird For Android Preview: Modern Message Redesign and there is a Public Beta](https://gadgeteer.co.za/thunderbird-for-android-preview-modern-message-redesign-and-there-is-a-public-beta/)
 - [Sunbird is a new app trying to bring iMessage to Android may have found the secret formula, but is it a ‘person-in-the-middle’?](https://gadgeteer.co.za/sunbird-is-a-new-app-trying-to-bring-imessage-to-android-may-have-found-the-secret-formula-but-is-it-a-person-in-the-middle/)
 - [OpenAI opens doors to ChatGPT, another AI to fill the world with kinda-true stuff](https://gadgeteer.co.za/openai-opens-doors-to-chatgpt-another-ai-to-fill-the-world-with-kinda-true-stuff/)
 - [South African app shows which petrol stations to use for best rewards and cheapest diesel](https://gadgeteer.co.za/south-african-app-shows-which-petrol-stations-to-use-for-best-rewards-and-cheapest-diesel/)
-- [The PalmPilot returns, this time in your browser](https://gadgeteer.co.za/the-palmpilot-returns-this-time-in-your-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 
