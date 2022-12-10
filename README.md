@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RIP Passwords? Passkey support rolls out to Chrome stable BUT with a huge list of caveats which you need to be aware of](https://gadgeteer.co.za/rip-passwords-passkey-support-rolls-out-to-chrome-stable-but-with-a-huge-list-of-caveats-which-you-need-to-be-aware-of/)
+- [Enable High-Efficiency-Mode Setting to Stop Chromium Based Browsers From Hogging So Much Memory](https://gadgeteer.co.za/enable-high-efficiency-mode-setting-to-stop-chromium-based-browsers-from-hogging-so-much-memory/)
 - [Anker’s Eufy lied to The Verge about the security of its security cameras](https://gadgeteer.co.za/ankers-eufy-lied-to-the-verge-about-the-security-of-its-security-cameras/)
 - [End-to-end encryption coming for &lpar;most&rpar; iCloud services, with Apple dropping CSAM scanning](https://gadgeteer.co.za/end-to-end-encryption-coming-for-most-icloud-services-with-apple-dropping-csam-scanning/)
 - [Mini Tokyo 3D – is an open source real-time 3D digital map of Tokyo’s public transport system: Watch the trains and planes moving](https://gadgeteer.co.za/mini-tokyo-3d-is-an-open-source-real-time-3d-digital-map-of-tokyos-public-transport-system-watch-the-trains-and-planes-moving/)
-- [Thunderbird For Android Preview: Modern Message Redesign and there is a Public Beta](https://gadgeteer.co.za/thunderbird-for-android-preview-modern-message-redesign-and-there-is-a-public-beta/)
-- [Sunbird is a new app trying to bring iMessage to Android may have found the secret formula, but is it a ‘person-in-the-middle’?](https://gadgeteer.co.za/sunbird-is-a-new-app-trying-to-bring-imessage-to-android-may-have-found-the-secret-formula-but-is-it-a-person-in-the-middle/)
 <!-- BLOG-POST-LIST:END -->
 
 
