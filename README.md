@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [STARFIELD 47 – an interactive Star Trek themed viewscreen that runs in a browser or as a screensaver](https://gadgeteer.co.za/starfield-47-an-interactive-star-trek-themed-viewscreen-that-runs-in-a-browser-or-as-a-screensaver/)
 - [Battery Monitor Comparison: Shunt vs Hall Sensor](https://gadgeteer.co.za/battery-monitor-comparison-shunt-vs-hall-sensor/)
 - [My First ‘Computer’ Program Written On A HP41CV Programmable Calculator](https://gadgeteer.co.za/my-first-computer-program-written-on-a-hp41cv-programmable-calculator/)
 - [RIP Passwords? Passkey support rolls out to Chrome stable BUT with a huge list of caveats which you need to be aware of](https://gadgeteer.co.za/rip-passwords-passkey-support-rolls-out-to-chrome-stable-but-with-a-huge-list-of-caveats-which-you-need-to-be-aware-of/)
 - [Enable High-Efficiency-Mode Setting to Stop Chromium Based Browsers From Hogging So Much Memory](https://gadgeteer.co.za/enable-high-efficiency-mode-setting-to-stop-chromium-based-browsers-from-hogging-so-much-memory/)
-- [Anker’s Eufy lied to The Verge about the security of its security cameras](https://gadgeteer.co.za/ankers-eufy-lied-to-the-verge-about-the-security-of-its-security-cameras/)
 <!-- BLOG-POST-LIST:END -->
 
 
