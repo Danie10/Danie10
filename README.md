@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Invisible Layer of Gold Could Be the Secret to Glasses That Never Fog Up, and Keeping Cars Cooler in the Bright Sunlight](https://gadgeteer.co.za/an-invisible-layer-of-gold-could-be-the-secret-to-glasses-that-never-fog-up-and-keeping-cars-cooler-in-the-bright-sunlight/)
+- [System76 Unveils the ‘Launch Heavy’ 105-key Full-Size and Open-Source Configurable Keyboard](https://gadgeteer.co.za/system76-unveils-the-launch-heavy-105-key-full-size-and-open-source-configurable-keyboard/)
+- [The ‘Military Metaverse’ Calls It Quits: Highlights the risk yet again of any cloud subscription technology shutting down](https://gadgeteer.co.za/the-military-metaverse-calls-it-quits-highlights-the-risk-yet-again-of-any-cloud-subscription-technology-shutting-down/)
 - [STARFIELD 47 – an interactive Star Trek themed viewscreen that runs in a browser or as a screensaver](https://gadgeteer.co.za/starfield-47-an-interactive-star-trek-themed-viewscreen-that-runs-in-a-browser-or-as-a-screensaver/)
 - [Battery Monitor Comparison: Shunt vs Hall Sensor](https://gadgeteer.co.za/battery-monitor-comparison-shunt-vs-hall-sensor/)
-- [My First ‘Computer’ Program Written On A HP41CV Programmable Calculator](https://gadgeteer.co.za/my-first-computer-program-written-on-a-hp41cv-programmable-calculator/)
-- [RIP Passwords? Passkey support rolls out to Chrome stable BUT with a huge list of caveats which you need to be aware of](https://gadgeteer.co.za/rip-passwords-passkey-support-rolls-out-to-chrome-stable-but-with-a-huge-list-of-caveats-which-you-need-to-be-aware-of/)
-- [Enable High-Efficiency-Mode Setting to Stop Chromium Based Browsers From Hogging So Much Memory](https://gadgeteer.co.za/enable-high-efficiency-mode-setting-to-stop-chromium-based-browsers-from-hogging-so-much-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 
