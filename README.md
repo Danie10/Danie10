@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A completely free Unreal Tournament 3 just leaked on Steam](https://gadgeteer.co.za/a-completely-free-unreal-tournament-3-just-leaked-on-steam/)
 - [VHS-Decode &lpar;It does more than VHS now!&rpar; could help Archival efforts](https://gadgeteer.co.za/vhs-decode-it-does-more-than-vhs-now-could-help-archival-efforts/)
 - [Apple is reportedly preparing to allow third-party app stores on the iPhone in the EU: It will be a ground shifting change for Apple &lpar;or not&rpar;](https://gadgeteer.co.za/apple-is-reportedly-preparing-to-allow-third-party-app-stores-on-the-iphone-in-the-eu-it-will-be-a-ground-shifting-change-for-apple-or-not/)
 - [An Invisible Layer of Gold Could Be the Secret to Glasses That Never Fog Up, and Keeping Cars Cooler in the Bright Sunlight](https://gadgeteer.co.za/an-invisible-layer-of-gold-could-be-the-secret-to-glasses-that-never-fog-up-and-keeping-cars-cooler-in-the-bright-sunlight/)
 - [System76 Unveils the ‘Launch Heavy’ 105-key Full-Size and Open-Source Configurable Keyboard](https://gadgeteer.co.za/system76-unveils-the-launch-heavy-105-key-full-size-and-open-source-configurable-keyboard/)
-- [The ‘Military Metaverse’ Calls It Quits: Highlights the risk yet again of any cloud subscription technology shutting down](https://gadgeteer.co.za/the-military-metaverse-calls-it-quits-highlights-the-risk-yet-again-of-any-cloud-subscription-technology-shutting-down/)
 <!-- BLOG-POST-LIST:END -->
 
 
