@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Some of Google’s biggest rivals are coming together with the hopes of creating new open source services to knock Google Maps from its mapping throne](https://gadgeteer.co.za/some-of-googles-biggest-rivals-are-coming-together-with-the-hopes-of-creating-new-open-source-services-to-knock-google-maps-from-its-mapping-throne/)
 - [Samsung strips out the Settings shortcut widget, but you can achieve the same shortcut results with the QuickShortcutMaker app](https://gadgeteer.co.za/samsung-strips-out-the-settings-shortcut-widget-but-you-can-achieve-the-same-shortcut-results-with-the-quickshortcutmaker-app/)
 - [Lessons learnt building and maintaining South African Government National Treasury’s open source open budget data viz portal](https://gadgeteer.co.za/lessons-learnt-building-and-maintaining-south-african-government-national-treasurys-open-source-open-budget-data-viz-portal/)
 - [A completely free Unreal Tournament 3 just leaked on Steam](https://gadgeteer.co.za/a-completely-free-unreal-tournament-3-just-leaked-on-steam/)
 - [VHS-Decode &lpar;It does more than VHS now!&rpar; could help Archival efforts](https://gadgeteer.co.za/vhs-decode-it-does-more-than-vhs-now-could-help-archival-efforts/)
-- [Apple is reportedly preparing to allow third-party app stores on the iPhone in the EU: It will be a ground shifting change for Apple &lpar;or not&rpar;](https://gadgeteer.co.za/apple-is-reportedly-preparing-to-allow-third-party-app-stores-on-the-iphone-in-the-eu-it-will-be-a-ground-shifting-change-for-apple-or-not/)
 <!-- BLOG-POST-LIST:END -->
 
 
