@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to measure your body composition on the Samsung Galaxy Watch 4 and Watch 5 series](https://gadgeteer.co.za/how-to-measure-your-body-composition-on-the-samsung-galaxy-watch-4-and-watch-5-series/)
 - [XDA Developers have tested almost every smartphone that hit the market in 2022, and these are our picks for the best of the year](https://gadgeteer.co.za/xda-developers-have-tested-almost-every-smartphone-that-hit-the-market-in-2022-and-these-are-our-picks-for-the-best-of-the-year/)
 - [Google introduces a beta version end-to-end encryption for Gmail on the web &lpar;body and attachments&rpar;, but not yet for personal accounts](https://gadgeteer.co.za/google-introduces-a-beta-version-end-to-end-encryption-for-gmail-on-the-web-body-and-attachments-but-not-yet-for-personal-accounts/)
 - [Some of Google’s biggest rivals are coming together with the hopes of creating new open source services to knock Google Maps from its mapping throne](https://gadgeteer.co.za/some-of-googles-biggest-rivals-are-coming-together-with-the-hopes-of-creating-new-open-source-services-to-knock-google-maps-from-its-mapping-throne/)
 - [Samsung strips out the Settings shortcut widget, but you can achieve the same shortcut results with the QuickShortcutMaker app](https://gadgeteer.co.za/samsung-strips-out-the-settings-shortcut-widget-but-you-can-achieve-the-same-shortcut-results-with-the-quickshortcutmaker-app/)
-- [Lessons learnt building and maintaining South African Government National Treasury’s open source open budget data viz portal](https://gadgeteer.co.za/lessons-learnt-building-and-maintaining-south-african-government-national-treasurys-open-source-open-budget-data-viz-portal/)
 <!-- BLOG-POST-LIST:END -->
 
 
