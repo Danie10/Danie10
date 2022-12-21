@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make your noisy recording sound like pro audio with Adobe’s free Enhance Speech AI tool – Up to one hour long or 1 GB in size](https://gadgeteer.co.za/make-your-noisy-recording-sound-like-pro-audio-with-adobes-free-enhance-speech-ai-tool-up-to-one-hour-long-or-1-gb-in-size/)
 - [URLCheck open source app for Android acts as an amazingly customizable and powerful intermediary when opening url links](https://gadgeteer.co.za/urlcheck-open-source-app-for-android-acts-as-an-amazingly-customizable-and-powerful-intermediary-when-opening-url-links/)
 - [Mouse whisperer – a physical USB dongle that fakes your presence at your computer, but ‘should you’ just because you can?](https://gadgeteer.co.za/mouse-whisperer-a-physical-usb-dongle-that-fakes-your-presence-at-your-computer-but-should-you-just-because-you-can/)
 - [How to measure your body composition on the Samsung Galaxy Watch 4 and Watch 5 series](https://gadgeteer.co.za/how-to-measure-your-body-composition-on-the-samsung-galaxy-watch-4-and-watch-5-series/)
 - [XDA Developers have tested almost every smartphone that hit the market in 2022, and these are our picks for the best of the year](https://gadgeteer.co.za/xda-developers-have-tested-almost-every-smartphone-that-hit-the-market-in-2022-and-these-are-our-picks-for-the-best-of-the-year/)
-- [Google introduces a beta version end-to-end encryption for Gmail on the web &lpar;body and attachments&rpar;, but not yet for personal accounts](https://gadgeteer.co.za/google-introduces-a-beta-version-end-to-end-encryption-for-gmail-on-the-web-body-and-attachments-but-not-yet-for-personal-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 
