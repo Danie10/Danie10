@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Oliver Heaviside changed the face of telecommunications, mathematics, and science in the early 1900s, yet few have ever heard of him](https://gadgeteer.co.za/oliver-heaviside-changed-the-face-of-telecommunications-mathematics-and-science-in-the-early-1900s-yet-few-have-ever-heard-of-him/)
 - [Find My Device: Finally you will be able to find your Android phone without Internet, like Apple and Samsung have had](https://gadgeteer.co.za/find-my-device-finally-you-will-be-able-to-find-your-android-phone-without-internet-like-apple-and-samsung-have-had/)
 - [Experience the power of the Linux Krusader file manager – Hint, it’s more than just a file manager](https://gadgeteer.co.za/experience-the-power-of-the-linux-krusader-file-manager-hint-its-more-than-just-a-file-manager/)
 - [Universal Android Debloater GUI – an open source low-level app for debloating Android phones](https://gadgeteer.co.za/universal-android-debloater-gui-an-open-source-low-level-app-for-debloating-android-phones/)
 - [Chumby gets a new kernel… soon](https://gadgeteer.co.za/chumby-gets-a-new-kernel-soon/)
-- [Make your noisy recording sound like pro audio with Adobe’s free Enhance Speech AI tool – Up to one hour long or 1 GB in size](https://gadgeteer.co.za/make-your-noisy-recording-sound-like-pro-audio-with-adobes-free-enhance-speech-ai-tool-up-to-one-hour-long-or-1-gb-in-size/)
 <!-- BLOG-POST-LIST:END -->
 
 
