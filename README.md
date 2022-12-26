@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert and Manipulate Images With ‘Converter’ GUI Tool in Linux, instead of ImageMagick in the Terminal](https://gadgeteer.co.za/convert-and-manipulate-images-with-converter-gui-tool-in-linux-instead-of-imagemagick-in-the-terminal/)
 - [The Straight Dope Message Board is still around, fighting ignorance since 1973 because it’s taking longer than they though](https://gadgeteer.co.za/the-straight-dope-message-board-is-still-around-fighting-ignorance-since-1973-because-its-taking-longer-than-they-though/)
 - [What Is A Safety Razor and How To Use It to Shave your Face – It is Easier than you Think, and is called ‘Safety’ for Good Reason](https://gadgeteer.co.za/what-is-a-safety-razor-and-how-to-use-it-to-shave-your-face-it-is-easier-than-you-think-and-is-called-safety-for-good-reason/)
 - [Oliver Heaviside changed the face of telecommunications, mathematics, and science in the early 1900s, yet few have ever heard of him](https://gadgeteer.co.za/oliver-heaviside-changed-the-face-of-telecommunications-mathematics-and-science-in-the-early-1900s-yet-few-have-ever-heard-of-him/)
 - [Find My Device: Finally you will be able to find your Android phone without Internet, like Apple and Samsung have had](https://gadgeteer.co.za/find-my-device-finally-you-will-be-able-to-find-your-android-phone-without-internet-like-apple-and-samsung-have-had/)
-- [Experience the power of the Linux Krusader file manager – Hint, it’s more than just a file manager](https://gadgeteer.co.za/experience-the-power-of-the-linux-krusader-file-manager-hint-its-more-than-just-a-file-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 
