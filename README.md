@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [People Who Like To Be Alone Have These 12 Special Personality Traits](https://gadgeteer.co.za/people-who-like-to-be-alone-have-these-12-special-personality-traits/)
 - [Qwantify: Self-Hosted and Open Source Project for Gaming Online with Friends](https://gadgeteer.co.za/qwantify-self-hosted-and-open-source-project-for-gaming-online-with-friends/)
 - [Convert and Manipulate Images With ‘Converter’ GUI Tool in Linux, instead of ImageMagick in the Terminal](https://gadgeteer.co.za/convert-and-manipulate-images-with-converter-gui-tool-in-linux-instead-of-imagemagick-in-the-terminal/)
 - [The Straight Dope Message Board is still around, fighting ignorance since 1973 because it’s taking longer than they though](https://gadgeteer.co.za/the-straight-dope-message-board-is-still-around-fighting-ignorance-since-1973-because-its-taking-longer-than-they-though/)
 - [What Is A Safety Razor and How To Use It to Shave your Face – It is Easier than you Think, and is called ‘Safety’ for Good Reason](https://gadgeteer.co.za/what-is-a-safety-razor-and-how-to-use-it-to-shave-your-face-it-is-easier-than-you-think-and-is-called-safety-for-good-reason/)
-- [Oliver Heaviside changed the face of telecommunications, mathematics, and science in the early 1900s, yet few have ever heard of him](https://gadgeteer.co.za/oliver-heaviside-changed-the-face-of-telecommunications-mathematics-and-science-in-the-early-1900s-yet-few-have-ever-heard-of-him/)
 <!-- BLOG-POST-LIST:END -->
 
 
