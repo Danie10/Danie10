@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to download Android apps without the Google Play Store: Who needs Google Play when you have APK Mirror?](https://gadgeteer.co.za/how-to-download-android-apps-without-the-google-play-store-who-needs-google-play-when-you-have-apk-mirror/)
+- [5 Best Linux Phones to Watch Out for in 2023](https://gadgeteer.co.za/5-best-linux-phones-to-watch-out-for-in-2023/)
 - [How to use Do Not Disturb mode on Android: There’s more to it than you might think, and it may be worth trying out](https://gadgeteer.co.za/how-to-use-do-not-disturb-mode-on-android-theres-more-to-it-than-you-might-think-and-it-may-be-worth-trying-out/)
 - [People Who Like To Be Alone Have These 12 Special Personality Traits](https://gadgeteer.co.za/people-who-like-to-be-alone-have-these-12-special-personality-traits/)
 - [Qwantify: Self-Hosted and Open Source Project for Gaming Online with Friends](https://gadgeteer.co.za/qwantify-self-hosted-and-open-source-project-for-gaming-online-with-friends/)
-- [Convert and Manipulate Images With ‘Converter’ GUI Tool in Linux, instead of ImageMagick in the Terminal](https://gadgeteer.co.za/convert-and-manipulate-images-with-converter-gui-tool-in-linux-instead-of-imagemagick-in-the-terminal/)
-- [The Straight Dope Message Board is still around, fighting ignorance since 1973 because it’s taking longer than they though](https://gadgeteer.co.za/the-straight-dope-message-board-is-still-around-fighting-ignorance-since-1973-because-its-taking-longer-than-they-though/)
 <!-- BLOG-POST-LIST:END -->
 
 
