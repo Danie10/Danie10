@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Barossa Valley Vineyard In South Australia Showcases The Beauty Of Vehicle-To-Grid](https://gadgeteer.co.za/barossa-valley-vineyard-in-south-australia-showcases-the-beauty-of-vehicle-to-grid/)
+- [Fairphone 4 can now run Android 13 with microG courtesy of unofficial LineageOS 20 ROM](https://gadgeteer.co.za/fairphone-4-can-now-run-android-13-with-microg-courtesy-of-unofficial-lineageos-20-rom/)
 - [How to download Android apps without the Google Play Store: Who needs Google Play when you have APK Mirror?](https://gadgeteer.co.za/how-to-download-android-apps-without-the-google-play-store-who-needs-google-play-when-you-have-apk-mirror/)
 - [5 Best Linux Phones to Watch Out for in 2023](https://gadgeteer.co.za/5-best-linux-phones-to-watch-out-for-in-2023/)
 - [How to use Do Not Disturb mode on Android: There’s more to it than you might think, and it may be worth trying out](https://gadgeteer.co.za/how-to-use-do-not-disturb-mode-on-android-theres-more-to-it-than-you-might-think-and-it-may-be-worth-trying-out/)
-- [People Who Like To Be Alone Have These 12 Special Personality Traits](https://gadgeteer.co.za/people-who-like-to-be-alone-have-these-12-special-personality-traits/)
-- [Qwantify: Self-Hosted and Open Source Project for Gaming Online with Friends](https://gadgeteer.co.za/qwantify-self-hosted-and-open-source-project-for-gaming-online-with-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 
