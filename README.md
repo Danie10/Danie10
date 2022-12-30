@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [All Android phones let you take a single scrolling screenshot instead of taking multiple shots: Here’s how to do it](https://gadgeteer.co.za/all-android-phones-let-you-take-a-single-scrolling-screenshot-instead-of-taking-multiple-shots-heres-how-to-do-it/)
 - [Building the world’s most popular gaming PC costs R35,950 in South Africa, and how it compares to other countries compared to average salaries](https://gadgeteer.co.za/building-the-worlds-most-popular-gaming-pc-costs-r35950-in-south-africa-and-how-it-compares-to-other-countries-compared-to-average-salaries/)
 - [Barossa Valley Vineyard In South Australia Showcases The Beauty Of Vehicle-To-Grid](https://gadgeteer.co.za/barossa-valley-vineyard-in-south-australia-showcases-the-beauty-of-vehicle-to-grid/)
 - [Fairphone 4 can now run Android 13 with microG courtesy of unofficial LineageOS 20 ROM](https://gadgeteer.co.za/fairphone-4-can-now-run-android-13-with-microg-courtesy-of-unofficial-lineageos-20-rom/)
 - [How to download Android apps without the Google Play Store: Who needs Google Play when you have APK Mirror?](https://gadgeteer.co.za/how-to-download-android-apps-without-the-google-play-store-who-needs-google-play-when-you-have-apk-mirror/)
-- [5 Best Linux Phones to Watch Out for in 2023](https://gadgeteer.co.za/5-best-linux-phones-to-watch-out-for-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
