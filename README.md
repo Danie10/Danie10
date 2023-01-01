@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Oura Ring may have a worthy competitor in the upcoming Evie: Same price but without a monthly Subscription](https://gadgeteer.co.za/the-oura-ring-may-have-a-worthy-competitor-in-the-upcoming-evie-same-price-but-without-a-monthly-subscription/)
 - [How to sync health data between apps on Android, using Health Connect](https://gadgeteer.co.za/how-to-sync-health-data-between-apps-on-android-using-health-connect/)
 - [Turn a Webpage into a Desktop App with Gluon: It has the Advantages of Electron, but loses main disadvantages](https://gadgeteer.co.za/turn-a-webpage-into-a-desktop-app-with-gluon-it-has-the-advantages-of-electron-but-loses-main-disadvantages/)
 - [‘Radio Garden’ Lets You Explore the World’s Radio Stations via website or mobile apps](https://gadgeteer.co.za/radio-garden-lets-you-explore-the-worlds-radio-stations-via-website-or-mobile-apps/)
 - [All Android phones let you take a single scrolling screenshot instead of taking multiple shots: Here’s how to do it](https://gadgeteer.co.za/all-android-phones-let-you-take-a-single-scrolling-screenshot-instead-of-taking-multiple-shots-heres-how-to-do-it/)
-- [Building the world’s most popular gaming PC costs R35,950 in South Africa, and how it compares to other countries compared to average salaries](https://gadgeteer.co.za/building-the-worlds-most-popular-gaming-pc-costs-r35950-in-south-africa-and-how-it-compares-to-other-countries-compared-to-average-salaries/)
 <!-- BLOG-POST-LIST:END -->
 
 
