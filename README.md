@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BookStack is an open source self-hosted Confluence alternative for organising and storing information](https://gadgeteer.co.za/bookstack-is-an-open-source-self-hosted-confluence-alternative-for-organising-and-storing-information/)
 - [Create Database and Table in LibreOffice Base: A Beginner’s Guide](https://gadgeteer.co.za/create-database-and-table-in-libreoffice-base-a-beginners-guide/)
 - [Mermaid is an open source JavaScript-based diagramming and charting tool that uses Markdown-inspired text definitions, and a renderer, to create and modify complex diagrams](https://gadgeteer.co.za/mermaid-is-an-open-source-javascript-based-diagramming-and-charting-tool-that-uses-markdown-inspired-text-definitions-and-a-renderer-to-create-and-modify-complex-diagrams/)
 - [Why I migrated from an Apple Watch to a Samsung Galaxy Watch 5](https://gadgeteer.co.za/why-i-migrated-from-an-apple-watch-to-a-samsung-galaxy-watch-5/)
 - [The Oura Ring may have a worthy competitor in the upcoming Evie: Same price but without a monthly Subscription](https://gadgeteer.co.za/the-oura-ring-may-have-a-worthy-competitor-in-the-upcoming-evie-same-price-but-without-a-monthly-subscription/)
-- [How to sync health data between apps on Android, using Health Connect](https://gadgeteer.co.za/how-to-sync-health-data-between-apps-on-android-using-health-connect/)
 <!-- BLOG-POST-LIST:END -->
 
 
