@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm Wants to Bring Two-Way Satellite Texting to Android Phones](https://gadgeteer.co.za/qualcomm-wants-to-bring-two-way-satellite-texting-to-android-phones/)
+- [Xiaomi‘s new Redmi 12 Pro+ packs a 200MP camera for less than $400](https://gadgeteer.co.za/xiaomis-new-redmi-12-pro-packs-a-200mp-camera-for-less-than-400/)
+- [5 things you didn’t know GPS could do: It’s not just keeping you from getting lost](https://gadgeteer.co.za/5-things-you-didnt-know-gps-could-do-its-not-just-keeping-you-from-getting-lost/)
 - [Does megapixel count matter for smartphones? It’s not the most important spec to look at](https://gadgeteer.co.za/does-megapixel-count-matter-for-smartphones-its-not-the-most-important-spec-to-look-at/)
 - [Android wants to support a promising open-source CPU architecture](https://gadgeteer.co.za/android-wants-to-support-a-promising-open-source-cpu-architecture/)
-- [Withings’ New Health Monitor Belongs in the Toilet](https://gadgeteer.co.za/withings-new-health-monitor-belongs-in-the-toilet/)
-- [The most important health metric is now at your fingertips: HRV measurement are now accessible to anyone with a chest strap or smartphone](https://gadgeteer.co.za/the-most-important-health-metric-is-now-at-your-fingertips-hrv-measurement-are-now-accessible-to-anyone-with-a-chest-strap-or-smartphone/)
-- [BookStack is an open source self-hosted Confluence alternative for organising and storing information](https://gadgeteer.co.za/bookstack-is-an-open-source-self-hosted-confluence-alternative-for-organising-and-storing-information/)
 <!-- BLOG-POST-LIST:END -->
 
 
