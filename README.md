@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are 3D Monitors Making a Comeback? The New Ones Don’t Require Glasses](https://gadgeteer.co.za/are-3d-monitors-making-a-comeback-the-new-ones-dont-require-glasses/)
+- [Adonit’s $45 Neo Pro Stylus Magnetically Charges Off the iPad, Just Like Apple’s $129 Pencil](https://gadgeteer.co.za/adonits-45-neo-pro-stylus-magnetically-charges-off-the-ipad-just-like-apples-129-pencil/)
 - [Qualcomm Wants to Bring Two-Way Satellite Texting to Android Phones](https://gadgeteer.co.za/qualcomm-wants-to-bring-two-way-satellite-texting-to-android-phones/)
 - [Xiaomi‘s new Redmi 12 Pro+ packs a 200MP camera for less than $400](https://gadgeteer.co.za/xiaomis-new-redmi-12-pro-packs-a-200mp-camera-for-less-than-400/)
 - [5 things you didn’t know GPS could do: It’s not just keeping you from getting lost](https://gadgeteer.co.za/5-things-you-didnt-know-gps-could-do-its-not-just-keeping-you-from-getting-lost/)
-- [Does megapixel count matter for smartphones? It’s not the most important spec to look at](https://gadgeteer.co.za/does-megapixel-count-matter-for-smartphones-its-not-the-most-important-spec-to-look-at/)
-- [Android wants to support a promising open-source CPU architecture](https://gadgeteer.co.za/android-wants-to-support-a-promising-open-source-cpu-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 
