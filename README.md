@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PhotoPills is a $10.99 app that will help predict when the Sun, Moon, and other Celestial Objects will be in a Specific Position for Photography](https://gadgeteer.co.za/photopills-is-a-10-99-app-that-will-help-predict-when-the-sun-moon-and-other-celestial-objects-will-be-in-a-specific-position-for-photography/)
+- [Valencell announces a fully cuffless blood pressure monitor connects to your Android phone, and does not require calibration with a cuff](https://gadgeteer.co.za/valencell-announces-a-fully-cuffless-blood-pressure-monitor-connects-to-your-android-phone-and-does-not-require-calibration-with-a-cuff/)
 - [You Could Be Selecting Text With Your Mouse Incorrectly](https://gadgeteer.co.za/you-could-be-selecting-text-with-your-mouse-incorrectly/)
 - [Video demonstrating how and why those red and green LEDs measure heart rate and SpO2, and why they need to flash](https://gadgeteer.co.za/video-demonstrating-how-and-why-those-red-and-green-leds-measure-heart-rate-and-spo2-and-why-they-need-to-flash/)
 - [Are 3D Monitors Making a Comeback? The New Ones Don’t Require Glasses](https://gadgeteer.co.za/are-3d-monitors-making-a-comeback-the-new-ones-dont-require-glasses/)
-- [Adonit’s $45 Neo Pro Stylus Magnetically Charges Off the iPad, Just Like Apple’s $129 Pencil](https://gadgeteer.co.za/adonits-45-neo-pro-stylus-magnetically-charges-off-the-ipad-just-like-apples-129-pencil/)
-- [Qualcomm Wants to Bring Two-Way Satellite Texting to Android Phones](https://gadgeteer.co.za/qualcomm-wants-to-bring-two-way-satellite-texting-to-android-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 
