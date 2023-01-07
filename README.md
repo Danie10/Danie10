@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You Could Be Selecting Text With Your Mouse Incorrectly](https://gadgeteer.co.za/you-could-be-selecting-text-with-your-mouse-incorrectly/)
 - [Video demonstrating how and why those red and green LEDs measure heart rate and SpO2, and why they need to flash](https://gadgeteer.co.za/video-demonstrating-how-and-why-those-red-and-green-leds-measure-heart-rate-and-spo2-and-why-they-need-to-flash/)
 - [Are 3D Monitors Making a Comeback? The New Ones Don’t Require Glasses](https://gadgeteer.co.za/are-3d-monitors-making-a-comeback-the-new-ones-dont-require-glasses/)
 - [Adonit’s $45 Neo Pro Stylus Magnetically Charges Off the iPad, Just Like Apple’s $129 Pencil](https://gadgeteer.co.za/adonits-45-neo-pro-stylus-magnetically-charges-off-the-ipad-just-like-apples-129-pencil/)
 - [Qualcomm Wants to Bring Two-Way Satellite Texting to Android Phones](https://gadgeteer.co.za/qualcomm-wants-to-bring-two-way-satellite-texting-to-android-phones/)
-- [Xiaomi‘s new Redmi 12 Pro+ packs a 200MP camera for less than $400](https://gadgeteer.co.za/xiaomis-new-redmi-12-pro-packs-a-200mp-camera-for-less-than-400/)
 <!-- BLOG-POST-LIST:END -->
 
 
