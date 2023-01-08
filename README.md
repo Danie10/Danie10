@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Copy Command – Shows Progress Bar While Copying/Moving Files in Linux](https://gadgeteer.co.za/advanced-copy-command-shows-progress-bar-while-copying-moving-files-in-linux/)
 - [How, for heart health, new Huawei Watch D beats Apple Watch and Samsung Galaxy Watch: No calibration required for Blood Pressure](https://gadgeteer.co.za/how-for-heart-health-new-huawei-watch-d-beats-apple-watch-and-samsung-galaxy-watch-noo-calibration-required-for-blood-pressure/)
 - [The art of cut-throat shaving: Because real men shave with a naked blade](https://gadgeteer.co.za/the-art-of-cut-throat-shaving-because-real-men-shave-with-a-naked-blade/)
 - [PhotoPills is a $10.99 app that will help predict when the Sun, Moon, and other Celestial Objects will be in a Specific Position for Photography](https://gadgeteer.co.za/photopills-is-a-10-99-app-that-will-help-predict-when-the-sun-moon-and-other-celestial-objects-will-be-in-a-specific-position-for-photography/)
 - [Valencell announces a fully cuffless blood pressure monitor connects to your Android phone, and does not require calibration with a cuff](https://gadgeteer.co.za/valencell-announces-a-fully-cuffless-blood-pressure-monitor-connects-to-your-android-phone-and-does-not-require-calibration-with-a-cuff/)
-- [You Could Be Selecting Text With Your Mouse Incorrectly](https://gadgeteer.co.za/you-could-be-selecting-text-with-your-mouse-incorrectly/)
 <!-- BLOG-POST-LIST:END -->
 
 
