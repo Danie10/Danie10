@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Faces Second Class-Action Suit Over Privacy Settings After Tests showed Apple collects data even when its own settings promise not to](https://gadgeteer.co.za/apple-faces-second-class-action-suit-over-privacy-settings-after-tests-showed-apple-collects-data-even-when-its-own-settings-promise-not-to/)
 - [Raspberry Pi upgrades its Camera Module with HDR, autofocus, a new lens-mounting attachment, and more](https://gadgeteer.co.za/raspberry-pi-upgrades-its-camera-module-with-hdr-autofocus-a-new-lens-mounting-attachment-and-more/)
 - [All about USB-C power delivery: They’re intelligent, which is why some odd cables or chargers may not work properly](https://gadgeteer.co.za/all-about-usb-c-power-delivery-theyre-intelligent-which-is-why-some-odd-cables-or-chargers-may-not-work-properly/)
 - [Low-cost 433 MHz door/window reed sensors get open source firmware](https://gadgeteer.co.za/low-cost-433-mhz-door-window-reed-sensors-get-open-source-firmware/)
 - [Advanced Copy Command – Shows Progress Bar While Copying/Moving Files in Linux](https://gadgeteer.co.za/advanced-copy-command-shows-progress-bar-while-copying-moving-files-in-linux/)
-- [How, for heart health, new Huawei Watch D beats Apple Watch and Samsung Galaxy Watch: No calibration required for Blood Pressure](https://gadgeteer.co.za/how-for-heart-health-new-huawei-watch-d-beats-apple-watch-and-samsung-galaxy-watch-noo-calibration-required-for-blood-pressure/)
 <!-- BLOG-POST-LIST:END -->
 
 
