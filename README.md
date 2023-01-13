@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you know where your data is? Chad Engelgau does. He’s the CEO of Acxiom, a data broker. Your info is probably on one of his servers](https://gadgeteer.co.za/do-you-know-where-your-data-is-chad-engelgau-does-hes-the-ceo-of-acxiom-a-data-broker-your-info-is-probably-on-one-of-his-servers/)
 - [Load Shedding integration on Home Assistant with EskomSePush API](https://gadgeteer.co.za/load-shedding-integration-on-home-assistant-with-eskomsepush-api/)
 - [Google’s upcoming eSIM tweaks put users in control, not carriers: Android could soon let you convert physical SIM cards and import eSIM profiles](https://gadgeteer.co.za/googles-upcoming-esim-tweaks-put-users-in-control-not-carriers-android-could-soon-let-you-convert-physical-sim-cards-and-import-esim-profiles/)
 - [Zurich-based ETH research university: Threema billed as better than Signal was riddled with 7 different vulnerabilities](https://gadgeteer.co.za/zurich-based-eth-research-university-threema-billed-as-better-than-signal-was-riddled-with-7-different-vulnerabilities/)
 - [Apple Faces Second Class-Action Suit Over Privacy Settings After Tests showed Apple collects data even when its own settings promise not to](https://gadgeteer.co.za/apple-faces-second-class-action-suit-over-privacy-settings-after-tests-showed-apple-collects-data-even-when-its-own-settings-promise-not-to/)
-- [Raspberry Pi upgrades its Camera Module with HDR, autofocus, a new lens-mounting attachment, and more](https://gadgeteer.co.za/raspberry-pi-upgrades-its-camera-module-with-hdr-autofocus-a-new-lens-mounting-attachment-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 
