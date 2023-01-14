@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use your phone to find hidden cameras](https://gadgeteer.co.za/how-to-use-your-phone-to-find-hidden-cameras/)
 - [Retro Pod, which turns your iPhone into an iPod, amassed hundreds of thousands of downloads before it was removed from the App Store](https://gadgeteer.co.za/retro-pod-which-turns-your-iphone-into-an-ipod-amassed-hundreds-of-thousands-of-downloads-before-it-was-removed-from-the-app-store/)
 - [Do you know where your data is? Chad Engelgau does. He’s the CEO of Acxiom, a data broker. Your info is probably on one of his servers](https://gadgeteer.co.za/do-you-know-where-your-data-is-chad-engelgau-does-hes-the-ceo-of-acxiom-a-data-broker-your-info-is-probably-on-one-of-his-servers/)
 - [Load Shedding integration on Home Assistant with EskomSePush API](https://gadgeteer.co.za/load-shedding-integration-on-home-assistant-with-eskomsepush-api/)
 - [Google’s upcoming eSIM tweaks put users in control, not carriers: Android could soon let you convert physical SIM cards and import eSIM profiles](https://gadgeteer.co.za/googles-upcoming-esim-tweaks-put-users-in-control-not-carriers-android-could-soon-let-you-convert-physical-sim-cards-and-import-esim-profiles/)
-- [Zurich-based ETH research university: Threema billed as better than Signal was riddled with 7 different vulnerabilities](https://gadgeteer.co.za/zurich-based-eth-research-university-threema-billed-as-better-than-signal-was-riddled-with-7-different-vulnerabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 
