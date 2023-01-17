@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Translate rolls out offline translation support for 33 new languages, including South Africa’s Sesotho, Xhosa, and Zulu](https://gadgeteer.co.za/google-translate-rolls-out-offline-translation-support-for-33-new-languages-including-south-africas-sesotho-xhosa-and-zulu/)
 - [How to install Windows 11 on almost any unsupported PC](https://gadgeteer.co.za/how-to-install-windows-11-on-almost-any-unsupported-pc/)
 - [How to use your phone to find hidden cameras](https://gadgeteer.co.za/how-to-use-your-phone-to-find-hidden-cameras/)
 - [Retro Pod, which turns your iPhone into an iPod, amassed hundreds of thousands of downloads before it was removed from the App Store](https://gadgeteer.co.za/retro-pod-which-turns-your-iphone-into-an-ipod-amassed-hundreds-of-thousands-of-downloads-before-it-was-removed-from-the-app-store/)
 - [Do you know where your data is? Chad Engelgau does. He’s the CEO of Acxiom, a data broker. Your info is probably on one of his servers](https://gadgeteer.co.za/do-you-know-where-your-data-is-chad-engelgau-does-hes-the-ceo-of-acxiom-a-data-broker-your-info-is-probably-on-one-of-his-servers/)
-- [Load Shedding integration on Home Assistant with EskomSePush API](https://gadgeteer.co.za/load-shedding-integration-on-home-assistant-with-eskomsepush-api/)
 <!-- BLOG-POST-LIST:END -->
 
 
