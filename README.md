@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Docfetcher is a cross-platform free and open source desktop search application](https://gadgeteer.co.za/docfetcher-is-a-cross-platform-free-and-open-source-desktop-search-application/)
 - [How to Protect Your Linux Computer From Rogue USB Drives With Open Source USBGuard](https://gadgeteer.co.za/how-to-protect-your-linux-computer-from-rogue-usb-drives-with-open-source-usbguard/)
 - [Best Privacy Focused Search Engines of 2023 Compared](https://gadgeteer.co.za/best-privacy-focused-search-engines-of-2023-compared/)
 - [OpenSnitch is an open source Linux application firewall with a simple graphical interface that allows to easily accept or deny network connections from any program](https://gadgeteer.co.za/opensnitch-is-an-open-source-linux-application-firewall-with-a-simple-graphical-interface-that-allows-to-easily-accept-or-deny-network-connections-from-any-program/)
 - [Apple’s iOS 16.3 update brings Advanced Data Protection functionality to iCloud for South African users](https://gadgeteer.co.za/apples-ios-16-3-update-brings-advanced-data-protection-functionality-to-icloud-for-south-african-users/)
-- [Why I moved from an Apple Watch to a Samsung Galaxy Watch 5](https://gadgeteer.co.za/why-i-moved-from-an-apple-watch-to-a-samsung-galaxy-watch-5/)
 <!-- BLOG-POST-LIST:END -->
 
 
