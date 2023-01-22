@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [River Valley Trading is an online South African Traditional Wet Shaving Supplier](https://gadgeteer.co.za/river-valley-trading-is-an-online-south-african-traditional-wet-shaving-supplier/)
 - [Microsoft is checking everyone’s bags for unsupported Office installs: Please, sir. I don’t want a 365 subscription](https://gadgeteer.co.za/microsoft-is-checking-everyones-bags-for-unsupported-office-installs-please-sir-i-dont-want-a-365-subscription/)
 - [AirTag Helps Rescuers Find Dog Lost in California Flood – Like Most Things, AirTags can be Used for Many Good Purposes](https://gadgeteer.co.za/airtag-helps-rescuers-find-dog-lost-in-california-flood-like-most-things-airtags-can-be-used-for-many-good-purposes/)
 - [Docfetcher is a cross-platform free and open source desktop search application](https://gadgeteer.co.za/docfetcher-is-a-cross-platform-free-and-open-source-desktop-search-application/)
 - [How to Protect Your Linux Computer From Rogue USB Drives With Open Source USBGuard](https://gadgeteer.co.za/how-to-protect-your-linux-computer-from-rogue-usb-drives-with-open-source-usbguard/)
-- [Best Privacy Focused Search Engines of 2023 Compared](https://gadgeteer.co.za/best-privacy-focused-search-engines-of-2023-compared/)
 <!-- BLOG-POST-LIST:END -->
 
 
