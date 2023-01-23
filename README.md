@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SD memory card classes are a lot more than just a ‘class 10’ card now, as there is also the newer Application Performance Class](https://gadgeteer.co.za/sd-memory-card-classes-are-a-lot-more-than-just-a-class-10-card-now-as-there-is-also-the-newer-application-performance-class/)
+- [KeyDecoder is an open source Android app that can generate all the necessary bitting info to duplicate a key from just an image](https://gadgeteer.co.za/keydecoder-is-an-open-source-android-app-that-can-generate-all-the-necessary-bitting-info-to-duplicate-a-key-from-just-an-image/)
 - [River Valley Trading is an online South African Traditional Wet Shaving Supplier](https://gadgeteer.co.za/river-valley-trading-is-an-online-south-african-traditional-wet-shaving-supplier/)
 - [Microsoft is checking everyone’s bags for unsupported Office installs: Please, sir. I don’t want a 365 subscription](https://gadgeteer.co.za/microsoft-is-checking-everyones-bags-for-unsupported-office-installs-please-sir-i-dont-want-a-365-subscription/)
 - [AirTag Helps Rescuers Find Dog Lost in California Flood – Like Most Things, AirTags can be Used for Many Good Purposes](https://gadgeteer.co.za/airtag-helps-rescuers-find-dog-lost-in-california-flood-like-most-things-airtags-can-be-used-for-many-good-purposes/)
-- [Docfetcher is a cross-platform free and open source desktop search application](https://gadgeteer.co.za/docfetcher-is-a-cross-platform-free-and-open-source-desktop-search-application/)
-- [How to Protect Your Linux Computer From Rogue USB Drives With Open Source USBGuard](https://gadgeteer.co.za/how-to-protect-your-linux-computer-from-rogue-usb-drives-with-open-source-usbguard/)
 <!-- BLOG-POST-LIST:END -->
 
 
