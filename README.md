@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The volunteers mapping South Africa’s power grid using OpenStreetMaps](https://gadgeteer.co.za/the-volunteers-mapping-south-africas-power-grid-using-openstreetmaps/)
+- [Flatpak vs Snap, know the differences and gain insights as a Linux user to pick the best](https://gadgeteer.co.za/flatpak-vs-snap-know-the-differences-and-gain-insights-as-a-linux-user-to-pick-the-best/)
 - [Explore the World of Custom iPhone Widgets: A Widgy widget goes a long way in making your iPhone feel special](https://gadgeteer.co.za/explore-the-world-of-custom-iphone-widgets-a-widgy-widget-goes-a-long-way-in-making-your-iphone-feel-special/)
 - [SD memory card classes are a lot more than just a ‘class 10’ card now, as there is also the newer Application Performance Class](https://gadgeteer.co.za/sd-memory-card-classes-are-a-lot-more-than-just-a-class-10-card-now-as-there-is-also-the-newer-application-performance-class/)
 - [KeyDecoder is an open source Android app that can generate all the necessary bitting info to duplicate a key from just an image](https://gadgeteer.co.za/keydecoder-is-an-open-source-android-app-that-can-generate-all-the-necessary-bitting-info-to-duplicate-a-key-from-just-an-image/)
-- [River Valley Trading is an online South African Traditional Wet Shaving Supplier](https://gadgeteer.co.za/river-valley-trading-is-an-online-south-african-traditional-wet-shaving-supplier/)
-- [Microsoft is checking everyone’s bags for unsupported Office installs: Please, sir. I don’t want a 365 subscription](https://gadgeteer.co.za/microsoft-is-checking-everyones-bags-for-unsupported-office-installs-please-sir-i-dont-want-a-365-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 
