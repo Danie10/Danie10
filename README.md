@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Dynamic DNS &lpar;DDNS&rpar;, and How Do You Set It Up? It’s Useful for Self-Hosting from Home or for Remote Access](https://gadgeteer.co.za/what-is-dynamic-dns-ddns-and-how-do-you-set-it-up-its-useful-for-self-hosting-from-home-or-for-remote-access/)
 - [Top racing game Forza Motorsport to feature South Africa’s Kyalami racetrack](https://gadgeteer.co.za/top-racing-game-forza-motorsport-to-feature-south-africas-kyalami-racetrack/)
 - [ADS-B Exchange sells up to a commercial company, contributors are unhappy as it is their freely contributed crowdsourced data](https://gadgeteer.co.za/ads-b-exchange-sells-up-to-a-commercial-company-contributors-are-unhappy-as-it-is-their-freely-contributed-crowdsourced-data/)
 - [15 awesome Samsung Internet tips and tricks: Samsung’s mobile internet browser is full of nifty add-ons](https://gadgeteer.co.za/15-awesome-samsung-internet-tips-and-tricks-samsungs-mobile-internet-browser-is-full-of-nifty-add-ons/)
 - [More than 50% of FNB customers in South Africa now tap to pay at the point of sale, marking an extraordinary rise in contactless payments](https://gadgeteer.co.za/more-than-50-of-fnb-customers-in-south-africa-now-tap-to-pay-at-the-point-of-sale-marking-an-extraordinary-rise-in-contactless-payments/)
-- [The volunteers mapping South Africa’s power grid using OpenStreetMaps](https://gadgeteer.co.za/the-volunteers-mapping-south-africas-power-grid-using-openstreetmaps/)
 <!-- BLOG-POST-LIST:END -->
 
 
