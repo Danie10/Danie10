@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pacstall Is An “AUR” For Ubuntu](https://gadgeteer.co.za/pacstall-is-an-aur-for-ubuntu/)
 - [The Internet Archive has delivered a nostalgic treat in the form of a collection of 14 vintage emulated calculators, now available to play with online](https://gadgeteer.co.za/the-internet-archive-has-delivered-a-nostalgic-treat-in-the-form-of-a-collection-of-14-vintage-emulated-calculators-now-available-to-play-with-online/)
 - [What Is a Condenser Microphone, and How Do They Work?](https://gadgeteer.co.za/what-is-a-condenser-microphone-and-how-do-they-work/)
 - [Pick n Pay in South Africa rolls out Bitcoin payments to 1,500 grocery stores](https://gadgeteer.co.za/pick-n-pay-in-south-africa-rolls-out-bitcoin-payments-to-1500-grocery-stores/)
 - [WIDAR uses your smartphone camera to scan real objects and transform them into 3D models – no LIDAR sensor needed](https://gadgeteer.co.za/widar-uses-your-smartphone-camera-to-scan-real-objects-and-transform-them-into-3d-models-no-lidar-sensor-needed/)
-- [Custom Launchers radically differentiate Android from iOS, and they’re quick and easy to install and try out](https://gadgeteer.co.za/custom-launchers-radically-differentiate-android-from-ios-and-theyre-quick-and-easy-to-install-and-try-out/)
 <!-- BLOG-POST-LIST:END -->
 
 
