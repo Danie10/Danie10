@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Port Forward on Your Router](https://gadgeteer.co.za/how-to-port-forward-on-your-router/)
 - [Live Captions is an application for the Linux desktop that provides instant, local, and open source captioning for video](https://gadgeteer.co.za/live-captions-is-an-application-for-the-linux-desktop-that-provides-instant-local-and-open-source-captioning-for-video/)
 - [Pacstall Is An “AUR” For Ubuntu](https://gadgeteer.co.za/pacstall-is-an-aur-for-ubuntu/)
 - [The Internet Archive has delivered a nostalgic treat in the form of a collection of 14 vintage emulated calculators, now available to play with online](https://gadgeteer.co.za/the-internet-archive-has-delivered-a-nostalgic-treat-in-the-form-of-a-collection-of-14-vintage-emulated-calculators-now-available-to-play-with-online/)
 - [What Is a Condenser Microphone, and How Do They Work?](https://gadgeteer.co.za/what-is-a-condenser-microphone-and-how-do-they-work/)
-- [Pick n Pay in South Africa rolls out Bitcoin payments to 1,500 grocery stores](https://gadgeteer.co.za/pick-n-pay-in-south-africa-rolls-out-bitcoin-payments-to-1500-grocery-stores/)
 <!-- BLOG-POST-LIST:END -->
 
 
