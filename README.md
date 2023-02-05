@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What killed South Africa’s Tesla](https://gadgeteer.co.za/what-killed-south-africas-tesla/)
+- [History of the Safety &lpar;DE&rpar; Razor](https://gadgeteer.co.za/history-of-the-safety-de-razor/)
 - [I bought groceries with Bitcoin at Pick n Pay in South Africa, and this is how it went](https://gadgeteer.co.za/i-bought-groceries-with-bitcoin-at-pick-n-pay-in-south-africa-and-this-is-how-it-went/)
 - [How to Port Forward on Your Router](https://gadgeteer.co.za/how-to-port-forward-on-your-router/)
 - [Live Captions is an application for the Linux desktop that provides instant, local, and open source captioning for video](https://gadgeteer.co.za/live-captions-is-an-application-for-the-linux-desktop-that-provides-instant-local-and-open-source-captioning-for-video/)
-- [Pacstall Is An “AUR” For Ubuntu](https://gadgeteer.co.za/pacstall-is-an-aur-for-ubuntu/)
-- [The Internet Archive has delivered a nostalgic treat in the form of a collection of 14 vintage emulated calculators, now available to play with online](https://gadgeteer.co.za/the-internet-archive-has-delivered-a-nostalgic-treat-in-the-form-of-a-collection-of-14-vintage-emulated-calculators-now-available-to-play-with-online/)
 <!-- BLOG-POST-LIST:END -->
 
 
