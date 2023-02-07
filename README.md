@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bloatware pushes the Galaxy S23 Android OS to an incredible 60GB: 4x bigger than Google’s—twice the size of Windows 11](https://gadgeteer.co.za/bloatware-pushes-the-galaxy-s23-android-os-to-an-incredible-60gb-4x-bigger-than-googles-twice-the-size-of-windows-11/)
 - [How to Test the Power Supply Unit &lpar;PSU&rpar; in Your PC](https://gadgeteer.co.za/how-to-test-the-power-supply-unit-psu-in-your-pc/)
 - [OneTouch PowerNap for Android – Nap timer with Do Not Disturb and Alarm](https://gadgeteer.co.za/onetouch-powernap-for-android-nap-timer-with-do-not-disturb-and-alarm/)
 - [What killed South Africa’s Tesla](https://gadgeteer.co.za/what-killed-south-africas-tesla/)
 - [History of the Safety &lpar;DE&rpar; Razor](https://gadgeteer.co.za/history-of-the-safety-de-razor/)
-- [I bought groceries with Bitcoin at Pick n Pay in South Africa, and this is how it went](https://gadgeteer.co.za/i-bought-groceries-with-bitcoin-at-pick-n-pay-in-south-africa-and-this-is-how-it-went/)
 <!-- BLOG-POST-LIST:END -->
 
 
