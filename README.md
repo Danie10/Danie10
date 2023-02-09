@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Policy Summit: Where FOSS and government meet: Sometimes it takes a war to make people pay attention](https://gadgeteer.co.za/open-source-policy-summit-where-foss-and-government-meet-sometimes-it-takes-a-war-to-make-people-pay-attention/)
 - [How to Test DNS Speed using Two Popular Tools on Windows and Linux](https://gadgeteer.co.za/how-to-test-dns-speed-using-two-popular-tools-on-windows-and-linux/)
 - [9 Best Google Drive Clients for Linux in 2023](https://gadgeteer.co.za/9-best-google-drive-clients-for-linux-in-2023/)
 - [Shell Genie is a new Linux command line tool that can be used to ask in plain English how to perform various tasks, and it gives you the shell command you need](https://gadgeteer.co.za/shell-genie-is-a-new-linux-command-line-tool-that-can-be-used-to-ask-in-plain-english-how-to-perform-various-tasks-and-it-gives-you-the-shell-command-you-need/)
 - [If you found Tasker a bit complicated to do automations on your Android phone, you should try MacroDroid](https://gadgeteer.co.za/if-you-found-tasker-a-bit-complicated-to-do-automations-on-your-android-phone-you-should-try-macrodroid/)
-- [Bloatware pushes the Galaxy S23 Android OS to an incredible 60GB: 4x bigger than Google’s—twice the size of Windows 11](https://gadgeteer.co.za/bloatware-pushes-the-galaxy-s23-android-os-to-an-incredible-60gb-4x-bigger-than-googles-twice-the-size-of-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 
