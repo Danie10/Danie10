@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vodacom blocks South African Police spying services over R3 million bill](https://gadgeteer.co.za/vodacom-blocks-south-african-police-spying-services-over-r3-million-bill/)
 - [Realme launches smartphone that can charge to 20% in 80 seconds &lpar;@240W&rpar; but I’d rather see longer battery life or cycles](https://gadgeteer.co.za/realme-launches-smartphone-that-can-charge-to-20-in-80-seconds-240w-but-id-rather-see-longer-battery-life-or-cycles/)
 - [Open Source Policy Summit: Where FOSS and government meet: Sometimes it takes a war to make people pay attention](https://gadgeteer.co.za/open-source-policy-summit-where-foss-and-government-meet-sometimes-it-takes-a-war-to-make-people-pay-attention/)
 - [How to Test DNS Speed using Two Popular Tools on Windows and Linux](https://gadgeteer.co.za/how-to-test-dns-speed-using-two-popular-tools-on-windows-and-linux/)
 - [9 Best Google Drive Clients for Linux in 2023](https://gadgeteer.co.za/9-best-google-drive-clients-for-linux-in-2023/)
-- [Shell Genie is a new Linux command line tool that can be used to ask in plain English how to perform various tasks, and it gives you the shell command you need](https://gadgeteer.co.za/shell-genie-is-a-new-linux-command-line-tool-that-can-be-used-to-ask-in-plain-english-how-to-perform-various-tasks-and-it-gives-you-the-shell-command-you-need/)
 <!-- BLOG-POST-LIST:END -->
 
 
