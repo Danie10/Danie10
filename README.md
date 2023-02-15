@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Watch 5 and Galaxy Watch 5 Pro will gain temperature-based menstrual cycle tracking](https://gadgeteer.co.za/samsung-galaxy-watch-5-and-galaxy-watch-5-pro-will-gain-temperature-based-menstrual-cycle-tracking/)
 - [KDE Plasma: Full Featured Linux Desktop That’s Surprisingly Easy on Resources](https://gadgeteer.co.za/kde-plasma-full-featured-linux-desktop-thats-surprisingly-easy-on-resources/)
 - [Vodacom blocks South African Police spying services over R3 million bill](https://gadgeteer.co.za/vodacom-blocks-south-african-police-spying-services-over-r3-million-bill/)
 - [Realme launches smartphone that can charge to 20% in 80 seconds &lpar;@240W&rpar; but I’d rather see longer battery life or cycles](https://gadgeteer.co.za/realme-launches-smartphone-that-can-charge-to-20-in-80-seconds-240w-but-id-rather-see-longer-battery-life-or-cycles/)
 - [Open Source Policy Summit: Where FOSS and government meet: Sometimes it takes a war to make people pay attention](https://gadgeteer.co.za/open-source-policy-summit-where-foss-and-government-meet-sometimes-it-takes-a-war-to-make-people-pay-attention/)
-- [How to Test DNS Speed using Two Popular Tools on Windows and Linux](https://gadgeteer.co.za/how-to-test-dns-speed-using-two-popular-tools-on-windows-and-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
