@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Woman rides solo from Spain across Africa to Cape Town, on a CAKE electric motorcycle](https://gadgeteer.co.za/woman-rides-solo-from-spain-across-africa-to-cape-town-on-a-cake-electric-motorcycle/)
 - [Pixelfed decentralised and federated social network for photos and videos &lpar;updated video&rpar;](https://gadgeteer.co.za/pixelfed-decentralised-and-federated-social-network-for-photos-and-videos-updated-video/)
 - [DXOMARK Samsung Galaxy S23 Ultra Camera test: It’s very good but not the Best](https://gadgeteer.co.za/dxomark-samsung-galaxy-s23-ultra-camera-test-its-very-good-but-not-the-best/)
 - [What Is a Phone Gimbal, and Why Should I Use One?](https://gadgeteer.co.za/what-is-a-phone-gimbal-and-why-should-i-use-one/)
 - [Samsung Galaxy Watch 5 and Galaxy Watch 5 Pro will gain temperature-based menstrual cycle tracking](https://gadgeteer.co.za/samsung-galaxy-watch-5-and-galaxy-watch-5-pro-will-gain-temperature-based-menstrual-cycle-tracking/)
-- [KDE Plasma: Full Featured Linux Desktop That’s Surprisingly Easy on Resources](https://gadgeteer.co.za/kde-plasma-full-featured-linux-desktop-thats-surprisingly-easy-on-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 
