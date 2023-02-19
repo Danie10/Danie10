@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Worth The Switch: Are Safety Razors Better Than Other Razors?](https://gadgeteer.co.za/worth-the-switch-are-safety-razors-better-than-other-razors/)
 - [Samsung Good Lock: Root level customisation functionality for Samsung phones, without actually rooting your device](https://gadgeteer.co.za/samsung-good-lock-root-level-customisation-functionality-for-samsung-phones-without-actually-rooting-your-device/)
 - [It’s Time to Stop Using Three-Button Navigation on Android: Stop Tapping and start Swiping](https://gadgeteer.co.za/its-time-to-stop-using-three-button-navigation-on-android-stop-tapping-and-start-swiping/)
 - [Woman rides solo from Spain across Africa to Cape Town, on a CAKE electric motorcycle](https://gadgeteer.co.za/woman-rides-solo-from-spain-across-africa-to-cape-town-on-a-cake-electric-motorcycle/)
 - [Pixelfed decentralised and federated social network for photos and videos &lpar;updated video&rpar;](https://gadgeteer.co.za/pixelfed-decentralised-and-federated-social-network-for-photos-and-videos-updated-video/)
-- [DXOMARK Samsung Galaxy S23 Ultra Camera test: It’s very good but not the Best](https://gadgeteer.co.za/dxomark-samsung-galaxy-s23-ultra-camera-test-its-very-good-but-not-the-best/)
 <!-- BLOG-POST-LIST:END -->
 
 
