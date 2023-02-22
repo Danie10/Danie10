@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please Stop Making New Smartphones Every Year: New devices would be Better, and Older Models wouldn’t be Forgotten so Fast](https://gadgeteer.co.za/please-stop-making-new-smartphones-every-year-new-devices-would-be-better-and-older-models-wouldnt-be-forgotten-so-fast/)
+- [Using Your Real Email to Sign In? Your Privacy Is at Risk, but websites should stop using E-mail as a Login ID anyway](https://gadgeteer.co.za/using-your-real-email-to-sign-in-your-privacy-is-at-risk-but-websites-should-stop-using-e-mail-as-a-login-id-anyway/)
 - [Vodafone Builds a Portable 5G Network Using a Raspberry Pi and a Lime SDR XTRX board](https://gadgeteer.co.za/vodafone-builds-a-portable-5g-network-using-a-raspberry-pi-and-a-lime-sdr-xtrx-board/)
 - [Worth The Switch: Are Safety Razors Better Than Other Razors?](https://gadgeteer.co.za/worth-the-switch-are-safety-razors-better-than-other-razors/)
 - [Samsung Good Lock: Root level customisation functionality for Samsung phones, without actually rooting your device](https://gadgeteer.co.za/samsung-good-lock-root-level-customisation-functionality-for-samsung-phones-without-actually-rooting-your-device/)
-- [It’s Time to Stop Using Three-Button Navigation on Android: Stop Tapping and start Swiping](https://gadgeteer.co.za/its-time-to-stop-using-three-button-navigation-on-android-stop-tapping-and-start-swiping/)
-- [Woman rides solo from Spain across Africa to Cape Town, on a CAKE electric motorcycle](https://gadgeteer.co.za/woman-rides-solo-from-spain-across-africa-to-cape-town-on-a-cake-electric-motorcycle/)
 <!-- BLOG-POST-LIST:END -->
 
 
