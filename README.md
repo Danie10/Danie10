@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Red Dead Redemption 2 running well on Manjaro Linux with Steam Games and Proton compatibility layer](https://gadgeteer.co.za/red-dead-redemption-2-running-well-on-manjaro-linux-with-steam-games-and-proton-compatibility-layer/)
 - [This fungus might be able to replace plastic parts for electronics, vehicles, and sports equipment](https://gadgeteer.co.za/this-fungus-might-be-able-to-replace-plastic-parts-for-electronics-vehicles-and-sports-equipment/)
 - [Apple’s Noninvasive Blood Glucose Technology for Future Apple Watch Reaches ‘Proof-of Concept’ Stage](https://gadgeteer.co.za/apples-noninvasive-blood-glucose-technology-for-future-apple-watch-reaches-proof-of-concept-stage/)
 - [Samsung says users will be able to clone their voice to respond to phone calls](https://gadgeteer.co.za/samsung-says-users-will-be-able-to-clone-their-voice-to-respond-to-phone-calls/)
 - [Raspberry Pi Foundation launches $12 USB Debug Probe for Pi Pico &lpar;and possibly other devices&rpar;](https://gadgeteer.co.za/raspberry-pi-foundation-launches-12-usb-debug-probe-for-pi-pico-and-possibly-other-devices/)
-- [Please Stop Making New Smartphones Every Year: New devices would be Better, and Older Models wouldn’t be Forgotten so Fast](https://gadgeteer.co.za/please-stop-making-new-smartphones-every-year-new-devices-would-be-better-and-older-models-wouldnt-be-forgotten-so-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 
