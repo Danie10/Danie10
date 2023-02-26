@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FOSSDA: Preserving the history of open-source and free software](https://gadgeteer.co.za/fossda-preserving-the-history-of-open-source-and-free-software/)
 - [Motorola brings $5-a-month satellite two-way text messaging to any phone with new hotspot](https://gadgeteer.co.za/motorola-brings-5-a-month-satellite-two-way-text-messaging-to-any-phone-with-new-hotspot/)
 - [The Verge’s list of the best free &lpar;or low-cost&rpar; tools for video editors &lpar;mostly cross-platform&rpar;](https://gadgeteer.co.za/the-verges-list-of-the-best-free-or-low-cost-tools-for-video-editors-mostly-cross-platform/)
 - [Red Dead Redemption 2 running well on Manjaro Linux with Steam Games and Proton compatibility layer](https://gadgeteer.co.za/red-dead-redemption-2-running-well-on-manjaro-linux-with-steam-games-and-proton-compatibility-layer/)
 - [This fungus might be able to replace plastic parts for electronics, vehicles, and sports equipment](https://gadgeteer.co.za/this-fungus-might-be-able-to-replace-plastic-parts-for-electronics-vehicles-and-sports-equipment/)
-- [Apple’s Noninvasive Blood Glucose Technology for Future Apple Watch Reaches ‘Proof-of Concept’ Stage](https://gadgeteer.co.za/apples-noninvasive-blood-glucose-technology-for-future-apple-watch-reaches-proof-of-concept-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 
