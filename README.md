@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipboard Is Now a Mastodon ‘App’ – Will have Mastodon Feeds like it had Twitter feeds before](https://gadgeteer.co.za/flipboard-is-now-a-mastodon-app-will-have-mastodon-feeds-like-it-had-twitter-feeds-before/)
 - [Stream live video from webcams with a Raspberry Pi and restream videos to social networks](https://gadgeteer.co.za/stream-live-video-from-webcams-with-a-raspberry-pi-and-restream-videos-to-social-networks/)
 - [Google adds client-side encryption to Gmail and Calendar. Should you care? Spoiler: Probably Not](https://gadgeteer.co.za/google-adds-client-side-encryption-to-gmail-and-calendar-should-you-care-spoiler-probably-not/)
 - [Twitter’s decentralised alternative Bluesky arrives as an invite-only iOS app, but does it connect to other networks?](https://gadgeteer.co.za/twitters-decentralised-alternative-bluesky-arrives-as-an-invite-only-ios-app-but-does-it-connect-to-other-networks/)
 - [Chrome Beta is showing off new Topics-based privacy settings for Google’s solution to replace cookies](https://gadgeteer.co.za/chrome-beta-is-showing-off-new-topics-based-privacy-settings-for-googles-solution-to-replace-cookies/)
-- [FOSSDA: Preserving the history of open-source and free software](https://gadgeteer.co.za/fossda-preserving-the-history-of-open-source-and-free-software/)
 <!-- BLOG-POST-LIST:END -->
 
 
