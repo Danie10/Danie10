@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stream live video from webcams with a Raspberry Pi and restream videos to social networks](https://gadgeteer.co.za/stream-live-video-from-webcams-with-a-raspberry-pi-and-restream-videos-to-social-networks/)
+- [Google adds client-side encryption to Gmail and Calendar. Should you care? Spoiler: Probably Not](https://gadgeteer.co.za/google-adds-client-side-encryption-to-gmail-and-calendar-should-you-care-spoiler-probably-not/)
 - [Twitter’s decentralised alternative Bluesky arrives as an invite-only iOS app, but does it connect to other networks?](https://gadgeteer.co.za/twitters-decentralised-alternative-bluesky-arrives-as-an-invite-only-ios-app-but-does-it-connect-to-other-networks/)
 - [Chrome Beta is showing off new Topics-based privacy settings for Google’s solution to replace cookies](https://gadgeteer.co.za/chrome-beta-is-showing-off-new-topics-based-privacy-settings-for-googles-solution-to-replace-cookies/)
 - [FOSSDA: Preserving the history of open-source and free software](https://gadgeteer.co.za/fossda-preserving-the-history-of-open-source-and-free-software/)
-- [Motorola brings $5-a-month satellite two-way text messaging to any phone with new hotspot](https://gadgeteer.co.za/motorola-brings-5-a-month-satellite-two-way-text-messaging-to-any-phone-with-new-hotspot/)
-- [The Verge’s list of the best free &lpar;or low-cost&rpar; tools for video editors &lpar;mostly cross-platform&rpar;](https://gadgeteer.co.za/the-verges-list-of-the-best-free-or-low-cost-tools-for-video-editors-mostly-cross-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 
