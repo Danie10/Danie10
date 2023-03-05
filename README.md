@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LastPass’ breach could’ve been stopped with a 3-year-old Plex update: Demonstrates danger of remote users not updating their systems](https://gadgeteer.co.za/lastpass-breach-couldve-been-stopped-with-a-3-year-old-plex-update-demonstrates-danger-of-remote-users-not-updating-their-systems/)
+- [Inspect the RF realm with augmented reality &lpar;AR&rpar; and a tinySA pocket-sized spectrum analyser](https://gadgeteer.co.za/inspect-the-rf-realm-with-augmented-reality-ar-and-a-tinysa-pocket-sized-spectrum-analyser/)
 - [Nextcloud announces it has a SharePoint replacement ready for production use, and that Deutsche Telekom has made Nextcloud Office available to their users of MagentaCLOUD](https://gadgeteer.co.za/nextcloud-announces-it-has-a-sharepoint-replacement-ready-for-production-use-and-that-deutsche-telekom-has-made-nextcloud-office-available-to-their-users-of-magentacloud/)
 - [Simon’s Town historic 9-inch rifled muzzle loading cannon &lpar;RML&rpar; will fire 5 times during 2023 in Cape Town](https://gadgeteer.co.za/simons-town-historic-9-inch-rifled-muzzle-loading-cannon-rml-will-fire-5-times-during-2023-in-cape-town/)
 - [I’m using the PowerToYou widget to show battery levels across iOS as well as Android devices](https://gadgeteer.co.za/im-using-the-powertoyou-widget-to-show-battery-levels-across-ios-as-well-as-android-devices/)
-- [Proton VPN now has an official browser extension &lpar;Chromium and Firefox&rpar; without requiring desktop app installation](https://gadgeteer.co.za/proton-vpn-now-has-an-official-browser-extension-chromium-and-firefox-without-requiring-desktop-app-installation/)
-- [Google Drive PDF Annotations is Live, and Magic Eraser feature for all Google One Subscribers](https://gadgeteer.co.za/google-drive-pdf-annotations-is-live-and-magic-eraser-feature-for-all-google-one-subscribers/)
 <!-- BLOG-POST-LIST:END -->
 
 
