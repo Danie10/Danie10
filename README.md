@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Audible and Beyond: A Guide to the Best Audiobook Services](https://gadgeteer.co.za/audible-and-beyond-a-guide-to-the-best-audiobook-services/)
 - [LastPass’ breach could’ve been stopped with a 3-year-old Plex update: Demonstrates danger of remote users not updating their systems](https://gadgeteer.co.za/lastpass-breach-couldve-been-stopped-with-a-3-year-old-plex-update-demonstrates-danger-of-remote-users-not-updating-their-systems/)
 - [Inspect the RF realm with augmented reality &lpar;AR&rpar; and a tinySA pocket-sized spectrum analyser](https://gadgeteer.co.za/inspect-the-rf-realm-with-augmented-reality-ar-and-a-tinysa-pocket-sized-spectrum-analyser/)
 - [Nextcloud announces it has a SharePoint replacement ready for production use, and that Deutsche Telekom has made Nextcloud Office available to their users of MagentaCLOUD](https://gadgeteer.co.za/nextcloud-announces-it-has-a-sharepoint-replacement-ready-for-production-use-and-that-deutsche-telekom-has-made-nextcloud-office-available-to-their-users-of-magentacloud/)
 - [Simon’s Town historic 9-inch rifled muzzle loading cannon &lpar;RML&rpar; will fire 5 times during 2023 in Cape Town](https://gadgeteer.co.za/simons-town-historic-9-inch-rifled-muzzle-loading-cannon-rml-will-fire-5-times-during-2023-in-cape-town/)
-- [I’m using the PowerToYou widget to show battery levels across iOS as well as Android devices](https://gadgeteer.co.za/im-using-the-powertoyou-widget-to-show-battery-levels-across-ios-as-well-as-android-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 
