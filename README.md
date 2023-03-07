@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analytico investigation: Data worth thousands disappearing from South Africa’s Cell C SIMs even when mobile data is disabled](https://gadgeteer.co.za/analytico-investigation-data-worth-thousands-disappearing-from-south-africas-cell-c-sims-even-when-mobile-data-is-disabled/)
 - [Beloved iOS app GoodNotes finally comes to Android, now in beta](https://gadgeteer.co.za/beloved-ios-app-goodnotes-finally-comes-to-android-now-in-beta/)
 - [Moon “mode” photo taken on my Samsung Galaxy S23 Ultra](https://gadgeteer.co.za/moon-mode-photo-taken-on-my-samsung-galaxy-s23-ultra/)
 - [OBS Studio Movable Pointer Overlay For Superimposed Images Or Videos](https://gadgeteer.co.za/obs-studio-movable-pointer-overlay-for-superimposed-images-or-videos/)
 - [Audible and Beyond: A Guide to the Best Audiobook Services](https://gadgeteer.co.za/audible-and-beyond-a-guide-to-the-best-audiobook-services/)
-- [LastPass’ breach could’ve been stopped with a 3-year-old Plex update: Demonstrates danger of remote users not updating their systems](https://gadgeteer.co.za/lastpass-breach-couldve-been-stopped-with-a-3-year-old-plex-update-demonstrates-danger-of-remote-users-not-updating-their-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 
