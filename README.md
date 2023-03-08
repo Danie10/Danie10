@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you’re really BRAVE you can upgrade the RAM on your Raspberry Pi 4 to 8 GB](https://gadgeteer.co.za/if-youre-really-brave-you-can-upgrade-the-ram-on-your-raspberry-pi-4-to-8-gb/)
 - [Satellite Internet packages in South Africa — Speeds and prices compared](https://gadgeteer.co.za/satellite-internet-packages-in-south-africa-speeds-and-prices-compared/)
 - [Analytico investigation: Data worth thousands disappearing from South Africa’s Cell C SIMs even when mobile data is disabled](https://gadgeteer.co.za/analytico-investigation-data-worth-thousands-disappearing-from-south-africas-cell-c-sims-even-when-mobile-data-is-disabled/)
 - [Beloved iOS app GoodNotes finally comes to Android, now in beta](https://gadgeteer.co.za/beloved-ios-app-goodnotes-finally-comes-to-android-now-in-beta/)
 - [Moon “mode” photo taken on my Samsung Galaxy S23 Ultra](https://gadgeteer.co.za/moon-mode-photo-taken-on-my-samsung-galaxy-s23-ultra/)
-- [OBS Studio Movable Pointer Overlay For Superimposed Images Or Videos](https://gadgeteer.co.za/obs-studio-movable-pointer-overlay-for-superimposed-images-or-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 
