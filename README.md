@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Countries &lpar;including 1st World&rpar; Censor and Control the Internet](https://gadgeteer.co.za/how-countries-including-1st-world-censor-and-control-the-internet/)
+- [Red Dead Redemption 2 Available at One of Its Lowest Prices Ever &lpar;$19.79&rpar; for Limited Time until 15 March 2023](https://gadgeteer.co.za/red-dead-redemption-2-available-at-one-of-its-lowest-prices-ever-19-79-for-limited-time-until-15-march-2023/)
 - [How-To Geek Tested: Should You Unplug Chargers When You’re Not Using Them?](https://gadgeteer.co.za/how-to-geek-tested-should-you-unplug-chargers-when-youre-not-using-them/)
 - [How to Electronically Sign PDF Documents Across Various OSs, Without Printing and Scanning Them](https://gadgeteer.co.za/how-to-electronically-sign-pdf-documents-across-various-oss-without-printing-and-scanning-them/)
 - [Stranded motorist effects own rescue by attaching his phone to a drone and sending it up to higher altitude](https://gadgeteer.co.za/stranded-motorist-effects-own-rescue-by-attaching-his-phone-to-a-drone-and-sending-it-up-to-higher-altitude/)
-- [If you’re really BRAVE you can upgrade the RAM on your Raspberry Pi 4 to 8 GB](https://gadgeteer.co.za/if-youre-really-brave-you-can-upgrade-the-ram-on-your-raspberry-pi-4-to-8-gb/)
-- [Satellite Internet packages in South Africa — Speeds and prices compared](https://gadgeteer.co.za/satellite-internet-packages-in-south-africa-speeds-and-prices-compared/)
 <!-- BLOG-POST-LIST:END -->
 
 
