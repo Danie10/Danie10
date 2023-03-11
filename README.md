@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Python to make an API for monitoring your Raspberry Pi hardware and build a dashboard with Appsmith](https://gadgeteer.co.za/use-python-to-make-an-api-for-monitoring-your-raspberry-pi-hardware-and-build-a-dashboard-with-appsmith/)
+- [Momendum Dash extension: Transform your New Tab page into a focused, productive, and inspiring dashboard for Chromium, Firefox and Safari](https://gadgeteer.co.za/momendum-dash-extension-transform-your-new-tab-page-into-a-focused-productive-and-inspiring-dashboard-for-chromium-firefox-and-safari/)
 - [AM Radio is already being phased out of some new vehicles, and that is very bad for Emergency Broadcasts and Disaster Management](https://gadgeteer.co.za/am-radio-is-already-being-phased-out-of-some-new-vehicles-and-that-is-very-bad-for-emergency-broadcasts-and-disaster-management/)
 - [US National Security Agency issues a good Best Practices for Securing Your Home Network Guide](https://gadgeteer.co.za/us-national-security-agency-issues-a-good-best-practices-for-securing-your-home-network-guide/)
 - [How to paste signatures into PDFs using Okular Document Viewer](https://gadgeteer.co.za/how-to-paste-signatures-into-pdfs-using-okular-document-viewer/)
-- [How Countries &lpar;including 1st World&rpar; Censor and Control the Internet](https://gadgeteer.co.za/how-countries-including-1st-world-censor-and-control-the-internet/)
-- [Red Dead Redemption 2 Available at One of Its Lowest Prices Ever &lpar;$19.79&rpar; for Limited Time until 15 March 2023](https://gadgeteer.co.za/red-dead-redemption-2-available-at-one-of-its-lowest-prices-ever-19-79-for-limited-time-until-15-march-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
