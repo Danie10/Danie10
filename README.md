@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DisplayCAL is a display calibration and profiling solution that works on Windows, macOS and Linux](https://gadgeteer.co.za/displaycal-is-a-display-calibration-and-profiling-solution-that-works-on-windows-macos-and-linux/)
 - [Send Files Securely Over The Local Network With Open Source Cross-Platform LocalSend App As An Alternative to AirDrop](https://gadgeteer.co.za/send-files-securely-over-the-local-network-with-open-source-cross-platform-localsend-app-as-an-alternative-to-airdrop/)
 - [How to convert VHS videotape to 60 fps digital video and no jagged lines](https://gadgeteer.co.za/how-to-convert-vhs-videotape-to-60-fps-digital-video-and-no-jagged-lines/)
 - [Use Python to make an API for monitoring your Raspberry Pi hardware and build a dashboard with Appsmith](https://gadgeteer.co.za/use-python-to-make-an-api-for-monitoring-your-raspberry-pi-hardware-and-build-a-dashboard-with-appsmith/)
 - [Momendum Dash extension: Transform your New Tab page into a focused, productive, and inspiring dashboard for Chromium, Firefox and Safari](https://gadgeteer.co.za/momendum-dash-extension-transform-your-new-tab-page-into-a-focused-productive-and-inspiring-dashboard-for-chromium-firefox-and-safari/)
-- [AM Radio is already being phased out of some new vehicles, and that is very bad for Emergency Broadcasts and Disaster Management](https://gadgeteer.co.za/am-radio-is-already-being-phased-out-of-some-new-vehicles-and-that-is-very-bad-for-emergency-broadcasts-and-disaster-management/)
 <!-- BLOG-POST-LIST:END -->
 
 
