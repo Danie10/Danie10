@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to convert VHS videotape to 60 fps digital video and no jagged lines](https://gadgeteer.co.za/how-to-convert-vhs-videotape-to-60-fps-digital-video-and-no-jagged-lines/)
 - [Use Python to make an API for monitoring your Raspberry Pi hardware and build a dashboard with Appsmith](https://gadgeteer.co.za/use-python-to-make-an-api-for-monitoring-your-raspberry-pi-hardware-and-build-a-dashboard-with-appsmith/)
 - [Momendum Dash extension: Transform your New Tab page into a focused, productive, and inspiring dashboard for Chromium, Firefox and Safari](https://gadgeteer.co.za/momendum-dash-extension-transform-your-new-tab-page-into-a-focused-productive-and-inspiring-dashboard-for-chromium-firefox-and-safari/)
 - [AM Radio is already being phased out of some new vehicles, and that is very bad for Emergency Broadcasts and Disaster Management](https://gadgeteer.co.za/am-radio-is-already-being-phased-out-of-some-new-vehicles-and-that-is-very-bad-for-emergency-broadcasts-and-disaster-management/)
 - [US National Security Agency issues a good Best Practices for Securing Your Home Network Guide](https://gadgeteer.co.za/us-national-security-agency-issues-a-good-best-practices-for-securing-your-home-network-guide/)
-- [How to paste signatures into PDFs using Okular Document Viewer](https://gadgeteer.co.za/how-to-paste-signatures-into-pdfs-using-okular-document-viewer/)
 <!-- BLOG-POST-LIST:END -->
 
 
