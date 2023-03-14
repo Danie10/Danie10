@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source Android Mirroring App Scrcpy v2.0 Adds Audio Support](https://gadgeteer.co.za/open-source-android-mirroring-app-scrcpy-v2-0-adds-audio-support/)
 - [Betamax vs VHS Again? Digital Radio Has A Number Of Broadcasting Standards Globally](https://gadgeteer.co.za/betamax-vs-vhs-again-digital-radio-has-a-number-of-broadcasting-standards-globally/)
 - [Bird deaths down 70 percent after painting wind turbine blades – The study ran for nine years at Norway’s Smøla wind farm](https://gadgeteer.co.za/bird-deaths-down-70-percent-after-painting-wind-turbine-blades-the-study-ran-for-nine-years-at-norways-smola-wind-farm/)
 - [DisplayCAL is a display calibration and profiling solution that works on Windows, macOS and Linux](https://gadgeteer.co.za/displaycal-is-a-display-calibration-and-profiling-solution-that-works-on-windows-macos-and-linux/)
 - [Send Files Securely Over The Local Network With Open Source Cross-Platform LocalSend App As An Alternative to AirDrop](https://gadgeteer.co.za/send-files-securely-over-the-local-network-with-open-source-cross-platform-localsend-app-as-an-alternative-to-airdrop/)
-- [How to convert VHS videotape to 60 fps digital video and no jagged lines](https://gadgeteer.co.za/how-to-convert-vhs-videotape-to-60-fps-digital-video-and-no-jagged-lines/)
 <!-- BLOG-POST-LIST:END -->
 
 
