@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Every Photo You Take Is “Fake” And Why It Is Not A Big Deal](https://gadgeteer.co.za/why-every-photo-you-take-is-fake-and-why-it-is-not-a-big-deal/)
 - [Google ARCore: Everything you need to know about the Augmented Reality platform that works on most phones without special hardware](https://gadgeteer.co.za/google-arcore-everything-you-need-to-know-about-the-augmented-reality-platform-that-works-on-most-phones-without-special-hardware/)
 - [Pocket-Sized Thermal Imager using a $70 MLX90640 sensor](https://gadgeteer.co.za/pocket-sized-thermal-imager-using-a-70-mlx90640-sensor/)
 - [Amazon targets 2024 for launch of Starlink rival called Project Kuiper: Amazon Shopping will be Global](https://gadgeteer.co.za/amazon-targets-2024-for-launch-of-starlink-rival-called-project-kuiper-amazon-shopping-will-be-global/)
 - [Open-Source Android Mirroring App Scrcpy v2.0 Adds Audio Support](https://gadgeteer.co.za/open-source-android-mirroring-app-scrcpy-v2-0-adds-audio-support/)
-- [Betamax vs VHS Again? Digital Radio Has A Number Of Broadcasting Standards Globally](https://gadgeteer.co.za/betamax-vs-vhs-again-digital-radio-has-a-number-of-broadcasting-standards-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 
