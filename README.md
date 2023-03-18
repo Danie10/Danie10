@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ActivityPub plugin now owned by WordPress: Fediverse users can follow your WP blog posts from Mastodon and other Fediverse social networks](https://gadgeteer.co.za/activitypub-plugin-now-owned-by-wordpress-fediverse-users-can-follow-your-wp-blog-posts-from-mastodon-and-other-fediverse-social-networks/)
 - [Photographer Portfolios are live on Pixelfed photo sharing social network](https://gadgeteer.co.za/photographer-portfolios-are-live-on-pixelfed-photo-sharing-social-network/)
 - [How I’m using Make &lpar;Integromat&rpar; to automate my blog posting to 8 different social network profiles](https://gadgeteer.co.za/how-im-using-make-integromat-to-automate-my-blog-posting-to-8-different-social-network-profiles/)
 - [Why Every Photo You Take Is “Fake” And Why It Is Not A Big Deal](https://gadgeteer.co.za/why-every-photo-you-take-is-fake-and-why-it-is-not-a-big-deal/)
 - [Google ARCore: Everything you need to know about the Augmented Reality platform that works on most phones without special hardware](https://gadgeteer.co.za/google-arcore-everything-you-need-to-know-about-the-augmented-reality-platform-that-works-on-most-phones-without-special-hardware/)
-- [Pocket-Sized Thermal Imager using a $70 MLX90640 sensor](https://gadgeteer.co.za/pocket-sized-thermal-imager-using-a-70-mlx90640-sensor/)
 <!-- BLOG-POST-LIST:END -->
 
 
