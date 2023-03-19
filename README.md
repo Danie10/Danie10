@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do ordinary consumers opt out of phone calls recorded by businesses and call centres?](https://gadgeteer.co.za/how-do-ordinary-consumers-opt-out-of-phone-calls-recorded-by-businesses-and-call-centres/)
 - [How to set a Good Morning Routine for Samsung and other Android Phones](https://gadgeteer.co.za/how-to-set-a-good-morning-routine-for-samsung-and-other-android-phones/)
 - [ActivityPub plugin now owned by WordPress: Fediverse users can follow your WP blog posts from Mastodon and other Fediverse social networks](https://gadgeteer.co.za/activitypub-plugin-now-owned-by-wordpress-fediverse-users-can-follow-your-wp-blog-posts-from-mastodon-and-other-fediverse-social-networks/)
 - [Photographer Portfolios are live on Pixelfed photo sharing social network](https://gadgeteer.co.za/photographer-portfolios-are-live-on-pixelfed-photo-sharing-social-network/)
 - [How I’m using Make &lpar;Integromat&rpar; to automate my blog posting to 8 different social network profiles](https://gadgeteer.co.za/how-im-using-make-integromat-to-automate-my-blog-posting-to-8-different-social-network-profiles/)
-- [Why Every Photo You Take Is “Fake” And Why It Is Not A Big Deal](https://gadgeteer.co.za/why-every-photo-you-take-is-fake-and-why-it-is-not-a-big-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 
