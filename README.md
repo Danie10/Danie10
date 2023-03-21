@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Be Using More Web Apps on Your Phone](https://gadgeteer.co.za/why-you-should-be-using-more-web-apps-on-your-phone/)
 - [LocalSend – Video about Open Source Cross-Platform App that Securely Transfers Files and Text on Local Network](https://gadgeteer.co.za/localsend-video-about-open-source-cross-platform-app-that-securely-transfers-files-and-text-on-local-network/)
 - [How to Create a Systemd Service in Linux](https://gadgeteer.co.za/how-to-create-a-systemd-service-in-linux/)
 - [1Password, Dashlane, LastPass, and now also NordPass, already have support for Passkeys](https://gadgeteer.co.za/1password-dashlane-lastpass-and-now-also-nordpass-already-have-support-for-passkeys/)
 - [How do ordinary consumers opt out of phone calls recorded by businesses and call centres?](https://gadgeteer.co.za/how-do-ordinary-consumers-opt-out-of-phone-calls-recorded-by-businesses-and-call-centres/)
-- [How to set a Good Morning Routine for Samsung and other Android Phones](https://gadgeteer.co.za/how-to-set-a-good-morning-routine-for-samsung-and-other-android-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 
