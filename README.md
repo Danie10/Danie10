@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Variables in Python: High Level Concepts with Easy Examples, applicable to most other Languages too](https://gadgeteer.co.za/variables-in-python-high-level-concepts-with-easy-examples-applicable-to-most-other-languages-too/)
 - [DIY Weather Stations are an ideal way to spark an interest in Science for Learners](https://gadgeteer.co.za/diy-weather-stations-are-an-ideal-way-to-spark-an-interest-in-science-for-learners/)
 - [Amazon layoffs will shut down camera review site DPReview.com after 25 years](https://gadgeteer.co.za/amazon-layoffs-will-shut-down-camera-review-site-dpreview-com-after-25-years/)
 - [Why You Should Be Using More Web Apps on Your Phone](https://gadgeteer.co.za/why-you-should-be-using-more-web-apps-on-your-phone/)
 - [LocalSend – Video about Open Source Cross-Platform App that Securely Transfers Files and Text on Local Network](https://gadgeteer.co.za/localsend-video-about-open-source-cross-platform-app-that-securely-transfers-files-and-text-on-local-network/)
-- [How to Create a Systemd Service in Linux](https://gadgeteer.co.za/how-to-create-a-systemd-service-in-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
