@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [We need browser profile primary password logins to help prevent session hijacking](https://gadgeteer.co.za/we-need-browser-profile-primary-password-logins-to-help-prevent-session-hijacking/)
 - [Orange Pi 5, starting from $88, Is A Great &amp; Very Fast Alternative To The Raspberry Pi 4](https://gadgeteer.co.za/orange-pi-5-starting-from-88-is-a-great-very-fast-alternative-to-the-raspberry-pi-4/)
 - [Variables in Python: High Level Concepts with Easy Examples, applicable to most other Languages too](https://gadgeteer.co.za/variables-in-python-high-level-concepts-with-easy-examples-applicable-to-most-other-languages-too/)
 - [DIY Weather Stations are an ideal way to spark an interest in Science for Learners](https://gadgeteer.co.za/diy-weather-stations-are-an-ideal-way-to-spark-an-interest-in-science-for-learners/)
 - [Amazon layoffs will shut down camera review site DPReview.com after 25 years](https://gadgeteer.co.za/amazon-layoffs-will-shut-down-camera-review-site-dpreview-com-after-25-years/)
-- [Why You Should Be Using More Web Apps on Your Phone](https://gadgeteer.co.za/why-you-should-be-using-more-web-apps-on-your-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 
