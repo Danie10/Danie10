@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MyBroadband Review: Best online tech stores in South Africa excluding the big players](https://gadgeteer.co.za/mybroadband-review-best-online-tech-stores-in-south-africa-excluding-the-big-players/)
 - [Loadshedding trashed my server’s primary and backup data drives: This is how I recovered them using TestDisk](https://gadgeteer.co.za/loadshedding-trashed-my-servers-primary-and-backup-data-drives-this-is-how-i-recovered-them-using-testdisk/)
 - [Inaudible ultrasound attack can stealthily control your phone, smart speaker](https://gadgeteer.co.za/inaudible-ultrasound-attack-can-stealthily-control-your-phone-smart-speaker/)
 - [Recreating Theremin’s Bug: How the Soviet Union Spied on the US Embassy for 7 Years](https://gadgeteer.co.za/recreating-theremins-bug-how-the-soviet-union-spied-on-the-us-embassy-for-7-years/)
 - [The Best AI Image Generators You Can Use Right Now](https://gadgeteer.co.za/the-best-ai-image-generators-you-can-use-right-now/)
-- [Gillette still sells Safety Razors but you don’t need to buy Gillette blades for it](https://gadgeteer.co.za/gillette-still-sells-safety-razors-but-you-dont-need-to-buy-gillette-blades-for-it/)
 <!-- BLOG-POST-LIST:END -->
 
 
