@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Magic Eraser vs Samsung Object Eraser: Which does it better?](https://gadgeteer.co.za/google-magic-eraser-vs-samsung-object-eraser-which-does-it-better/)
 - [Why You Should Use a Password Manager Instead of Browser-Based Ones, and How to Get Started](https://gadgeteer.co.za/why-you-should-use-a-password-manager-instead-of-browser-based-ones-and-how-to-get-started/)
 - [MyBroadband Review: Best online tech stores in South Africa excluding the big players](https://gadgeteer.co.za/mybroadband-review-best-online-tech-stores-in-south-africa-excluding-the-big-players/)
 - [Loadshedding trashed my server’s primary and backup data drives: This is how I recovered them using TestDisk](https://gadgeteer.co.za/loadshedding-trashed-my-servers-primary-and-backup-data-drives-this-is-how-i-recovered-them-using-testdisk/)
 - [Inaudible ultrasound attack can stealthily control your phone, smart speaker](https://gadgeteer.co.za/inaudible-ultrasound-attack-can-stealthily-control-your-phone-smart-speaker/)
-- [Recreating Theremin’s Bug: How the Soviet Union Spied on the US Embassy for 7 Years](https://gadgeteer.co.za/recreating-theremins-bug-how-the-soviet-union-spied-on-the-us-embassy-for-7-years/)
 <!-- BLOG-POST-LIST:END -->
 
 
