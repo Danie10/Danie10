@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flyme Auto: The New Kid on the Block That Puts Android and CarPlay to Shame but needs Car Manufacturers to install it](https://gadgeteer.co.za/flyme-auto-the-new-kid-on-the-block-that-puts-android-and-carplay-to-shame-but-needs-car-manufacturers-to-install-it/)
 - [Prototype sugar-powered teabag-like implant successfully manages type 1 diabetes in mice](https://gadgeteer.co.za/prototype-sugar-powered-teabag-like-implant-successfully-manages-type-1-diabetes-in-mice/)
 - [Visit to Spice Route Destination and De Villiers Chocolate outside Cape Town](https://gadgeteer.co.za/visit-to-spice-route-destination-and-de-villiers-chocolate-outside-cape-town/)
 - [11 Best Open Source Note-Taking Apps for Linux &lpar;and many are Cross-Platform&rpar;](https://gadgeteer.co.za/11-best-open-source-note-taking-apps-for-linux-and-many-are-cross-platform/)
 - [Google Magic Eraser vs Samsung Object Eraser: Which does it better?](https://gadgeteer.co.za/google-magic-eraser-vs-samsung-object-eraser-which-does-it-better/)
-- [Why You Should Use a Password Manager Instead of Browser-Based Ones, and How to Get Started](https://gadgeteer.co.za/why-you-should-use-a-password-manager-instead-of-browser-based-ones-and-how-to-get-started/)
 <!-- BLOG-POST-LIST:END -->
 
 
