@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Audio Beamforming?](https://gadgeteer.co.za/what-is-audio-beamforming/)
+- [Mullvad browser : The Tor Project’s new privacy-focused browser doesn’t use the Tor network, but VPNs instead](https://gadgeteer.co.za/mullvad-browser-the-tor-projects-new-privacy-focused-browser-doesnt-use-the-tor-network-but-vpns-instead/)
 - [5 of the Best Steganography Tools in Linux: Hiding information inside other innocent files](https://gadgeteer.co.za/5-of-the-best-steganography-tools-in-linux-hiding-information-inside-other-innocent-files/)
 - [Flyme Auto: The New Kid on the Block That Puts Android and CarPlay to Shame but needs Car Manufacturers to install it](https://gadgeteer.co.za/flyme-auto-the-new-kid-on-the-block-that-puts-android-and-carplay-to-shame-but-needs-car-manufacturers-to-install-it/)
 - [Prototype sugar-powered teabag-like implant successfully manages type 1 diabetes in mice](https://gadgeteer.co.za/prototype-sugar-powered-teabag-like-implant-successfully-manages-type-1-diabetes-in-mice/)
-- [Visit to Spice Route Destination and De Villiers Chocolate outside Cape Town](https://gadgeteer.co.za/visit-to-spice-route-destination-and-de-villiers-chocolate-outside-cape-town/)
-- [11 Best Open Source Note-Taking Apps for Linux &lpar;and many are Cross-Platform&rpar;](https://gadgeteer.co.za/11-best-open-source-note-taking-apps-for-linux-and-many-are-cross-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 
