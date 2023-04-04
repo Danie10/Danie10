@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IBM’s iconic Model F recreated for modern computers](https://gadgeteer.co.za/ibms-iconic-model-f-recreated-for-modern-computers/)
 - [What Is Audio Beamforming?](https://gadgeteer.co.za/what-is-audio-beamforming/)
 - [Mullvad browser : The Tor Project’s new privacy-focused browser doesn’t use the Tor network, but VPNs instead](https://gadgeteer.co.za/mullvad-browser-the-tor-projects-new-privacy-focused-browser-doesnt-use-the-tor-network-but-vpns-instead/)
 - [5 of the Best Steganography Tools in Linux: Hiding information inside other innocent files](https://gadgeteer.co.za/5-of-the-best-steganography-tools-in-linux-hiding-information-inside-other-innocent-files/)
 - [Flyme Auto: The New Kid on the Block That Puts Android and CarPlay to Shame but needs Car Manufacturers to install it](https://gadgeteer.co.za/flyme-auto-the-new-kid-on-the-block-that-puts-android-and-carplay-to-shame-but-needs-car-manufacturers-to-install-it/)
-- [Prototype sugar-powered teabag-like implant successfully manages type 1 diabetes in mice](https://gadgeteer.co.za/prototype-sugar-powered-teabag-like-implant-successfully-manages-type-1-diabetes-in-mice/)
 <!-- BLOG-POST-LIST:END -->
 
 
