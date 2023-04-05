@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Great War: Western Front – A new and very realistic WW1 strategy game](https://gadgeteer.co.za/the-great-war-western-front-a-new-and-very-realistic-ww1-strategy-game/)
 - [Sunbird is steaming forward to bring iMessage to Android, no hardware required, and with E2EE](https://gadgeteer.co.za/sunbird-is-steaming-forward-to-bring-imessage-to-android-no-hardware-required-and-with-e2ee/)
 - [Asus announced its ROG Ally, a Steam Deck-like handheld gaming PC, on April Fool’s Day](https://gadgeteer.co.za/asus-announced-its-rog-ally-a-steam-deck-like-handheld-gaming-pc-on-april-fools-day/)
 - [Kobo launches the Kobo Elipsa 2E, a 10.3″ e-reader you can also write on](https://gadgeteer.co.za/kobo-launches-the-kobo-elipsa-2e-a-10-3-e-reader-you-can-also-write-on/)
 - [South Africa’s Melon Mobile hands-on tested — self-service RICA and data that never expires](https://gadgeteer.co.za/south-africas-melon-mobile-hands-on-tested-self-service-rica-and-data-that-never-expires/)
-- [IBM’s iconic Model F recreated for modern computers](https://gadgeteer.co.za/ibms-iconic-model-f-recreated-for-modern-computers/)
 <!-- BLOG-POST-LIST:END -->
 
 
