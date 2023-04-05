@@ -34,7 +34,7 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 - [South Africa’s Melon Mobile hands-on tested — self-service RICA and data that never expires](https://gadgeteer.co.za/south-africas-melon-mobile-hands-on-tested-self-service-rica-and-data-that-never-expires/)
 - [IBM’s iconic Model F recreated for modern computers](https://gadgeteer.co.za/ibms-iconic-model-f-recreated-for-modern-computers/)
 - [What Is Audio Beamforming?](https://gadgeteer.co.za/what-is-audio-beamforming/)
-- [Mullvad browser : The Tor Project’s new privacy-focused browser doesn’t use the Tor network, but VPNs instead](https://gadgeteer.co.za/mullvad-browser-the-tor-projects-new-privacy-focused-browser-doesnt-use-the-tor-network-but-vpns-instead/)
+- [Mullvad browser : Mullvad and Tor Project’s new privacy-focused browser doesn’t use the Tor network, but VPNs instead](https://gadgeteer.co.za/mullvad-browser-the-tor-projects-new-privacy-focused-browser-doesnt-use-the-tor-network-but-vpns-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 
