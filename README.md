@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunbird is steaming forward to bring iMessage to Android, no hardware required, and with E2EE](https://gadgeteer.co.za/sunbird-is-steaming-forward-to-bring-imessage-to-android-no-hardware-required-and-with-e2ee/)
+- [Asus announced its ROG Ally, a Steam Deck-like handheld gaming PC, on April Fool’s Day](https://gadgeteer.co.za/asus-announced-its-rog-ally-a-steam-deck-like-handheld-gaming-pc-on-april-fools-day/)
 - [Kobo launches the Kobo Elipsa 2E, a 10.3″ e-reader you can also write on](https://gadgeteer.co.za/kobo-launches-the-kobo-elipsa-2e-a-10-3-e-reader-you-can-also-write-on/)
 - [South Africa’s Melon Mobile hands-on tested — self-service RICA and data that never expires](https://gadgeteer.co.za/south-africas-melon-mobile-hands-on-tested-self-service-rica-and-data-that-never-expires/)
 - [IBM’s iconic Model F recreated for modern computers](https://gadgeteer.co.za/ibms-iconic-model-f-recreated-for-modern-computers/)
-- [What Is Audio Beamforming?](https://gadgeteer.co.za/what-is-audio-beamforming/)
-- [Mullvad browser : Mullvad and Tor Project’s new privacy-focused browser doesn’t use the Tor network, but VPNs instead](https://gadgeteer.co.za/mullvad-browser-the-tor-projects-new-privacy-focused-browser-doesnt-use-the-tor-network-but-vpns-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 
