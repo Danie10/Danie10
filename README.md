@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kobo launches the Kobo Elipsa 2E, a 10.3″ e-reader you can also write on](https://gadgeteer.co.za/kobo-launches-the-kobo-elipsa-2e-a-10-3-e-reader-you-can-also-write-on/)
 - [South Africa’s Melon Mobile hands-on tested — self-service RICA and data that never expires](https://gadgeteer.co.za/south-africas-melon-mobile-hands-on-tested-self-service-rica-and-data-that-never-expires/)
 - [IBM’s iconic Model F recreated for modern computers](https://gadgeteer.co.za/ibms-iconic-model-f-recreated-for-modern-computers/)
 - [What Is Audio Beamforming?](https://gadgeteer.co.za/what-is-audio-beamforming/)
 - [Mullvad browser : The Tor Project’s new privacy-focused browser doesn’t use the Tor network, but VPNs instead](https://gadgeteer.co.za/mullvad-browser-the-tor-projects-new-privacy-focused-browser-doesnt-use-the-tor-network-but-vpns-instead/)
-- [5 of the Best Steganography Tools in Linux: Hiding information inside other innocent files](https://gadgeteer.co.za/5-of-the-best-steganography-tools-in-linux-hiding-information-inside-other-innocent-files/)
 <!-- BLOG-POST-LIST:END -->
 
 
