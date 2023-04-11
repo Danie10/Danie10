@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Buy a Wi-Fi Extender: Buy a Mesh Wi-Fi System Instead &lpar;if you can afford it&rpar;](https://gadgeteer.co.za/dont-buy-a-wi-fi-extender-buy-a-mesh-wi-fi-system-instead-if-you-can-afford-it/)
 - [Android is getting App Auto-Archiving, a bit like iOS has, but not manually controllable](https://gadgeteer.co.za/android-is-getting-app-auto-archiving-a-bit-like-ios-has-but-not-manually-controllable/)
 - [Revisiting Borland Turbo C/C++, A Great IDE back in the 90s](https://gadgeteer.co.za/revisiting-borland-turbo-c-c-a-great-ide-back-in-the-90s/)
 - [The Swap Club: This Company Saves Your AirPods From Planned Obsolescence](https://gadgeteer.co.za/the-swap-club-this-company-saves-your-airpods-from-planned-obsolescence/)
 - [The Great War: Western Front – A new and very realistic WW1 strategy game](https://gadgeteer.co.za/the-great-war-western-front-a-new-and-very-realistic-ww1-strategy-game/)
-- [Sunbird is steaming forward to bring iMessage to Android, no hardware required, and with E2EE](https://gadgeteer.co.za/sunbird-is-steaming-forward-to-bring-imessage-to-android-no-hardware-required-and-with-e2ee/)
 <!-- BLOG-POST-LIST:END -->
 
 
