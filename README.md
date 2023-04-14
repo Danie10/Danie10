@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dolly is a free, open source, ChatGPT-style AI model that could serve as a compelling starting point for homebrew ChatGPT competitors](https://gadgeteer.co.za/dolly-is-a-free-open-source-chatgpt-style-ai-model-that-could-serve-as-a-compelling-starting-point-for-homebrew-chatgpt-competitors/)
+- [Learn To Use Man Pages Efficiently In Linux: Effort To Change Muscle-Memory Can Be Beneficial](https://gadgeteer.co.za/learn-to-use-man-pages-efficiently-in-linux-effort-to-change-muscle-memory-can-be-beneficial/)
 - [OsmAnd is an open source navigation app based on OpenStreetMaps with speed bump and pedestrian crossing notifications](https://gadgeteer.co.za/osmand-is-an-open-source-navigation-app-based-on-openstreetmaps-with-speed-bump-and-pedestrian-crossing-notifications/)
 - [The Best DNS Servers for Secure Browsing](https://gadgeteer.co.za/the-best-dns-servers-for-secure-browsing/)
 - [Volvo Trucks South Africa Takes Its First Extra Heavy Electric Truck On A 600km Road Trip From Durban To Johannesburg](https://gadgeteer.co.za/volvo-trucks-south-africa-takes-its-first-extra-heavy-electric-truck-on-a-600km-road-trip-from-durban-to-johannesburg/)
-- [How to fake eye contact on Apple FaceTime: You’re probably using it already, as it should default to On](https://gadgeteer.co.za/how-to-fake-eye-contact-on-apple-facetime-youre-probably-using-it-already-as-it-should-default-to-on/)
-- [How to Use ‘fsck’ to Repair Linux File System Errors](https://gadgeteer.co.za/how-to-use-fsck-to-repair-linux-file-system-errors/)
 <!-- BLOG-POST-LIST:END -->
 
 
