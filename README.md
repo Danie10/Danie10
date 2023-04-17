@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Run Linux Commands in Background and Detach in Terminal, so that you can close the Terminal](https://gadgeteer.co.za/how-to-run-linux-commands-in-background-and-detach-in-terminal-so-that-you-can-close-the-terminal/)
 - [15 Electric cars that could also give load-shedding backup power: None available in South Africa though](https://gadgeteer.co.za/15-electric-cars-that-could-also-give-load-shedding-backup-power-none-available-in-south-africa-though/)
 - [Dolly is a free, open source, ChatGPT-style AI model that could serve as a compelling starting point for homebrew ChatGPT competitors](https://gadgeteer.co.za/dolly-is-a-free-open-source-chatgpt-style-ai-model-that-could-serve-as-a-compelling-starting-point-for-homebrew-chatgpt-competitors/)
 - [Learn To Use Man Pages Efficiently In Linux: Effort To Change Muscle-Memory Can Be Beneficial](https://gadgeteer.co.za/learn-to-use-man-pages-efficiently-in-linux-effort-to-change-muscle-memory-can-be-beneficial/)
 - [OsmAnd is an open source navigation app based on OpenStreetMaps with speed bump and pedestrian crossing notifications](https://gadgeteer.co.za/osmand-is-an-open-source-navigation-app-based-on-openstreetmaps-with-speed-bump-and-pedestrian-crossing-notifications/)
-- [The Best DNS Servers for Secure Browsing](https://gadgeteer.co.za/the-best-dns-servers-for-secure-browsing/)
 <!-- BLOG-POST-LIST:END -->
 
 
