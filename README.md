@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Proton launches an end-to-end encrypted password manager, but it’s going to have to handle passkeys](https://gadgeteer.co.za/proton-launches-an-end-to-end-encrypted-password-manager-but-its-going-to-have-to-handle-passkeys/)
 - [Samsung Finally Enables the Temperature Sensor on the Galaxy Watch 5: Use it to track menstruation and ovulation using the Samsung Health app](https://gadgeteer.co.za/samsung-finally-enables-the-temperature-sensor-on-the-galaxy-watch-5-use-it-to-track-menstruation-and-ovulation-using-the-samsung-health-app/)
 - [Samsung Galaxy Ring could one up Galaxy Watch in health tracking accuracy, and give Oura Ring a run for their money](https://gadgeteer.co.za/samsung-galaxy-ring-could-one-up-galaxy-watch-in-health-tracking-accuracy-and-give-oura-ring-a-run-for-their-money/)
 - [Classic Solitaire Klondike for Android and iOS is free without adverts](https://gadgeteer.co.za/classic-solitaire-klondike-for-android-and-ios-is-free-without-adverts/)
 - [How to Run Linux Commands in Background and Detach in Terminal, so that you can close the Terminal](https://gadgeteer.co.za/how-to-run-linux-commands-in-background-and-detach-in-terminal-so-that-you-can-close-the-terminal/)
-- [15 Electric cars that could also give load-shedding backup power: None available in South Africa though](https://gadgeteer.co.za/15-electric-cars-that-could-also-give-load-shedding-backup-power-none-available-in-south-africa-though/)
 <!-- BLOG-POST-LIST:END -->
 
 
