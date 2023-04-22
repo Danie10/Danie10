@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Streaming Services Might Be Better Than Netflix](https://gadgeteer.co.za/free-streaming-services-might-be-better-than-netflix/)
+- [The Sodium-Ion Battery Is Coming To Production EV Cars This Year, Such As The Chery iCAR](https://gadgeteer.co.za/the-sodium-ion-battery-is-coming-to-production-ev-cars-this-year-such-as-the-chery-icar/)
 - [Bluesky: Two months after its launch, Jack Dorsey’s Twitter alternative comes to Android](https://gadgeteer.co.za/bluesky-two-months-after-its-launch-jack-dorseys-twitter-alternative-comes-to-android/)
 - [Disaster alert accounts are preparing for a world after Twitter, due to the API limitations imposed](https://gadgeteer.co.za/disaster-alert-accounts-are-preparing-for-a-world-after-twitter-due-to-the-api-limitations-imposed/)
 - [Proton launches an end-to-end encrypted password manager, but it’s going to have to handle passkeys](https://gadgeteer.co.za/proton-launches-an-end-to-end-encrypted-password-manager-but-its-going-to-have-to-handle-passkeys/)
-- [Samsung Finally Enables the Temperature Sensor on the Galaxy Watch 5: Use it to track menstruation and ovulation using the Samsung Health app](https://gadgeteer.co.za/samsung-finally-enables-the-temperature-sensor-on-the-galaxy-watch-5-use-it-to-track-menstruation-and-ovulation-using-the-samsung-health-app/)
-- [Samsung Galaxy Ring could one up Galaxy Watch in health tracking accuracy, and give Oura Ring a run for their money](https://gadgeteer.co.za/samsung-galaxy-ring-could-one-up-galaxy-watch-in-health-tracking-accuracy-and-give-oura-ring-a-run-for-their-money/)
 <!-- BLOG-POST-LIST:END -->
 
 
