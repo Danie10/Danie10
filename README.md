@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Friendica social network can be installed via a Docker Container](https://gadgeteer.co.za/the-friendica-social-network-can-be-installed-via-a-docker-container/)
+- [Samsung’s AI-powered Galaxy Enhance-X image editing app now available for Galaxy S23, and soon for S22, S21, and A-series](https://gadgeteer.co.za/samsungs-ai-powered-galaxy-enhance-x-image-editing-app-now-available-for-galaxy-s23-and-soon-for-s22-s21-and-a-series/)
+- [Automatically Update Docker Container Images With Watchtower](https://gadgeteer.co.za/automatically-update-docker-container-images-with-watchtower/)
 - [Free Streaming Services Might Be Better Than Netflix](https://gadgeteer.co.za/free-streaming-services-might-be-better-than-netflix/)
 - [The Sodium-Ion Battery Is Coming To Production EV Cars This Year, Such As The Chery iCAR](https://gadgeteer.co.za/the-sodium-ion-battery-is-coming-to-production-ev-cars-this-year-such-as-the-chery-icar/)
-- [Bluesky: Two months after its launch, Jack Dorsey’s Twitter alternative comes to Android](https://gadgeteer.co.za/bluesky-two-months-after-its-launch-jack-dorseys-twitter-alternative-comes-to-android/)
-- [Disaster alert accounts are preparing for a world after Twitter, due to the API limitations imposed](https://gadgeteer.co.za/disaster-alert-accounts-are-preparing-for-a-world-after-twitter-due-to-the-api-limitations-imposed/)
-- [Proton launches an end-to-end encrypted password manager, but it’s going to have to handle passkeys](https://gadgeteer.co.za/proton-launches-an-end-to-end-encrypted-password-manager-but-its-going-to-have-to-handle-passkeys/)
 <!-- BLOG-POST-LIST:END -->
 
 
