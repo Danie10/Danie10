@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Red Dead Redemption 2’s ‘beautiful’ expansion introduces almost 50 new characters and more](https://gadgeteer.co.za/red-dead-redemption-2s-beautiful-expansion-introduces-almost-50-new-characters-and-more/)
+- [First two-way cellphone call made via satellite using an unmodified Galaxy S22 phone and a BlueWalker 3 satellite](https://gadgeteer.co.za/first-two-way-cellphone-call-made-via-satellite-using-an-unmodified-galaxy-s22-phone-and-a-bluewalker-3-satellite/)
 - [Want to play games on an older Windows PC, try some mods with AtlasOS](https://gadgeteer.co.za/want-to-play-games-on-an-older-windows-pc-try-some-mods-with-atlasos/)
 - [The Friendica social network can be installed via a Docker Container](https://gadgeteer.co.za/the-friendica-social-network-can-be-installed-via-a-docker-container/)
 - [Samsung’s AI-powered Galaxy Enhance-X image editing app now available for Galaxy S23, and soon for S22, S21, and A-series](https://gadgeteer.co.za/samsungs-ai-powered-galaxy-enhance-x-image-editing-app-now-available-for-galaxy-s23-and-soon-for-s22-s21-and-a-series/)
-- [Automatically Update Docker Container Images With Watchtower](https://gadgeteer.co.za/automatically-update-docker-container-images-with-watchtower/)
-- [Free Streaming Services Might Be Better Than Netflix](https://gadgeteer.co.za/free-streaming-services-might-be-better-than-netflix/)
 <!-- BLOG-POST-LIST:END -->
 
 
