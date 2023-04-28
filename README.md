@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [See-through solar windows turn ordinary energy-sucking, carbon-spewing buildings into climate action heroes](https://gadgeteer.co.za/see-through-solar-windows-turn-ordinary-energy-sucking-carbon-spewing-buildings-into-climate-action-heroes/)
+- [Magna’s new rearview mirror cleverly integrates a driver-monitoring system to alert you to being distracted away from the road](https://gadgeteer.co.za/magnas-new-rearview-mirror-cleverly-integrates-a-driver-monitoring-system-to-alert-you-to-being-distracted-away-from-the-road/)
+- [My workaround for Samsung Watch 5 exercise tracking, using a Polar H10 Chest Strap](https://gadgeteer.co.za/my-workaround-for-samsung-watch-5-exercise-tracking-using-a-polar-h10-chest-strap/)
 - [Android Developer Options Explained: Everything you can do with these settings to unlock experimental and debugging features](https://gadgeteer.co.za/android-developer-options-explained-everything-you-can-do-with-these-settings-to-unlock-experimental-and-debugging-features/)
 - [Unrecord is a new tactical shooter FPS game on Unreal Engine 5 which looks just like real life](https://gadgeteer.co.za/unrecord-is-a-new-tactical-shooter-fps-game-on-unreal-engine-5-which-looks-just-like-real-life/)
-- [Red Dead Redemption 2’s ‘beautiful’ expansion introduces almost 50 new characters and more](https://gadgeteer.co.za/red-dead-redemption-2s-beautiful-expansion-introduces-almost-50-new-characters-and-more/)
-- [First two-way cellphone call made via satellite using an unmodified Galaxy S22 phone and a BlueWalker 3 satellite](https://gadgeteer.co.za/first-two-way-cellphone-call-made-via-satellite-using-an-unmodified-galaxy-s22-phone-and-a-bluewalker-3-satellite/)
-- [Want to play games on an older Windows PC, try some mods with AtlasOS](https://gadgeteer.co.za/want-to-play-games-on-an-older-windows-pc-try-some-mods-with-atlasos/)
 <!-- BLOG-POST-LIST:END -->
 
 
