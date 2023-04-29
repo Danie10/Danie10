@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get Polar H10 Chest Strap &lpar;or other external Bluetooth sensors&rpar; data into Samsung Health for Workouts](https://gadgeteer.co.za/how-to-get-polar-h10-chest-strap-or-other-external-bluetooth-sensors-data-into-samsung-health-for-workouts/)
 - [See-through solar windows turn ordinary energy-sucking, carbon-spewing buildings into climate action heroes](https://gadgeteer.co.za/see-through-solar-windows-turn-ordinary-energy-sucking-carbon-spewing-buildings-into-climate-action-heroes/)
 - [Magna’s new rearview mirror cleverly integrates a driver-monitoring system to alert you to being distracted away from the road](https://gadgeteer.co.za/magnas-new-rearview-mirror-cleverly-integrates-a-driver-monitoring-system-to-alert-you-to-being-distracted-away-from-the-road/)
 - [My workaround for Samsung Watch 5 exercise tracking, using a Polar H10 Chest Strap](https://gadgeteer.co.za/my-workaround-for-samsung-watch-5-exercise-tracking-using-a-polar-h10-chest-strap/)
 - [Android Developer Options Explained: Everything you can do with these settings to unlock experimental and debugging features](https://gadgeteer.co.za/android-developer-options-explained-everything-you-can-do-with-these-settings-to-unlock-experimental-and-debugging-features/)
-- [Unrecord is a new tactical shooter FPS game on Unreal Engine 5 which looks just like real life](https://gadgeteer.co.za/unrecord-is-a-new-tactical-shooter-fps-game-on-unreal-engine-5-which-looks-just-like-real-life/)
 <!-- BLOG-POST-LIST:END -->
 
 
