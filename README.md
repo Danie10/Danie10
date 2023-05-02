@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Isizwe’s Fibre-to-the-shack in South Africa — uncapped 100Mbps for R5 &lpar;US$0.27&rpar; a day](https://gadgeteer.co.za/isizwes-fibre-to-the-shack-in-south-africa-uncapped-100mbps-for-r5-us0-27-a-day/)
 - [Yotta Energies provides their new solution for Off-Grid EV Charging](https://gadgeteer.co.za/yotta-energies-provides-their-new-solution-for-off-grid-ev-charging/)
 - [Traditional Wet Shaving: The difference between shaving soaps and shaving creams](https://gadgeteer.co.za/traditional-wet-shaving-the-difference-between-shaving-soaps-and-shaving-creams/)
 - [Magic Earth: A New Google Maps Alternative Launches on Android Auto based on OpenStreetMap](https://gadgeteer.co.za/magic-earth-a-new-google-maps-alternative-launches-on-android-auto-based-on-openstreetmap/)
 - [How to get Polar H10 Chest Strap &lpar;or other external Bluetooth HRM sensors&rpar; data into Samsung Health for Workouts](https://gadgeteer.co.za/how-to-get-polar-h10-chest-strap-or-other-external-bluetooth-sensors-data-into-samsung-health-for-workouts/)
-- [See-through solar windows turn ordinary energy-sucking, carbon-spewing buildings into climate action heroes](https://gadgeteer.co.za/see-through-solar-windows-turn-ordinary-energy-sucking-carbon-spewing-buildings-into-climate-action-heroes/)
 <!-- BLOG-POST-LIST:END -->
 
 
