@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Could the Internet Actually Be Good for Your Brain? Regular internet users over age 50 were half as likely to later develop dementia as non-users, a recent study found](https://gadgeteer.co.za/could-the-internet-actually-be-good-for-your-brain-regular-internet-users-over-age-50-were-half-as-likely-to-later-develop-dementia-as-non-users-a-recent-study-found/)
 - [Google accounts now support passkeys to replace your password and 2FA: Expect teething problems though](https://gadgeteer.co.za/google-accounts-now-support-passkeys-to-replace-your-password-and-2fa-expect-teething-problems-though/)
 - [Isizwe’s Fibre-to-the-shack in South Africa — uncapped 100Mbps for R5 &lpar;US$0.27&rpar; a day](https://gadgeteer.co.za/isizwes-fibre-to-the-shack-in-south-africa-uncapped-100mbps-for-r5-us0-27-a-day/)
 - [Yotta Energies provides their new solution for Off-Grid EV Charging](https://gadgeteer.co.za/yotta-energies-provides-their-new-solution-for-off-grid-ev-charging/)
 - [Traditional Wet Shaving: The difference between shaving soaps and shaving creams](https://gadgeteer.co.za/traditional-wet-shaving-the-difference-between-shaving-soaps-and-shaving-creams/)
-- [Magic Earth: A New Google Maps Alternative Launches on Android Auto based on OpenStreetMap](https://gadgeteer.co.za/magic-earth-a-new-google-maps-alternative-launches-on-android-auto-based-on-openstreetmap/)
 <!-- BLOG-POST-LIST:END -->
 
 
