@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Your Phone’s Background Can Help You Study By Combining Active And Passive Learning](https://gadgeteer.co.za/how-your-phones-background-can-help-you-study-by-combining-active-and-passive-learning/)
+- [South Africa getting system for reporting scams and fraud online: But will it work any better than the POPI Legislation?](https://gadgeteer.co.za/south-africa-getting-system-for-reporting-scams-and-fraud-online-but-will-it-work-any-better-than-the-popi-legislation/)
+- [Google Maps Immersive View Looks Like a Simulation Game](https://gadgeteer.co.za/google-maps-immersive-view-looks-like-a-simulation-game/)
 - [After many months, I seem to have solved my very long boot up times on Manjaro KDE](https://gadgeteer.co.za/after-many-months-i-seem-to-have-solved-my-very-long-boot-up-times-on-manjaro-kde/)
 - [I’m busy learning Unreal Engine 5 by making my very own virtual island](https://gadgeteer.co.za/im-busy-learning-unreal-engine-5-by-making-my-very-own-virtual-island/)
-- [How the Apple Watch Body Temperature Feature Works and Where to Find It](https://gadgeteer.co.za/how-the-apple-watch-body-temperature-feature-works-and-where-to-find-it/)
-- [Could the Internet Actually Be Good for Your Brain? Regular internet users over age 50 were half as likely to later develop dementia as non-users, a recent study found](https://gadgeteer.co.za/could-the-internet-actually-be-good-for-your-brain-regular-internet-users-over-age-50-were-half-as-likely-to-later-develop-dementia-as-non-users-a-recent-study-found/)
-- [Google accounts now support passkeys to replace your password and 2FA: Expect teething problems though](https://gadgeteer.co.za/google-accounts-now-support-passkeys-to-replace-your-password-and-2fa-expect-teething-problems-though/)
 <!-- BLOG-POST-LIST:END -->
 
 
