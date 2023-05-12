@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ESET Research Report: How I could’ve stolen your corporate secrets for $100](https://gadgeteer.co.za/eset-research-report-how-i-couldve-stolen-your-corporate-secrets-for-100/)
 - [How Your Phone’s Background Can Help You Study By Combining Active And Passive Learning](https://gadgeteer.co.za/how-your-phones-background-can-help-you-study-by-combining-active-and-passive-learning/)
 - [South Africa getting system for reporting scams and fraud online: But will it work any better than the POPI Legislation?](https://gadgeteer.co.za/south-africa-getting-system-for-reporting-scams-and-fraud-online-but-will-it-work-any-better-than-the-popi-legislation/)
 - [Google Maps Immersive View Looks Like a Simulation Game](https://gadgeteer.co.za/google-maps-immersive-view-looks-like-a-simulation-game/)
 - [After many months, I seem to have solved my very long boot up times on Manjaro KDE](https://gadgeteer.co.za/after-many-months-i-seem-to-have-solved-my-very-long-boot-up-times-on-manjaro-kde/)
-- [I’m busy learning Unreal Engine 5 by making my very own virtual island](https://gadgeteer.co.za/im-busy-learning-unreal-engine-5-by-making-my-very-own-virtual-island/)
 <!-- BLOG-POST-LIST:END -->
 
 
