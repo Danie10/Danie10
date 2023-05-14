@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Traditional Wet Shaving: How To Easily Fit A Soap Puck Into A Bowl](https://gadgeteer.co.za/traditional-wet-shaving-how-to-easily-fit-a-soap-puck-into-a-bowl/)
 - [KDE Plasma 6 to Ship with Floating Panel and Wayland enabled by default](https://gadgeteer.co.za/kde-plasma-6-to-ship-with-floating-panel-and-wayland-enabled-by-default/)
 - [Nukkuaa is sleep laboratory quality analysis in your home with a chest strap and an Android or iOS app](https://gadgeteer.co.za/nukkuaa-is-sleep-laboratory-quality-analysis-in-your-home-with-a-chest-strap-and-an-android-or-ios-app/)
 - [ESET Research Report: How I could’ve stolen your corporate secrets for $100](https://gadgeteer.co.za/eset-research-report-how-i-couldve-stolen-your-corporate-secrets-for-100/)
 - [How Your Phone’s Background Can Help You Study By Combining Active And Passive Learning](https://gadgeteer.co.za/how-your-phones-background-can-help-you-study-by-combining-active-and-passive-learning/)
-- [South Africa getting system for reporting scams and fraud online: But will it work any better than the POPI Legislation?](https://gadgeteer.co.za/south-africa-getting-system-for-reporting-scams-and-fraud-online-but-will-it-work-any-better-than-the-popi-legislation/)
 <!-- BLOG-POST-LIST:END -->
 
 
