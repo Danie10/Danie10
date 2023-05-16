@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhones will be able to speak in your voice with 15 minutes of training, assisting those who’ve lost the ability to speak, or who are blind or have low vision](https://gadgeteer.co.za/iphones-will-be-able-to-speak-in-your-voice-with-15-minutes-of-training-assisting-those-whove-lost-the-ability-to-speak-or-who-are-blind-or-have-low-vision/)
 - [What is Android Auto? If your car already has it, you should be using it](https://gadgeteer.co.za/what-is-android-auto-if-your-car-already-has-it-you-should-be-using-it/)
 - [Traditional Wet Shaving: How To Easily Fit A Soap Puck Into A Bowl](https://gadgeteer.co.za/traditional-wet-shaving-how-to-easily-fit-a-soap-puck-into-a-bowl/)
 - [KDE Plasma 6 to Ship with Floating Panel and Wayland enabled by default](https://gadgeteer.co.za/kde-plasma-6-to-ship-with-floating-panel-and-wayland-enabled-by-default/)
 - [Nukkuaa is sleep laboratory quality analysis in your home with a chest strap and an Android or iOS app](https://gadgeteer.co.za/nukkuaa-is-sleep-laboratory-quality-analysis-in-your-home-with-a-chest-strap-and-an-android-or-ios-app/)
-- [ESET Research Report: How I could’ve stolen your corporate secrets for $100](https://gadgeteer.co.za/eset-research-report-how-i-couldve-stolen-your-corporate-secrets-for-100/)
 <!-- BLOG-POST-LIST:END -->
 
 
