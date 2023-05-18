@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jabra Enhance Plus review: These $800 earbuds are close to $5,000 hearing aids but are only compatible with iOS for now](https://gadgeteer.co.za/jabra-enhance-plus-review-these-800-earbuds-are-close-to-5000-hearing-aids-but-are-only-compatible-with-ios-for-now/)
 - [Best Free &lpar;not all open source&rpar; Microsoft Office alternatives in 2023](https://gadgeteer.co.za/best-free-not-all-open-source-microsoft-office-alternatives-in-2023/)
 - [Logitech partners with iFixit for self-repairs](https://gadgeteer.co.za/logitech-partners-with-ifixit-for-self-repairs/)
 - [iPhones will be able to speak in your voice with 15 minutes of training, assisting those who’ve lost the ability to speak, or who are blind or have low vision](https://gadgeteer.co.za/iphones-will-be-able-to-speak-in-your-voice-with-15-minutes-of-training-assisting-those-whove-lost-the-ability-to-speak-or-who-are-blind-or-have-low-vision/)
 - [What is Android Auto? If your car already has it, you should be using it](https://gadgeteer.co.za/what-is-android-auto-if-your-car-already-has-it-you-should-be-using-it/)
-- [Traditional Wet Shaving: How To Easily Fit A Soap Puck Into A Bowl](https://gadgeteer.co.za/traditional-wet-shaving-how-to-easily-fit-a-soap-puck-into-a-bowl/)
 <!-- BLOG-POST-LIST:END -->
 
 
