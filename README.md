@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [China’s BYD is launching in South Africa — with an electric car that offers around 23 hours of load-shedding backup](https://gadgeteer.co.za/chinas-byd-is-launching-in-south-africa-with-an-electric-car-that-offers-around-23-hours-of-load-shedding-backup/)
+- [How to Record an Indoor Cycling Ride with Strava, whether manual or Peloton Bike, Zwift, the Expresso, etc](https://gadgeteer.co.za/how-to-record-an-indoor-cycling-ride-with-strava-whether-manual-or-peloton-bike-zwift-the-expresso-etc/)
 - [Samsung Unveils World’s First OLED Display With Built-In Fingerprint and Blood Pressure Sensing Anywhere Across The Screen](https://gadgeteer.co.za/samsung-unveils-worlds-first-oled-display-with-built-in-fingerprint-and-blood-pressure-sensing-anywhere-across-the-screen/)
 - [12 Podcasts That Will Make Anyone Fall in Love With Podcasts: Audio Podcasts can Fill so many Idle Gaps in your Day](https://gadgeteer.co.za/12-podcasts-that-will-make-anyone-fall-in-love-with-podcasts-audio-podcasts-can-fill-so-many-idle-gaps-in-your-day/)
 - [How to &lpar;try to&rpar; stop spam callers in South Africa](https://gadgeteer.co.za/how-to-try-to-stop-spam-callers-in-south-africa/)
-- [How to clean your traditional shaving equipment after a shave](https://gadgeteer.co.za/how-to-clean-your-traditional-shaving-equipment-after-a-shave/)
-- [Jabra Enhance Plus review: These $800 earbuds are close to $5,000 hearing aids but are only compatible with iOS for now](https://gadgeteer.co.za/jabra-enhance-plus-review-these-800-earbuds-are-close-to-5000-hearing-aids-but-are-only-compatible-with-ios-for-now/)
 <!-- BLOG-POST-LIST:END -->
 
 
