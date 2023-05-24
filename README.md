@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Times are Tough: Here are 10 Inexpensive and Practical Ways to Breathe New Life Into an Old PC](https://gadgeteer.co.za/times-are-tough-here-are-10-inexpensive-and-practical-ways-to-breathe-new-life-into-an-old-pc/)
 - [HP Is Selling a 40-Year-Old HP-15C Calculator Again—For $120](https://gadgeteer.co.za/hp-is-selling-a-40-year-old-hp-15c-calculator-again-for-120/)
 - [China’s BYD is launching in South Africa — with an electric car that offers around 23 hours of load-shedding backup](https://gadgeteer.co.za/chinas-byd-is-launching-in-south-africa-with-an-electric-car-that-offers-around-23-hours-of-load-shedding-backup/)
 - [How to Record an Indoor Cycling Ride with Strava, whether manual or Peloton Bike, Zwift, the Expresso, etc](https://gadgeteer.co.za/how-to-record-an-indoor-cycling-ride-with-strava-whether-manual-or-peloton-bike-zwift-the-expresso-etc/)
 - [Samsung Unveils World’s First OLED Display With Built-In Fingerprint and Blood Pressure Sensing Anywhere Across The Screen](https://gadgeteer.co.za/samsung-unveils-worlds-first-oled-display-with-built-in-fingerprint-and-blood-pressure-sensing-anywhere-across-the-screen/)
-- [12 Podcasts That Will Make Anyone Fall in Love With Podcasts: Audio Podcasts can Fill so many Idle Gaps in your Day](https://gadgeteer.co.za/12-podcasts-that-will-make-anyone-fall-in-love-with-podcasts-audio-podcasts-can-fill-so-many-idle-gaps-in-your-day/)
 <!-- BLOG-POST-LIST:END -->
 
 
