@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You’ve upgraded, but you want to keep your old device just in case you need it. Here’s how to do that.](https://gadgeteer.co.za/youve-upgraded-but-you-want-to-keep-your-old-device-just-in-case-you-need-it-heres-how-to-do-that/)
 - [Signal adds an extra layer of camouflage with alternate icons and descriptions for Android](https://gadgeteer.co.za/signal-adds-an-extra-layer-of-camouflage-with-alternate-icons-and-descriptions-for-android/)
 - [Addresses for Amazon’s South African marketplace fulfilment centres leak online](https://gadgeteer.co.za/addresses-for-amazons-south-african-marketplace-fulfilment-centres-leak-online/)
 - [SimpleX E2EE messenger for iOS and Android has no user IDs at all – It could be the most secure and private messenger ever](https://gadgeteer.co.za/simplex-e2ee-messenger-for-ios-and-android-has-no-user-ids-at-all-it-could-be-the-most-secure-and-private-messenger-ever/)
 - [I did not realise portable monitors were a thing: Best portable monitors in 2023 for laptops, smartphones, or tablets](https://gadgeteer.co.za/i-did-not-realise-portable-monitors-were-a-thing-best-portable-monitors-in-2023-for-laptops-smartphones-or-tablets/)
-- [Password manager Bitwarden will too soon be able to store passkeys, but here’s why you may want to wait a bit with passkeys](https://gadgeteer.co.za/password-manager-bitwarden-will-too-soon-be-able-to-store-passkeys-but-heres-why-you-may-want-to-wait-a-bit-with-passkeys/)
 <!-- BLOG-POST-LIST:END -->
 
 
