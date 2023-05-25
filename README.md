@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Password manager Bitwarden will too soon be able to store passkeys, but here’s why you may want to wait a bit with passkeys](https://gadgeteer.co.za/password-manager-bitwarden-will-too-soon-be-able-to-store-passkeys-but-heres-why-you-may-want-to-wait-a-bit-with-passkeys/)
 - [ChatPDF: This AI chatbot can sum up any PDF and answer any question you have about it](https://gadgeteer.co.za/chatpdf-this-ai-chatbot-can-sum-up-any-pdf-and-answer-any-question-you-have-about-it/)
 - [With around 180,000 people dying daily, I found more analogue ways of preserving my memories](https://gadgeteer.co.za/with-around-180000-people-dying-daily-i-found-more-analogue-ways-of-preserving-my-memories/)
 - [Contactless Hall Sensors can be a drop-in replacement for drifting PS4 Game Console Joysticks](https://gadgeteer.co.za/contactless-hall-sensors-can-be-a-drop-in-replacement-for-drifting-ps4-game-console-joysticks/)
 - [Times are Tough: Here are 10 Inexpensive and Practical Ways to Breathe New Life Into an Old PC](https://gadgeteer.co.za/times-are-tough-here-are-10-inexpensive-and-practical-ways-to-breathe-new-life-into-an-old-pc/)
-- [HP Is Selling a 40-Year-Old HP-15C Calculator Again—For $120](https://gadgeteer.co.za/hp-is-selling-a-40-year-old-hp-15c-calculator-again-for-120/)
 <!-- BLOG-POST-LIST:END -->
 
 
