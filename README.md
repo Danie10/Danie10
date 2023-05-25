@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Addresses for Amazon’s South African marketplace fulfilment centres leak online](https://gadgeteer.co.za/addresses-for-amazons-south-african-marketplace-fulfilment-centres-leak-online/)
+- [SimpleX E2EE messenger for iOS and Android has no user IDs at all – It could be the most secure and private messenger ever](https://gadgeteer.co.za/simplex-e2ee-messenger-for-ios-and-android-has-no-user-ids-at-all-it-could-be-the-most-secure-and-private-messenger-ever/)
+- [I did not realise portable monitors were a thing: Best portable monitors in 2023 for laptops, smartphones, or tablets](https://gadgeteer.co.za/i-did-not-realise-portable-monitors-were-a-thing-best-portable-monitors-in-2023-for-laptops-smartphones-or-tablets/)
 - [Password manager Bitwarden will too soon be able to store passkeys, but here’s why you may want to wait a bit with passkeys](https://gadgeteer.co.za/password-manager-bitwarden-will-too-soon-be-able-to-store-passkeys-but-heres-why-you-may-want-to-wait-a-bit-with-passkeys/)
 - [ChatPDF: This AI chatbot can sum up any PDF and answer any question you have about it](https://gadgeteer.co.za/chatpdf-this-ai-chatbot-can-sum-up-any-pdf-and-answer-any-question-you-have-about-it/)
-- [With around 180,000 people dying daily, I found more analogue ways of preserving my memories](https://gadgeteer.co.za/with-around-180000-people-dying-daily-i-found-more-analogue-ways-of-preserving-my-memories/)
-- [Contactless Hall Sensors can be a drop-in replacement for drifting PS4 Game Console Joysticks](https://gadgeteer.co.za/contactless-hall-sensors-can-be-a-drop-in-replacement-for-drifting-ps4-game-console-joysticks/)
-- [Times are Tough: Here are 10 Inexpensive and Practical Ways to Breathe New Life Into an Old PC](https://gadgeteer.co.za/times-are-tough-here-are-10-inexpensive-and-practical-ways-to-breathe-new-life-into-an-old-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 
