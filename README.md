@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BrutePrint: This $15 hacking device could be your fingerprint scanner’s worst nightmare, although they need physical access for a few hours](https://gadgeteer.co.za/bruteprint-this-15-hacking-device-could-be-your-fingerprint-scanners-worst-nightmare-although-they-need-physical-access-for-a-few-hours/)
 - [Vehicle-To-Grid Made Easy: Not Need To Disassemble The Battery Pack](https://gadgeteer.co.za/vehicle-to-grid-made-easy-not-need-to-disassemble-the-battery-pack/)
 - [What to Do When a Video Streaming Service Blocks Your VPN](https://gadgeteer.co.za/what-to-do-when-a-video-streaming-service-blocks-your-vpn/)
 - [You’ve upgraded, but you want to keep your old device just in case you need it. Here’s how to do that.](https://gadgeteer.co.za/youve-upgraded-but-you-want-to-keep-your-old-device-just-in-case-you-need-it-heres-how-to-do-that/)
 - [Signal adds an extra layer of camouflage with alternate icons and descriptions for Android](https://gadgeteer.co.za/signal-adds-an-extra-layer-of-camouflage-with-alternate-icons-and-descriptions-for-android/)
-- [Addresses for Amazon’s South African marketplace fulfilment centres leak online](https://gadgeteer.co.za/addresses-for-amazons-south-african-marketplace-fulfilment-centres-leak-online/)
 <!-- BLOG-POST-LIST:END -->
 
 
