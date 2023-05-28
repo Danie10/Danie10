@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung loses second-place smartwatch lead to brand you may never have heard of… the Fire-Boltt](https://gadgeteer.co.za/samsung-loses-second-place-smartwatch-lead-to-brand-you-may-never-have-heard-of-the-fire-boltt/)
+- [EVA affordable electric car launching in South Africa next month with 160km range max speed 80km/h](https://gadgeteer.co.za/eva-affordable-electric-car-launching-in-south-africa-next-month-with-160km-range-max-speed-80km-h/)
+- [OURphone: A Cape Town innovator develops a truly open-source smartphone &lpar;hardware and software&rpar;](https://gadgeteer.co.za/ourphone-a-cape-town-innovator-develops-a-truly-open-source-smartphone-hardware-and-software/)
 - [Breakthrough EV battery pack could last 2 million kms, or 130 years of average driving, with 1,000km range: Goes into mass production 2024](https://gadgeteer.co.za/breakthrough-ev-battery-pack-could-last-2-million-kms-or-130-years-of-average-driving-with-1000km-range-goes-into-mass-production-2024/)
 - [Red Dead Redemption 2 running over 100 visual mods, ultra settings is staggeringly gorgeous](https://gadgeteer.co.za/red-dead-redemption-2-running-over-100-visual-mods-ultra-settings-is-staggeringly-gorgeous/)
-- [BrutePrint: This $15 hacking device could be your fingerprint scanner’s worst nightmare, although they need physical access for a few hours](https://gadgeteer.co.za/bruteprint-this-15-hacking-device-could-be-your-fingerprint-scanners-worst-nightmare-although-they-need-physical-access-for-a-few-hours/)
-- [Vehicle-To-Grid Made Easy: Not Need To Disassemble The Battery Pack](https://gadgeteer.co.za/vehicle-to-grid-made-easy-not-need-to-disassemble-the-battery-pack/)
-- [What to Do When a Video Streaming Service Blocks Your VPN](https://gadgeteer.co.za/what-to-do-when-a-video-streaming-service-blocks-your-vpn/)
 <!-- BLOG-POST-LIST:END -->
 
 
