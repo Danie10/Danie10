@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Veloren is an open-source multi-player voxel role-playing game that can be self-hosted &lpar;and has more adventure and fun than Minecraft&rpar;](https://gadgeteer.co.za/veloren-is-an-open-source-multi-player-voxel-role-playing-game-that-can-be-self-hosted-and-has-more-adventure-and-fun-than-minecraft/)
 - [RustDesk is an open-source self-hosted virtual / remote desktop TeamViewer alternative](https://gadgeteer.co.za/rustdesk-is-an-open-source-self-hosted-virtual-remote-desktop-teamviewer-alternative/)
 - [Databag is an open-source self-hosted messaging service with Android and iOS client apps](https://gadgeteer.co.za/databag-is-an-open-source-self-hosted-messaging-service-with-android-and-ios-client-apps/)
 - [What’s the Best Way to Store Data for Decades or Centuries? Bottom line: No Technology that is Easy or Practical](https://gadgeteer.co.za/whats-the-best-way-to-store-data-for-decades-or-centuries-bottom-line-no-technology-that-is-easy-or-practical/)
 - [Samsung loses second-place smartwatch lead to brand you may never have heard of… the Fire-Boltt](https://gadgeteer.co.za/samsung-loses-second-place-smartwatch-lead-to-brand-you-may-never-have-heard-of-the-fire-boltt/)
-- [EVA affordable electric car launching in South Africa next month with 160km range max speed 80km/h](https://gadgeteer.co.za/eva-affordable-electric-car-launching-in-south-africa-next-month-with-160km-range-max-speed-80km-h/)
 <!-- BLOG-POST-LIST:END -->
 
 
