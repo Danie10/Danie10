@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RustDesk is an open-source self-hosted virtual / remote desktop TeamViewer alternative](https://gadgeteer.co.za/rustdesk-is-an-open-source-self-hosted-virtual-remote-desktop-teamviewer-alternative/)
+- [Databag is an open-source self-hosted messaging service with Android and iOS client apps](https://gadgeteer.co.za/databag-is-an-open-source-self-hosted-messaging-service-with-android-and-ios-client-apps/)
 - [What’s the Best Way to Store Data for Decades or Centuries? Bottom line: No Technology that is Easy or Practical](https://gadgeteer.co.za/whats-the-best-way-to-store-data-for-decades-or-centuries-bottom-line-no-technology-that-is-easy-or-practical/)
 - [Samsung loses second-place smartwatch lead to brand you may never have heard of… the Fire-Boltt](https://gadgeteer.co.za/samsung-loses-second-place-smartwatch-lead-to-brand-you-may-never-have-heard-of-the-fire-boltt/)
 - [EVA affordable electric car launching in South Africa next month with 160km range max speed 80km/h](https://gadgeteer.co.za/eva-affordable-electric-car-launching-in-south-africa-next-month-with-160km-range-max-speed-80km-h/)
-- [OURphone: A Cape Town innovator develops a truly open-source smartphone &lpar;hardware and software&rpar;](https://gadgeteer.co.za/ourphone-a-cape-town-innovator-develops-a-truly-open-source-smartphone-hardware-and-software/)
-- [Breakthrough EV battery pack could last 2 million kms, or 130 years of average driving, with 1,000km range: Goes into mass production 2024](https://gadgeteer.co.za/breakthrough-ev-battery-pack-could-last-2-million-kms-or-130-years-of-average-driving-with-1000km-range-goes-into-mass-production-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
