@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Eleksa Pony pricing – South Africa’s first electric bakkie from R386,980](https://gadgeteer.co.za/new-eleksa-pony-pricing-south-africas-first-electric-bakkie-from-r386980/)
 - [How to make Wi-Fi calls on Android for when there is a Wi-Fi signal but no cellular signal](https://gadgeteer.co.za/how-to-make-wi-fi-calls-on-android-for-when-there-is-a-wi-fi-signal-but-no-cellular-signal/)
 - [Veloren is an open-source multi-player voxel role-playing game that can be self-hosted &lpar;and has more adventure and fun than Minecraft&rpar;](https://gadgeteer.co.za/veloren-is-an-open-source-multi-player-voxel-role-playing-game-that-can-be-self-hosted-and-has-more-adventure-and-fun-than-minecraft/)
 - [RustDesk is an open-source self-hosted virtual / remote desktop TeamViewer alternative](https://gadgeteer.co.za/rustdesk-is-an-open-source-self-hosted-virtual-remote-desktop-teamviewer-alternative/)
 - [Databag is an open-source self-hosted messaging service with Android and iOS client apps](https://gadgeteer.co.za/databag-is-an-open-source-self-hosted-messaging-service-with-android-and-ios-client-apps/)
-- [What’s the Best Way to Store Data for Decades or Centuries? Bottom line: No Technology that is Easy or Practical](https://gadgeteer.co.za/whats-the-best-way-to-store-data-for-decades-or-centuries-bottom-line-no-technology-that-is-easy-or-practical/)
 <!-- BLOG-POST-LIST:END -->
 
 
