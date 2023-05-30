@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Common Backup Mistakes Most People Make – These Are Good Points Worth Considering](https://gadgeteer.co.za/10-common-backup-mistakes-most-people-make-these-are-good-points-worth-considering/)
 - [New Eleksa Pony pricing – South Africa’s first electric bakkie from R386,980](https://gadgeteer.co.za/new-eleksa-pony-pricing-south-africas-first-electric-bakkie-from-r386980/)
 - [How to make Wi-Fi calls on Android for when there is a Wi-Fi signal but no cellular signal](https://gadgeteer.co.za/how-to-make-wi-fi-calls-on-android-for-when-there-is-a-wi-fi-signal-but-no-cellular-signal/)
 - [Veloren is an open-source multi-player voxel role-playing game that can be self-hosted &lpar;and has more adventure and fun than Minecraft&rpar;](https://gadgeteer.co.za/veloren-is-an-open-source-multi-player-voxel-role-playing-game-that-can-be-self-hosted-and-has-more-adventure-and-fun-than-minecraft/)
 - [RustDesk is an open-source self-hosted virtual / remote desktop TeamViewer alternative](https://gadgeteer.co.za/rustdesk-is-an-open-source-self-hosted-virtual-remote-desktop-teamviewer-alternative/)
-- [Databag is an open-source self-hosted messaging service with Android and iOS client apps](https://gadgeteer.co.za/databag-is-an-open-source-self-hosted-messaging-service-with-android-and-ios-client-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 
