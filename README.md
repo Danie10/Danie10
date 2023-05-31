@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Brave Browser finally gets working vertical tabs](https://gadgeteer.co.za/brave-browser-finally-gets-working-vertical-tabs/)
 - [How to use Shizuku with Swift Backup to batch restore your Android apps after a factory reset &lpar;no root required&rpar;](https://gadgeteer.co.za/how-to-use-shizuku-with-swift-backup-to-batch-restore-your-android-apps-after-a-factory-reset-no-root-required/)
 - [Social mapping platform Atly launches with $18M to be a Reddit for real-world locations… But is there place in the market for more such apps?](https://gadgeteer.co.za/social-mapping-platform-atly-launches-with-18m-to-be-a-reddit-for-real-world-locations-but-is-there-place-in-the-market-for-more-such-apps/)
 - [Ultimate Garage Door Control With Home Assistant Automated Management](https://gadgeteer.co.za/ultimate-garage-door-control-with-home-assistant-automated-management/)
 - [Nostr: A simple, decentralised, open protocol that enables a truly censorship-resistant and global social network](https://gadgeteer.co.za/nostr-a-simple-decentralised-open-protocol-that-enables-a-truly-censorship-resistant-and-global-social-network/)
-- [Apache Guacamole: Open-Source Self-Hosted Remote Access Gateway To Access Various Computers With Just A Browser](https://gadgeteer.co.za/apache-guacamole-open-source-self-hosted-remote-access-gateway-to-access-various-computers-with-just-a-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 
