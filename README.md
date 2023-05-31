@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Social mapping platform Atly launches with $18M to be a Reddit for real-world locations… But is there place in the market for more such apps?](https://gadgeteer.co.za/social-mapping-platform-atly-launches-with-18m-to-be-a-reddit-for-real-world-locations-but-is-there-place-in-the-market-for-more-such-apps/)
+- [Ultimate Garage Door Control With Home Assistant Automated Management](https://gadgeteer.co.za/ultimate-garage-door-control-with-home-assistant-automated-management/)
 - [Nostr: A simple, decentralised, open protocol that enables a truly censorship-resistant and global social network](https://gadgeteer.co.za/nostr-a-simple-decentralised-open-protocol-that-enables-a-truly-censorship-resistant-and-global-social-network/)
 - [Apache Guacamole: Open-Source Self-Hosted Remote Access Gateway To Access Various Computers With Just A Browser](https://gadgeteer.co.za/apache-guacamole-open-source-self-hosted-remote-access-gateway-to-access-various-computers-with-just-a-browser/)
 - [10 Common Backup Mistakes Most People Make – These Are Good Points Worth Considering](https://gadgeteer.co.za/10-common-backup-mistakes-most-people-make-these-are-good-points-worth-considering/)
-- [New Eleksa Pony pricing – South Africa’s first electric bakkie from R386,980](https://gadgeteer.co.za/new-eleksa-pony-pricing-south-africas-first-electric-bakkie-from-r386980/)
-- [How to make Wi-Fi calls on Android for when there is a Wi-Fi signal but no cellular signal](https://gadgeteer.co.za/how-to-make-wi-fi-calls-on-android-for-when-there-is-a-wi-fi-signal-but-no-cellular-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 
