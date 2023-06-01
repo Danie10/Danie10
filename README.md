@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Millions of Gigabyte motherboards were sold with a firmware backdoor to invisibly and insecurely downloads program updates](https://gadgeteer.co.za/millions-of-gigabyte-motherboards-were-sold-with-a-firmware-backdoor-to-invisibly-and-insecurely-downloads-program-updates/)
+- [The Best Ways to Scan a Document Using Your Phone or Tablet: No Need to Buy any Apps](https://gadgeteer.co.za/the-best-ways-to-scan-a-document-using-your-phone-or-tablet-no-need-to-buy-any-apps/)
+- [Before E-Readers, a 1930s Writer, Bob Brown, Reinvented the Book With “Readies”](https://gadgeteer.co.za/before-e-readers-a-1930s-writer-bob-brown-reinvented-the-book-with-readies/)
+- [Which Browser Offers the Best Privacy Protection? No, Google Chrome is not on the List](https://gadgeteer.co.za/which-browser-offers-the-best-privacy-protection-no-google-chrome-is-not-on-the-list/)
 - [Brave Browser finally gets working vertical tabs](https://gadgeteer.co.za/brave-browser-finally-gets-working-vertical-tabs/)
-- [How to use Shizuku with Swift Backup to batch restore your Android apps after a factory reset &lpar;no root required&rpar;](https://gadgeteer.co.za/how-to-use-shizuku-with-swift-backup-to-batch-restore-your-android-apps-after-a-factory-reset-no-root-required/)
-- [Social mapping platform Atly launches with $18M to be a Reddit for real-world locations… But is there place in the market for more such apps?](https://gadgeteer.co.za/social-mapping-platform-atly-launches-with-18m-to-be-a-reddit-for-real-world-locations-but-is-there-place-in-the-market-for-more-such-apps/)
-- [Ultimate Garage Door Control With Home Assistant Automated Management](https://gadgeteer.co.za/ultimate-garage-door-control-with-home-assistant-automated-management/)
-- [Nostr: A simple, decentralised, open protocol that enables a truly censorship-resistant and global social network](https://gadgeteer.co.za/nostr-a-simple-decentralised-open-protocol-that-enables-a-truly-censorship-resistant-and-global-social-network/)
 <!-- BLOG-POST-LIST:END -->
 
 
