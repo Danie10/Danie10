@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky vs. Nostr vs. ActivityPub — Which Should Developers Care About More?](https://gadgeteer.co.za/bluesky-vs-nostr-vs-activitypub-which-should-developers-care-about-more/)
 - [10 Common VPN Mistakes and Assumptions People Make](https://gadgeteer.co.za/10-common-vpn-mistakes-and-assumptions-people-make/)
 - [DD-WRT vs. OpenWrt: Which open-source router firmware should you pick? Custom firmware on your router gives you more control and longer support than the stock firmware](https://gadgeteer.co.za/dd-wrt-vs-openwrt-which-open-source-router-firmware-should-you-pick-custom-firmware-on-your-router-gives-you-more-control-and-longer-support-than-the-stock-firmware/)
 - [Millions of Gigabyte motherboards were sold with a firmware backdoor to invisibly and insecurely downloads program updates](https://gadgeteer.co.za/millions-of-gigabyte-motherboards-were-sold-with-a-firmware-backdoor-to-invisibly-and-insecurely-downloads-program-updates/)
 - [The Best Ways to Scan a Document Using Your Phone or Tablet: No Need to Buy any Apps](https://gadgeteer.co.za/the-best-ways-to-scan-a-document-using-your-phone-or-tablet-no-need-to-buy-any-apps/)
-- [Before E-Readers, a 1930s Writer, Bob Brown, Reinvented the Book With “Readies”](https://gadgeteer.co.za/before-e-readers-a-1930s-writer-bob-brown-reinvented-the-book-with-readies/)
 <!-- BLOG-POST-LIST:END -->
 
 
