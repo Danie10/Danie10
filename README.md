@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DD-WRT vs. OpenWrt: Which open-source router firmware should you pick? Custom firmware on your router gives you more control and longer support than the stock firmware](https://gadgeteer.co.za/dd-wrt-vs-openwrt-which-open-source-router-firmware-should-you-pick-custom-firmware-on-your-router-gives-you-more-control-and-longer-support-than-the-stock-firmware/)
 - [Millions of Gigabyte motherboards were sold with a firmware backdoor to invisibly and insecurely downloads program updates](https://gadgeteer.co.za/millions-of-gigabyte-motherboards-were-sold-with-a-firmware-backdoor-to-invisibly-and-insecurely-downloads-program-updates/)
 - [The Best Ways to Scan a Document Using Your Phone or Tablet: No Need to Buy any Apps](https://gadgeteer.co.za/the-best-ways-to-scan-a-document-using-your-phone-or-tablet-no-need-to-buy-any-apps/)
 - [Before E-Readers, a 1930s Writer, Bob Brown, Reinvented the Book With “Readies”](https://gadgeteer.co.za/before-e-readers-a-1930s-writer-bob-brown-reinvented-the-book-with-readies/)
 - [Which Browser Offers the Best Privacy Protection? No, Google Chrome is not on the List](https://gadgeteer.co.za/which-browser-offers-the-best-privacy-protection-no-google-chrome-is-not-on-the-list/)
-- [Brave Browser finally gets working vertical tabs](https://gadgeteer.co.za/brave-browser-finally-gets-working-vertical-tabs/)
 <!-- BLOG-POST-LIST:END -->
 
 
