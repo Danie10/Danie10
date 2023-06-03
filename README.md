@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If Lemmy is not your cup of tea as an alternative to Reddit, maybe try open-source federated Kbin instead](https://gadgeteer.co.za/if-lemmy-is-not-your-cup-of-tea-as-an-alternative-to-reddit-maybe-try-open-source-federated-kbin-instead/)
+- [How to change app icons on Android: Useful if a service has multiple apps with obscure names, or just to change the look of the theme](https://gadgeteer.co.za/how-to-change-app-icons-on-android-useful-if-a-service-has-multiple-apps-with-obscure-names-or-just-to-change-the-look-of-the-theme/)
 - [Bluesky vs. Nostr vs. ActivityPub — Which Should Developers Care About More?](https://gadgeteer.co.za/bluesky-vs-nostr-vs-activitypub-which-should-developers-care-about-more/)
 - [10 Common VPN Mistakes and Assumptions People Make](https://gadgeteer.co.za/10-common-vpn-mistakes-and-assumptions-people-make/)
 - [DD-WRT vs. OpenWrt: Which open-source router firmware should you pick? Custom firmware on your router gives you more control and longer support than the stock firmware](https://gadgeteer.co.za/dd-wrt-vs-openwrt-which-open-source-router-firmware-should-you-pick-custom-firmware-on-your-router-gives-you-more-control-and-longer-support-than-the-stock-firmware/)
-- [Millions of Gigabyte motherboards were sold with a firmware backdoor to invisibly and insecurely downloads program updates](https://gadgeteer.co.za/millions-of-gigabyte-motherboards-were-sold-with-a-firmware-backdoor-to-invisibly-and-insecurely-downloads-program-updates/)
-- [The Best Ways to Scan a Document Using Your Phone or Tablet: No Need to Buy any Apps](https://gadgeteer.co.za/the-best-ways-to-scan-a-document-using-your-phone-or-tablet-no-need-to-buy-any-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 
