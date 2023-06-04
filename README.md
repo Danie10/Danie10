@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [R200,000 City Blitz becomes South Africa’s cheapest electric car at 20c/km and 150km range with max speed 80km/h](https://gadgeteer.co.za/r200000-city-blitz-becomes-south-africas-cheapest-electric-car-at-20c-km-and-150km-range-with-max-speed-80km-h/)
 - [Bluesky’s Custom Algorithms: Could Giving Users a Choice in Choosing/Creating own Algorithms Be the Future of Social Media?](https://gadgeteer.co.za/blueskys-custom-algorithms-could-giving-users-a-choice-in-choosing-creating-own-algorithms-be-the-future-of-social-media/)
 - [If Lemmy is not your cup of tea as an alternative to Reddit, maybe try open-source federated Kbin instead](https://gadgeteer.co.za/if-lemmy-is-not-your-cup-of-tea-as-an-alternative-to-reddit-maybe-try-open-source-federated-kbin-instead/)
 - [How to change app icons on Android: Useful if a service has multiple apps with obscure names, or just to change the look of the theme](https://gadgeteer.co.za/how-to-change-app-icons-on-android-useful-if-a-service-has-multiple-apps-with-obscure-names-or-just-to-change-the-look-of-the-theme/)
 - [Bluesky vs. Nostr vs. ActivityPub — Which Should Developers Care About More?](https://gadgeteer.co.za/bluesky-vs-nostr-vs-activitypub-which-should-developers-care-about-more/)
-- [10 Common VPN Mistakes and Assumptions People Make](https://gadgeteer.co.za/10-common-vpn-mistakes-and-assumptions-people-make/)
 <!-- BLOG-POST-LIST:END -->
 
 
