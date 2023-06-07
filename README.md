@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Now you can have working QR codes that look like artwork: Redditor creates working anime QR codes using Stable Diffusion](https://gadgeteer.co.za/now-you-can-have-working-qr-codes-that-look-like-artwork-redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
 - [20 of the best Python courses you can take online for free: Kickstart a new career in coding without spending a penny](https://gadgeteer.co.za/20-of-the-best-python-courses-you-can-take-online-for-free-kickstart-a-new-career-in-coding-without-spending-a-penny/)
 - [How to Test Your Computer’s PSU With a Normal Multimeter](https://gadgeteer.co.za/how-to-test-your-computers-psu-with-a-normal-multimeter/)
 - [Even Nostr has a Reddit type alternative called Nvote](https://gadgeteer.co.za/even-nostr-has-a-reddit-type-alternative-called-nvote/)
 - [How Many FPS Can the Human Eye See? Read This if You Think Chasing Ever Higher Monitor Refresh Rates is the Best Option](https://gadgeteer.co.za/how-many-fps-can-the-human-eye-see-read-this-if-you-think-chasing-ever-higher-monitor-refresh-rates-is-the-best-option/)
-- [R200,000 City Blitz becomes South Africa’s cheapest electric car at 20c/km and 150km range with max speed 80km/h](https://gadgeteer.co.za/r200000-city-blitz-becomes-south-africas-cheapest-electric-car-at-20c-km-and-150km-range-with-max-speed-80km-h/)
 <!-- BLOG-POST-LIST:END -->
 
 
