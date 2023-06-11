@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You can now play DOOM on a Hyundai head unit using the car’s steering wheel controls](https://gadgeteer.co.za/you-can-now-play-doom-on-a-hyundai-head-unit-using-the-cars-steering-wheel-controls/)
+- [My video overview of Nostr: A simple, open protocol that enables global, decentralized, and censorship-resistant social media](https://gadgeteer.co.za/my-video-overview-of-nostr-a-simple-open-protocol-that-enables-global-decentralized-and-censorship-resistant-social-media/)
 - [Why Use a Shaving Brush instead of ‘Modern Technology’](https://gadgeteer.co.za/why-use-a-shaving-brush-instead-of-modern-technology/)
 - [Age of AI: Everything you need to know about artificial &lpar;imitation&rpar; intelligence](https://gadgeteer.co.za/age-of-ai-everything-you-need-to-know-about-artificial-imitation-intelligence/)
 - [Google Photos app starting to tag the back of heads, and adding a manual Cinematic Photo feature](https://gadgeteer.co.za/google-photos-app-starting-to-tag-the-back-of-heads-and-adding-a-manual-cinematic-photo-feature/)
-- [Well Documented Code Helps Revive Decades-Old Commodore Project: Moral Of The Story, If You Want To Keep It, Print It On Paper](https://gadgeteer.co.za/well-documented-code-helps-revive-decades-old-commodore-project-moral-of-the-story-if-you-want-to-keep-it-print-it-on-paper/)
-- [30 of the best Harvard University courses you can take online for free: Find free courses on Python, artificial intelligence, cybersecurity, and more](https://gadgeteer.co.za/30-of-the-best-harvard-university-courses-you-can-take-online-for-free-find-free-courses-on-python-artificial-intelligence-cybersecurity-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 
