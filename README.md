@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pixelfed social network can now import photos, captions, and hashtags from your Instagram account](https://gadgeteer.co.za/pixelfed-social-network-can-now-import-photos-captions-and-hashtags-from-your-instagram-account/)
 - [You can now play DOOM on a Hyundai head unit using the car’s steering wheel controls](https://gadgeteer.co.za/you-can-now-play-doom-on-a-hyundai-head-unit-using-the-cars-steering-wheel-controls/)
 - [My video overview of Nostr: A simple, open protocol that enables global, decentralized, and censorship-resistant social media](https://gadgeteer.co.za/my-video-overview-of-nostr-a-simple-open-protocol-that-enables-global-decentralized-and-censorship-resistant-social-media/)
 - [Why Use a Shaving Brush instead of ‘Modern Technology’](https://gadgeteer.co.za/why-use-a-shaving-brush-instead-of-modern-technology/)
 - [Age of AI: Everything you need to know about artificial &lpar;imitation&rpar; intelligence](https://gadgeteer.co.za/age-of-ai-everything-you-need-to-know-about-artificial-imitation-intelligence/)
-- [Google Photos app starting to tag the back of heads, and adding a manual Cinematic Photo feature](https://gadgeteer.co.za/google-photos-app-starting-to-tag-the-back-of-heads-and-adding-a-manual-cinematic-photo-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 
