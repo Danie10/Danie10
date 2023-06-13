@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is a GaN &lpar;gallium nitride&rpar; Charger, and Why Should You Buy One?](https://gadgeteer.co.za/what-is-a-gan-gallium-nitride-charger-and-why-should-you-buy-one/)
 - [What is Signal? The basics of the most secure messaging app: Modern phones can easily have multiple messenger apps on them](https://gadgeteer.co.za/what-is-signal-the-basics-of-the-most-secure-messaging-app-modern-phones-can-easily-have-multiple-messenger-apps-on-them/)
 - [Easy Deepfake Voice Cloning technology is an emerging risk to organizations](https://gadgeteer.co.za/easy-deepfake-voice-cloning-technology-is-an-emerging-risk-to-organizations/)
 - [Why You Should Use Bionic Reading in Chrome &lpar;or Any Browser&rpar;: An extension to highlight the most important parts of words](https://gadgeteer.co.za/why-you-should-use-bionic-reading-in-chrome-or-any-browser-an-extension-to-highlight-the-most-important-parts-of-words/)
 - [Pixelfed social network can now import photos, captions, and hashtags from your Instagram account](https://gadgeteer.co.za/pixelfed-social-network-can-now-import-photos-captions-and-hashtags-from-your-instagram-account/)
-- [You can now play DOOM on a Hyundai head unit using the car’s steering wheel controls](https://gadgeteer.co.za/you-can-now-play-doom-on-a-hyundai-head-unit-using-the-cars-steering-wheel-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 
