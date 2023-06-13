@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Next level Hack: Hackers can steal cryptographic keys by video-recording power LEDs 18 metres away without any probe or radio connections](https://gadgeteer.co.za/next-level-hack-hackers-can-steal-cryptographic-keys-by-video-recording-power-leds-18-metres-away-without-any-probe-or-radio-connections/)
 - [These Microsoft Office security signatures are ‘practically worthless’: Turns out it’s easy to forge documents relying on OOXML](https://gadgeteer.co.za/these-microsoft-office-security-signatures-are-practically-worthless-6-comment-bubble-on-white-turns-out-its-easy-to-forge-documents-relying-on-ooxml/)
 - [What Is a GaN &lpar;gallium nitride&rpar; Charger, and Why Should You Buy One?](https://gadgeteer.co.za/what-is-a-gan-gallium-nitride-charger-and-why-should-you-buy-one/)
 - [What is Signal? The basics of the most secure messaging app: Modern phones can easily have multiple messenger apps on them](https://gadgeteer.co.za/what-is-signal-the-basics-of-the-most-secure-messaging-app-modern-phones-can-easily-have-multiple-messenger-apps-on-them/)
 - [Easy Deepfake Voice Cloning technology is an emerging risk to organizations](https://gadgeteer.co.za/easy-deepfake-voice-cloning-technology-is-an-emerging-risk-to-organizations/)
-- [Why You Should Use Bionic Reading in Chrome &lpar;or Any Browser&rpar;: An extension to highlight the most important parts of words](https://gadgeteer.co.za/why-you-should-use-bionic-reading-in-chrome-or-any-browser-an-extension-to-highlight-the-most-important-parts-of-words/)
 <!-- BLOG-POST-LIST:END -->
 
 
