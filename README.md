@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Watch might soon just save your life: Finally getting irregular heartbeat recognition and notification](https://gadgeteer.co.za/samsung-galaxy-watch-might-soon-just-save-your-life-finally-getting-irregular-heartbeat-recognition-and-notification/)
 - [Applying simple CSS to Lemmy or Beehaw does add some nice indenting and spacing to look more like Reddit](https://gadgeteer.co.za/applying-simple-css-to-lemmy-or-beehaw-does-add-some-nice-indenting-and-spacing-to-look-more-like-reddit/)
 - [Docker Mailserver &lpar;DMS&rpar; is an open-source production-ready full stack mail server that you can self-host in a Docker container](https://gadgeteer.co.za/docker-mailserver-dms-is-an-open-source-production-ready-full-stack-mail-server-that-you-can-self-host-in-a-docker-container/)
 - [Think how much richer Internet searches will be with results from Lemmy, Beehaw, Kbin, etc](https://gadgeteer.co.za/think-how-much-richer-internet-searches-will-be-with-results-from-lemmy-beehaw-kbin-etc/)
 - [‘I’m a photographer and I don’t care about camera quality when buying a new phone’ – Prioritising camera quality severely limits your options](https://gadgeteer.co.za/im-a-photographer-and-i-dont-care-about-camera-quality-when-buying-a-new-phone-prioritising-camera-quality-severely-limits-your-options/)
-- [Next level Hack: Hackers can steal cryptographic keys by video-recording power LEDs 18 metres away without any probe or radio connections](https://gadgeteer.co.za/next-level-hack-hackers-can-steal-cryptographic-keys-by-video-recording-power-leds-18-metres-away-without-any-probe-or-radio-connections/)
 <!-- BLOG-POST-LIST:END -->
 
 
