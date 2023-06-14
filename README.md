@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Think how much richer Internet searches will be with results from Lemmy, Beehaw, Kbin, etc](https://gadgeteer.co.za/think-how-much-richer-internet-searches-will-be-with-results-from-lemmy-beehaw-kbin-etc/)
 - [‘I’m a photographer and I don’t care about camera quality when buying a new phone’ – Prioritising camera quality severely limits your options](https://gadgeteer.co.za/im-a-photographer-and-i-dont-care-about-camera-quality-when-buying-a-new-phone-prioritising-camera-quality-severely-limits-your-options/)
 - [Next level Hack: Hackers can steal cryptographic keys by video-recording power LEDs 18 metres away without any probe or radio connections](https://gadgeteer.co.za/next-level-hack-hackers-can-steal-cryptographic-keys-by-video-recording-power-leds-18-metres-away-without-any-probe-or-radio-connections/)
 - [These Microsoft Office security signatures are ‘practically worthless’: Turns out it’s easy to forge documents relying on OOXML](https://gadgeteer.co.za/these-microsoft-office-security-signatures-are-practically-worthless-6-comment-bubble-on-white-turns-out-its-easy-to-forge-documents-relying-on-ooxml/)
 - [What Is a GaN &lpar;gallium nitride&rpar; Charger, and Why Should You Buy One?](https://gadgeteer.co.za/what-is-a-gan-gallium-nitride-charger-and-why-should-you-buy-one/)
-- [What is Signal? The basics of the most secure messaging app: Modern phones can easily have multiple messenger apps on them](https://gadgeteer.co.za/what-is-signal-the-basics-of-the-most-secure-messaging-app-modern-phones-can-easily-have-multiple-messenger-apps-on-them/)
 <!-- BLOG-POST-LIST:END -->
 
 
