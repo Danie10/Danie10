@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Computer Storage Choices: It’s no longer just SATA Hard Drive vs SATA SSD as motherboards often support even faster options now like NVMe SSD](https://gadgeteer.co.za/computer-storage-choices-its-no-longer-just-sata-hard-drive-vs-sata-ssd-as-motherboards-often-support-even-faster-options-now-like-nvme-ssd/)
 - [Steam Client Now Lets You Enable Hardware Acceleration on Linux BUT enabling hardware acceleration on NVIDIA GPUs may cause X11 to crash](https://gadgeteer.co.za/steam-client-now-lets-you-enable-hardware-acceleration-on-linux-but-enabling-hardware-acceleration-on-nvidia-gpus-may-cause-x11-to-crash/)
 - [NixOS has one config file, can roll back changes, and keeps package dependencies separated for each app](https://gadgeteer.co.za/nixos-has-one-config-file-can-roll-back-changes-and-keeps-package-dependencies-separated-for-each-app/)
 - [EU: Samsung and other brands may be forced to bring back phones with removable backs so that we can easily replace batteries](https://gadgeteer.co.za/eu-samsung-and-other-brands-may-be-forced-to-bring-back-phones-with-removable-backs-so-that-we-can-easily-replace-batteries/)
 - [Calckey is also a federated social network based on the ActivityPub protocol, but it is really good looking with some extra functions inc account migrations](https://gadgeteer.co.za/calckey-is-also-a-federated-social-network-based-on-the-activitypub-protocol-but-it-is-really-good-looking-with-some-extra-functions-inc-account-migrations/)
-- [Relive the Internet of the ’90s With ‘Neocities’ – Build your next website like it’s not yet 1999](https://gadgeteer.co.za/relive-the-internet-of-the-90s-with-neocities-build-your-next-website-like-its-not-yet-1999/)
 <!-- BLOG-POST-LIST:END -->
 
 
