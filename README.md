@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NixOS has one config file, can roll back changes, and keeps package dependencies separated for each app](https://gadgeteer.co.za/nixos-has-one-config-file-can-roll-back-changes-and-keeps-package-dependencies-separated-for-each-app/)
 - [EU: Samsung and other brands may be forced to bring back phones with removable backs so that we can easily replace batteries](https://gadgeteer.co.za/eu-samsung-and-other-brands-may-be-forced-to-bring-back-phones-with-removable-backs-so-that-we-can-easily-replace-batteries/)
 - [Calckey is also a federated social network based on the ActivityPub protocol, but it is really good looking with some extra functions inc account migrations](https://gadgeteer.co.za/calckey-is-also-a-federated-social-network-based-on-the-activitypub-protocol-but-it-is-really-good-looking-with-some-extra-functions-inc-account-migrations/)
 - [Relive the Internet of the ’90s With ‘Neocities’ – Build your next website like it’s not yet 1999](https://gadgeteer.co.za/relive-the-internet-of-the-90s-with-neocities-build-your-next-website-like-its-not-yet-1999/)
 - [Samsung Galaxy Watch might soon just save your life: Finally getting irregular heartbeat recognition and notification](https://gadgeteer.co.za/samsung-galaxy-watch-might-soon-just-save-your-life-finally-getting-irregular-heartbeat-recognition-and-notification/)
-- [Applying simple CSS to Lemmy or Beehaw does add some nice indenting and spacing to look more like Reddit](https://gadgeteer.co.za/applying-simple-css-to-lemmy-or-beehaw-does-add-some-nice-indenting-and-spacing-to-look-more-like-reddit/)
 <!-- BLOG-POST-LIST:END -->
 
 
