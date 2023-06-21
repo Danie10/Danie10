@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [In praise of Reverse Polish Notation &lpar;RPN&rpar; with Python or C](https://gadgeteer.co.za/in-praise-of-reverse-polish-notation-rpn-with-python-or-c/)
 - [DPReview will live: Gear Patrol has purchased it from Amazon](https://gadgeteer.co.za/dpreview-will-live-gear-patrol-has-purchased-it-from-amazon/)
 - [Beginning of the end for LCD TVs: They’re still cheaper but prominent companies focusing on OLED and microLED technologies](https://gadgeteer.co.za/beginning-of-the-end-for-lcd-tvs-theyre-still-cheaper-but-prominent-companies-focusing-on-oled-and-microled-technologies/)
 - [50 Years of Text Games book parses the rich history of a foundational genre: Zork and MUD? Sure. But also Universal Paperclips, AI Dungeon, The Oregon Trail, and Lifeline](https://gadgeteer.co.za/50-years-of-text-games-book-parses-the-rich-history-of-a-foundational-genre-zork-and-mud-sure-but-also-universal-paperclips-ai-dungeon-the-oregon-trail-and-lifeline/)
 - [Bluetooth vs. Wi-Fi Music: Which Has Better Audio Quality? Choose Wi-Fi if you can](https://gadgeteer.co.za/bluetooth-vs-wi-fi-music-which-has-better-audio-quality-choose-wi-fi-if-you-can/)
-- [Withings Body Smart Review: A Connected Scale For the Masses that includes baby/pet weight](https://gadgeteer.co.za/withings-body-smart-review-a-connected-scale-for-the-masses-that-includes-baby-pet-weight/)
 <!-- BLOG-POST-LIST:END -->
 
 
