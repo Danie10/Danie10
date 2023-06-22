@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FeverPhone App: Researchers Created a Simple App That Turns Your Smartphone Screen Into an Accurate Thermometer, but it takes 90 seconds](https://gadgeteer.co.za/feverphone-app-researchers-created-a-simple-app-that-turns-your-smartphone-screen-into-an-accurate-thermometer-but-it-takes-90-seconds/)
 - [Why You Should Consider Changing Your DNS Server Today If You Still Use Your ISP’s Default](https://gadgeteer.co.za/why-you-should-consider-changing-your-dns-server-today-if-you-still-use-your-isps-default/)
 - [Improbable launches MSquared, a network of metaverses, to open borders between virtual worlds](https://gadgeteer.co.za/improbable-launches-msquared-a-network-of-metaverses-to-open-borders-between-virtual-worlds/)
 - [In praise of Reverse Polish Notation &lpar;RPN&rpar; with Python or C](https://gadgeteer.co.za/in-praise-of-reverse-polish-notation-rpn-with-python-or-c/)
 - [DPReview will live: Gear Patrol has purchased it from Amazon](https://gadgeteer.co.za/dpreview-will-live-gear-patrol-has-purchased-it-from-amazon/)
-- [Beginning of the end for LCD TVs: They’re still cheaper but prominent companies focusing on OLED and microLED technologies](https://gadgeteer.co.za/beginning-of-the-end-for-lcd-tvs-theyre-still-cheaper-but-prominent-companies-focusing-on-oled-and-microled-technologies/)
 <!-- BLOG-POST-LIST:END -->
 
 
