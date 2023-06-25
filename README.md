@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Choose the Best RAM for Your PC: Takeaway is heatsinks on RAM are usually not needed](https://gadgeteer.co.za/how-to-choose-the-best-ram-for-your-pc-takeaway-is-heatsinks-on-ram-are-usually-not-needed/)
 - [Cosmic rays could help us get around indoors, underground, and underwater: Has some pros and cons vs GPS](https://gadgeteer.co.za/cosmic-rays-could-help-us-get-around-indoors-underground-and-underwater-has-some-pros-and-cons-vs-gps/)
 - [Kodi vs. Plex: Which is Best For You For Streaming And Entertainment?](https://gadgeteer.co.za/kodi-vs-plex-which-is-best-for-you-for-streaming-and-entertainment/)
 - [Open-Source KeePassXC Password Manager Review](https://gadgeteer.co.za/open-source-keepassxc-password-manager-review/)
 - [Red Hat Enterprise Linux source code no longer available to the public: This affects various downstream distros based on it](https://gadgeteer.co.za/red-hat-enterprise-linux-source-code-no-longer-available-to-the-public-this-effects-various-downstream-distros-based-on-it/)
-- [Takealot SA versus Amazon USA tech price showdown: It’s around 50/50 so always best to check properly](https://gadgeteer.co.za/takealot-sa-versus-amazon-usa-tech-price-showdown-its-around-50-50-so-always-best-to-check-properly/)
 <!-- BLOG-POST-LIST:END -->
 
 
