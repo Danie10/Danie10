@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Top 7 Ways You Can Use Google Bard More Effectively](https://gadgeteer.co.za/the-top-7-ways-you-can-use-google-bard-more-effectively/)
 - [GloboNote – a feature-rich, free and open-source sticky notes application](https://gadgeteer.co.za/globonote-a-feature-rich-free-and-open-source-sticky-notes-application/)
 - [Manjaro and EndeavourOS Are Both Arch Based, But There Are Some Big Differences](https://gadgeteer.co.za/manjaro-and-endeavouros-are-both-arch-based-but-there-are-some-big-differences/)
 - [Liftoff! is one of the first dedicated Lemmy apps](https://gadgeteer.co.za/liftoff-is-one-of-the-first-dedicated-lemmy-apps/)
 - [How to Choose the Best RAM for Your PC: Takeaway is heatsinks on RAM are usually not needed](https://gadgeteer.co.za/how-to-choose-the-best-ram-for-your-pc-takeaway-is-heatsinks-on-ram-are-usually-not-needed/)
-- [Cosmic rays could help us get around indoors, underground, and underwater: Has some pros and cons vs GPS](https://gadgeteer.co.za/cosmic-rays-could-help-us-get-around-indoors-underground-and-underwater-has-some-pros-and-cons-vs-gps/)
 <!-- BLOG-POST-LIST:END -->
 
 
