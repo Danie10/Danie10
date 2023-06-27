@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Android phone, running Linux and modified openpilot software, can do basic self-driving of a car](https://gadgeteer.co.za/an-android-phone-running-linux-and-modified-openpilot-software-can-do-basic-self-driving-of-a-car/)
 - [Cheat allows you to create and view interactive cheatsheets on the Linux command-line](https://gadgeteer.co.za/cheat-allows-you-to-create-and-view-interactive-cheatsheets-on-the-linux-command-line/)
 - [Guide to lossless audio: Everything you need to know from a smartphone user perspective](https://gadgeteer.co.za/guide-to-lossless-audio-everything-you-need-to-know-from-a-smartphone-user-perspective/)
 - [The Top 7 Ways You Can Use Google Bard More Effectively](https://gadgeteer.co.za/the-top-7-ways-you-can-use-google-bard-more-effectively/)
 - [GloboNote – a feature-rich, free and open-source sticky notes application](https://gadgeteer.co.za/globonote-a-feature-rich-free-and-open-source-sticky-notes-application/)
-- [Manjaro and EndeavourOS Are Both Arch Based, But There Are Some Big Differences](https://gadgeteer.co.za/manjaro-and-endeavouros-are-both-arch-based-but-there-are-some-big-differences/)
 <!-- BLOG-POST-LIST:END -->
 
 
