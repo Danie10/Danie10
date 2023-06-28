@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [$99 ESPBoy Turned Into Functional Walkie-Talkie](https://gadgeteer.co.za/99-espboy-turned-into-functional-walkie-talkie/)
 - [New Second Life Mobile App Preview Shows Off Greatly Improved UI, Graphics &amp; Avatar Rendering — Aiming For Late 2023/Early 2024 Beta Release](https://gadgeteer.co.za/new-second-life-mobile-app-preview-shows-off-greatly-improved-ui-graphics-avatar-rendering-aiming-for-late-2023-early-2024-beta-release/)
 - [An Android phone, running Linux and modified openpilot software, can do basic self-driving of a car](https://gadgeteer.co.za/an-android-phone-running-linux-and-modified-openpilot-software-can-do-basic-self-driving-of-a-car/)
 - [Cheat allows you to create and view interactive cheatsheets on the Linux command-line](https://gadgeteer.co.za/cheat-allows-you-to-create-and-view-interactive-cheatsheets-on-the-linux-command-line/)
 - [Guide to lossless audio: Everything you need to know from a smartphone user perspective](https://gadgeteer.co.za/guide-to-lossless-audio-everything-you-need-to-know-from-a-smartphone-user-perspective/)
-- [The Top 7 Ways You Can Use Google Bard More Effectively](https://gadgeteer.co.za/the-top-7-ways-you-can-use-google-bard-more-effectively/)
 <!-- BLOG-POST-LIST:END -->
 
 
