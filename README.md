@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Brave aims to curb the practice of websites that port scan visitors: Great idea, but will a normal user know what ‘localhost resources’ are?](https://gadgeteer.co.za/brave-aims-to-curb-the-practice-of-websites-that-port-scan-visitors-great-idea-but-will-a-normal-user-know-what-localhost-resources-are/)
 - [Google Wallet will soon let phones without NFC &lpar;budget phones&rpar; make in-store payments with QR codes](https://gadgeteer.co.za/google-wallet-will-soon-let-phones-without-nfc-budget-phones-make-in-store-payments-with-qr-codes/)
 - [$99 ESPBoy Turned Into Functional Walkie-Talkie](https://gadgeteer.co.za/99-espboy-turned-into-functional-walkie-talkie/)
 - [New Second Life Mobile App Preview Shows Off Greatly Improved UI, Graphics &amp; Avatar Rendering — Aiming For Late 2023/Early 2024 Beta Release](https://gadgeteer.co.za/new-second-life-mobile-app-preview-shows-off-greatly-improved-ui-graphics-avatar-rendering-aiming-for-late-2023-early-2024-beta-release/)
 - [An Android phone, running Linux and modified openpilot software, can do basic self-driving of a car](https://gadgeteer.co.za/an-android-phone-running-linux-and-modified-openpilot-software-can-do-basic-self-driving-of-a-car/)
-- [Cheat allows you to create and view interactive cheatsheets on the Linux command-line](https://gadgeteer.co.za/cheat-allows-you-to-create-and-view-interactive-cheatsheets-on-the-linux-command-line/)
 <!-- BLOG-POST-LIST:END -->
 
 
