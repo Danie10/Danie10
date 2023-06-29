@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Verge’s greatest nonfiction tech books of all time: They are all about the intersection with humanity, not about technology itself](https://gadgeteer.co.za/the-verges-greatest-nonfiction-tech-books-of-all-time-they-are-all-about-the-intersection-with-humanity-not-about-technology-itself/)
 - [Proton launches its password manager Proton Pass: But you may still want to consider Bitwarden for these reasons](https://gadgeteer.co.za/proton-launches-its-password-manager-proton-pass-but-you-may-still-want-to-consider-bitwarden-for-these-reasons/)
 - [Brave aims to curb the practice of websites that port scan visitors: Great idea, but will a normal user know what ‘localhost resources’ are?](https://gadgeteer.co.za/brave-aims-to-curb-the-practice-of-websites-that-port-scan-visitors-great-idea-but-will-a-normal-user-know-what-localhost-resources-are/)
 - [Google Wallet will soon let phones without NFC &lpar;budget phones&rpar; make in-store payments with QR codes](https://gadgeteer.co.za/google-wallet-will-soon-let-phones-without-nfc-budget-phones-make-in-store-payments-with-qr-codes/)
 - [$99 ESPBoy Turned Into Functional Walkie-Talkie](https://gadgeteer.co.za/99-espboy-turned-into-functional-walkie-talkie/)
-- [New Second Life Mobile App Preview Shows Off Greatly Improved UI, Graphics &amp; Avatar Rendering — Aiming For Late 2023/Early 2024 Beta Release](https://gadgeteer.co.za/new-second-life-mobile-app-preview-shows-off-greatly-improved-ui-graphics-avatar-rendering-aiming-for-late-2023-early-2024-beta-release/)
 <!-- BLOG-POST-LIST:END -->
 
 
