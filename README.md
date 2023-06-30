@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Who killed Google Reader? Ten years after its untimely death, the team that built the much-beloved feed reader reflects on what went wrong and what could have been](https://gadgeteer.co.za/who-killed-google-reader-ten-years-after-its-untimely-death-the-team-that-built-the-much-beloved-feed-reader-reflects-on-what-went-wrong-and-what-could-have-been/)
+- [Twitter now blocks visitors from viewing tweets, profiles unless they’re logged in: No longer usable then for blogging publicly](https://gadgeteer.co.za/twitter-now-blocks-visitors-from-viewing-tweets-profiles-unless-theyre-logged-in-no-longer-usable-then-for-blogging-publicly/)
 - [Cape Town libraries have free access to Overdrive or Libby eBooks as well as over 7,000 local and international newspapers via PressReader](https://gadgeteer.co.za/cape-town-libraries-have-free-access-to-overdrive-or-libby-ebooks-as-well-as-over-7000-local-and-international-newspapers-via-pressreader/)
 - [The Verge’s greatest nonfiction tech books of all time: They are all about the intersection with humanity, not about technology itself](https://gadgeteer.co.za/the-verges-greatest-nonfiction-tech-books-of-all-time-they-are-all-about-the-intersection-with-humanity-not-about-technology-itself/)
 - [Proton launches its password manager Proton Pass: But you may still want to consider Bitwarden for these reasons](https://gadgeteer.co.za/proton-launches-its-password-manager-proton-pass-but-you-may-still-want-to-consider-bitwarden-for-these-reasons/)
-- [Brave aims to curb the practice of websites that port scan visitors: Great idea, but will a normal user know what ‘localhost resources’ are?](https://gadgeteer.co.za/brave-aims-to-curb-the-practice-of-websites-that-port-scan-visitors-great-idea-but-will-a-normal-user-know-what-localhost-resources-are/)
-- [Google Wallet will soon let phones without NFC &lpar;budget phones&rpar; make in-store payments with QR codes](https://gadgeteer.co.za/google-wallet-will-soon-let-phones-without-nfc-budget-phones-make-in-store-payments-with-qr-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 
