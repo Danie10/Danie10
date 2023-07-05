@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Citizen Band &lpar;CB&rpar; radio has gone license free in South Africa: Great for local comms when power fails or just to chat to your community](https://gadgeteer.co.za/citizen-band-cb-radio-has-gone-license-free-in-south-africa-great-for-local-comms-when-power-fails-or-just-to-chat-to-your-community/)
 - [South African government department fined R5 million in terms of the POPI Act for its tardiness with fixing IT breaches](https://gadgeteer.co.za/south-african-government-department-fined-r5-million-in-terms-of-the-popi-act-for-its-tardiness-with-fixing-it-breaches/)
 - [Elevate Your Shave with a Quality Shaving Soap](https://gadgeteer.co.za/elevate-your-shave-with-a-quality-shaving-soap/)
 - [Who killed Google Reader? Ten years after its untimely death, the team that built the much-beloved feed reader reflects on what went wrong and what could have been](https://gadgeteer.co.za/who-killed-google-reader-ten-years-after-its-untimely-death-the-team-that-built-the-much-beloved-feed-reader-reflects-on-what-went-wrong-and-what-could-have-been/)
 - [Twitter now blocks visitors from viewing tweets, profiles unless they’re logged in: No longer usable then for blogging publicly](https://gadgeteer.co.za/twitter-now-blocks-visitors-from-viewing-tweets-profiles-unless-theyre-logged-in-no-longer-usable-then-for-blogging-publicly/)
-- [Cape Town libraries have free access to Overdrive or Libby eBooks as well as over 7,000 local and international newspapers via PressReader](https://gadgeteer.co.za/cape-town-libraries-have-free-access-to-overdrive-or-libby-ebooks-as-well-as-over-7000-local-and-international-newspapers-via-pressreader/)
 <!-- BLOG-POST-LIST:END -->
 
 
