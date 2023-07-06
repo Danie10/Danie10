@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Small static page websites really can be hosted for free](https://gadgeteer.co.za/small-static-page-websites-really-can-be-hosted-for-free/)
+- [Threads, Meta’s Twitter rival, is tracking you in all sorts of ways because Meta/Facebook owns it](https://gadgeteer.co.za/threads-metas-twitter-rival-is-tracking-you-in-all-sorts-of-ways-because-meta-facebook-owns-it/)
 - [Citizen Band &lpar;CB&rpar; radio has gone license free in South Africa: Great for local comms when power fails or just to chat to your community](https://gadgeteer.co.za/citizen-band-cb-radio-has-gone-license-free-in-south-africa-great-for-local-comms-when-power-fails-or-just-to-chat-to-your-community/)
 - [South African government department fined R5 million in terms of the POPI Act for its tardiness with fixing IT breaches](https://gadgeteer.co.za/south-african-government-department-fined-r5-million-in-terms-of-the-popi-act-for-its-tardiness-with-fixing-it-breaches/)
 - [Elevate Your Shave with a Quality Shaving Soap](https://gadgeteer.co.za/elevate-your-shave-with-a-quality-shaving-soap/)
-- [Who killed Google Reader? Ten years after its untimely death, the team that built the much-beloved feed reader reflects on what went wrong and what could have been](https://gadgeteer.co.za/who-killed-google-reader-ten-years-after-its-untimely-death-the-team-that-built-the-much-beloved-feed-reader-reflects-on-what-went-wrong-and-what-could-have-been/)
-- [Twitter now blocks visitors from viewing tweets, profiles unless they’re logged in: No longer usable then for blogging publicly](https://gadgeteer.co.za/twitter-now-blocks-visitors-from-viewing-tweets-profiles-unless-theyre-logged-in-no-longer-usable-then-for-blogging-publicly/)
 <!-- BLOG-POST-LIST:END -->
 
 
