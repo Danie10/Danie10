@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best SSDs for Network Attached Storage &lpar;NAS&rpar; in 2023: Prices are Down and Capacities are Up](https://gadgeteer.co.za/best-ssds-for-network-attached-storage-nas-in-2023-prices-are-down-and-capacities-are-up/)
+- [Technologies to tackle water-related risks have been chronically underfunded for decades. Could the ‘tide’ be turning?](https://gadgeteer.co.za/technologies-to-tackle-water-related-risks-have-been-chronically-underfunded-for-decades-could-the-tide-be-turning/)
 - [Wesgro creates the Cape Karoo region in Roblox, partnering with BP &amp; Shell to win the hearts of young road-trippers in South Africa](https://gadgeteer.co.za/wesgro-creates-the-cape-karoo-region-in-roblox-partnering-with-bp-shell-to-win-the-hearts-of-young-road-trippers-in-south-africa/)
 - [Small static page websites really can be hosted for free](https://gadgeteer.co.za/small-static-page-websites-really-can-be-hosted-for-free/)
 - [Threads, Meta’s Twitter rival, is tracking you in all sorts of ways because Meta/Facebook owns it](https://gadgeteer.co.za/threads-metas-twitter-rival-is-tracking-you-in-all-sorts-of-ways-because-meta-facebook-owns-it/)
-- [Citizen Band &lpar;CB&rpar; radio has gone license free in South Africa: Great for local comms when power fails or just to chat to your community](https://gadgeteer.co.za/citizen-band-cb-radio-has-gone-license-free-in-south-africa-great-for-local-comms-when-power-fails-or-just-to-chat-to-your-community/)
-- [South African government department fined R5 million in terms of the POPI Act for its tardiness with fixing IT breaches](https://gadgeteer.co.za/south-african-government-department-fined-r5-million-in-terms-of-the-popi-act-for-its-tardiness-with-fixing-it-breaches/)
 <!-- BLOG-POST-LIST:END -->
 
 
