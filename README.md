@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Distrobox lets you start any Linux distribution inside your terminal, and even run GUI apps for that distro on your host machine](https://gadgeteer.co.za/distrobox-lets-you-start-any-linux-distribution-inside-your-terminal-and-even-run-gui-apps-for-that-distro-on-your-host-machine/)
 - [China’s openKylin 1.0 arrives. Our verdict? Not a bad-looking, er, Ubuntu remix: It’s certainly not the country’s ‘first homegrown open source desktop operating system’](https://gadgeteer.co.za/chinas-openkylin-1-0-arrives-our-verdict-not-a-bad-looking-er-ubuntu-remix-its-certainly-not-the-countrys-first-homegrown-open-source-desktop-operating-system/)
 - [Best SSDs for Network Attached Storage &lpar;NAS&rpar; in 2023: Prices are Down and Capacities are Up](https://gadgeteer.co.za/best-ssds-for-network-attached-storage-nas-in-2023-prices-are-down-and-capacities-are-up/)
 - [Technologies to tackle water-related risks have been chronically underfunded for decades. Could the ‘tide’ be turning?](https://gadgeteer.co.za/technologies-to-tackle-water-related-risks-have-been-chronically-underfunded-for-decades-could-the-tide-be-turning/)
 - [Wesgro creates the Cape Karoo region in Roblox, partnering with BP &amp; Shell to win the hearts of young road-trippers in South Africa](https://gadgeteer.co.za/wesgro-creates-the-cape-karoo-region-in-roblox-partnering-with-bp-shell-to-win-the-hearts-of-young-road-trippers-in-south-africa/)
-- [Small static page websites really can be hosted for free](https://gadgeteer.co.za/small-static-page-websites-really-can-be-hosted-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
 
