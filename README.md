@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Fitbit Charge 5 Might Be Broken After Its Latest Update &lpar;and many Aria scales also have issues&rpar;](https://gadgeteer.co.za/your-fitbit-charge-5-might-be-broken-after-its-latest-update-and-many-aria-scales-also-have-issues/)
+- [How to use open source Fan Control for Windows](https://gadgeteer.co.za/how-to-use-open-source-fan-control-for-windows/)
 - [Open KDE Konsole named Profiles, with own identification and a custom command, using a keyboard shortcut](https://gadgeteer.co.za/open-kde-konsole-named-profiles-with-own-identification-and-a-custom-command-using-a-keyboard-shortcut/)
 - [How To Maintain and Care for Your Safety Razor](https://gadgeteer.co.za/how-to-maintain-and-care-for-your-safety-razor/)
 - [Distrobox lets you start any Linux distribution inside your terminal, and even run GUI apps for that distro on your host machine](https://gadgeteer.co.za/distrobox-lets-you-start-any-linux-distribution-inside-your-terminal-and-even-run-gui-apps-for-that-distro-on-your-host-machine/)
-- [China’s openKylin 1.0 arrives. Our verdict? Not a bad-looking, er, Ubuntu remix: It’s certainly not the country’s ‘first homegrown open source desktop operating system’](https://gadgeteer.co.za/chinas-openkylin-1-0-arrives-our-verdict-not-a-bad-looking-er-ubuntu-remix-its-certainly-not-the-countrys-first-homegrown-open-source-desktop-operating-system/)
-- [Best SSDs for Network Attached Storage &lpar;NAS&rpar; in 2023: Prices are Down and Capacities are Up](https://gadgeteer.co.za/best-ssds-for-network-attached-storage-nas-in-2023-prices-are-down-and-capacities-are-up/)
 <!-- BLOG-POST-LIST:END -->
 
 
