@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Flow Battery Using Simple Sugar Has Year Long Charge Duration For Grid Storage: A Healthier Use For Sugar](https://gadgeteer.co.za/new-flow-battery-using-simple-sugar-has-year-long-charge-duration-for-grid-storage-a-healthier-use-for-sugar/)
 - [Finally got Timeshift on Linux to do a system restore when I really needed it](https://gadgeteer.co.za/finally-got-timeshift-on-linux-to-do-a-system-restore-when-i-really-needed-it/)
 - [Fairphone 3 gets seven years of updates, besting every other Android OEM: Proving the usual excuses for ending Android support aren’t valid](https://gadgeteer.co.za/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem-proving-the-usual-excuses-for-ending-android-support-arent-valid/)
 - [Your Fitbit Charge 5 Might Be Broken After Its Latest Update &lpar;and many Aria scales also have issues&rpar;](https://gadgeteer.co.za/your-fitbit-charge-5-might-be-broken-after-its-latest-update-and-many-aria-scales-also-have-issues/)
 - [How to use open source Fan Control for Windows](https://gadgeteer.co.za/how-to-use-open-source-fan-control-for-windows/)
-- [Open KDE Konsole named Profiles, with own identification and a custom command, using a keyboard shortcut](https://gadgeteer.co.za/open-kde-konsole-named-profiles-with-own-identification-and-a-custom-command-using-a-keyboard-shortcut/)
 <!-- BLOG-POST-LIST:END -->
 
 
