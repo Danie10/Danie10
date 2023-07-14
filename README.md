@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BMW smart glasses help bikers navigate with head-up display technology: But of course it’s not cheap](https://gadgeteer.co.za/bmw-smart-glasses-help-bikers-navigate-with-head-up-display-technology-but-of-course-its-not-cheap/)
 - [Open Source Thunderbird 115 Supernova E-Mail Released: Even If You Use Gmail, Thunderbird Will Back it Up For You](https://gadgeteer.co.za/open-source-thunderbird-115-supernova-e-mail-released-even-if-you-use-gmail-thunderbird-will-back-it-up-for-you/)
 - [How to Access the GRUB Menu in Virtual Machine: Useful if you want to Test out GRUB changes Safely](https://gadgeteer.co.za/how-to-access-the-grub-menu-in-virtual-machine-useful-if-you-want-to-test-out-grub-changes-safely/)
 - [New Flow Battery Using Simple Sugar Has Year Long Charge Duration For Grid Storage: A Healthier Use For Sugar](https://gadgeteer.co.za/new-flow-battery-using-simple-sugar-has-year-long-charge-duration-for-grid-storage-a-healthier-use-for-sugar/)
 - [Finally got Timeshift on Linux to do a system restore when I really needed it](https://gadgeteer.co.za/finally-got-timeshift-on-linux-to-do-a-system-restore-when-i-really-needed-it/)
-- [Fairphone 3 gets seven years of updates, besting every other Android OEM: Proving the usual excuses for ending Android support aren’t valid](https://gadgeteer.co.za/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem-proving-the-usual-excuses-for-ending-android-support-arent-valid/)
 <!-- BLOG-POST-LIST:END -->
 
 
