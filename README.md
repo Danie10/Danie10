@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ADB tips and tricks: Commands that every Android power user should know about](https://gadgeteer.co.za/adb-tips-and-tricks-commands-that-every-android-power-user-should-know-about/)
 - [Awesome Lists: A Community of curated awesome lists on GitHub on numerous tech topics](https://gadgeteer.co.za/awesome-lists-a-community-of-curated-awesome-lists-on-github-on-numerous-tech-topics/)
 - [BMW smart glasses help bikers navigate with head-up display technology: But of course it’s not cheap](https://gadgeteer.co.za/bmw-smart-glasses-help-bikers-navigate-with-head-up-display-technology-but-of-course-its-not-cheap/)
 - [Open Source Thunderbird 115 Supernova E-Mail Released: Even If You Use Gmail, Thunderbird Will Back it Up For You](https://gadgeteer.co.za/open-source-thunderbird-115-supernova-e-mail-released-even-if-you-use-gmail-thunderbird-will-back-it-up-for-you/)
 - [How to Access the GRUB Menu in Virtual Machine: Useful if you want to Test out GRUB changes Safely](https://gadgeteer.co.za/how-to-access-the-grub-menu-in-virtual-machine-useful-if-you-want-to-test-out-grub-changes-safely/)
-- [New Flow Battery Using Simple Sugar Has Year Long Charge Duration For Grid Storage: A Healthier Use For Sugar](https://gadgeteer.co.za/new-flow-battery-using-simple-sugar-has-year-long-charge-duration-for-grid-storage-a-healthier-use-for-sugar/)
 <!-- BLOG-POST-LIST:END -->
 
 
