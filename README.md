@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 DuckDuckGo Features You Should Be Using](https://gadgeteer.co.za/5-duckduckgo-features-you-should-be-using/)
 - [The xdotool command on Linux can automate just about any keystroke or mouse actions from the command line, or for shortcut keys](https://gadgeteer.co.za/the-xdotool-command-on-linux-can-automate-just-about-any-keystroke-or-mouse-actions-from-the-command-line-or-for-shortcut-keys/)
 - [ADB tips and tricks: Commands that every Android power user should know about](https://gadgeteer.co.za/adb-tips-and-tricks-commands-that-every-android-power-user-should-know-about/)
 - [Awesome Lists: A Community of curated awesome lists on GitHub on numerous tech topics](https://gadgeteer.co.za/awesome-lists-a-community-of-curated-awesome-lists-on-github-on-numerous-tech-topics/)
 - [BMW smart glasses help bikers navigate with head-up display technology: But of course it’s not cheap](https://gadgeteer.co.za/bmw-smart-glasses-help-bikers-navigate-with-head-up-display-technology-but-of-course-its-not-cheap/)
-- [Open Source Thunderbird 115 Supernova E-Mail Released: Even If You Use Gmail, Thunderbird Will Back it Up For You](https://gadgeteer.co.za/open-source-thunderbird-115-supernova-e-mail-released-even-if-you-use-gmail-thunderbird-will-back-it-up-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 
