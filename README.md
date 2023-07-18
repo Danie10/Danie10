@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LibreTranslate is Free and Open-Source Self-hosted Machine Translation](https://gadgeteer.co.za/libretranslate-is-free-and-open-source-self-hosted-machine-translation/)
 - [Bridgy Fed connects your web site to Mastodon and the Fediverse &lpar;and possibly Bluesky and Nostr later&rpar;](https://gadgeteer.co.za/bridgy-fed-connects-your-web-site-to-mastodon-and-the-fediverse-and-possibly-bluesky-and-nostr-later/)
 - [Complete guide to Nvidia Control Panel and GeForce Experience for Windows users](https://gadgeteer.co.za/complete-guide-to-nvidia-control-panel-and-geforce-experience-for-windows-users/)
 - [If you want to install Google apps on your custom ROM phone, this is how to do it](https://gadgeteer.co.za/if-you-want-to-install-google-apps-on-your-custom-rom-phone-this-is-how-to-do-it/)
 - [5 DuckDuckGo Features You Should Be Using](https://gadgeteer.co.za/5-duckduckgo-features-you-should-be-using/)
-- [The xdotool command on Linux can automate just about any keystroke or mouse actions from the command line, or for shortcut keys](https://gadgeteer.co.za/the-xdotool-command-on-linux-can-automate-just-about-any-keystroke-or-mouse-actions-from-the-command-line-or-for-shortcut-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 
