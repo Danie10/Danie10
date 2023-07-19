@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Weawow is a free and ad-free weather service with 4.9 ratings, choice of weather service, and highly customisable widgets](https://gadgeteer.co.za/weowow-is-a-free-and-ad-free-weather-service-with-4-9-ratings-choice-of-weather-service-and-highly-customisable-widgets/)
 - [LibreTranslate is Free and Open-Source Self-hosted Machine Translation](https://gadgeteer.co.za/libretranslate-is-free-and-open-source-self-hosted-machine-translation/)
 - [Bridgy Fed connects your web site to Mastodon and the Fediverse &lpar;and possibly Bluesky and Nostr later&rpar;](https://gadgeteer.co.za/bridgy-fed-connects-your-web-site-to-mastodon-and-the-fediverse-and-possibly-bluesky-and-nostr-later/)
 - [Complete guide to Nvidia Control Panel and GeForce Experience for Windows users](https://gadgeteer.co.za/complete-guide-to-nvidia-control-panel-and-geforce-experience-for-windows-users/)
 - [If you want to install Google apps on your custom ROM phone, this is how to do it](https://gadgeteer.co.za/if-you-want-to-install-google-apps-on-your-custom-rom-phone-this-is-how-to-do-it/)
-- [5 DuckDuckGo Features You Should Be Using](https://gadgeteer.co.za/5-duckduckgo-features-you-should-be-using/)
 <!-- BLOG-POST-LIST:END -->
 
 
