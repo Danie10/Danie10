@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Verge’s Readers pick the Best Tech Books of all time](https://gadgeteer.co.za/the-verges-readers-pick-the-best-tech-books-of-all-time/)
 - [The Linux systemd Controversy: A Beginner’s Guide to Understanding the Debate](https://gadgeteer.co.za/the-linux-systemd-controversy-a-beginners-guide-to-understanding-the-debate/)
 - [How to easily Install Linux on Windows Using WSL](https://gadgeteer.co.za/how-to-easily-install-linux-on-windows-using-wsl/)
 - [Biggest South African language Wikipedias and their editors, and quite a few Non-English contributions too](https://gadgeteer.co.za/biggest-south-african-language-wikipedias-and-their-editors-and-quite-a-few-non-english-contributions-too/)
 - [Weawow is a free and ad-free weather service with 4.9 ratings, choice of weather service, and highly customisable widgets](https://gadgeteer.co.za/weowow-is-a-free-and-ad-free-weather-service-with-4-9-ratings-choice-of-weather-service-and-highly-customisable-widgets/)
-- [LibreTranslate is Free and Open-Source Self-hosted Machine Translation](https://gadgeteer.co.za/libretranslate-is-free-and-open-source-self-hosted-machine-translation/)
 <!-- BLOG-POST-LIST:END -->
 
 
