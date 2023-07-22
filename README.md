@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT for Android launches next week, after launching on iOS in May, and it’s been very popular on iOS](https://gadgeteer.co.za/chatgpt-for-android-launches-next-week-after-launching-on-ios-in-may-and-its-been-very-popular-on-ios/)
 - [Google throws its weight behind yet another messaging standard: This time though it is the IETF’s MLS standard](https://gadgeteer.co.za/google-throws-its-weight-behind-yet-another-messaging-standard-this-time-though-it-is-the-ietfs-mls-standard/)
 - [Fibre optics could be the answer to water loss from leaky pipes: 48.6 billion cubic meters of water are lost globally daily](https://gadgeteer.co.za/fibre-optics-could-be-the-answer-to-water-loss-from-leaky-pipes-48-6-billion-cubic-meters-of-water-are-lost-globally-daily/)
 - [Do computer labs in schools still make sense in 2023, and do they still function 5 years after opening?](https://gadgeteer.co.za/do-computer-labs-in-schools-still-make-sense-in-2023-and-do-they-still-function-5-years-after-opening/)
 - [JD Power’s car owner survey: People are getting fed up with all the useless built-in tech in their cars](https://gadgeteer.co.za/jd-powers-car-owner-survey-people-are-getting-fed-up-with-all-the-useless-built-in-tech-in-their-cars/)
-- [The Verge’s Readers pick the Best Tech Books of all time](https://gadgeteer.co.za/the-verges-readers-pick-the-best-tech-books-of-all-time/)
 <!-- BLOG-POST-LIST:END -->
 
 
