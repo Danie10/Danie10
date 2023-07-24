@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [European radio standard TETRA has had a baked in vulnerability known for years by the vendors: Open standards are a better way to go](https://gadgeteer.co.za/european-radio-standard-tetra-has-had-a-baked-in-vulnerability-known-for-years-by-the-vendors-open-standards-are-a-better-way-to-go/)
 - [NoiseTorch-ng is an easy-to-use open source app for creating a virtual microphone on Linux to suppress noise](https://gadgeteer.co.za/noisetorch-ng-is-an-easy-to-use-open-source-app-for-creating-a-virtual-microphone-on-linux-to-suppress-noise/)
 - [HP-1973 is a Python simulator app for the retro HP-45 calculator and 5 other HP ROMs, written by Sarah K. Marr](https://gadgeteer.co.za/hp-1973-is-a-python-simulator-app-for-the-retro-hp-45-calculator-and-5-other-hp-roms-written-by-sarah-k-marr/)
 - [StreetComplete is a gamified Android app specifically for casual contributors to OpenStreetMap Editor for mapping in the field](https://gadgeteer.co.za/streetcomplete-is-a-gamified-android-app-specifically-for-casual-contributors-to-openstreetmap-editor-for-mapping-in-the-field/)
 - [ChatGPT for Android launches next week, after launching on iOS in May, and it’s been very popular on iOS](https://gadgeteer.co.za/chatgpt-for-android-launches-next-week-after-launching-on-ios-in-may-and-its-been-very-popular-on-ios/)
-- [Google throws its weight behind yet another messaging standard: This time though it is the IETF’s MLS standard](https://gadgeteer.co.za/google-throws-its-weight-behind-yet-another-messaging-standard-this-time-though-it-is-the-ietfs-mls-standard/)
 <!-- BLOG-POST-LIST:END -->
 
 
