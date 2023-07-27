@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Man open-sources the self-repairable AirPods Pro case that Apple won’t make](https://gadgeteer.co.za/man-open-sources-the-self-repairable-airpods-pro-case-that-apple-wont-make/)
+- [South Africa’s first laptop library launched – a refundable deposit gives you temporary loan of a laptop](https://gadgeteer.co.za/south-africas-first-laptop-library-launched-a-refundable-deposit-gives-you-temporary-loan-of-a-laptop/)
 - [touchHLE emulator runs 32-bit Doom Wolfenstein 3D on both iPhone and Android](https://gadgeteer.co.za/touchhle-emulator-runs-32-bit-doom-wolfenstein-3d-on-both-iphone-and-android/)
 - [Best panic button apps in South Africa – Not just for home use, but when driving or walking too](https://gadgeteer.co.za/best-panic-button-apps-in-south-africa-not-just-for-home-use-but-when-driving-or-walking-too/)
 - [European radio standard TETRA has had a baked in vulnerability known for years by the vendors: Open standards are a better way to go](https://gadgeteer.co.za/european-radio-standard-tetra-has-had-a-baked-in-vulnerability-known-for-years-by-the-vendors-open-standards-are-a-better-way-to-go/)
-- [NoiseTorch-ng is an easy-to-use open source app for creating a virtual microphone on Linux to suppress noise](https://gadgeteer.co.za/noisetorch-ng-is-an-easy-to-use-open-source-app-for-creating-a-virtual-microphone-on-linux-to-suppress-noise/)
-- [HP-1973 is a Python simulator app for the retro HP-45 calculator and 5 other HP ROMs, written by Sarah K. Marr](https://gadgeteer.co.za/hp-1973-is-a-python-simulator-app-for-the-retro-hp-45-calculator-and-5-other-hp-roms-written-by-sarah-k-marr/)
 <!-- BLOG-POST-LIST:END -->
 
 
