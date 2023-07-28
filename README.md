@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beeper, the universal chat and messenger app for 15 services, is now free to use](https://gadgeteer.co.za/beeper-the-universal-chat-and-messenger-app-for-15-services-is-now-free-to-use/)
 - [Man open-sources the self-repairable AirPods Pro case that Apple won’t make](https://gadgeteer.co.za/man-open-sources-the-self-repairable-airpods-pro-case-that-apple-wont-make/)
 - [South Africa’s first laptop library launched – a refundable deposit gives you temporary loan of a laptop](https://gadgeteer.co.za/south-africas-first-laptop-library-launched-a-refundable-deposit-gives-you-temporary-loan-of-a-laptop/)
 - [touchHLE emulator runs 32-bit Doom Wolfenstein 3D on both iPhone and Android](https://gadgeteer.co.za/touchhle-emulator-runs-32-bit-doom-wolfenstein-3d-on-both-iphone-and-android/)
 - [Best panic button apps in South Africa – Not just for home use, but when driving or walking too](https://gadgeteer.co.za/best-panic-button-apps-in-south-africa-not-just-for-home-use-but-when-driving-or-walking-too/)
-- [European radio standard TETRA has had a baked in vulnerability known for years by the vendors: Open standards are a better way to go](https://gadgeteer.co.za/european-radio-standard-tetra-has-had-a-baked-in-vulnerability-known-for-years-by-the-vendors-open-standards-are-a-better-way-to-go/)
 <!-- BLOG-POST-LIST:END -->
 
 
