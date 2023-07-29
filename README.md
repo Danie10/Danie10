@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Way to Bulk Export Your Apple Notes to More Portable Markdown Format](https://gadgeteer.co.za/the-best-way-to-bulk-export-your-apple-notes-to-more-portable-markdown-format/)
 - [Wireless earbuds, such as AirPods and Galaxy Buds 2, can actually help you hear conversations better with Ambient Sound](https://gadgeteer.co.za/wireless-earbuds-such-as-airpods-and-galaxy-buds-2-can-actually-help-you-hear-conversations-better-with-ambient-sound/)
 - [Beeper, the universal chat and messenger app for 15 services, is now free to use](https://gadgeteer.co.za/beeper-the-universal-chat-and-messenger-app-for-15-services-is-now-free-to-use/)
 - [Man open-sources the self-repairable AirPods Pro case that Apple won’t make](https://gadgeteer.co.za/man-open-sources-the-self-repairable-airpods-pro-case-that-apple-wont-make/)
 - [South Africa’s first laptop library launched – a refundable deposit gives you temporary loan of a laptop](https://gadgeteer.co.za/south-africas-first-laptop-library-launched-a-refundable-deposit-gives-you-temporary-loan-of-a-laptop/)
-- [touchHLE emulator runs 32-bit Doom Wolfenstein 3D on both iPhone and Android](https://gadgeteer.co.za/touchhle-emulator-runs-32-bit-doom-wolfenstein-3d-on-both-iphone-and-android/)
 <!-- BLOG-POST-LIST:END -->
 
 
