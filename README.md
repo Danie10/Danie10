@@ -13,12 +13,11 @@ My interests lean toward open source, green technology, security, privacy, amate
 
 I blog daily (about 3 to 5 posts pd) on various social networks such as:
 - Mastodon: <a rel="me" href="https://mastodon.social/@danie10">Danie10</a>
-- Twitter: https://twitter.com/danie10
+- X: https://x.com/GadgeteerZA
 - Friendica: https://squeet.me/profile/danie10/
 - Hubzilla: https://hub.vilarejo.pro.br/channel/gadgeteer
-- Reddit: https://www.reddit.com/r/GadgeteerZA/
+- Bluesky: https://bsky.app/profile/gadgeteer.co.za
 - Linkedin: https://www.linkedin.com/company/gadgeteerza/
-- Minds: https://www.minds.com/danievdm/
 - WordPress (option to subscribe to e-mails): https://gadgeteer.co.za/blog/
 - RSS feed: https://gadgeteer.co.za/category/uncategorized/feed/
 - Pixelfed: https://pixelfed.social/i/web/profile/9484
@@ -26,6 +25,7 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 - Matrix Room (also bridged to my IRC channel): https://matrix.to/#/#gadgeteerza:libera.chat
 - XMPP Chatroom: gadgeteerza-tech-blog@conference.movim.eu
 - XMPP Community Channel: https://mov.im/?community/news.movim.eu/gadgeteerza-tech-blog
+- MeWe: https://mewe.com/join/tech__gadgets
 
 
 # 📰 Recent Blog Posts
