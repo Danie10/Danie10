@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Toyota claims breakthrough with their solid state battery — full charge in 10 minutes with over 1,000 km of range by 2028](https://gadgeteer.co.za/toyota-claims-breakthrough-with-their-solid-state-battery-full-charge-in-10-minutes-with-over-1000-km-of-range-by-2028/)
 - [OpenTracks is an open source sport tracking application for Android that completely respects your privacy: Almost a Strava alternative](https://gadgeteer.co.za/opentracks-is-an-open-source-sport-tracking-application-for-android-that-completely-respects-your-privacy-almost-a-strava-alternative/)
 - [And Now For Something Completely Different! 10 Hidden Apps NOT Available on the Google Play Store!](https://gadgeteer.co.za/and-now-for-something-completely-different-10-hidden-apps-not-available-on-the-google-play-store/)
 - [SA wants to be involved in innovation, not just be consumers of it: It’s easy! Start with open source software like Brazil, China, and Russia](https://gadgeteer.co.za/sa-wants-to-be-involved-in-innovation-not-just-be-consumers-of-it-its-easy-start-with-open-source-software-like-brazil-china-and-russia/)
 - [The Best Way to Bulk Export Your Apple Notes to More Portable Markdown Format](https://gadgeteer.co.za/the-best-way-to-bulk-export-your-apple-notes-to-more-portable-markdown-format/)
-- [Wireless earbuds, such as AirPods and Galaxy Buds 2, can actually help you hear conversations better with Ambient Sound](https://gadgeteer.co.za/wireless-earbuds-such-as-airpods-and-galaxy-buds-2-can-actually-help-you-hear-conversations-better-with-ambient-sound/)
 <!-- BLOG-POST-LIST:END -->
 
 
