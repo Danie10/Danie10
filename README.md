@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [16-Year-Old Builds His Own Open-Source Cell Phone Based On An ESP32](https://gadgeteer.co.za/16-year-old-builds-his-own-open-source-cell-phone-based-on-an-esp32/)
 - [How to use the grep command in Linux for searching for, and inside, files](https://gadgeteer.co.za/how-to-use-the-grep-command-in-linux-for-searching-for-and-inside-files/)
 - [How to read free e-books for your Kindle e-reader or Fire tablet: Expand your library beyond the Amazon book store](https://gadgeteer.co.za/how-to-read-free-e-books-for-your-kindle-e-reader-or-fire-tablet-expand-your-library-beyond-the-amazon-book-store/)
 - [One of the big Reddit apps, Sync for Reddit, is now live as Sync for Lemmy on Android](https://gadgeteer.co.za/one-of-the-big-reddit-apps-sync-for-reddit-is-now-live-as-sync-for-lemmy-on-android/)
 - [IronOS is open source software for making soldering irons more flexible](https://gadgeteer.co.za/ironos-is-open-source-software-for-making-soldering-irons-more-flexible/)
-- [How to Self-Host Vaultwarden &lpar;open source Bitwarden&rpar; Password Manager with Docker](https://gadgeteer.co.za/how-to-self-host-vaultwarden-open-source-bitwarden-password-manager-with-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 
