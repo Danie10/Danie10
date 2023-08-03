@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to read free e-books for your Kindle e-reader or Fire tablet: Expand your library beyond the Amazon book store](https://gadgeteer.co.za/how-to-read-free-e-books-for-your-kindle-e-reader-or-fire-tablet-expand-your-library-beyond-the-amazon-book-store/)
 - [One of the big Reddit apps, Sync for Reddit, is now live as Sync for Lemmy on Android](https://gadgeteer.co.za/one-of-the-big-reddit-apps-sync-for-reddit-is-now-live-as-sync-for-lemmy-on-android/)
 - [IronOS is open source software for making soldering irons more flexible](https://gadgeteer.co.za/ironos-is-open-source-software-for-making-soldering-irons-more-flexible/)
 - [How to Self-Host Vaultwarden &lpar;open source Bitwarden&rpar; Password Manager with Docker](https://gadgeteer.co.za/how-to-self-host-vaultwarden-open-source-bitwarden-password-manager-with-docker/)
 - [Toyota claims breakthrough with their solid state battery — full charge in 10 minutes with over 1,000 km of range by 2028](https://gadgeteer.co.za/toyota-claims-breakthrough-with-their-solid-state-battery-full-charge-in-10-minutes-with-over-1000-km-of-range-by-2028/)
-- [OpenTracks is an open source sport tracking application for Android that completely respects your privacy: Almost a Strava alternative](https://gadgeteer.co.za/opentracks-is-an-open-source-sport-tracking-application-for-android-that-completely-respects-your-privacy-almost-a-strava-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 
