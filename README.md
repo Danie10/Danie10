@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Another X user “super pissed” that Musk ordered takeover of his account: There are only a few networks where you actually own your identity](https://gadgeteer.co.za/another-x-user-super-pissed-that-musk-ordered-takeover-of-his-account-there-are-only-a-few-networks-where-you-actually-own-your-identity/)
 - [10 Completely Free Linux Books That Will Make You a Linux Master](https://gadgeteer.co.za/10-completely-free-linux-books-that-will-make-you-a-linux-master/)
 - [16-Year-Old Builds His Own Open-Source Cell Phone Based On An ESP32](https://gadgeteer.co.za/16-year-old-builds-his-own-open-source-cell-phone-based-on-an-esp32/)
 - [How to use the grep command in Linux for searching for, and inside, files](https://gadgeteer.co.za/how-to-use-the-grep-command-in-linux-for-searching-for-and-inside-files/)
 - [How to read free e-books for your Kindle e-reader or Fire tablet: Expand your library beyond the Amazon book store](https://gadgeteer.co.za/how-to-read-free-e-books-for-your-kindle-e-reader-or-fire-tablet-expand-your-library-beyond-the-amazon-book-store/)
-- [One of the big Reddit apps, Sync for Reddit, is now live as Sync for Lemmy on Android](https://gadgeteer.co.za/one-of-the-big-reddit-apps-sync-for-reddit-is-now-live-as-sync-for-lemmy-on-android/)
 <!-- BLOG-POST-LIST:END -->
 
 
