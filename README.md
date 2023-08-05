@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Big Positive Changes coming to Google Search – including removing Private Info and Images from Search](https://gadgeteer.co.za/4-big-positive-changes-coming-to-google-search-including-removing-private-info-and-images-from-search/)
 - [AntennaPod is an open-source podcast app for Android with a 4.8 out of 5 stars rating](https://gadgeteer.co.za/antennapod-is-an-open-source-podcast-app-for-android-with-a-4-8-out-of-5-stars-rating/)
 - [Neo Launcher is a free and open-source customisable launcher for Android](https://gadgeteer.co.za/neo-launcher-is-a-free-and-open-source-customisable-launcher-for-android/)
 - [Another X user “super pissed” that Musk ordered takeover of his account: There are only a few networks where you actually own your identity](https://gadgeteer.co.za/another-x-user-super-pissed-that-musk-ordered-takeover-of-his-account-there-are-only-a-few-networks-where-you-actually-own-your-identity/)
 - [10 Completely Free Linux Books That Will Make You a Linux Master](https://gadgeteer.co.za/10-completely-free-linux-books-that-will-make-you-a-linux-master/)
-- [16-Year-Old Builds His Own Open-Source Cell Phone Based On An ESP32](https://gadgeteer.co.za/16-year-old-builds-his-own-open-source-cell-phone-based-on-an-esp32/)
 <!-- BLOG-POST-LIST:END -->
 
 
