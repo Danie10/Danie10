@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fluent Reader is a modern looking open-source desktop app for RSS News Reading](https://gadgeteer.co.za/fluent-reader-is-a-modern-looking-open-source-desktop-app-for-rss-news-reading/)
 - [If Zoom’s ToS change worries you, there is always open-source Jitsi Meet video conferencing without the 40 min cut-off time](https://gadgeteer.co.za/if-zooms-tos-change-worries-you-there-is-always-open-source-jitsi-meet-video-conferencing-without-the-40-min-cut-off-time/)
 - [South African fibre veterans launch United States expansion plan: Finding a niche not filled by US fiber providers](https://gadgeteer.co.za/south-african-fibre-veterans-launch-united-states-expansion-plan-finding-a-niche-not-filled-by-us-fiber-providers/)
 - [4 Big Positive Changes coming to Google Search – including removing Private Info and Images from Search](https://gadgeteer.co.za/4-big-positive-changes-coming-to-google-search-including-removing-private-info-and-images-from-search/)
 - [AntennaPod is an open-source podcast app for Android with a 4.8 out of 5 stars rating](https://gadgeteer.co.za/antennapod-is-an-open-source-podcast-app-for-android-with-a-4-8-out-of-5-stars-rating/)
-- [Neo Launcher is a free and open-source customisable launcher for Android](https://gadgeteer.co.za/neo-launcher-is-a-free-and-open-source-customisable-launcher-for-android/)
 <!-- BLOG-POST-LIST:END -->
 
 
