@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ONLYOFFICE DocSpace: The Best Open-Source Collaborative Platform for Linux](https://gadgeteer.co.za/onlyoffice-docspace-the-best-open-source-collaborative-platform-for-linux/)
 - [Bots are better than humans at cracking ‘Are you a robot?’ Captcha tests, study finds](https://gadgeteer.co.za/bots-are-better-than-humans-at-cracking-are-you-a-robot-captcha-tests-study-finds/)
 - [New AI-Driven Cyberattack Can Steal Your Data Just By Listening to You Type: Need to Blur Video and Mute Sound now!](https://gadgeteer.co.za/new-ai-driven-cyberattack-can-steal-your-data-just-by-listening-to-you-type-need-to-blur-video-and-mute-sound-now/)
 - [Fluent Reader is a modern looking open-source desktop app for RSS News Reading](https://gadgeteer.co.za/fluent-reader-is-a-modern-looking-open-source-desktop-app-for-rss-news-reading/)
 - [If Zoom’s ToS change worries you, there is always open-source Jitsi Meet video conferencing without the 40 min cut-off time](https://gadgeteer.co.za/if-zooms-tos-change-worries-you-there-is-always-open-source-jitsi-meet-video-conferencing-without-the-40-min-cut-off-time/)
-- [South African fibre veterans launch United States expansion plan: Finding a niche not filled by US fiber providers](https://gadgeteer.co.za/south-african-fibre-veterans-launch-united-states-expansion-plan-finding-a-niche-not-filled-by-us-fiber-providers/)
 <!-- BLOG-POST-LIST:END -->
 
 
