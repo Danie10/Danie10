@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Omnivore is an excellent open-source read-it-later alternative to Pocket, that can be self-hosted as well](https://gadgeteer.co.za/omnivore-is-an-excellent-open-source-read-it-later-alternative-to-pocket-that-can-be-self-hosted-as-well/)
 - [Cult of the Dead Cow releases Veilid: A secure open-source Peer-to-Peer network for apps that flips off the surveillance economy](https://gadgeteer.co.za/cult-of-the-dead-cow-releases-veilid-a-secure-open-source-peer-to-peer-network-for-apps-that-flips-off-the-surveillance-economy/)
 - [Both the TETRA radio and Microsoft Azure Cloud vulnerabilities are ‘Negligent Security Practices’ and ‘Security Through Obscurity’ is not secure](https://gadgeteer.co.za/both-the-tetra-radio-and-microsoft-azure-cloud-vulnerabilities-are-negligent-security-practices-and-security-through-obscurity-is-not-secure/)
 - [No More Windows! Indian Defence Services are Switching to Linux: Indian Govt offices to use Linux distribution, replacing Microsoft Windows](https://gadgeteer.co.za/no-more-windows-indian-defence-services-are-switching-to-linux-indian-govt-offices-to-use-linux-distribution-replacing-microsoft-windows/)
 - [14 podcasts to teach kids about history, identity, and current events: Easy ways to add to the education they’re getting in the classroom](https://gadgeteer.co.za/14-podcasts-to-teach-kids-about-history-identity-and-current-events-easy-ways-to-add-to-the-education-theyre-getting-in-the-classroom/)
-- [ONLYOFFICE DocSpace: The Best Open-Source Collaborative Platform for Linux](https://gadgeteer.co.za/onlyoffice-docspace-the-best-open-source-collaborative-platform-for-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
