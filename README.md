@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LG has a 27-inch battery-powered touchscreen 1080p LCD ‘TV’ in a suitcase](https://gadgeteer.co.za/lg-has-a-27-inch-battery-powered-touchscreen-1080p-lcd-tv-in-a-suitcase/)
 - [OpenFarm is a free and open database for farming and gardening knowledge: Open-Source is not just Software](https://gadgeteer.co.za/openfarm-is-a-free-and-open-database-for-farming-and-gardening-knowledge-open-source-is-not-just-software/)
 - [After two years of testing, Cape Town’s Golden Arrow Bus Service will go operational with 60 new electric buses per year](https://gadgeteer.co.za/after-two-years-of-testing-cape-towns-golden-arrow-bus-service-will-go-operational-with-60-new-electric-busses-per-year/)
 - [India, the world’s largest smartwatch market, is getting new smart rings by BoAt and Noise, similar to Oura but likely cheaper](https://gadgeteer.co.za/india-the-worlds-largest-smartwatch-market-is-getting-new-smart-rings-by-boat-and-noise-similar-to-oura-but-likely-cheaper/)
 - [You can build your own NAS home server and save $100s](https://gadgeteer.co.za/you-can-build-your-own-nas-home-server-and-save-100s/)
-- [Omnivore is an excellent open-source read-it-later alternative to Pocket, that can be self-hosted as well](https://gadgeteer.co.za/omnivore-is-an-excellent-open-source-read-it-later-alternative-to-pocket-that-can-be-self-hosted-as-well/)
 <!-- BLOG-POST-LIST:END -->
 
 
