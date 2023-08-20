@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2FAS is a private, free and open-source two-factor authenticator for Android and iOS, and Desktop Browsers](https://gadgeteer.co.za/2fas-is-a-private-free-and-open-source-two-factor-authenticator-for-android-and-ios-and-desktop-browsers/)
 - [Australia’s internet providers are ditching email, to the disgust of older customers: But maybe it’s a good thing actually](https://gadgeteer.co.za/australias-internet-providers-are-ditching-email-to-the-disgust-of-older-customers-but-maybe-its-a-good-thing-actually/)
 - [India’s e-Gov digital public goods diplomacy scores wins around the world](https://gadgeteer.co.za/indias-e-gov-digital-public-goods-diplomacy-scores-wins-around-the-world/)
 - [LG has a 27-inch battery-powered touchscreen 1080p LCD ‘TV’ in a suitcase](https://gadgeteer.co.za/lg-has-a-27-inch-battery-powered-touchscreen-1080p-lcd-tv-in-a-suitcase/)
 - [OpenFarm is a free and open database for farming and gardening knowledge: Open-Source is not just Software](https://gadgeteer.co.za/openfarm-is-a-free-and-open-database-for-farming-and-gardening-knowledge-open-source-is-not-just-software/)
-- [After two years of testing, Cape Town’s Golden Arrow Bus Service will go operational with 60 new electric buses per year](https://gadgeteer.co.za/after-two-years-of-testing-cape-towns-golden-arrow-bus-service-will-go-operational-with-60-new-electric-busses-per-year/)
 <!-- BLOG-POST-LIST:END -->
 
 
