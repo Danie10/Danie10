@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pine64 Pinecil V2 Open-Source and Portable Soldering Iron](https://gadgeteer.co.za/pine64-pinecil-v2-open-source-and-portable-soldering-iron/)
 - [Don’t just blindly trust your mobile phone app when hiking or trail running around Cape Town, do these things as well!](https://gadgeteer.co.za/dont-just-blindly-trust-your-mobile-phone-app-when-hiking-or-trail-running-around-cape-town-do-these-things-as-well/)
 - [2FAS is a private, free and open-source two-factor authenticator for Android and iOS, and Desktop Browsers](https://gadgeteer.co.za/2fas-is-a-private-free-and-open-source-two-factor-authenticator-for-android-and-ios-and-desktop-browsers/)
 - [Australia’s internet providers are ditching email, to the disgust of older customers: But maybe it’s a good thing actually](https://gadgeteer.co.za/australias-internet-providers-are-ditching-email-to-the-disgust-of-older-customers-but-maybe-its-a-good-thing-actually/)
 - [India’s e-Gov digital public goods diplomacy scores wins around the world](https://gadgeteer.co.za/indias-e-gov-digital-public-goods-diplomacy-scores-wins-around-the-world/)
-- [LG has a 27-inch battery-powered touchscreen 1080p LCD ‘TV’ in a suitcase](https://gadgeteer.co.za/lg-has-a-27-inch-battery-powered-touchscreen-1080p-lcd-tv-in-a-suitcase/)
 <!-- BLOG-POST-LIST:END -->
 
 
