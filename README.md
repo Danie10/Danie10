@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Study shows 95% of wearables were contaminated with various forms of bacteria: Metal still better than plastic or rubber](https://gadgeteer.co.za/studys-shows-95-of-wearables-were-contaminated-with-various-forms-of-bacteria-metal-still-better-than-plastic-or-rubber/)
 - [Smart Garbage Trucks with AI are perfect for spotting street maintenance issues](https://gadgeteer.co.za/smart-garbage-trucks-with-ai-are-perfect-for-spotting-street-maintenance-issues/)
 - [Firefox can now import and use Chrome extensions](https://gadgeteer.co.za/firefox-can-now-import-and-use-chrome-extensions/)
 - [Pine64 Pinecil V2 Open-Source and Portable Soldering Iron](https://gadgeteer.co.za/pine64-pinecil-v2-open-source-and-portable-soldering-iron/)
 - [Don’t just blindly trust your mobile phone app when hiking or trail running around Cape Town, do these things as well!](https://gadgeteer.co.za/dont-just-blindly-trust-your-mobile-phone-app-when-hiking-or-trail-running-around-cape-town-do-these-things-as-well/)
-- [2FAS is a private, free and open-source two-factor authenticator for Android and iOS, and Desktop Browsers](https://gadgeteer.co.za/2fas-is-a-private-free-and-open-source-two-factor-authenticator-for-android-and-ios-and-desktop-browsers/)
 <!-- BLOG-POST-LIST:END -->
 
 
