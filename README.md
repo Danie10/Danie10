@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Darknet Diaries Podcast: True stories from the dark side of the Internet](https://gadgeteer.co.za/darknet-diaries-podcast-true-stories-from-the-dark-side-of-the-internet/)
 - [GPU Screen Recorder For Linux Adds Support For AMD And Intel GPUs: Similar to ShadowPlay for Windows](https://gadgeteer.co.za/gpu-screen-recorder-for-linux-adds-support-for-amd-and-intel-gpus-similar-to-shadowplay-for-windows/)
 - [Study shows 95% of wearables were contaminated with various forms of bacteria: Metal still better than plastic or rubber](https://gadgeteer.co.za/studys-shows-95-of-wearables-were-contaminated-with-various-forms-of-bacteria-metal-still-better-than-plastic-or-rubber/)
 - [Smart Garbage Trucks with AI are perfect for spotting street maintenance issues](https://gadgeteer.co.za/smart-garbage-trucks-with-ai-are-perfect-for-spotting-street-maintenance-issues/)
 - [Firefox can now import and use Chrome extensions](https://gadgeteer.co.za/firefox-can-now-import-and-use-chrome-extensions/)
-- [Pine64 Pinecil V2 Open-Source and Portable Soldering Iron](https://gadgeteer.co.za/pine64-pinecil-v2-open-source-and-portable-soldering-iron/)
 <!-- BLOG-POST-LIST:END -->
 
 
