@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cape Town City libraries use technology to draw young patrons to the bookshelves: Read something, before you can use a tablet](https://gadgeteer.co.za/cape-town-city-libraries-use-technology-to-draw-young-patrons-to-the-bookshelves-read-something-before-you-can-use-a-tablet/)
 - [Not only can any RSS reader follow a Mastodon Profile’s posts, they can also follow any Hashtags on a Server](https://gadgeteer.co.za/not-only-can-any-rss-reader-follow-a-mastodon-profiles-posts-they-can-also-follow-any-hashtags-on-a-server/)
 - [Valorant, the free-to-play esports first-person tactical hero shooter game, now has servers live in Cape Town](https://gadgeteer.co.za/valorant-the-free-to-play-esports-first-person-tactical-hero-shooter-game-now-has-servers-live-in-cape-town/)
 - [How to enable noise-suppression-for-voice for gaming and other apps on Linux](https://gadgeteer.co.za/how-to-enable-noise-suppression-for-voice-for-gaming-and-other-apps-on-linux/)
 - [Fairphone 5 sets a new standard with 8-10 years of Android support and a 5-year warranty](https://gadgeteer.co.za/fairphone-5-sets-a-new-standard-with-8-10-years-of-android-support-and-a-5-year-warranty/)
-- [Distill Web Monitor for price change alerts on any website](https://gadgeteer.co.za/distill-web-monitor-for-price-change-alerts-on-any-website/)
 <!-- BLOG-POST-LIST:END -->
 
 
