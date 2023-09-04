@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stylus is a desktop browser extension that applies better looking styles to your favourite websites](https://gadgeteer.co.za/stylus-is-a-desktop-browser-extension-that-applies-better-looking-styles-to-your-favourite-websites/)
 - [How to Remove Your Personal Info From Google by Using Its ‘Results About You’ Tool](https://gadgeteer.co.za/how-to-remove-your-personal-info-from-google-by-using-its-results-about-you-tool/)
 - [Cape Town City libraries use technology to draw young patrons to the bookshelves: Read something, before you can use a tablet](https://gadgeteer.co.za/cape-town-city-libraries-use-technology-to-draw-young-patrons-to-the-bookshelves-read-something-before-you-can-use-a-tablet/)
 - [Not only can any RSS reader follow a Mastodon Profile’s posts, they can also follow any Hashtags on a Server](https://gadgeteer.co.za/not-only-can-any-rss-reader-follow-a-mastodon-profiles-posts-they-can-also-follow-any-hashtags-on-a-server/)
 - [Valorant, the free-to-play esports first-person tactical hero shooter game, now has servers live in Cape Town](https://gadgeteer.co.za/valorant-the-free-to-play-esports-first-person-tactical-hero-shooter-game-now-has-servers-live-in-cape-town/)
-- [How to enable noise-suppression-for-voice for gaming and other apps on Linux](https://gadgeteer.co.za/how-to-enable-noise-suppression-for-voice-for-gaming-and-other-apps-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
