@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inside SA Rugby’s technology data-driven approach to the Boks winning the sport’s biggest tournament](https://gadgeteer.co.za/inside-sa-rugbys-technology-data-driven-approach-to-the-boks-winning-the-sports-biggest-tournament/)
 - [The Secret System That Allows Waze to Find Faster Routes Than Google Maps: The difference is more than just cosmetic](https://gadgeteer.co.za/the-secret-system-that-allows-waze-to-find-faster-routes-than-google-maps-the-difference-is-more-than-just-cosmetic/)
 - [Stylus is a desktop browser extension that applies better looking styles to your favourite websites](https://gadgeteer.co.za/stylus-is-a-desktop-browser-extension-that-applies-better-looking-styles-to-your-favourite-websites/)
 - [How to Remove Your Personal Info From Google by Using Its ‘Results About You’ Tool](https://gadgeteer.co.za/how-to-remove-your-personal-info-from-google-by-using-its-results-about-you-tool/)
 - [Cape Town City libraries use technology to draw young patrons to the bookshelves: Read something, before you can use a tablet](https://gadgeteer.co.za/cape-town-city-libraries-use-technology-to-draw-young-patrons-to-the-bookshelves-read-something-before-you-can-use-a-tablet/)
-- [Not only can any RSS reader follow a Mastodon Profile’s posts, they can also follow any Hashtags on a Server](https://gadgeteer.co.za/not-only-can-any-rss-reader-follow-a-mastodon-profiles-posts-they-can-also-follow-any-hashtags-on-a-server/)
 <!-- BLOG-POST-LIST:END -->
 
 
