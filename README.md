@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Afripods is trying to grow the podcast market in Africa](https://gadgeteer.co.za/how-afripods-is-trying-to-grow-the-podcast-market-in-africa/)
 - [Researchers show how Chrome extensions can steal plaintext passwords for popular sites such as Gmail, Cloudflare, Facebook, etc](https://gadgeteer.co.za/researchers-show-how-chrome-extensions-can-steal-plaintext-passwords-for-popular-sites-such-as-gmail-cloudflare-facebook-etc/)
 - [Inside SA Rugby’s technology data-driven approach to the Boks winning the sport’s biggest tournament](https://gadgeteer.co.za/inside-sa-rugbys-technology-data-driven-approach-to-the-boks-winning-the-sports-biggest-tournament/)
 - [The Secret System That Allows Waze to Find Faster Routes Than Google Maps: The difference is more than just cosmetic](https://gadgeteer.co.za/the-secret-system-that-allows-waze-to-find-faster-routes-than-google-maps-the-difference-is-more-than-just-cosmetic/)
 - [Stylus is a desktop browser extension that applies better looking styles to your favourite websites](https://gadgeteer.co.za/stylus-is-a-desktop-browser-extension-that-applies-better-looking-styles-to-your-favourite-websites/)
-- [How to Remove Your Personal Info From Google by Using Its ‘Results About You’ Tool](https://gadgeteer.co.za/how-to-remove-your-personal-info-from-google-by-using-its-results-about-you-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 
