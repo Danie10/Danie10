@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SA Mobile Network Operators recycling Cellphone ‘unused’ numbers without notifying Customers](https://gadgeteer.co.za/sa-mobile-network-operators-recycling-cellphone-unused-numbers-without-notifying-customers/)
 - [Postmarks is a decentralised self-hosted Fediverse successor to the old del.ici.us bookmarking service](https://gadgeteer.co.za/postmarks-is-a-decentralised-self-hosted-fediverse-successor-to-the-old-del-ici-us-bookmarking-service/)
 - [How Afripods is trying to grow the podcast market in Africa](https://gadgeteer.co.za/how-afripods-is-trying-to-grow-the-podcast-market-in-africa/)
 - [Researchers show how Chrome extensions can steal plaintext passwords for popular sites such as Gmail, Cloudflare, Facebook, etc](https://gadgeteer.co.za/researchers-show-how-chrome-extensions-can-steal-plaintext-passwords-for-popular-sites-such-as-gmail-cloudflare-facebook-etc/)
 - [Inside SA Rugby’s technology data-driven approach to the Boks winning the sport’s biggest tournament](https://gadgeteer.co.za/inside-sa-rugbys-technology-data-driven-approach-to-the-boks-winning-the-sports-biggest-tournament/)
-- [The Secret System That Allows Waze to Find Faster Routes Than Google Maps: The difference is more than just cosmetic](https://gadgeteer.co.za/the-secret-system-that-allows-waze-to-find-faster-routes-than-google-maps-the-difference-is-more-than-just-cosmetic/)
 <!-- BLOG-POST-LIST:END -->
 
 
