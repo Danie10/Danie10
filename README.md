@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new implant could provide early detection of kidney transplant rejection](https://gadgeteer.co.za/a-new-implant-could-provide-early-detection-of-kidney-transplant-rejection/)
+- [What is WhatsApp Plus, and how does it differ from WhatsApp?](https://gadgeteer.co.za/what-is-whatsapp-plus-and-how-does-it-differ-from-whatsapp/)
 - [Mission Center: Another New GUI System Monitoring Tool for Linux](https://gadgeteer.co.za/mission-center-another-new-gui-system-monitoring-tool-for-linux/)
 - [Thank You EU: WhatsApp working on cross-platform interoperability with other messengers](https://gadgeteer.co.za/thank-you-eu-whatsapp-working-on-cross-platform-interoperability-with-other-messengers/)
 - [SA Mobile Network Operators recycling Cellphone ‘unused’ numbers without notifying Customers](https://gadgeteer.co.za/sa-mobile-network-operators-recycling-cellphone-unused-numbers-without-notifying-customers/)
-- [Postmarks is a decentralised self-hosted Fediverse successor to the old del.ici.us bookmarking service](https://gadgeteer.co.za/postmarks-is-a-decentralised-self-hosted-fediverse-successor-to-the-old-del-ici-us-bookmarking-service/)
-- [How Afripods is trying to grow the podcast market in Africa](https://gadgeteer.co.za/how-afripods-is-trying-to-grow-the-podcast-market-in-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 
