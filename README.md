@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp will likely set the global standard for messaging interoperability: This is Why and possibly What](https://gadgeteer.co.za/whatsapp-will-likely-set-the-global-standard-for-messaging-interoperability-this-is-why-and-possibly-what/)
 - [A new implant could provide early detection of kidney transplant rejection](https://gadgeteer.co.za/a-new-implant-could-provide-early-detection-of-kidney-transplant-rejection/)
 - [What is WhatsApp Plus, and how does it differ from WhatsApp?](https://gadgeteer.co.za/what-is-whatsapp-plus-and-how-does-it-differ-from-whatsapp/)
 - [Mission Center: Another New GUI System Monitoring Tool for Linux](https://gadgeteer.co.za/mission-center-another-new-gui-system-monitoring-tool-for-linux/)
 - [Thank You EU: WhatsApp working on cross-platform interoperability with other messengers](https://gadgeteer.co.za/thank-you-eu-whatsapp-working-on-cross-platform-interoperability-with-other-messengers/)
-- [SA Mobile Network Operators recycling Cellphone ‘unused’ numbers without notifying Customers](https://gadgeteer.co.za/sa-mobile-network-operators-recycling-cellphone-unused-numbers-without-notifying-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 
