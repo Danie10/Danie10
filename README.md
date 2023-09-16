@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [15 Best Free &lpar;and mostly Open Source&rpar; Music Making Software for Linux, Windows, and macOS](https://gadgeteer.co.za/15-best-free-and-mostly-open-source-music-making-software-for-linux-windows-and-macos/)
+- [Previously secret Israeli spyware that infects targets via ads on Microsoft Windows, Google Android, and Apple iOS devices](https://gadgeteer.co.za/previously-secret-israeli-spyware-that-infects-targets-via-ads-on-microsoft-windows-google-android-and-apple-ios-devices/)
 - [Table Comparison of 14 different Free and Open-Source Photo Libraries](https://gadgeteer.co.za/table-comparison-of-14-different-free-and-open-source-photo-libraries/)
 - [WhatsApp will likely set the global standard for messaging interoperability: This is Why and possibly What](https://gadgeteer.co.za/whatsapp-will-likely-set-the-global-standard-for-messaging-interoperability-this-is-why-and-possibly-what/)
 - [A new implant could provide early detection of kidney transplant rejection](https://gadgeteer.co.za/a-new-implant-could-provide-early-detection-of-kidney-transplant-rejection/)
-- [What is WhatsApp Plus, and how does it differ from WhatsApp?](https://gadgeteer.co.za/what-is-whatsapp-plus-and-how-does-it-differ-from-whatsapp/)
-- [Mission Center: Another New GUI System Monitoring Tool for Linux](https://gadgeteer.co.za/mission-center-another-new-gui-system-monitoring-tool-for-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
