@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fairphone 5 Camera test: Benchmarks and Comparisons with Pixel 7a and Xiaomi 12T Pro](https://gadgeteer.co.za/fairphone-5-camera-test-benchmarks-and-comparisons-with-pixel-7a-and-xiaomi-12t-pro/)
 - [15 Best Free &lpar;and mostly Open Source&rpar; Music Making Software for Linux, Windows, and macOS](https://gadgeteer.co.za/15-best-free-and-mostly-open-source-music-making-software-for-linux-windows-and-macos/)
 - [Previously secret Israeli spyware that infects targets via ads on Microsoft Windows, Google Android, and Apple iOS devices](https://gadgeteer.co.za/previously-secret-israeli-spyware-that-infects-targets-via-ads-on-microsoft-windows-google-android-and-apple-ios-devices/)
 - [Table Comparison of 14 different Free and Open-Source Photo Libraries](https://gadgeteer.co.za/table-comparison-of-14-different-free-and-open-source-photo-libraries/)
 - [WhatsApp will likely set the global standard for messaging interoperability: This is Why and possibly What](https://gadgeteer.co.za/whatsapp-will-likely-set-the-global-standard-for-messaging-interoperability-this-is-why-and-possibly-what/)
-- [A new implant could provide early detection of kidney transplant rejection](https://gadgeteer.co.za/a-new-implant-could-provide-early-detection-of-kidney-transplant-rejection/)
 <!-- BLOG-POST-LIST:END -->
 
 
