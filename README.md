@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Home Assistant Dashboard alerts if my Victron Solar System last fully charged the Battery more than a week ago](https://gadgeteer.co.za/my-home-assistant-dashboard-alerts-if-my-victron-solar-system-last-fully-charged-the-battery-more-than-a-week-ago/)
 - [Beaver Notes: A Private Cross-Platform Open-Source Note-Taking App](https://gadgeteer.co.za/beaver-notes-a-private-cross-platform-open-source-note-taking-app/)
 - [The Motorola Defy satellite dongle tested: Essential plan starts from $5 per month](https://gadgeteer.co.za/the-motorola-defy-satellite-dongle-tested-essential-plan-starts-from-5-per-month/)
 - [Fairphone 5 Camera test: Benchmarks and Comparisons with Pixel 7a and Xiaomi 12T Pro](https://gadgeteer.co.za/fairphone-5-camera-test-benchmarks-and-comparisons-with-pixel-7a-and-xiaomi-12t-pro/)
 - [15 Best Free &lpar;and mostly Open Source&rpar; Music Making Software for Linux, Windows, and macOS](https://gadgeteer.co.za/15-best-free-and-mostly-open-source-music-making-software-for-linux-windows-and-macos/)
-- [Previously secret Israeli spyware that infects targets via ads on Microsoft Windows, Google Android, and Apple iOS devices](https://gadgeteer.co.za/previously-secret-israeli-spyware-that-infects-targets-via-ads-on-microsoft-windows-google-android-and-apple-ios-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 
