@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Installation Date: How to Discover Your System’s Age](https://gadgeteer.co.za/linux-installation-date-how-to-discover-your-systems-age/)
 - [11 Social Media Platforms You Probably Forgot Existed &lpar;And Why They Failed&rpar;](https://gadgeteer.co.za/11-social-media-platforms-you-probably-forgot-existed-and-why-they-failed/)
 - [News aggregator app SmartNews’ latest feature tries to tackle doomscrolling through negative news](https://gadgeteer.co.za/news-aggregator-app-smartnews-latest-feature-tries-to-tackle-doomscrolling-through-negative-news/)
 - [MIT Scientists create a living medical device that is made from human cells that secrete insulin, and may replace injections someday](https://gadgeteer.co.za/mit-scientists-create-a-living-medical-device-that-is-made-from-human-cells-that-secrete-insulin-and-may-replace-injections-someday/)
 - [FindMyCat &lpar;or dog&rpar; is a well-designed open-source tracker for your furry animal](https://gadgeteer.co.za/findmycat-or-dog-is-a-well-designed-open-source-tracker-for-your-furry-animal/)
-- [My Home Assistant Dashboard alerts if my Victron Solar System last fully charged the Battery more than a week ago](https://gadgeteer.co.za/my-home-assistant-dashboard-alerts-if-my-victron-solar-system-last-fully-charged-the-battery-more-than-a-week-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 
