@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Element X for Android and iOS is a whole new approach to the Matrix messaging app](https://gadgeteer.co.za/element-x-for-android-and-ios-is-a-whole-new-approach-to-the-matrix-messaging-app/)
 - [Obtainium installs and updates Android Apps directly from their releases pages, with notifications for updates](https://gadgeteer.co.za/obtainium-installs-and-updates-android-apps-directly-from-their-releases-pages-with-notifications-for-updates/)
 - [Latency Meter, made from an Arduino, for accurate gaming](https://gadgeteer.co.za/latency-meter-made-from-an-arduino-for-accurate-gaming/)
 - [Live Animation of over 5000 Starlink Satellites as well as GPS satellites around Earth](https://gadgeteer.co.za/live-animation-of-over-5000-starlink-satellites-as-well-as-gps-satellites-around-earth/)
 - [Linux Installation Date: How to Discover Your System’s Age](https://gadgeteer.co.za/linux-installation-date-how-to-discover-your-systems-age/)
-- [11 Social Media Platforms You Probably Forgot Existed &lpar;And Why They Failed&rpar;](https://gadgeteer.co.za/11-social-media-platforms-you-probably-forgot-existed-and-why-they-failed/)
 <!-- BLOG-POST-LIST:END -->
 
 
