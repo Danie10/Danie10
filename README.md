@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [eQsat: a satellite feed designed to look like a television station, intended to get news into a country with a total Internet blackout](https://gadgeteer.co.za/eqsat-a-satellite-feed-designed-to-look-like-a-television-station-intended-to-get-news-into-a-country-with-a-total-internet-blackout/)
 - [Bill, Steve, and Gary… Computer Pioneers: Ruthless Business triumphs over Innovation](https://gadgeteer.co.za/bill-steve-and-gary-computer-pioneers-ruthless-business-triumphs-over-innovation/)
 - [The Best Obsidian Note Plugins, nor Not?](https://gadgeteer.co.za/the-best-obsidian-note-plugins-nor-not/)
 - [Element X for Android and iOS is a whole new approach to the Matrix messaging app](https://gadgeteer.co.za/element-x-for-android-and-ios-is-a-whole-new-approach-to-the-matrix-messaging-app/)
 - [Obtainium installs and updates Android Apps directly from their releases pages, with notifications for updates](https://gadgeteer.co.za/obtainium-installs-and-updates-android-apps-directly-from-their-releases-pages-with-notifications-for-updates/)
-- [Latency Meter, made from an Arduino, for accurate gaming](https://gadgeteer.co.za/latency-meter-made-from-an-arduino-for-accurate-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 
