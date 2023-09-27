@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux Desktop Operating System Market Share in South Africa has more than Doubled this last Year](https://gadgeteer.co.za/linux-desktop-operating-system-market-share-in-south-africa-has-more-than-doubled-this-last-year/)
 - [The 7 Best Encrypted Digital Notebooks for Taking Secure and Private Notes](https://gadgeteer.co.za/the-7-best-encrypted-digital-notebooks-for-taking-secure-and-private-notes/)
 - [eQsat: a satellite feed designed to look like a television station, intended to get news into a country with a total Internet blackout](https://gadgeteer.co.za/eqsat-a-satellite-feed-designed-to-look-like-a-television-station-intended-to-get-news-into-a-country-with-a-total-internet-blackout/)
 - [Bill, Steve, and Gary… Computer Pioneers: Ruthless Business triumphs over Innovation](https://gadgeteer.co.za/bill-steve-and-gary-computer-pioneers-ruthless-business-triumphs-over-innovation/)
 - [The Best Obsidian Note Plugins, nor Not?](https://gadgeteer.co.za/the-best-obsidian-note-plugins-nor-not/)
-- [Element X for Android and iOS is a whole new approach to the Matrix messaging app](https://gadgeteer.co.za/element-x-for-android-and-ios-is-a-whole-new-approach-to-the-matrix-messaging-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
