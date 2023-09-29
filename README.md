@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to send encrypted &lpar;at a cost&rpar; and ‘confidential’ emails on Gmail](https://gadgeteer.co.za/how-to-send-encrypted-at-a-cost-and-confidential-emails-on-gmail/)
 - [Xiaomi Watch 2 Pro with Wear OS to compete with Samsung Galaxy Watch 6: As much to offer but costs less](https://gadgeteer.co.za/xiaomi-watch-2-pro-with-wear-os-to-compete-with-samsung-galaxy-watch-6-as-much-to-offer-but-costs-less/)
 - [ShareID: This startup wants to verify your ID without storing your personal data](https://gadgeteer.co.za/shareid-this-startup-wants-to-verify-your-id-without-storing-your-personal-data/)
 - [Gaming Devs learn rival open source Godot engine in a week to poke fun at Unity](https://gadgeteer.co.za/gaming-devs-learn-rival-open-source-godot-engine-in-a-week-to-poke-fun-at-unity/)
 - [Linux Desktop Operating System Market Share in South Africa has more than Doubled this last Year](https://gadgeteer.co.za/linux-desktop-operating-system-market-share-in-south-africa-has-more-than-doubled-this-last-year/)
-- [The 7 Best Encrypted Digital Notebooks for Taking Secure and Private Notes](https://gadgeteer.co.za/the-7-best-encrypted-digital-notebooks-for-taking-secure-and-private-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 
