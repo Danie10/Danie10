@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [17 Dolphin File Manager Tips and Tweaks for Linux KDE Users](https://gadgeteer.co.za/17-dolphin-file-manager-tips-and-tweaks-for-linux-kde-users/)
+- [Heat pumps twice as efficient as fossil fuel systems in cold weather, study finds](https://gadgeteer.co.za/heat-pumps-twice-as-efficient-as-fossil-fuel-systems-in-cold-weather-study-finds/)
 - [Bitwarden finally brings 2FA logins to free users](https://gadgeteer.co.za/bitwarden-finally-brings-2fa-logins-to-free-users/)
 - [How to send encrypted &lpar;at a cost&rpar; and ‘confidential’ emails on Gmail](https://gadgeteer.co.za/how-to-send-encrypted-at-a-cost-and-confidential-emails-on-gmail/)
 - [Xiaomi Watch 2 Pro with Wear OS to compete with Samsung Galaxy Watch 6: As much to offer but costs less](https://gadgeteer.co.za/xiaomi-watch-2-pro-with-wear-os-to-compete-with-samsung-galaxy-watch-6-as-much-to-offer-but-costs-less/)
-- [ShareID: This startup wants to verify your ID without storing your personal data](https://gadgeteer.co.za/shareid-this-startup-wants-to-verify-your-id-without-storing-your-personal-data/)
-- [Gaming Devs learn rival open source Godot engine in a week to poke fun at Unity](https://gadgeteer.co.za/gaming-devs-learn-rival-open-source-godot-engine-in-a-week-to-poke-fun-at-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 
