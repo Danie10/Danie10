@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Professional DAW ‘Studio One’ is Now on Linux &lpar;Public Beta&rpar;: It’s not FOSS, but it’s Important](https://gadgeteer.co.za/professional-daw-studio-one-is-now-on-linux-public-beta-its-not-foss-but-its-important/)
 - [How to test your LAN speed through your home router to troubleshoot browser speed problems](https://gadgeteer.co.za/how-to-test-your-lan-speed-through-your-home-router-to-troubleshoot-browser-speed-problems/)
 - [17 Dolphin File Manager Tips and Tweaks for Linux KDE Users](https://gadgeteer.co.za/17-dolphin-file-manager-tips-and-tweaks-for-linux-kde-users/)
 - [Heat pumps twice as efficient as fossil fuel systems in cold weather, study finds](https://gadgeteer.co.za/heat-pumps-twice-as-efficient-as-fossil-fuel-systems-in-cold-weather-study-finds/)
 - [Bitwarden finally brings 2FA logins to free users](https://gadgeteer.co.za/bitwarden-finally-brings-2fa-logins-to-free-users/)
-- [How to send encrypted &lpar;at a cost&rpar; and ‘confidential’ emails on Gmail](https://gadgeteer.co.za/how-to-send-encrypted-at-a-cost-and-confidential-emails-on-gmail/)
 <!-- BLOG-POST-LIST:END -->
 
 
