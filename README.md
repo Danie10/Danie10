@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Wavacity project is a fork of Audacity audio player that runs in a web browser](https://gadgeteer.co.za/the-wavacity-project-is-a-fork-of-audacity-audio-player-that-runs-in-a-web-browser/)
 - [Samsung makes rugged Galaxy S23 phones specifically for tactical battlefield use](https://gadgeteer.co.za/samsung-makes-rugged-galaxy-s23-phones-specifically-for-tactical-battlefield-use/)
 - [Professional DAW ‘Studio One’ is Now on Linux &lpar;Public Beta&rpar;: It’s not FOSS, but it’s Important](https://gadgeteer.co.za/professional-daw-studio-one-is-now-on-linux-public-beta-its-not-foss-but-its-important/)
 - [How to test your LAN speed through your home router to troubleshoot browser speed problems](https://gadgeteer.co.za/how-to-test-your-lan-speed-through-your-home-router-to-troubleshoot-browser-speed-problems/)
 - [17 Dolphin File Manager Tips and Tweaks for Linux KDE Users](https://gadgeteer.co.za/17-dolphin-file-manager-tips-and-tweaks-for-linux-kde-users/)
-- [Heat pumps twice as efficient as fossil fuel systems in cold weather, study finds](https://gadgeteer.co.za/heat-pumps-twice-as-efficient-as-fossil-fuel-systems-in-cold-weather-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 
