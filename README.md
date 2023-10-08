@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Macbook Trackpad Handwriting For More Intuitive Note-Taking](https://gadgeteer.co.za/how-to-use-macbook-trackpad-handwriting-for-more-intuitive-note-taking/)
 - [Warehouse is a neat Flatpak tool to show additional useful info about Flatpak apps](https://gadgeteer.co.za/warehouse-is-a-neat-flatpak-tool-to-show-additional-useful-info-about-flatpak-apps/)
 - [Just what is Tone, in a Microphone?](https://gadgeteer.co.za/just-what-is-tone-in-a-microphone/)
 - [The Galaxy SmartTag2 is here with big improvements but still only limited to Samsung devices](https://gadgeteer.co.za/the-galaxy-smarttag2-is-here-with-big-improvements-but-still-only-limited-to-samsung-devices/)
 - [The Wavacity project is a fork of Audacity audio player that runs in a web browser](https://gadgeteer.co.za/the-wavacity-project-is-a-fork-of-audacity-audio-player-that-runs-in-a-web-browser/)
-- [Samsung makes rugged Galaxy S23 phones specifically for tactical battlefield use](https://gadgeteer.co.za/samsung-makes-rugged-galaxy-s23-phones-specifically-for-tactical-battlefield-use/)
 <!-- BLOG-POST-LIST:END -->
 
 
