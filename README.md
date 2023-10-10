@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DXOMARK’s Apple iPhone 15 Pro Camera test: They won’t like being rated Global no2 behind Huawei P60 Pro](https://gadgeteer.co.za/dxomarks-apple-iphone-15-pro-camera-test-they-wont-like-being-rated-global-no2-behind-huawei-p60-pro/)
 - [Start Making Physical Photo Albums: Digital Memories Are Too Easily Lost](https://gadgeteer.co.za/start-making-physical-photo-albums-digital-memories-are-too-easily-lost/)
 - [Put on a Mask and Fight Spam with SpamCop instead of just Deleting It](https://gadgeteer.co.za/put-on-a-mask-and-fight-spam-with-spamcop-instead-of-just-deleting-it/)
 - [How To Use Macbook Trackpad Handwriting For More Intuitive Note-Taking](https://gadgeteer.co.za/how-to-use-macbook-trackpad-handwriting-for-more-intuitive-note-taking/)
 - [Warehouse is a neat Flatpak tool to show additional useful info about Flatpak apps](https://gadgeteer.co.za/warehouse-is-a-neat-flatpak-tool-to-show-additional-useful-info-about-flatpak-apps/)
-- [Just what is Tone, in a Microphone?](https://gadgeteer.co.za/just-what-is-tone-in-a-microphone/)
 <!-- BLOG-POST-LIST:END -->
 
 
