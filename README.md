@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VarAC digital chatting on Amateur Radio seems to be getting more popular than JS8Call](https://gadgeteer.co.za/varac-digital-chatting-on-amateur-radio-seems-to-be-getting-more-popular-than-js8call/)
 - [Validrive Detects Fake USB Drives with Inflated Capacity: Many found on Amazon already](https://gadgeteer.co.za/validrive-detects-fake-usb-drives-with-inflated-capacity-many-found-on-amazon-already/)
 - [Starlink launching cellphone “towers” in space: LTE connectivity and requiring no special apps or changes to hardware or firmware](https://gadgeteer.co.za/starlink-launching-cellphone-towers-in-space-lte-connectivity-and-requiring-no-special-apps-or-changes-to-hardware-or-firmware/)
 - [Firefox tests a built-in checker for fake reviews from Fakespot](https://gadgeteer.co.za/firefox-tests-a-built-in-checker-for-fake-reviews-from-fakespot/)
 - [Syncthing for secure private file syncing directly between your devices](https://gadgeteer.co.za/syncthing-for-secure-private-file-syncing-directly-between-your-devices/)
-- [DXOMARK’s Apple iPhone 15 Pro Camera test: They won’t like being rated Global no2 behind Huawei P60 Pro](https://gadgeteer.co.za/dxomarks-apple-iphone-15-pro-camera-test-they-wont-like-being-rated-global-no2-behind-huawei-p60-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 
