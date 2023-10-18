@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Best Grammarly Alternatives to Check Grammar and Readability, although LanguageTool is not listed](https://gadgeteer.co.za/6-best-grammarly-alternatives-to-check-grammar-and-readability-although-languagetool-is-not-listed/)
 - [VarAC digital chatting on Amateur Radio seems to be getting more popular than JS8Call](https://gadgeteer.co.za/varac-digital-chatting-on-amateur-radio-seems-to-be-getting-more-popular-than-js8call/)
 - [Validrive Detects Fake USB Drives with Inflated Capacity: Many found on Amazon already](https://gadgeteer.co.za/validrive-detects-fake-usb-drives-with-inflated-capacity-many-found-on-amazon-already/)
 - [Starlink launching cellphone “towers” in space: LTE connectivity and requiring no special apps or changes to hardware or firmware](https://gadgeteer.co.za/starlink-launching-cellphone-towers-in-space-lte-connectivity-and-requiring-no-special-apps-or-changes-to-hardware-or-firmware/)
 - [Firefox tests a built-in checker for fake reviews from Fakespot](https://gadgeteer.co.za/firefox-tests-a-built-in-checker-for-fake-reviews-from-fakespot/)
-- [Syncthing for secure private file syncing directly between your devices](https://gadgeteer.co.za/syncthing-for-secure-private-file-syncing-directly-between-your-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 
