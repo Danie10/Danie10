@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [35+ Advance Examples of the Find Command in Linux](https://gadgeteer.co.za/35-advance-examples-of-the-find-command-in-linux/)
 - [Thorium Browser claims to be the fastest browser on Earth](https://gadgeteer.co.za/thorium-browser-claims-to-be-the-fastest-browser-on-earth/)
-- [Big Ass Data Broker Opt-Out List that can Guide Opting out from Data Broker DatabasesBig Ass Data Broker Opt-Out List that can Guide Opting out from Data Broker Databases](https://gadgeteer.co.za/big-ass-data-broker-opt-out-list-that-can-guide-opting-out-from-data-broker-databasesbig-ass-data-broker-opt-out-list-that-can-guide-opting-out-from-data-broker-databases/)
+- [Big Ass Data Broker Opt-Out List that can Guide Opting out from Data Broker Databases](https://gadgeteer.co.za/big-ass-data-broker-opt-out-list-that-can-guide-opting-out-from-data-broker-databasesbig-ass-data-broker-opt-out-list-that-can-guide-opting-out-from-data-broker-databases/)
 - [6 Best Grammarly Alternatives to Check Grammar and Readability, although LanguageTool is not listed](https://gadgeteer.co.za/6-best-grammarly-alternatives-to-check-grammar-and-readability-although-languagetool-is-not-listed/)
 - [VarAC digital chatting on Amateur Radio seems to be getting more popular than JS8Call](https://gadgeteer.co.za/varac-digital-chatting-on-amateur-radio-seems-to-be-getting-more-popular-than-js8call/)
-- [Validrive Detects Fake USB Drives with Inflated Capacity: Many found on Amazon already](https://gadgeteer.co.za/validrive-detects-fake-usb-drives-with-inflated-capacity-many-found-on-amazon-already/)
 <!-- BLOG-POST-LIST:END -->
 
 
