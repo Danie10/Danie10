@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exercise bike inspired by Ukraine war provides backup power during emergencies but why not anytime](https://gadgeteer.co.za/exercise-bike-inspired-by-ukraine-war-provides-backup-power-during-emergencies-but-why-not-anytime/)
 - [Large screen monitors are getting very pricey: This guy is using a suitable TV instead](https://gadgeteer.co.za/large-screen-monitors-are-getting-very-pricey-this-guy-is-using-a-suitable-tv-instead/)
 - [Yoh Vote is an app that helps South African youth discover their ideal political partner in a fun and ‘dating-like’ way](https://gadgeteer.co.za/yoh-vote-is-an-app-that-helps-south-african-youth-discover-their-ideal-political-partner-in-a-fun-and-dating-like-way/)
 - [35+ Advance Examples of the Find Command in Linux](https://gadgeteer.co.za/35-advance-examples-of-the-find-command-in-linux/)
 - [Thorium Browser claims to be the fastest browser on Earth](https://gadgeteer.co.za/thorium-browser-claims-to-be-the-fastest-browser-on-earth/)
-- [Big Ass Data Broker Opt-Out List that can Guide Opting out from Data Broker Databases](https://gadgeteer.co.za/big-ass-data-broker-opt-out-list-that-can-guide-opting-out-from-data-broker-databasesbig-ass-data-broker-opt-out-list-that-can-guide-opting-out-from-data-broker-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 
