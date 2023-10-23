@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Our ancestors did have pocket sized music players in the 1920s – They just required some assembly](https://gadgeteer.co.za/our-ancestors-did-have-pocket-sized-music-players-in-the-1920s-they-just-required-some-assembly/)
 - [Important social media defamation ruling in South Africa regarding alleging without having valid evidence](https://gadgeteer.co.za/important-social-media-defamation-ruling-in-south-africa-regarding-alleging-without-having-valid-evidence/)
 - [Journalists are realising Mastodon and the Fediverse is not so complicated to use after all](https://gadgeteer.co.za/journalists-are-realising-mastodon-and-the-fediverse-is-not-so-complicated-to-use-after-all/)
 - [Exercise bike inspired by Ukraine war provides backup power during emergencies but why not anytime](https://gadgeteer.co.za/exercise-bike-inspired-by-ukraine-war-provides-backup-power-during-emergencies-but-why-not-anytime/)
 - [Large screen monitors are getting very pricey: This guy is using a suitable TV instead](https://gadgeteer.co.za/large-screen-monitors-are-getting-very-pricey-this-guy-is-using-a-suitable-tv-instead/)
-- [Yoh Vote is an app that helps South African youth discover their ideal political partner in a fun and ‘dating-like’ way](https://gadgeteer.co.za/yoh-vote-is-an-app-that-helps-south-african-youth-discover-their-ideal-political-partner-in-a-fun-and-dating-like-way/)
 <!-- BLOG-POST-LIST:END -->
 
 
