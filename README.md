@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Are Google Play System Updates on Android, and Are They Important? And Why You Need to Check Them](https://gadgeteer.co.za/what-are-google-play-system-updates-on-android-and-are-they-important-and-why-you-need-to-check-them/)
 - [12 best casual games on Android in 2023 – Unwind with these creative casual games](https://gadgeteer.co.za/12-best-casual-games-on-android-in-2023-unwind-with-these-creative-casual-games/)
 - [Our ancestors did have pocket sized music players in the 1920s – They just required some assembly](https://gadgeteer.co.za/our-ancestors-did-have-pocket-sized-music-players-in-the-1920s-they-just-required-some-assembly/)
 - [Important social media defamation ruling in South Africa regarding alleging without having valid evidence](https://gadgeteer.co.za/important-social-media-defamation-ruling-in-south-africa-regarding-alleging-without-having-valid-evidence/)
 - [Journalists are realising Mastodon and the Fediverse is not so complicated to use after all](https://gadgeteer.co.za/journalists-are-realising-mastodon-and-the-fediverse-is-not-so-complicated-to-use-after-all/)
-- [Exercise bike inspired by Ukraine war provides backup power during emergencies but why not anytime](https://gadgeteer.co.za/exercise-bike-inspired-by-ukraine-war-provides-backup-power-during-emergencies-but-why-not-anytime/)
 <!-- BLOG-POST-LIST:END -->
 
 
