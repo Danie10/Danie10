@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Protect SSH login with Fail2Ban: A Beginner’s Guide](https://gadgeteer.co.za/how-to-protect-ssh-login-with-fail2ban-a-beginners-guide/)
 - [WordPress.com owner buys all-in-one messaging app Texts.com for $50M](https://gadgeteer.co.za/wordpress-com-owner-buys-all-in-one-messaging-app-texts-com-for-50m/)
 - [Do VPNs Hide Data Usage from ISPs or Cellular Carriers? Yes, but they’re no Magic Bullet](https://gadgeteer.co.za/do-vpns-hide-data-usage-from-isps-or-cellular-carriers-yes-but-theyre-no-magic-bullet/)
 - [What Are Google Play System Updates on Android, and Are They Important? And Why You Need to Check Them](https://gadgeteer.co.za/what-are-google-play-system-updates-on-android-and-are-they-important-and-why-you-need-to-check-them/)
 - [12 best casual games on Android in 2023 – Unwind with these creative casual games](https://gadgeteer.co.za/12-best-casual-games-on-android-in-2023-unwind-with-these-creative-casual-games/)
-- [Our ancestors did have pocket sized music players in the 1920s – They just required some assembly](https://gadgeteer.co.za/our-ancestors-did-have-pocket-sized-music-players-in-the-1920s-they-just-required-some-assembly/)
 <!-- BLOG-POST-LIST:END -->
 
 
