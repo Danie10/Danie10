@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparison of some hardware devices used for Ham Radio Digital Modes](https://gadgeteer.co.za/comparison-of-some-hardware-devices-used-for-ham-radio-digital-modes/)
 - [3 reasons to ditch Nvidia for AMD in 20233 reasons to ditch Nvidia for AMD in 2023](https://gadgeteer.co.za/3-reasons-to-ditch-nvidia-for-amd-in-20233-reasons-to-ditch-nvidia-for-amd-in-2023/)
 - [How to Shave with a Safety Razor](https://gadgeteer.co.za/how-to-shave-with-a-safety-razor/)
 - [Real-time text on Android and iOS is helpful for those with hearing or speech disabilities to converse in real time with text](https://gadgeteer.co.za/real-time-text-on-android-and-ios-is-helpful-for-those-with-hearing-or-speech-disabilities-to-converse-in-real-time-with-text/)
 - [Google can turn ANC earbuds into a heart rate monitor with no extra hardware – with interesting upsides](https://gadgeteer.co.za/google-can-turn-anc-earbuds-into-a-heart-rate-monitor-with-no-extra-hardware-with-interesting-upsides/)
-- [The Best Hardware Security Keys of 2023](https://gadgeteer.co.za/the-best-hardware-security-keys-of-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
