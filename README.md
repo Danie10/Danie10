@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bitwarden begins adding passkey support to its password manager](https://gadgeteer.co.za/bitwarden-begins-adding-passkey-support-to-its-password-manager/)
 - [How to host your own website, or a secure chat service, on the Dark Web with open source OnionShare](https://gadgeteer.co.za/how-to-host-your-own-website-or-a-secure-chat-service-on-the-dark-web-with-open-source-onionshare/)
 - [With Russia blocking 167 VPN services: How to make your VPN undetectable and bypass geo blocks](https://gadgeteer.co.za/with-russia-blocking-167-vpn-services-how-to-make-your-vpn-undetectable-and-bypass-geo-blocks/)
 - [Comparison of some hardware devices used for Ham Radio Digital Modes](https://gadgeteer.co.za/comparison-of-some-hardware-devices-used-for-ham-radio-digital-modes/)
 - [3 reasons to ditch Nvidia for AMD in 20233 reasons to ditch Nvidia for AMD in 2023](https://gadgeteer.co.za/3-reasons-to-ditch-nvidia-for-amd-in-20233-reasons-to-ditch-nvidia-for-amd-in-2023/)
-- [How to Shave with a Safety Razor](https://gadgeteer.co.za/how-to-shave-with-a-safety-razor/)
 <!-- BLOG-POST-LIST:END -->
 
 
