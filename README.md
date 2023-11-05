@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My web based OpenWebRx receiver has been upgraded to the Plus version with aircraft location data etc](https://gadgeteer.co.za/my-web-based-openwebrx-receiver-has-been-upgraded-to-the-plus-version-with-aircraft-location-data-etc/)
 - [Fnirsi FNB58 USB Fast Charge Tester Review](https://gadgeteer.co.za/fnirsi-fnb58-usb-fast-charge-tester-review/)
 - [Bought some Anker Soundcore Liberty 4 NC Adaptive Noise Cancelling Earbuds](https://gadgeteer.co.za/bought-some-anker-soundcore-liberty-4-nc-adaptive-noise-cancelling-earbuds/)
 - [Bitwarden begins adding passkey support to its password manager](https://gadgeteer.co.za/bitwarden-begins-adding-passkey-support-to-its-password-manager/)
 - [How to host your own website, or a secure chat service, on the Dark Web with open source OnionShare](https://gadgeteer.co.za/how-to-host-your-own-website-or-a-secure-chat-service-on-the-dark-web-with-open-source-onionshare/)
-- [With Russia blocking 167 VPN services: How to make your VPN undetectable and bypass geo blocks](https://gadgeteer.co.za/with-russia-blocking-167-vpn-services-how-to-make-your-vpn-undetectable-and-bypass-geo-blocks/)
 <!-- BLOG-POST-LIST:END -->
 
 
