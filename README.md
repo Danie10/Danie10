@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Withings Body Scan review: A smart scale that tracks cardio health, body comp and more](https://gadgeteer.co.za/withings-body-scan-review-a-smart-scale-that-tracks-cardio-health-body-comp-and-more/)
 - [Proton finally brings their VPN app for Linux up to par with the Windows version](https://gadgeteer.co.za/proton-finally-brings-their-vpn-app-for-linux-up-to-par-with-the-windows-version/)
 - [We need more USB-C cables with bandwidth and USB versions on them](https://gadgeteer.co.za/we-need-more-usb-c-cables-with-bandwidth-and-usb-versions-on-them/)
 - [My web based OpenWebRx receiver has been upgraded to the Plus version with aircraft location data etc](https://gadgeteer.co.za/my-web-based-openwebrx-receiver-has-been-upgraded-to-the-plus-version-with-aircraft-location-data-etc/)
 - [Fnirsi FNB58 USB Fast Charge Tester Review](https://gadgeteer.co.za/fnirsi-fnb58-usb-fast-charge-tester-review/)
-- [Bought some Anker Soundcore Liberty 4 NC Adaptive Noise Cancelling Earbuds](https://gadgeteer.co.za/bought-some-anker-soundcore-liberty-4-nc-adaptive-noise-cancelling-earbuds/)
 <!-- BLOG-POST-LIST:END -->
 
 
