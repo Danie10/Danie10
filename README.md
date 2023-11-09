@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Positive Carbon wants to make commercial kitchens sustainable, and claims a 50% reduction in waste](https://gadgeteer.co.za/positive-carbon-wants-to-make-commercial-kitchens-sustainable-and-claims-a-50-reduction-in-waste/)
 - [Fitbit is pulling out of South Africa](https://gadgeteer.co.za/fitbit-is-pulling-out-of-south-africa/)
 - [Withings Body Scan review: A smart scale that tracks cardio health, body comp and more](https://gadgeteer.co.za/withings-body-scan-review-a-smart-scale-that-tracks-cardio-health-body-comp-and-more/)
 - [Proton finally brings their VPN app for Linux up to par with the Windows version](https://gadgeteer.co.za/proton-finally-brings-their-vpn-app-for-linux-up-to-par-with-the-windows-version/)
 - [We need more USB-C cables with bandwidth and USB versions on them](https://gadgeteer.co.za/we-need-more-usb-c-cables-with-bandwidth-and-usb-versions-on-them/)
-- [My web based OpenWebRx receiver has been upgraded to the Plus version with aircraft location data etc](https://gadgeteer.co.za/my-web-based-openwebrx-receiver-has-been-upgraded-to-the-plus-version-with-aircraft-location-data-etc/)
 <!-- BLOG-POST-LIST:END -->
 
 
