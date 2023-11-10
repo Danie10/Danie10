@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to clean and care for your wireless earbuds](https://gadgeteer.co.za/how-to-clean-and-care-for-your-wireless-earbuds/)
 - [Seems trolls were spreading mistruths about Linux Snaps vs Flatpaks and AppImages](https://gadgeteer.co.za/seems-trolls-were-spreading-mistruths-about-linux-snaps-vs-flatpaks-and-appimages/)
 - [Samsung Galaxy SmartTag 2 Review: Why You Should Wait Before Buying!](https://gadgeteer.co.za/samsung-galaxy-smarttag-2-review-why-you-should-wait-before-buying/)
 - [EFF’s Privacy Badger Now Blocks Ever More Trackers With Their New Badger Swarm](https://gadgeteer.co.za/effs-privacy-badger-now-blocks-ever-more-trackers-with-their-new-badger-swarm/)
 - [Positive Carbon wants to make commercial kitchens sustainable, and claims a 50% reduction in waste](https://gadgeteer.co.za/positive-carbon-wants-to-make-commercial-kitchens-sustainable-and-claims-a-50-reduction-in-waste/)
-- [Fitbit is pulling out of South Africa](https://gadgeteer.co.za/fitbit-is-pulling-out-of-south-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 
