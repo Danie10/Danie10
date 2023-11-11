@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm and Iridium’s satellite link-up deal not going ahead as smartphone makers are not buying it](https://gadgeteer.co.za/qualcomm-and-iridiums-satellite-link-up-deal-not-going-ahead-as-smartphone-makers-are-not-buying-it/)
 - [Signal finally testing usernames that keep your phone number private but the number is still required to register](https://gadgeteer.co.za/signal-finally-testing-usernames-that-keep-your-phone-number-private-but-the-number-is-still-required-to-register/)
 - [How to clean and care for your wireless earbuds](https://gadgeteer.co.za/how-to-clean-and-care-for-your-wireless-earbuds/)
 - [Seems trolls were spreading mistruths about Linux Snaps vs Flatpaks and AppImages](https://gadgeteer.co.za/seems-trolls-were-spreading-mistruths-about-linux-snaps-vs-flatpaks-and-appimages/)
 - [Samsung Galaxy SmartTag 2 Review: Why You Should Wait Before Buying!](https://gadgeteer.co.za/samsung-galaxy-smarttag-2-review-why-you-should-wait-before-buying/)
-- [EFF’s Privacy Badger Now Blocks Ever More Trackers With Their New Badger Swarm](https://gadgeteer.co.za/effs-privacy-badger-now-blocks-ever-more-trackers-with-their-new-badger-swarm/)
 <!-- BLOG-POST-LIST:END -->
 
 
