@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ayoba is an all-in-one chat, call, and social media app that has over 30 million active monthly users mostly in Africa](https://gadgeteer.co.za/ayoba-is-an-all-in-one-chat-call-and-social-media-app-that-has-over-30-million-active-monthly-users-mostly-in-africa/)
 - [The 13 Most Soothing, Smooth and All Around Best Shaving Soaps for Men](https://gadgeteer.co.za/the-13-most-soothing-smooth-and-all-around-best-shaving-soaps-for-men/)
 - [Why buy a Samsung phone with an S Pen and only use two of the 40+ things it can do?](https://gadgeteer.co.za/why-buy-a-samsung-phone-with-an-s-pen-and-only-use-two-of-the-40-things-it-can-do/)
 - [Data broker’s “staggering” sale of sensitive info exposed in unsealed US FTC filing: Major value in users’ data](https://gadgeteer.co.za/data-brokers-staggering-sale-of-sensitive-info-exposed-in-unsealed-us-ftc-filing-major-value-in-users-data/)
 - [Qualcomm and Iridium’s satellite link-up deal not going ahead as smartphone makers are not buying it](https://gadgeteer.co.za/qualcomm-and-iridiums-satellite-link-up-deal-not-going-ahead-as-smartphone-makers-are-not-buying-it/)
-- [Signal finally testing usernames that keep your phone number private but the number is still required to register](https://gadgeteer.co.za/signal-finally-testing-usernames-that-keep-your-phone-number-private-but-the-number-is-still-required-to-register/)
 <!-- BLOG-POST-LIST:END -->
 
 
