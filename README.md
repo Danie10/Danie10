@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Withings Launches Smart Scale That Helps With Diabetes Management](https://gadgeteer.co.za/withings-launches-smart-scale-that-helps-with-diabetes-management/)
 - [Pebble, a startup that tried and failed to take on Twitter, finds new life on Mastodon](https://gadgeteer.co.za/pebble-a-startup-that-tried-and-failed-to-take-on-twitter-finds-new-life-on-mastodon/)
 - [DeepMind’s new AI called GraphCast promises the most accurate 10-day weather forecasts in the world](https://gadgeteer.co.za/deepminds-new-ai-called-graphcast-promises-the-most-accurate-10-day-weather-forecasts-in-the-world/)
 - [Ayoba is an all-in-one chat, call, and social media app that has over 30 million active monthly users mostly in Africa](https://gadgeteer.co.za/ayoba-is-an-all-in-one-chat-call-and-social-media-app-that-has-over-30-million-active-monthly-users-mostly-in-africa/)
 - [The 13 Most Soothing, Smooth and All Around Best Shaving Soaps for Men](https://gadgeteer.co.za/the-13-most-soothing-smooth-and-all-around-best-shaving-soaps-for-men/)
-- [Why buy a Samsung phone with an S Pen and only use two of the 40+ things it can do?](https://gadgeteer.co.za/why-buy-a-samsung-phone-with-an-s-pen-and-only-use-two-of-the-40-things-it-can-do/)
 <!-- BLOG-POST-LIST:END -->
 
 
