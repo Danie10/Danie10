@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple to finally bring RCS to iPhones: But alongside iMessage](https://gadgeteer.co.za/apple-to-finally-bring-rcs-to-iphones-but-alongside-imessage/)
 - [What is the best weather forecasting service for your location?](https://gadgeteer.co.za/what-is-the-best-weather-forecasting-service-for-your-location/)
 - [MyBroadband tested GeForce Now in South Africa — Play the latest games on nearly any PC or smartphone](https://gadgeteer.co.za/mybroadband-tested-geforce-now-in-south-africa-play-the-latest-games-on-nearly-any-pc-or-smartphone/)
 - [The Circular Ring Slim: This smart ring claims to be the lightest ever — and the first with haptic navigation](https://gadgeteer.co.za/the-circular-ring-slim-this-smart-ring-claims-to-be-the-lightest-ever-and-the-first-with-haptic-navigation/)
 - [Google Maps will dodge South Africa’s crime hotspots: Sadly it is needed as tourists have been misdirected](https://gadgeteer.co.za/google-maps-will-dodge-south-africas-crime-hotspots-sadly-it-is-needed-as-tourists-have-been-misdirected/)
-- [Withings Launches Smart Scale That Helps With Diabetes Management](https://gadgeteer.co.za/withings-launches-smart-scale-that-helps-with-diabetes-management/)
 <!-- BLOG-POST-LIST:END -->
 
 
