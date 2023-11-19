@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free and Open Source Inkscape Vector Graphics Editor is 20 Years Old with a Big Update](https://gadgeteer.co.za/free-and-open-source-inkscape-vector-graphics-editor-is-20-years-old-with-a-big-update/)
 - [The Snout-Like “PiggyMeter” Is a Home Assistant-Compatible Sensor for Energy Meters and More](https://gadgeteer.co.za/the-snout-like-piggymeter-is-a-home-assistant-compatible-sensor-for-energy-meters-and-more/)
 - [Running Signal Will Soon Cost $50 Million a Year: $6 million for SMS so maybe RCS can save that cost](https://gadgeteer.co.za/running-signal-will-soon-cost-50-million-a-year-6-million-for-sms-so-maybe-rcs-can-save-that-cost/)
 - [Apple to finally bring RCS to iPhones: But alongside iMessage](https://gadgeteer.co.za/apple-to-finally-bring-rcs-to-iphones-but-alongside-imessage/)
 - [What is the best weather forecasting service for your location?](https://gadgeteer.co.za/what-is-the-best-weather-forecasting-service-for-your-location/)
-- [MyBroadband tested GeForce Now in South Africa — Play the latest games on nearly any PC or smartphone](https://gadgeteer.co.za/mybroadband-tested-geforce-now-in-south-africa-play-the-latest-games-on-nearly-any-pc-or-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
 
