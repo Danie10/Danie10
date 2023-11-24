@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Konsave lets you save, apply and share Linux desktop theme customisations](https://gadgeteer.co.za/konsave-lets-you-save-apply-and-share-linux-desktop-theme-customisations/)
 - [Featuring thousands of book clubs and a personalized feed, Fable is an answer to those looking to share their reading experiences](https://gadgeteer.co.za/featuring-thousands-of-book-clubs-and-a-personalized-feed-fable-is-an-answer-to-those-looking-to-share-their-reading-experiences/)
 - [8 Amazing Linux Distributions for Kids](https://gadgeteer.co.za/8-amazing-linux-distributions-for-kids/)
 - [Facebook Watches Teens Online As They Prep for College: Facebook And WhatsApp Still Spy On User Behaviour](https://gadgeteer.co.za/facebook-watches-teens-online-as-they-prep-for-college-facebook-and-whatsapp-still-spy-on-user-behaviour/)
 - [Why Use Virtual Desktops and How they Compare to Virtual Activities](https://gadgeteer.co.za/why-virtual-desktops-and-how-they-compare-to-virtual-activities/)
-- [Free and Open Source Inkscape Vector Graphics Editor is 20 Years Old with a Big Update](https://gadgeteer.co.za/free-and-open-source-inkscape-vector-graphics-editor-is-20-years-old-with-a-big-update/)
 <!-- BLOG-POST-LIST:END -->
 
 
