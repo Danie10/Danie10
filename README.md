@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [South African gaming and esports surge](https://gadgeteer.co.za/south-african-gaming-and-esports-surge/)
 - [Posting anonymously on Facebook is NOT anonymous](https://gadgeteer.co.za/posting-anonymously-on-facebook-is-not-anonymous/)
 - [Open Source Software Licensing: Why it matters](https://gadgeteer.co.za/open-source-software-licensing-why-it-matters/)
 - [Konsave lets you save, apply and share Linux desktop theme customisations](https://gadgeteer.co.za/konsave-lets-you-save-apply-and-share-linux-desktop-theme-customisations/)
 - [Featuring thousands of book clubs and a personalized feed, Fable is an answer to those looking to share their reading experiences](https://gadgeteer.co.za/featuring-thousands-of-book-clubs-and-a-personalized-feed-fable-is-an-answer-to-those-looking-to-share-their-reading-experiences/)
-- [8 Amazing Linux Distributions for Kids](https://gadgeteer.co.za/8-amazing-linux-distributions-for-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 
