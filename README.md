@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Bolts Finally Gave Me and My Bike Peace of Mind](https://gadgeteer.co.za/security-bolts-finally-gave-me-and-my-bike-peace-of-mind/)
 - [How to Move Your Linux home Directory to Another Drive](https://gadgeteer.co.za/how-to-move-your-linux-home-directory-to-another-drive/)
 - [SimpleX Chat &lpar;world’s most private?&rpar; now connects desktop app with mobile app via quantum resistant protocol](https://gadgeteer.co.za/simplex-chat-worlds-most-private-now-connects-desktop-app-with-mobile-app-via-quantum-resistant-protocol/)
 - [The Galaxy S23 Ultra is an excellent camera but a GCam port could make some photos even better](https://gadgeteer.co.za/the-galaxy-s23-ultra-is-an-excellent-camera-but-a-gcam-port-could-make-some-photos-even-better/)
 - [South African gaming and esports surge](https://gadgeteer.co.za/south-african-gaming-and-esports-surge/)
-- [Posting anonymously on Facebook is NOT anonymous](https://gadgeteer.co.za/posting-anonymously-on-facebook-is-not-anonymous/)
 <!-- BLOG-POST-LIST:END -->
 
 
