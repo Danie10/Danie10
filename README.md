@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Raspberry Pi 5 Can Use External Graphics Cards Now Such As The AMD RX 460](https://gadgeteer.co.za/the-raspberry-pi-5-can-use-external-graphics-cards-now-such-as-the-amd-rx-460/)
 - [Vivlio builds an EU-based bookstore-agnostic e-book platform with open-source DRM](https://gadgeteer.co.za/vivlio-builds-an-eu-based-bookstore-agnostic-e-book-platform-with-open-source-drm/)
 - [38 new features and improvements for Proton Mail and Calendar: Includes web mail content searching finally](https://gadgeteer.co.za/38-new-features-and-improvements-for-proton-mail-and-calendar-includes-web-mail-content-searching-finally/)
 - [Security Bolts Finally Gave Me and My Bike Peace of Mind](https://gadgeteer.co.za/security-bolts-finally-gave-me-and-my-bike-peace-of-mind/)
 - [How to Move Your Linux home Directory to Another Drive](https://gadgeteer.co.za/how-to-move-your-linux-home-directory-to-another-drive/)
-- [SimpleX Chat &lpar;world’s most private?&rpar; now connects desktop app with mobile app via quantum resistant protocol](https://gadgeteer.co.za/simplex-chat-worlds-most-private-now-connects-desktop-app-with-mobile-app-via-quantum-resistant-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 
