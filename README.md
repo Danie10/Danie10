@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This XDA Reporter replaced their monitors with XREAL smart glasses for a full week](https://gadgeteer.co.za/this-xda-reporter-replaced-their-monitors-with-xreal-smart-glasses-for-a-full-week/)
 - [Character AI allows you to create your own chatbot or to converse with many others, including famous ‘personalities’](https://gadgeteer.co.za/character-ai-allows-you-to-create-your-own-chatbot-or-to-converse-with-many-others-including-famous-personalities/)
 - [French government recommends against using foreign chat apps and use open source Olvid instead](https://gadgeteer.co.za/french-government-recommends-against-using-foreign-chat-apps-and-use-open-source-olvid-instead/)
 - [The Raspberry Pi 5 Can Use External Graphics Cards Now Such As The AMD RX 460](https://gadgeteer.co.za/the-raspberry-pi-5-can-use-external-graphics-cards-now-such-as-the-amd-rx-460/)
 - [Vivlio builds an EU-based bookstore-agnostic e-book platform with open-source DRM](https://gadgeteer.co.za/vivlio-builds-an-eu-based-bookstore-agnostic-e-book-platform-with-open-source-drm/)
-- [38 new features and improvements for Proton Mail and Calendar: Includes web mail content searching finally](https://gadgeteer.co.za/38-new-features-and-improvements-for-proton-mail-and-calendar-includes-web-mail-content-searching-finally/)
 <!-- BLOG-POST-LIST:END -->
 
 
