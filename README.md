@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Beeper Mini app lets Android phones appear as blue bubbles in iMessage chats](https://gadgeteer.co.za/new-beeper-mini-app-lets-android-phones-appear-as-blue-bubbles-in-imessage-chats/)
 - [The Best Apps for Improving Memory – Because Practice Makes Better](https://gadgeteer.co.za/the-best-apps-for-improving-memory-because-practice-makes-better/)
 - [Open source PowerToys 0.76.0 for Windows releases with heaps of features, fixes, and tweaks](https://gadgeteer.co.za/open-source-powertoys-0-76-0-for-windows-releases-with-heaps-of-features-fixes-and-tweaks/)
 - [Beware of claims by marketers of non-invasive blood glucose monitoring watches](https://gadgeteer.co.za/beware-of-claims-by-marketers-of-non-invasive-blood-glucose-monitoring-watches/)
 - [This XDA Reporter replaced their monitors with XREAL smart glasses for a full week](https://gadgeteer.co.za/this-xda-reporter-replaced-their-monitors-with-xreal-smart-glasses-for-a-full-week/)
-- [Character AI allows you to create your own chatbot or to converse with many others, including famous ‘personalities’](https://gadgeteer.co.za/character-ai-allows-you-to-create-your-own-chatbot-or-to-converse-with-many-others-including-famous-personalities/)
 <!-- BLOG-POST-LIST:END -->
 
 
