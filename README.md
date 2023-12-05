@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open source PowerToys 0.76.0 for Windows releases with heaps of features, fixes, and tweaks](https://gadgeteer.co.za/open-source-powertoys-0-76-0-for-windows-releases-with-heaps-of-features-fixes-and-tweaks/)
 - [Beware of claims by marketers of non-invasive blood glucose monitoring watches](https://gadgeteer.co.za/beware-of-claims-by-marketers-of-non-invasive-blood-glucose-monitoring-watches/)
 - [This XDA Reporter replaced their monitors with XREAL smart glasses for a full week](https://gadgeteer.co.za/this-xda-reporter-replaced-their-monitors-with-xreal-smart-glasses-for-a-full-week/)
 - [Character AI allows you to create your own chatbot or to converse with many others, including famous ‘personalities’](https://gadgeteer.co.za/character-ai-allows-you-to-create-your-own-chatbot-or-to-converse-with-many-others-including-famous-personalities/)
 - [French government recommends against using foreign chat apps and use open source Olvid instead](https://gadgeteer.co.za/french-government-recommends-against-using-foreign-chat-apps-and-use-open-source-olvid-instead/)
-- [The Raspberry Pi 5 Can Use External Graphics Cards Now Such As The AMD RX 460](https://gadgeteer.co.za/the-raspberry-pi-5-can-use-external-graphics-cards-now-such-as-the-amd-rx-460/)
 <!-- BLOG-POST-LIST:END -->
 
 
