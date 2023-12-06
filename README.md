@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple admits to secretly giving governments push notification data: Push notifications contain useful metadata](https://gadgeteer.co.za/apple-admits-to-secretly-giving-governments-push-notification-data-push-notifications-contain-useful-metadata/)
 - [The best Raspberry Pi alternatives – There is no exact alternative though](https://gadgeteer.co.za/the-best-raspberry-pi-alternatives-there-is-no-exact-alternative-though/)
 - [How Teachers Can Catch You Using ChatGPT by using GPTZero and other methods](https://gadgeteer.co.za/how-teachers-can-catch-you-using-chatgpt-by-using-gptzero-and-other-methods/)
 - [New Beeper Mini app lets Android phones appear as blue bubbles in iMessage chats](https://gadgeteer.co.za/new-beeper-mini-app-lets-android-phones-appear-as-blue-bubbles-in-imessage-chats/)
 - [The Best Apps for Improving Memory – Because Practice Makes Better](https://gadgeteer.co.za/the-best-apps-for-improving-memory-because-practice-makes-better/)
-- [Open source PowerToys 0.76.0 for Windows releases with heaps of features, fixes, and tweaks](https://gadgeteer.co.za/open-source-powertoys-0-76-0-for-windows-releases-with-heaps-of-features-fixes-and-tweaks/)
 <!-- BLOG-POST-LIST:END -->
 
 
