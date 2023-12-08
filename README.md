@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [These 3 services can help you transfer playlists between music streaming services](https://gadgeteer.co.za/these-3-services-can-help-you-transfer-playlists-between-music-streaming-services/)
 - [New systemd update will bring Windows’ infamous Blue Screen of Death to Linux – Roll on Memes!](https://gadgeteer.co.za/new-systemd-update-will-bring-windows-infamous-blue-screen-of-death-to-linux-roll-on-memes/)
 - [Calibre eBook App Now Supports Audio ePubs and Custom Notes](https://gadgeteer.co.za/calibre-ebook-app-now-supports-audio-epubs-and-custom-notes/)
 - [Does Your Next Monitor Need a KVM Switch?](https://gadgeteer.co.za/does-your-next-monitor-need-a-kvm-switch/)
 - [Apple admits to secretly giving governments push notification data: Push notifications contain useful metadata](https://gadgeteer.co.za/apple-admits-to-secretly-giving-governments-push-notification-data-push-notifications-contain-useful-metadata/)
-- [The best Raspberry Pi alternatives – There is no exact alternative though](https://gadgeteer.co.za/the-best-raspberry-pi-alternatives-there-is-no-exact-alternative-though/)
 <!-- BLOG-POST-LIST:END -->
 
 
