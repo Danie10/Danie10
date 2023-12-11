@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Withings Scanwatch Light is a smartwatch for those who don’t want one: It’s a watch first, a health and fitness tracker second](https://gadgeteer.co.za/the-withings-scanwatch-light-is-a-smartwatch-for-those-who-dont-want-one-its-a-watch-first-a-health-and-fitness-tracker-second/)
 - [Why I was on the point of buying a trackball mouse but did not](https://gadgeteer.co.za/why-i-was-on-the-point-of-buying-a-trackball-mouse-but-did-not/)
 - [Jami: A Versatile Cross-platform Open-Source Peer-to-Peer Decentralized Communication App](https://gadgeteer.co.za/jami-a-versatile-cross-platform-open-source-peer-to-peer-decentralized-communication-app/)
 - [What Is an Immutable Linux Distro, and Should You Use One? Think of it as Linux booting as a Container Image](https://gadgeteer.co.za/what-is-an-immutable-linux-distro-and-should-you-use-one-think-of-it-as-linux-booting-as-a-container-image/)
 - [An old Bluetooth vulnerability shows why it is vital that all OS’s get updated regularly](https://gadgeteer.co.za/an-old-bluetooth-vulnerability-shows-why-it-is-vital-that-all-oss-get-updated-regularly/)
-- [These 3 services can help you transfer playlists between music streaming services](https://gadgeteer.co.za/these-3-services-can-help-you-transfer-playlists-between-music-streaming-services/)
 <!-- BLOG-POST-LIST:END -->
 
 
