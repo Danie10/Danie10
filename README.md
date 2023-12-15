@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use ViVeTool to Enable Experimental Windows Features](https://gadgeteer.co.za/how-to-use-vivetool-to-enable-experimental-windows-features/)
+- [Proper Extensions Are Finally Landing on Firefox for Android](https://gadgeteer.co.za/proper-extensions-are-finally-landing-on-firefox-for-android/)
 - [9 best iPhone Journal app alternatives for Android: Do you want to use them though?](https://gadgeteer.co.za/9-best-iphone-journal-app-alternatives-for-android-do-you-want-to-use-them-though/)
 - [Open source Piwigo photo hosting updates to v14 with some nice improvements like WebP support](https://gadgeteer.co.za/open-source-piwigo-photo-hosting-updates-to-v14-with-some-nice-improvements-like-webp-support/)
 - [The Withings Scanwatch Light is a smartwatch for those who don’t want one: It’s a watch first, a health and fitness tracker second](https://gadgeteer.co.za/the-withings-scanwatch-light-is-a-smartwatch-for-those-who-dont-want-one-its-a-watch-first-a-health-and-fitness-tracker-second/)
-- [Why I was on the point of buying a trackball mouse but did not](https://gadgeteer.co.za/why-i-was-on-the-point-of-buying-a-trackball-mouse-but-did-not/)
-- [Jami: A Versatile Cross-platform Open-Source Peer-to-Peer Decentralized Communication App](https://gadgeteer.co.za/jami-a-versatile-cross-platform-open-source-peer-to-peer-decentralized-communication-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
