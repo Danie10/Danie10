@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Fish Shell Features That Make it More Awesome Than Bash](https://gadgeteer.co.za/11-fish-shell-features-that-make-it-more-awesome-than-bash/)
 - [Find your ideal E Ink tablet with this comprehensive round-up for 2023](https://gadgeteer.co.za/find-your-ideal-e-ink-tablet-with-this-comprehensive-round-up-for-2023/)
 - [29 Years ago Netscape Navigator 1.0 started the web we know today](https://gadgeteer.co.za/29-years-ago-netscape-navigator-1-0-started-the-web-we-know-today/)
 - [How to Use ViVeTool to Enable Experimental Windows Features](https://gadgeteer.co.za/how-to-use-vivetool-to-enable-experimental-windows-features/)
 - [Proper Extensions Are Finally Landing on Firefox for Android](https://gadgeteer.co.za/proper-extensions-are-finally-landing-on-firefox-for-android/)
-- [9 best iPhone Journal app alternatives for Android: Do you want to use them though?](https://gadgeteer.co.za/9-best-iphone-journal-app-alternatives-for-android-do-you-want-to-use-them-though/)
 <!-- BLOG-POST-LIST:END -->
 
 
