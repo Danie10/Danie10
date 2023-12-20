@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PostmarketOS Linux: Breathing New Life into Smartphones](https://gadgeteer.co.za/postmarketos-linux-breathing-new-life-into-smartphones/)
+- [US FTC bans Rite Aid from using AI facial recognition in stores for 5 years – CCTV cameras are no longer just cameras](https://gadgeteer.co.za/us-ftc-bans-rite-aid-from-using-ai-facial-recognition-in-stores-for-5-years-cctv-cameras-are-no-longer-just-cameras/)
 - [Steve Gibson’s explanation of the quantum computing breakthrough](https://gadgeteer.co.za/steve-gibsons-explanation-of-the-quantum-computing-breakthrough/)
 - [11 Fish Shell Features That Make it More Awesome Than Bash](https://gadgeteer.co.za/11-fish-shell-features-that-make-it-more-awesome-than-bash/)
 - [Find your ideal E Ink tablet with this comprehensive round-up for 2023](https://gadgeteer.co.za/find-your-ideal-e-ink-tablet-with-this-comprehensive-round-up-for-2023/)
-- [29 Years ago Netscape Navigator 1.0 started the web we know today](https://gadgeteer.co.za/29-years-ago-netscape-navigator-1-0-started-the-web-we-know-today/)
-- [How to Use ViVeTool to Enable Experimental Windows Features](https://gadgeteer.co.za/how-to-use-vivetool-to-enable-experimental-windows-features/)
 <!-- BLOG-POST-LIST:END -->
 
 
