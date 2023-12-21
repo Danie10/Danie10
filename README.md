@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Health can now help you never skip your meds](https://gadgeteer.co.za/samsung-health-can-now-help-you-never-skip-your-meds/)
 - [The rise and fall of Usenet: How the original social media platform came to be 50 years ago](https://gadgeteer.co.za/the-rise-and-fall-of-usenet-how-the-original-social-media-platform-came-to-be-50-years-ago/)
 - [Samsung expands repair program to more devices, now in 43 countries &lpar;87 to go&rpar;](https://gadgeteer.co.za/samsung-expands-repair-program-to-more-devices-now-in-43-countries-87-to-go/)
 - [PostmarketOS Linux: Breathing New Life into Smartphones](https://gadgeteer.co.za/postmarketos-linux-breathing-new-life-into-smartphones/)
 - [US FTC bans Rite Aid from using AI facial recognition in stores for 5 years – CCTV cameras are no longer just cameras](https://gadgeteer.co.za/us-ftc-bans-rite-aid-from-using-ai-facial-recognition-in-stores-for-5-years-cctv-cameras-are-no-longer-just-cameras/)
-- [Steve Gibson’s explanation of the quantum computing breakthrough](https://gadgeteer.co.za/steve-gibsons-explanation-of-the-quantum-computing-breakthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 
