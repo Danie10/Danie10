@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to turn an old PC into a NAS](https://gadgeteer.co.za/how-to-turn-an-old-pc-into-a-nas/)
 - [Master VLC with These 10+ Expert Tips and Tricks](https://gadgeteer.co.za/master-vlc-with-these-10-expert-tips-and-tricks/)
 - [Polycentric is an Open-source distributed social network – Similar in some ways to Nostr](https://gadgeteer.co.za/polycentric-is-an-open-source-distributed-social-network-similar-in-some-ways-to-nostr/)
 - [Samsung Health can now help you never skip your meds](https://gadgeteer.co.za/samsung-health-can-now-help-you-never-skip-your-meds/)
 - [The rise and fall of Usenet: How the original social media platform came to be 50 years ago](https://gadgeteer.co.za/the-rise-and-fall-of-usenet-how-the-original-social-media-platform-came-to-be-50-years-ago/)
-- [Samsung expands repair program to more devices, now in 43 countries &lpar;87 to go&rpar;](https://gadgeteer.co.za/samsung-expands-repair-program-to-more-devices-now-in-43-countries-87-to-go/)
 <!-- BLOG-POST-LIST:END -->
 
 
