@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ExifTool by Phil Harvey is an open source cross-platform tool for reading, writing and editing image metadata](https://gadgeteer.co.za/exiftool-by-phil-harvey-is-an-open-source-cross-platform-tool-for-reading-writing-and-editing-image-metadata/)
 - [Tetris Has Finally Been Beaten After 34 Years](https://gadgeteer.co.za/tetris-has-finally-been-beaten-after-34-years/)
 - [Open-Source Desktop Publishing App Scribus Gets Huge Update](https://gadgeteer.co.za/open-source-desktop-publishing-app-scribus-gets-huge-update/)
 - [How to maximize anonymity when accessing the Internet on mobile](https://gadgeteer.co.za/how-to-maximize-anonymity-when-accessing-the-internet-on-mobile/)
 - [Immich Self-Hosted Photos and Videos Solution – My Warts and All Video Review](https://gadgeteer.co.za/immich-self-hosted-photos-and-videos-solution-my-warts-and-all-video-review/)
-- [How to turn an old PC into a NAS](https://gadgeteer.co.za/how-to-turn-an-old-pc-into-a-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 
