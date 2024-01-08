@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open source’s new mission: To boldly go where no software has gone before and expose where the data goes](https://gadgeteer.co.za/open-sources-new-mission-to-boldly-go-where-no-software-has-gone-before-and-expose-where-the-data-goes/)
 - [7 Tips and Tools to Improve Your Gaming Experience on Linux](https://gadgeteer.co.za/7-tips-and-tools-to-improve-your-gaming-experience-on-linux/)
 - [What’s the Value of 3 Million LPs in a Digital World? Easy! They can be Played still in 50+ Years’ Time!](https://gadgeteer.co.za/whats-the-value-of-3-million-lps-in-a-digital-world-easy-they-can-be-played-still-in-50-years-time/)
 - [The Mystery of the Apple Zero-Day Vulnerability CVE-2023-38606](https://gadgeteer.co.za/the-mystery-of-the-apple-zero-day-vulnerability-cve-2023-38606/)
 - [Hacking BLE to Liberate your Exercise Equipment eg for the Domyos EL500 elliptical trainer](https://gadgeteer.co.za/hacking-ble-to-liberate-your-exercise-equipment-eg-for-the-domyos-el500-elliptical-trainer/)
-- [ExifTool by Phil Harvey is an open source cross-platform tool for reading, writing and editing image metadata](https://gadgeteer.co.za/exiftool-by-phil-harvey-is-an-open-source-cross-platform-tool-for-reading-writing-and-editing-image-metadata/)
 <!-- BLOG-POST-LIST:END -->
 
 
