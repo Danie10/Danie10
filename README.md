@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Guide to lossless audio: Everything you need to know from a smartphone user perspective](https://gadgeteer.co.za/guide-to-lossless-audio-everything-you-need-to-know-from-a-smartphone-user-perspective-2/)
 - [Casey Newton’s Platformer is leaving Substack for Non-Profit Open-Source Ghost Publishing Platform](https://gadgeteer.co.za/casy-newtons-platformer-is-leaving-substack-for-non-profit-open-source-ghost-publishing-platform/)
 - [US FTC bans data broker from selling Americans’ location data – Only Americans?](https://gadgeteer.co.za/us-ftc-bans-data-broker-from-selling-americans-location-data-only-americans/)
 - [Atuin is an open-source shell command history app for Linux with syncing, unlimited history, and with contextual search](https://gadgeteer.co.za/atuin-is-an-open-source-shell-command-history-app-for-linux-with-syncing-unlimited-history-and-with-contextual-search/)
 - [Mbin is a fork of kbin: a decentralized content aggregator running on the Fediverse network](https://gadgeteer.co.za/mbin-is-a-fork-of-kbin-a-decentralized-content-aggregator-running-on-the-fediverse-network/)
-- [Dutch startup Nuwa claims to have invented the world’s most advanced smart pen that writes on plain paper](https://gadgeteer.co.za/dutch-startup-nuwa-claims-to-have-invented-the-worlds-most-advanced-smart-pen-that-writes-on-plain-paper/)
 <!-- BLOG-POST-LIST:END -->
 
 
