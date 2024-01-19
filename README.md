@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This ‘digital twin’ of the planet could rival Google Earth — here’s how you can try it: Google needs Competition](https://gadgeteer.co.za/this-digital-twin-of-the-planet-could-rival-google-earth-heres-how-you-can-try-it-google-needs-competition/)
 - [80 years later, GCHQ releases new images of Nazi code-breaking computer Colossus](https://gadgeteer.co.za/80-years-later-gchq-releases-new-images-of-nazi-code-breaking-computer-colossus/)
 - [No Surprise: Each Facebook User is Monitored by Thousands of Companies](https://gadgeteer.co.za/no-surprise-each-facebook-user-is-monitored-by-thousands-of-companies/)
 - [Google Maps can now navigate inside tunnels, like Waze does, using Bluetooth beacons](https://gadgeteer.co.za/google-maps-can-now-navigate-inside-tunnels-like-waze-does-using-bluetooth-beacons/)
 - [PicPlanner: Open-Source Linux app for Calculating the position of the Sun, Moon, and Milky Way to plan the perfect time to take a Picture](https://gadgeteer.co.za/picplanner-open-source-linux-app-for-calculating-the-position-of-the-sun-moon-and-milky-way-to-plan-the-perfect-time-to-take-a-picture/)
-- [Guide to lossless audio: Everything you need to know from a smartphone user perspective](https://gadgeteer.co.za/guide-to-lossless-audio-everything-you-need-to-know-from-a-smartphone-user-perspective-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
