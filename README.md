@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Withings BeamO is an all-in-one thermometer, ECG and stethoscope costing US$250](https://gadgeteer.co.za/withings-beamo-is-an-all-in-one-thermometer-ecg-and-stethoscope-costing-us250/)
 - [South Africans were the most addicted to screen time per person than any other country in 2023](https://gadgeteer.co.za/south-africans-were-the-most-addicted-to-screen-time-per-person-than-any-other-country-in-2023/)
 - [Like Chrome’s ‘Incognito’ mode iCloud Private Relay doesn’t work the way you think it does](https://gadgeteer.co.za/like-chromes-incognito-mode-icloud-private-relay-doesnt-work-the-way-you-think-it-does/)
 - [Tired of Gillette Razor blades costing US$3.58 each then try Safety Razor Blades costing only US$0.08 Each](https://gadgeteer.co.za/tired-of-gillette-razor-blades-costing-us3-58-each-then-try-safety-razor-blades-costing-only-us0-08-each/)
 - [This ‘digital twin’ of the planet could rival Google Earth — here’s how you can try it: Google needs Competition](https://gadgeteer.co.za/this-digital-twin-of-the-planet-could-rival-google-earth-heres-how-you-can-try-it-google-needs-competition/)
-- [80 years later, GCHQ releases new images of Nazi code-breaking computer Colossus](https://gadgeteer.co.za/80-years-later-gchq-releases-new-images-of-nazi-code-breaking-computer-colossus/)
 <!-- BLOG-POST-LIST:END -->
 
 
