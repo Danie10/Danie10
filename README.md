@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to set up a VPN on your home router](https://gadgeteer.co.za/how-to-set-up-a-vpn-on-your-home-router/)
 - [Beware selling your unused ‘free’ Rain 5G router in South Africa](https://gadgeteer.co.za/beware-selling-your-unused-free-rain-5g-router-in-south-africa/)
 - [Mobile phone USSD shortcodes to know for South Africa’s mobile networks](https://gadgeteer.co.za/mobile-phone-ussd-shortcodes-to-know-for-south-africas-mobile-networks/)
 - [Apple iOS 17.3: You need to Turn on iPhone’s New Stolen Device Protection](https://gadgeteer.co.za/apple-ios-17-3-you-need-to-turn-on-iphones-new-stolen-device-protection/)
 - [Withings BeamO is an all-in-one thermometer, ECG and stethoscope costing US$250](https://gadgeteer.co.za/withings-beamo-is-an-all-in-one-thermometer-ecg-and-stethoscope-costing-us250/)
-- [South Africans were the most addicted to screen time per person than any other country in 2023](https://gadgeteer.co.za/south-africans-were-the-most-addicted-to-screen-time-per-person-than-any-other-country-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
