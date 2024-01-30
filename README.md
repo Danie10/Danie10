@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open source CockroachDB tempts legacy databases to crawl into the cloud age](https://gadgeteer.co.za/open-source-cockroachdb-tempts-legacy-databases-to-crawl-into-the-cloud-age/)
 - [There is a real need for encrypted e-mails but instead we have lots of encrypted PDF attachments](https://gadgeteer.co.za/there-is-a-real-need-for-encrypted-e-mails-but-instead-we-have-lots-of-encrypted-pdf-attachments/)
 - [LibrePhotos – a self-hosted open-source photo management service](https://gadgeteer.co.za/librephotos-a-self-hosted-open-source-photo-management-service/)
 - [How to set up a VPN on your home router](https://gadgeteer.co.za/how-to-set-up-a-vpn-on-your-home-router/)
 - [Beware selling your unused ‘free’ Rain 5G router in South Africa](https://gadgeteer.co.za/beware-selling-your-unused-free-rain-5g-router-in-south-africa/)
-- [Mobile phone USSD shortcodes to know for South Africa’s mobile networks](https://gadgeteer.co.za/mobile-phone-ussd-shortcodes-to-know-for-south-africas-mobile-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 
