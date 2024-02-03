@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SparkyLinux harbors a flamboyant array of desktops: Stable and rolling releases, Pi versions, and some very unusual customizations](https://gadgeteer.co.za/sparkylinux-harbors-a-flamboyant-array-of-desktops-stable-and-rolling-releases-pi-versions-and-some-very-unusual-customizations/)
 - [Demystifying the USB Type-C connector: A talk from EMF 2022 by Tyler Ward](https://gadgeteer.co.za/demystifying-the-usb-type-c-connector-a-talk-from-emf-2022-by-tyler-ward/)
 - [How to install an M.2 SSD in a PC: A SATA SSD drive is not your only option](https://gadgeteer.co.za/how-to-install-an-m-2-ssd-in-a-pc-a-sata-ssd-drive-is-not-your-only-option/)
 - [Open source CockroachDB tempts legacy databases to crawl into the cloud age](https://gadgeteer.co.za/open-source-cockroachdb-tempts-legacy-databases-to-crawl-into-the-cloud-age/)
 - [There is a real need for encrypted e-mails but instead we have lots of encrypted PDF attachments](https://gadgeteer.co.za/there-is-a-real-need-for-encrypted-e-mails-but-instead-we-have-lots-of-encrypted-pdf-attachments/)
-- [LibrePhotos – a self-hosted open-source photo management service](https://gadgeteer.co.za/librephotos-a-self-hosted-open-source-photo-management-service/)
 <!-- BLOG-POST-LIST:END -->
 
 
