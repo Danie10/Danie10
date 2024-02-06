@@ -19,4 +19,4 @@ jobs:
         with:
           max_post_count: "5"
           remove_duplicates: true
-          feed_list: "https://gadgeteer.co.za/category/uncategorized/feed/"
+          feed_list: "https://gadgeteer.co.za/rss"
