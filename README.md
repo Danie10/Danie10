@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using a USB Serial Adapter &lpar;UART&rpar; to Help Debug Your Raspberry Pi](https://gadgeteer.co.za/using-a-usb-serial-adapter-uart-to-help-debug-your-raspberry-pi/)
 - [South African Rooibos featured in popular survival action role-playing game Enshrouded](https://gadgeteer.co.za/south-african-rooibos-featured-in-popular-survival-action-role-playing-game-enshrouded/)
 - [Elon Musk Gutted Their App. Now They Want To Make One That’s Billionaire-Proof: Tapestry will be RSS](https://gadgeteer.co.za/elon-musk-gutted-their-app-now-they-want-to-make-one-thats-billionaire-proof-tapestry-will-be-rss/)
 - [WiFi networks that span over 3km are on the way but we’ve long had 5km plus with line of sight WiFi](https://gadgeteer.co.za/wifi-networks-that-span-over-3km-are-on-the-way-but-weve-long-had-5km-plus-with-line-of-sight-wifi/)
 - [Your Phone Is Not Listening to You: The tech myth has pervaded all corners of society, but its origins show it was never true to begin with](https://gadgeteer.co.za/your-phone-is-not-listening-to-you-the-tech-myth-has-pervaded-all-corners-of-society-but-its-origins-show-it-was-never-true-to-begin-with/)
-- [Goodbye Eskom — R1 billion deal to bring fastest off-grid car chargers to South Africa](https://gadgeteer.co.za/goodbye-eskom-r1-billion-deal-to-bring-fastest-off-grid-car-chargers-to-south-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 
