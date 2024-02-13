@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The US government makes a $42 million bet on 5G Open RAN &lpar;O-RAN&rpar; cell networks](https://gadgeteer.co.za/the-us-government-makes-a-42-million-bet-on-5g-open-ran-o-ran-cell-networks/)
+- [ANC &lpar;Active Noise Cancellation&rpar; and ENC &lpar;Environmental Noise Cancellation&rpar;: How are they different?](https://gadgeteer.co.za/anc-active-noise-cancellation-and-enc-environmental-noise-cancellation-how-are-they-different/)
 - [I did not realise you get rechargeable coin cell batteries such as for the CR2032](https://gadgeteer.co.za/i-did-not-realise-you-get-rechargeable-coin-cell-batteries-such-as-for-the-cr2032/)
 - [Using a USB Serial Adapter &lpar;UART&rpar; to Help Debug Your Raspberry Pi](https://gadgeteer.co.za/using-a-usb-serial-adapter-uart-to-help-debug-your-raspberry-pi/)
 - [South African Rooibos featured in popular survival action role-playing game Enshrouded](https://gadgeteer.co.za/south-african-rooibos-featured-in-popular-survival-action-role-playing-game-enshrouded/)
-- [Elon Musk Gutted Their App. Now They Want To Make One That’s Billionaire-Proof: Tapestry will be RSS](https://gadgeteer.co.za/elon-musk-gutted-their-app-now-they-want-to-make-one-thats-billionaire-proof-tapestry-will-be-rss/)
-- [WiFi networks that span over 3km are on the way but we’ve long had 5km plus with line of sight WiFi](https://gadgeteer.co.za/wifi-networks-that-span-over-3km-are-on-the-way-but-weve-long-had-5km-plus-with-line-of-sight-wifi/)
 <!-- BLOG-POST-LIST:END -->
 
 
