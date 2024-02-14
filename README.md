@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 concept PC parts that you may want in your next gaming PC](https://gadgeteer.co.za/3-concept-pc-parts-that-you-may-want-in-your-next-gaming-pc/)
 - [Ethernet for Hackers: The very Basics](https://gadgeteer.co.za/ethernet-for-hackers-the-very-basics/)
 - [The US government makes a $42 million bet on 5G Open RAN &lpar;O-RAN&rpar; cell networks](https://gadgeteer.co.za/the-us-government-makes-a-42-million-bet-on-5g-open-ran-o-ran-cell-networks/)
 - [ANC &lpar;Active Noise Cancellation&rpar; and ENC &lpar;Environmental Noise Cancellation&rpar;: How are they different?](https://gadgeteer.co.za/anc-active-noise-cancellation-and-enc-environmental-noise-cancellation-how-are-they-different/)
 - [I did not realise you get rechargeable coin cell batteries such as for the CR2032](https://gadgeteer.co.za/i-did-not-realise-you-get-rechargeable-coin-cell-batteries-such-as-for-the-cr2032/)
-- [Using a USB Serial Adapter &lpar;UART&rpar; to Help Debug Your Raspberry Pi](https://gadgeteer.co.za/using-a-usb-serial-adapter-uart-to-help-debug-your-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 
