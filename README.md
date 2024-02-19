@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 mistakes you should not make when building a new PC for the first time](https://gadgeteer.co.za/10-mistakes-you-should-not-make-when-building-a-new-pc-for-the-first-time/)
 - [How to keep your home network secure: Smart tricks and settings](https://gadgeteer.co.za/how-to-keep-your-home-network-secure-smart-tricks-and-settings/)
 - [Can’t decide between Bluesky, Mastodon and Nostr? Nootti’s new app lets you post to all three](https://gadgeteer.co.za/cant-decide-between-bluesky-mastodon-and-nostr-noottis-new-app-lets-you-post-to-all-three/)
 - [3 concept PC parts that you may want in your next gaming PC](https://gadgeteer.co.za/3-concept-pc-parts-that-you-may-want-in-your-next-gaming-pc/)
 - [Ethernet for Hackers: The very Basics](https://gadgeteer.co.za/ethernet-for-hackers-the-very-basics/)
-- [The US government makes a $42 million bet on 5G Open RAN &lpar;O-RAN&rpar; cell networks](https://gadgeteer.co.za/the-us-government-makes-a-42-million-bet-on-5g-open-ran-o-ran-cell-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 
