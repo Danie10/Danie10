@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Sad Reality: Firefox 123 is out with broken site reporting tool](https://gadgeteer.co.za/the-sad-reality-firefox-123-is-out-with-broken-site-reporting-tool/)
 - [The Myth: Is the Fediverse Really That Complicated?](https://gadgeteer.co.za/the-myth-is-the-fediverse-really-that-complicated/)
 - [5 reasons to use AMD in your next gaming PC](https://gadgeteer.co.za/5-reasons-to-use-amd-in-your-next-gaming-pc/)
 - [Young Typewriter repairman is in high demand for this retro technology today](https://gadgeteer.co.za/young-typewriter-repairman-is-in-high-demand-fort-this-retro-technology-today/)
 - [10 mistakes you should not make when building a new PC for the first time](https://gadgeteer.co.za/10-mistakes-you-should-not-make-when-building-a-new-pc-for-the-first-time/)
-- [How to keep your home network secure: Smart tricks and settings](https://gadgeteer.co.za/how-to-keep-your-home-network-secure-smart-tricks-and-settings/)
 <!-- BLOG-POST-LIST:END -->
 
 
