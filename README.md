@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 reasons to use AMD in your next gaming PC](https://gadgeteer.co.za/5-reasons-to-use-amd-in-your-next-gaming-pc/)
 - [Young Typewriter repairman is in high demand for this retro technology today](https://gadgeteer.co.za/young-typewriter-repairman-is-in-high-demand-fort-this-retro-technology-today/)
 - [10 mistakes you should not make when building a new PC for the first time](https://gadgeteer.co.za/10-mistakes-you-should-not-make-when-building-a-new-pc-for-the-first-time/)
 - [How to keep your home network secure: Smart tricks and settings](https://gadgeteer.co.za/how-to-keep-your-home-network-secure-smart-tricks-and-settings/)
 - [Can’t decide between Bluesky, Mastodon and Nostr? Nootti’s new app lets you post to all three](https://gadgeteer.co.za/cant-decide-between-bluesky-mastodon-and-nostr-noottis-new-app-lets-you-post-to-all-three/)
-- [3 concept PC parts that you may want in your next gaming PC](https://gadgeteer.co.za/3-concept-pc-parts-that-you-may-want-in-your-next-gaming-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 
