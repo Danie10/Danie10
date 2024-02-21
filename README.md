@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your fingerprints can be recreated from the sounds made when you swipe on a touchscreen — Chinese and US researchers show new side channel can reproduce fingerprints to enable attacks](https://gadgeteer.co.za/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-chinese-and-us-researchers-show-new-side-channel-can-reproduce-fingerprints-to-enable-attacks/)
 - [With Superlist, Wunderlist Makers Pick Up Where They Left Off](https://gadgeteer.co.za/with-superlist-wunderlist-makers-pick-up-where-they-left-off/)
 - [The Sad Reality: Firefox 123 is out with broken site reporting tool](https://gadgeteer.co.za/the-sad-reality-firefox-123-is-out-with-broken-site-reporting-tool/)
 - [The Myth: Is the Fediverse Really That Complicated?](https://gadgeteer.co.za/the-myth-is-the-fediverse-really-that-complicated/)
 - [5 reasons to use AMD in your next gaming PC](https://gadgeteer.co.za/5-reasons-to-use-amd-in-your-next-gaming-pc/)
-- [Young Typewriter repairman is in high demand for this retro technology today](https://gadgeteer.co.za/young-typewriter-repairman-is-in-high-demand-fort-this-retro-technology-today/)
 <!-- BLOG-POST-LIST:END -->
 
 
