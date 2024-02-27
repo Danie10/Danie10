@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Three Meshtastic nodes are active in Cape Town for off-grid communications during disasters or just to meet your neighbours](https://gadgeteer.co.za/three-meshtastic-nodes-are-active-in-cape-town-for-off-grid-communications-during-disasters-or-just-to-meet-your-neighbours/)
 - [Bluesky vs. Mastodon: Which Twitter Alternative Should You Choose?](https://gadgeteer.co.za/bluesky-vs-mastodon-which-twitter-alternative-should-you-choose/)
 - [How to make Android use the DNS server of your choice: Not all DNS servers are created equally](https://gadgeteer.co.za/how-to-make-android-use-the-dns-server-of-your-choice-not-all-dns-servers-are-created-equally/)
 - [You should buy dual monitors instead of an ultrawide for these 4 reasons](https://gadgeteer.co.za/you-should-buy-dual-monitors-instead-of-an-ultrawide-for-these-4-reasons/)
 - [Your fingerprints can be recreated from the sounds made when you swipe on a touchscreen — Chinese and US researchers show new side channel can reproduce fingerprints to enable attacks](https://gadgeteer.co.za/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-chinese-and-us-researchers-show-new-side-channel-can-reproduce-fingerprints-to-enable-attacks/)
-- [With Superlist, Wunderlist Makers Pick Up Where They Left Off](https://gadgeteer.co.za/with-superlist-wunderlist-makers-pick-up-where-they-left-off/)
 <!-- BLOG-POST-LIST:END -->
 
 
