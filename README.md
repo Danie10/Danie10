@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Determined maker uses Raspberry Pi and AI to block noisy neighbour’s music by hacking nearby Bluetooth speakers](https://gadgeteer.co.za/determined-maker-uses-raspberry-pi-and-ai-to-block-noisy-neighbours-music-by-hacking-nearby-bluetooth-speakers/)
 - [Avast fined $16.5 million for ‘privacy’ software that actually sold users’ browsing data](https://gadgeteer.co.za/avast-fined-16-5-million-for-privacy-software-that-actually-sold-users-browsing-data/)
 - [Trail Sense: Android Open-Source app for entirely offline use for hiking, backpacking, camping, and geocaching](https://gadgeteer.co.za/trail-sense-android-open-source-app-for-entirely-offline-use-for-hiking-backpacking-camping-and-geocaching/)
 - [Three Meshtastic nodes are active in Cape Town for off-grid communications during disasters or just to meet your neighbours](https://gadgeteer.co.za/three-meshtastic-nodes-are-active-in-cape-town-for-off-grid-communications-during-disasters-or-just-to-meet-your-neighbours/)
 - [Bluesky vs. Mastodon: Which Twitter Alternative Should You Choose?](https://gadgeteer.co.za/bluesky-vs-mastodon-which-twitter-alternative-should-you-choose/)
-- [How to make Android use the DNS server of your choice: Not all DNS servers are created equally](https://gadgeteer.co.za/how-to-make-android-use-the-dns-server-of-your-choice-not-all-dns-servers-are-created-equally/)
 <!-- BLOG-POST-LIST:END -->
 
 
