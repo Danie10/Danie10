@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [QDirStat is an open-source GUI app for Linux and macOS to show and clean directory space usage](https://gadgeteer.co.za/qdirstat-is-an-open-source-gui-app-for-linux-and-macos-to-show-and-clean-directory-space-usage/)
 - [A monitor with a KVM switch was exactly what my dual PC setup needed](https://gadgeteer.co.za/a-monitor-with-a-kvm-switch-was-exactly-what-my-dual-pc-setup-needed/)
 - [A Non-Technical Introduction Video to Meshtastic Off-Grid Radio Communications](https://gadgeteer.co.za/a-non-technical-introduction-video-to-meshtastic-off-grid-radio-communications/)
 - [Determined maker uses Raspberry Pi and AI to block noisy neighbour’s music by hacking nearby Bluetooth speakers](https://gadgeteer.co.za/determined-maker-uses-raspberry-pi-and-ai-to-block-noisy-neighbours-music-by-hacking-nearby-bluetooth-speakers/)
 - [Avast fined $16.5 million for ‘privacy’ software that actually sold users’ browsing data](https://gadgeteer.co.za/avast-fined-16-5-million-for-privacy-software-that-actually-sold-users-browsing-data/)
-- [Trail Sense: Android Open-Source app for entirely offline use for hiking, backpacking, camping, and geocaching](https://gadgeteer.co.za/trail-sense-android-open-source-app-for-entirely-offline-use-for-hiking-backpacking-camping-and-geocaching/)
 <!-- BLOG-POST-LIST:END -->
 
 
