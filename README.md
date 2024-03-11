@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Feeeed is a reader app that goes beyond tracking RSS feeds with an extra bell and whistle](https://gadgeteer.co.za/feeeed-is-a-reader-app-that-goes-beyond-tracking-rss-feeds-with-an-extra-bell-and-whistle/)
 - [Proton Mail Now Also Lets You Hide Your Real Email Address](https://gadgeteer.co.za/proton-mail-now-also-lets-you-hide-your-real-email-address/)
 - [sleek is an open-source cross-platform todo manager based on the todo.txt syntax](https://gadgeteer.co.za/sleek-is-an-open-source-cross-platform-todo-manager-based-on-the-todo-txt-syntax/)
 - [A New Headset Aims to Treat Alzheimer’s With Light and Sound](https://gadgeteer.co.za/a-new-headset-aims-to-treat-alzheimers-with-light-and-sound/)
 - [QDirStat is an open-source GUI app for Linux and macOS to show and clean directory space usage](https://gadgeteer.co.za/qdirstat-is-an-open-source-gui-app-for-linux-and-macos-to-show-and-clean-directory-space-usage/)
-- [A monitor with a KVM switch was exactly what my dual PC setup needed](https://gadgeteer.co.za/a-monitor-with-a-kvm-switch-was-exactly-what-my-dual-pc-setup-needed/)
 <!-- BLOG-POST-LIST:END -->
 
 
