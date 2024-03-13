@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [UPT: Universal Package Management Tool for Linux: One command to rule them all!](https://gadgeteer.co.za/upt-universal-package-management-tool-for-linux-one-command-to-rule-them-all/)
 - [Cross-Industry Giants Unite for Speedometer 3.0 browser benchmark](https://gadgeteer.co.za/cross-industry-giants-unite-for-speedometer-3-0-browser-benchmark/)
 - [Ready Player One Author Gives First Look at His Metaverse Battle Royale Game](https://gadgeteer.co.za/ready-player-one-author-gives-first-look-at-his-metaverse-battle-royale-game/)
 - [Tor’s new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://gadgeteer.co.za/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/)
 - [Feeeed is a reader app that goes beyond tracking RSS feeds with an extra bell and whistle](https://gadgeteer.co.za/feeeed-is-a-reader-app-that-goes-beyond-tracking-rss-feeds-with-an-extra-bell-and-whistle/)
-- [Proton Mail Now Also Lets You Hide Your Real Email Address](https://gadgeteer.co.za/proton-mail-now-also-lets-you-hide-your-real-email-address/)
 <!-- BLOG-POST-LIST:END -->
 
 
