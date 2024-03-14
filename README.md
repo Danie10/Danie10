@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does the Ring Video Doorbell really need 8 to 24 VAC? Seems not as DC works on mine!](https://gadgeteer.co.za/does-the-ring-video-doorbell-really-need-8-to-24-vac-seems-not-as-dc-works-on-mine/)
 - [UPT: Universal Package Management Tool for Linux: One command to rule them all!](https://gadgeteer.co.za/upt-universal-package-management-tool-for-linux-one-command-to-rule-them-all/)
 - [Cross-Industry Giants Unite for Speedometer 3.0 browser benchmark](https://gadgeteer.co.za/cross-industry-giants-unite-for-speedometer-3-0-browser-benchmark/)
 - [Ready Player One Author Gives First Look at His Metaverse Battle Royale Game](https://gadgeteer.co.za/ready-player-one-author-gives-first-look-at-his-metaverse-battle-royale-game/)
 - [Tor’s new WebTunnel bridges mimic HTTPS traffic to evade censorship](https://gadgeteer.co.za/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/)
-- [Feeeed is a reader app that goes beyond tracking RSS feeds with an extra bell and whistle](https://gadgeteer.co.za/feeeed-is-a-reader-app-that-goes-beyond-tracking-rss-feeds-with-an-extra-bell-and-whistle/)
 <!-- BLOG-POST-LIST:END -->
 
 
