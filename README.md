@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fresh version of Windows user-friendly Zorin OS arrives to tempt the Linux-wary](https://gadgeteer.co.za/fresh-version-of-windows-user-friendly-zorin-os-arrives-to-tempt-the-linux-wary/)
 - [CATS is a new comms and telemetry standard intended to surpass the current APRS standard by leveraging modern, super-cheap FSK transceivers](https://gadgeteer.co.za/cats-is-a-new-comms-and-telemetry-standard-intended-to-surpass-the-current-aprs-standard-by-leveraging-modern-super-cheap-fsk-transceivers/)
 - [Plash is a free and open-source app that lets you turn any website into your Mac desktop wallpaper](https://gadgeteer.co.za/plash-is-a-free-and-open-source-app-that-lets-you-turn-any-website-into-your-mac-desktop-wallpaper/)
 - [SIM swappers hijacking phone numbers in eSIM attacks: Protect your cellular service account](https://gadgeteer.co.za/sim-swappers-hijacking-phone-numbers-in-esim-attacks-protect-your-cellular-service-account/)
 - [Does the Ring Video Doorbell really need 8 to 24 VAC? Seems not as DC works on mine!](https://gadgeteer.co.za/does-the-ring-video-doorbell-really-need-8-to-24-vac-seems-not-as-dc-works-on-mine/)
-- [UPT: Universal Package Management Tool for Linux: One command to rule them all!](https://gadgeteer.co.za/upt-universal-package-management-tool-for-linux-one-command-to-rule-them-all/)
 <!-- BLOG-POST-LIST:END -->
 
 
