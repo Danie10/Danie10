@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Oh, Zot! Nomadic Identity is Coming to ActivityPub: This could change the Fediverse forever](https://gadgeteer.co.za/oh-zot-nomadic-identity-is-coming-to-activitypub-this-could-change-the-fediverse-forever/)
 - [This is the most completely authentic 737 home flight simulator I’ve seen to date](https://gadgeteer.co.za/this-is-the-most-completely-authentic-737-home-flight-simulator-ive-seen-to-date/)
 - [Radicle is an open source, peer-to-peer code collaboration stack alternative to GitHub](https://gadgeteer.co.za/radicle-is-an-open-source-peer-to-peer-code-collaboration-stack-alternative-to-github/)
 - [This is a good tutorial for morphing two still images into an animated GIF with GIMP](https://gadgeteer.co.za/this-is-a-good-tutorial-for-morphing-two-still-images-into-an-animated-gif-with-gimp/)
 - [Fresh version of Windows user-friendly Zorin OS arrives to tempt the Linux-wary](https://gadgeteer.co.za/fresh-version-of-windows-user-friendly-zorin-os-arrives-to-tempt-the-linux-wary/)
-- [CATS is a new comms and telemetry standard intended to surpass the current APRS standard by leveraging modern, super-cheap FSK transceivers](https://gadgeteer.co.za/cats-is-a-new-comms-and-telemetry-standard-intended-to-surpass-the-current-aprs-standard-by-leveraging-modern-super-cheap-fsk-transceivers/)
 <!-- BLOG-POST-LIST:END -->
 
 
