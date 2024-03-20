@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Uncapped Internet at R99pm on a meshed network for South African low-income communities](https://gadgeteer.co.za/uncapped-internet-at-r99pm-on-a-meshed-network-for-south-african-low-income-communities/)
 - [Lossless Audio Does Not Sound Better Than MP3 To Most People](https://gadgeteer.co.za/lossless-audio-does-not-sound-better-than-mp3-to-most-people/)
 - [Oh, Zot! Nomadic Identity is Coming to ActivityPub: This could change the Fediverse forever](https://gadgeteer.co.za/oh-zot-nomadic-identity-is-coming-to-activitypub-this-could-change-the-fediverse-forever/)
 - [This is the most completely authentic 737 home flight simulator I’ve seen to date](https://gadgeteer.co.za/this-is-the-most-completely-authentic-737-home-flight-simulator-ive-seen-to-date/)
 - [Radicle is an open source, peer-to-peer code collaboration stack alternative to GitHub](https://gadgeteer.co.za/radicle-is-an-open-source-peer-to-peer-code-collaboration-stack-alternative-to-github/)
-- [This is a good tutorial for morphing two still images into an animated GIF with GIMP](https://gadgeteer.co.za/this-is-a-good-tutorial-for-morphing-two-still-images-into-an-animated-gif-with-gimp/)
 <!-- BLOG-POST-LIST:END -->
 
 
