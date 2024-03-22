@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can you safely revive a dead lithium-ion battery? Yes – here’s how](https://gadgeteer.co.za/can-you-safely-revive-a-dead-lithium-ion-battery-yes-heres-how/)
 - [Blog back online](https://gadgeteer.co.za/blog-back-online/)
 - [Some Downtime Due to Migration of Hosting](https://gadgeteer.co.za/some-downtime-due-to-migration-of-hosting/)
 - [Uncapped Internet at R99pm on a meshed network for South African low-income communities](https://gadgeteer.co.za/uncapped-internet-at-r99pm-on-a-meshed-network-for-south-african-low-income-communities/)
 - [Lossless Audio Does Not Sound Better Than MP3 To Most People](https://gadgeteer.co.za/lossless-audio-does-not-sound-better-than-mp3-to-most-people/)
-- [Oh, Zot! Nomadic Identity is Coming to ActivityPub: This could change the Fediverse forever](https://gadgeteer.co.za/oh-zot-nomadic-identity-is-coming-to-activitypub-this-could-change-the-fediverse-forever/)
 <!-- BLOG-POST-LIST:END -->
 
 
