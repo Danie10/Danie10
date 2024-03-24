@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [High Level Steps to Migrate my Docker Hosting to a Different Hosting Service](https://gadgeteer.co.za/high-level-steps-to-migrate-my-docker-hosting-to-a-different-hosting-service/)
 - [10 Things You Probably Didn’t Know You Could do With Nano Editor](https://gadgeteer.co.za/10-things-you-probably-didnt-know-you-could-do-with-nano-editor/)
 - [Can you safely revive a dead lithium-ion battery? Yes – here’s how](https://gadgeteer.co.za/can-you-safely-revive-a-dead-lithium-ion-battery-yes-heres-how/)
 - [Blog back online](https://gadgeteer.co.za/blog-back-online/)
 - [Some Downtime Due to Migration of Hosting](https://gadgeteer.co.za/some-downtime-due-to-migration-of-hosting/)
-- [Uncapped Internet at R99pm on a meshed network for South African low-income communities](https://gadgeteer.co.za/uncapped-internet-at-r99pm-on-a-meshed-network-for-south-african-low-income-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 
