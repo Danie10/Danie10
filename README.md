@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android 15 may be taking privacy to a whole new level by hiding locations even from the network](https://gadgeteer.co.za/android-15-may-be-taking-privacy-to-a-whole-new-level-by-hiding-locations-even-from-the-network/)
+- [LocalSend and SnapDrop can be used for universal AirDrop instead of pushing to Apple](https://gadgeteer.co.za/localsend-and-snapdrop-can-be-used-for-universal-airdrop-instead-of-pushing-to-apple/)
 - [Proton Pass now supports passkeys on all devices and plans: Beating Bitwarden to mobile devices](https://gadgeteer.co.za/proton-pass-now-supports-passkeys-on-all-devices-and-plans-beating-bitwarden-to-mobile-devices/)
 - [ActivityPub plugin for WordPress Adds Your WordPress Site to the Fediverse](https://gadgeteer.co.za/activitypub-plugin-for-wordpress-adds-your-wordpress-site-to-the-fediverse/)
 - [Google Just Revealed When Apple Will Officially Adopt RCS: Possible Northern Hemisphere Fall 2024](https://gadgeteer.co.za/google-just-revealed-when-apple-will-officially-adopt-rcs-possible-northern-hemisphere-fall-2024/)
-- [The Ultrahuman Ring Air: The best smart ring for fitness junkies beats the Oura in 4 major ways](https://gadgeteer.co.za/the-ultrahuman-ring-air-the-best-smart-ring-for-fitness-junkies-beats-the-oura-in-4-major-ways/)
-- [This YouTuber shows off running Steam games on a Raspberry Pi 5](https://gadgeteer.co.za/this-youtuber-shows-off-running-steam-games-on-a-raspberry-pi-5/)
 <!-- BLOG-POST-LIST:END -->
 
 
