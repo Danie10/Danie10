@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Overview of Memories Advanced Photo Management Suite that installs inside Nextcloud](https://gadgeteer.co.za/overview-of-memories-advanced-photo-management-suite-that-installs-inside-nextcloud/)
 - [Android 15 may be taking privacy to a whole new level by hiding locations even from the network](https://gadgeteer.co.za/android-15-may-be-taking-privacy-to-a-whole-new-level-by-hiding-locations-even-from-the-network/)
 - [LocalSend and SnapDrop can be used for universal AirDrop instead of pushing to Apple](https://gadgeteer.co.za/localsend-and-snapdrop-can-be-used-for-universal-airdrop-instead-of-pushing-to-apple/)
 - [Proton Pass now supports passkeys on all devices and plans: Beating Bitwarden to mobile devices](https://gadgeteer.co.za/proton-pass-now-supports-passkeys-on-all-devices-and-plans-beating-bitwarden-to-mobile-devices/)
 - [ActivityPub plugin for WordPress Adds Your WordPress Site to the Fediverse](https://gadgeteer.co.za/activitypub-plugin-for-wordpress-adds-your-wordpress-site-to-the-fediverse/)
-- [Google Just Revealed When Apple Will Officially Adopt RCS: Possible Northern Hemisphere Fall 2024](https://gadgeteer.co.za/google-just-revealed-when-apple-will-officially-adopt-rcs-possible-northern-hemisphere-fall-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 
