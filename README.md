@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [German state of Schleswig-Holstein ditches Windows, Microsoft Office for Linux and LibreOffice](https://gadgeteer.co.za/german-state-of-schleswig-holstein-ditches-windows-microsoft-office-for-linux-and-libreoffice/)
 - [Android’s Find My Device network settings FINALLY start going live for some users](https://gadgeteer.co.za/androids-find-my-device-network-settings-finally-start-going-live-for-some-users/)
 - [UK govt office admits ability to negotiate billions in cloud spending curbed by vendor lock-in](https://gadgeteer.co.za/uk-govt-office-admits-ability-to-negotiate-billions-in-cloud-spending-curbed-by-vendor-lock-in/)
 - [Overview of Memories Advanced Photo Management Suite that installs inside Nextcloud](https://gadgeteer.co.za/overview-of-memories-advanced-photo-management-suite-that-installs-inside-nextcloud/)
 - [Android 15 may be taking privacy to a whole new level by hiding locations even from the network](https://gadgeteer.co.za/android-15-may-be-taking-privacy-to-a-whole-new-level-by-hiding-locations-even-from-the-network/)
-- [LocalSend and SnapDrop can be used for universal AirDrop instead of pushing to Apple](https://gadgeteer.co.za/localsend-and-snapdrop-can-be-used-for-universal-airdrop-instead-of-pushing-to-apple/)
 <!-- BLOG-POST-LIST:END -->
 
 
