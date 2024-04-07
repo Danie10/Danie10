@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to update the firmware on Raspberry Pi](https://gadgeteer.co.za/how-to-update-the-firmware-on-raspberry-pi/)
 - [Starlink in Zimbabwe: Techies Find Ways to Disguise Kits, Evading Authorities](https://gadgeteer.co.za/starlink-in-zimbabwe-techies-find-ways-to-disguise-kits-evading-authorities/)
 - [This Asus PC case monitors your dust filter so you don’t have to](https://gadgeteer.co.za/this-asus-pc-case-monitors-your-dust-filter-so-you-dont-have-to/)
 - [German state of Schleswig-Holstein ditches Windows, Microsoft Office for Linux and LibreOffice](https://gadgeteer.co.za/german-state-of-schleswig-holstein-ditches-windows-microsoft-office-for-linux-and-libreoffice/)
 - [Android’s Find My Device network settings FINALLY start going live for some users](https://gadgeteer.co.za/androids-find-my-device-network-settings-finally-start-going-live-for-some-users/)
-- [UK govt office admits ability to negotiate billions in cloud spending curbed by vendor lock-in](https://gadgeteer.co.za/uk-govt-office-admits-ability-to-negotiate-billions-in-cloud-spending-curbed-by-vendor-lock-in/)
 <!-- BLOG-POST-LIST:END -->
 
 
