@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Fairbuds noise-canceling earbuds have an easily swappable battery](https://gadgeteer.co.za/the-fairbuds-noise-canceling-earbuds-have-an-easily-swappable-battery/)
 - [Modder made an IRC client that runs entirely inside the motherboard’s BIOS chip](https://gadgeteer.co.za/modder-made-an-irc-client-that-runs-entirely-inside-the-motherboards-bios-chip/)
 - [Solved e-mail not working in luckyBackup app with smtp-cli app](https://gadgeteer.co.za/solved-e-mail-not-working-in-luckybackup-app-with-smtp-cli-app/)
 - [Magnets are switching up the keyboard game with an additional keystroke setting](https://gadgeteer.co.za/magnets-are-switching-up-the-keyboard-game-with-an-additional-keystroke-setting/)
 - [How to update the firmware on Raspberry Pi](https://gadgeteer.co.za/how-to-update-the-firmware-on-raspberry-pi/)
-- [Starlink in Zimbabwe: Techies Find Ways to Disguise Kits, Evading Authorities](https://gadgeteer.co.za/starlink-in-zimbabwe-techies-find-ways-to-disguise-kits-evading-authorities/)
 <!-- BLOG-POST-LIST:END -->
 
 
