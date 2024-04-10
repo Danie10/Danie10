@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free app Actions adds nearly 150 features to Apple Shortcuts](https://gadgeteer.co.za/free-app-actions-adds-nearly-150-features-to-apple-shortcuts/)
 - [Kobo announces its first colour e-readers](https://gadgeteer.co.za/kobo-announces-its-first-colour-e-readers/)
 - [The Fairbuds noise-canceling earbuds have an easily swappable battery](https://gadgeteer.co.za/the-fairbuds-noise-canceling-earbuds-have-an-easily-swappable-battery/)
 - [Modder made an IRC client that runs entirely inside the motherboard’s BIOS chip](https://gadgeteer.co.za/modder-made-an-irc-client-that-runs-entirely-inside-the-motherboards-bios-chip/)
 - [Solved e-mail not working in luckyBackup app with smtp-cli app](https://gadgeteer.co.za/solved-e-mail-not-working-in-luckybackup-app-with-smtp-cli-app/)
-- [Magnets are switching up the keyboard game with an additional keystroke setting](https://gadgeteer.co.za/magnets-are-switching-up-the-keyboard-game-with-an-additional-keystroke-setting/)
 <!-- BLOG-POST-LIST:END -->
 
 
