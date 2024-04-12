@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Petivity Smart Litterbox Monitor System: Uses Existing Pet Litter Box](https://gadgeteer.co.za/petivity-smart-litterbox-monitor-system-uses-existing-pet-litter-box/)
 - [The Best Podcasts for Your Smart, Bored Kid](https://gadgeteer.co.za/the-best-podcasts-for-your-smart-bored-kid/)
 - [Why after nearly 20 years I moved away from Vodacom – Loyalty often does not Pay](https://gadgeteer.co.za/why-after-nearly-20-years-i-moved-away-from-vodacom-loyalty-often-does-not-pay/)
 - [Free app Actions adds nearly 150 features to Apple Shortcuts](https://gadgeteer.co.za/free-app-actions-adds-nearly-150-features-to-apple-shortcuts/)
 - [Kobo announces its first colour e-readers](https://gadgeteer.co.za/kobo-announces-its-first-colour-e-readers/)
-- [The Fairbuds noise-canceling earbuds have an easily swappable battery](https://gadgeteer.co.za/the-fairbuds-noise-canceling-earbuds-have-an-easily-swappable-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 
