@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fujifilm X100 VI vs iPhone 15 Pro Max camera shootout: the most hyped against the most mainstream](https://gadgeteer.co.za/fujifilm-x100-vi-vs-iphone-15-pro-max-camera-shootout-the-most-hyped-against-the-most-mainstream/)
 - [StreamController is a brand-new open-source app for enabling and managing the Elgato Stream Deck on Linux](https://gadgeteer.co.za/streamcontroller-is-a-brand-new-open-source-app-for-enabling-and-managing-the-elgato-stream-deck-on-linux/)
 - [Petivity Smart Litterbox Monitor System: Uses Existing Pet Litter Box](https://gadgeteer.co.za/petivity-smart-litterbox-monitor-system-uses-existing-pet-litter-box/)
 - [The Best Podcasts for Your Smart, Bored Kid](https://gadgeteer.co.za/the-best-podcasts-for-your-smart-bored-kid/)
 - [Why after nearly 20 years I moved away from Vodacom – Loyalty often does not Pay](https://gadgeteer.co.za/why-after-nearly-20-years-i-moved-away-from-vodacom-loyalty-often-does-not-pay/)
-- [Free app Actions adds nearly 150 features to Apple Shortcuts](https://gadgeteer.co.za/free-app-actions-adds-nearly-150-features-to-apple-shortcuts/)
 <!-- BLOG-POST-LIST:END -->
 
 
