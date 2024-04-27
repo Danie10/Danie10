@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kobo’s new repairability push could heat up competition](https://gadgeteer.co.za/kobos-new-reparability-push-could-heat-up-competition/)
 - [Android Tasker routine to warn if home WiFi is not functioning correctly](https://gadgeteer.co.za/android-tasker-routine-to-warn-if-home-wifi-is-not-functioning-correctly/)
 - [‘Secret’ iPhone feature lets you easily sign online documents for free, with no scanning, printing, or app installing](https://gadgeteer.co.za/secret-iphone-feature-lets-you-easily-sign-online-documents-for-free-with-no-scanning-printing-or-app-installing/)
 - [Palm OS and the devices that ran it: Before smartphones, we had PDAs in our pockets, and Palm did them best](https://gadgeteer.co.za/palm-os-and-the-devices-that-ran-it-before-smartphones-we-had-pdas-in-our-pockets-and-palm-did-them-best/)
 - [A Privacy Policy: We do not display advertising on the website or app but…](https://gadgeteer.co.za/a-privacy-policy-we-do-not-display-advertising-on-the-website-or-app-but/)
-- [South African app receives 46,693 potholes reports — 7,842 have been closed](https://gadgeteer.co.za/south-african-app-receives-46693-potholes-reports-7842-have-been-closed/)
 <!-- BLOG-POST-LIST:END -->
 
 
