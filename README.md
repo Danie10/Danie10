@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android Tasker routine to warn if home WiFi is not functioning correctly](https://gadgeteer.co.za/android-tasker-routine-to-warn-if-home-wifi-is-not-functioning-correctly/)
 - [‘Secret’ iPhone feature lets you easily sign online documents for free, with no scanning, printing, or app installing](https://gadgeteer.co.za/secret-iphone-feature-lets-you-easily-sign-online-documents-for-free-with-no-scanning-printing-or-app-installing/)
 - [Palm OS and the devices that ran it: Before smartphones, we had PDAs in our pockets, and Palm did them best](https://gadgeteer.co.za/palm-os-and-the-devices-that-ran-it-before-smartphones-we-had-pdas-in-our-pockets-and-palm-did-them-best/)
 - [A Privacy Policy: We do not display advertising on the website or app but…](https://gadgeteer.co.za/a-privacy-policy-we-do-not-display-advertising-on-the-website-or-app-but/)
 - [South African app receives 46,693 potholes reports — 7,842 have been closed](https://gadgeteer.co.za/south-african-app-receives-46693-potholes-reports-7842-have-been-closed/)
-- [Fujifilm X100 VI vs iPhone 15 Pro Max camera shootout: the most hyped against the most mainstream](https://gadgeteer.co.za/fujifilm-x100-vi-vs-iphone-15-pro-max-camera-shootout-the-most-hyped-against-the-most-mainstream/)
 <!-- BLOG-POST-LIST:END -->
 
 
