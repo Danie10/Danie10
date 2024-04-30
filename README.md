@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Koodo Reader is an open-source ebook reader for Linux, Windows, macOS and the Web](https://gadgeteer.co.za/koodo-reader-is-an-open-source-ebook-reader-for-linux-windows-macos-and-the-web/)
 - [How to Install KDE Plasma in Ubuntu, Debian and Mint: Because you have Choices](https://gadgeteer.co.za/how-to-install-kde-plasma-in-ubuntu-debian-and-mint-because-you-have-choices/)
 - [GoToSocial is a new ActivityPub social network server for the Fediverse](https://gadgeteer.co.za/gotosocial-is-a-new-activitypub-social-network-server-for-the-fediverse/)
 - [Kobo’s new repairability push could heat up competition](https://gadgeteer.co.za/kobos-new-reparability-push-could-heat-up-competition/)
 - [Android Tasker routine to warn if home WiFi is not functioning correctly](https://gadgeteer.co.za/android-tasker-routine-to-warn-if-home-wifi-is-not-functioning-correctly/)
-- [‘Secret’ iPhone feature lets you easily sign online documents for free, with no scanning, printing, or app installing](https://gadgeteer.co.za/secret-iphone-feature-lets-you-easily-sign-online-documents-for-free-with-no-scanning-printing-or-app-installing/)
 <!-- BLOG-POST-LIST:END -->
 
 
