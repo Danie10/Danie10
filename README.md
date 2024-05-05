@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Before you buy a gaming headset, consider getting In-Ear Monitors instead](https://gadgeteer.co.za/before-you-buy-a-gaming-headset-consider-getting-in-ear-monitors-instead/)
 - [4 Tools to Share Large Files Over the Internet Securely](https://gadgeteer.co.za/4-tools-to-share-large-files-over-the-internet-securely/)
 - [Video Overview of the Meshtastic Radio Mobile App Interface and Settings](https://gadgeteer.co.za/video-overview-of-the-meshtastic-radio-mobile-app-interface-and-settings/)
 - [Nano 8.0 Command-Line Text Editor Released – Key Bindings Have Now Joined The 21st Century](https://gadgeteer.co.za/nano-8-0-command-line-text-editor-released-key-bindings-have-now-joined-the-21st-century/)
 - [Koodo Reader is an open-source ebook reader for Linux, Windows, macOS and the Web](https://gadgeteer.co.za/koodo-reader-is-an-open-source-ebook-reader-for-linux-windows-macos-and-the-web/)
-- [How to Install KDE Plasma in Ubuntu, Debian and Mint: Because you have Choices](https://gadgeteer.co.za/how-to-install-kde-plasma-in-ubuntu-debian-and-mint-because-you-have-choices/)
 <!-- BLOG-POST-LIST:END -->
 
 
