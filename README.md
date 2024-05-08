@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Internet Archive has hundreds of full usable Palmpilot apps that you can run in your browser](https://gadgeteer.co.za/the-internet-archive-has-hundreds-of-full-usable-palmpilot-apps-that-you-can-run-in-your-browser/)
+- [The origins of Bitwarden and how it is fending off the tech giants](https://gadgeteer.co.za/the-origins-of-bitwarden-and-how-it-is-fending-off-the-tech-giants/)
 - [Five things to consider when making the transition to a new email address](https://gadgeteer.co.za/five-things-to-consider-when-making-the-transition-to-a-new-email-address/)
 - [Before you buy a gaming headset, consider getting In-Ear Monitors instead](https://gadgeteer.co.za/before-you-buy-a-gaming-headset-consider-getting-in-ear-monitors-instead/)
 - [4 Tools to Share Large Files Over the Internet Securely](https://gadgeteer.co.za/4-tools-to-share-large-files-over-the-internet-securely/)
-- [Video Overview of the Meshtastic Radio Mobile App Interface and Settings](https://gadgeteer.co.za/video-overview-of-the-meshtastic-radio-mobile-app-interface-and-settings/)
-- [Nano 8.0 Command-Line Text Editor Released – Key Bindings Have Now Joined The 21st Century](https://gadgeteer.co.za/nano-8-0-command-line-text-editor-released-key-bindings-have-now-joined-the-21st-century/)
 <!-- BLOG-POST-LIST:END -->
 
 
