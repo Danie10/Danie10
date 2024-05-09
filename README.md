@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [40 years later, Kontrabant 2 for ZX Spectrum is rebroadcast on FM in Slovenia](https://gadgeteer.co.za/40-years-later-kontrabant-2-for-zx-spectrum-is-rebroadcast-on-fm-in-slovenia/)
+- [Hackbat: This Raspberry Pi hacking tool is what the Flipper One could have been](https://gadgeteer.co.za/hackbat-this-raspberry-pi-hacking-tool-is-what-the-flipper-one-could-have-been/)
 - [The Internet Archive has hundreds of full usable Palmpilot apps that you can run in your browser](https://gadgeteer.co.za/the-internet-archive-has-hundreds-of-full-usable-palmpilot-apps-that-you-can-run-in-your-browser/)
 - [The origins of Bitwarden and how it is fending off the tech giants](https://gadgeteer.co.za/the-origins-of-bitwarden-and-how-it-is-fending-off-the-tech-giants/)
 - [Five things to consider when making the transition to a new email address](https://gadgeteer.co.za/five-things-to-consider-when-making-the-transition-to-a-new-email-address/)
-- [Before you buy a gaming headset, consider getting In-Ear Monitors instead](https://gadgeteer.co.za/before-you-buy-a-gaming-headset-consider-getting-in-ear-monitors-instead/)
-- [4 Tools to Share Large Files Over the Internet Securely](https://gadgeteer.co.za/4-tools-to-share-large-files-over-the-internet-securely/)
 <!-- BLOG-POST-LIST:END -->
 
 
