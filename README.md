@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Garmin SOS fails South African biker after accident](https://gadgeteer.co.za/garmin-sos-fails-south-african-biker-after-accident/)
 - [GCam is a modded version of the Pixel Camera app that you can install on your Android phone](https://gadgeteer.co.za/gcam-is-a-modded-version-of-the-pixel-camera-app-that-you-can-install-on-your-android-phone/)
 - [South African mobile network operators must zero-rate content from approved public benefit organisations](https://gadgeteer.co.za/south-african-mobile-network-operators-must-zero-rate-content-from-approved-public-benefit-organisations/)
 - [You can automate much of your home and devices with a Raspberry Pi and open-source Home Assistant](https://gadgeteer.co.za/you-can-automate-much-of-your-home-and-devices-with-a-raspberry-pi-and-open-source-home-assistant/)
 - [40 years later, Kontrabant 2 for ZX Spectrum is rebroadcast on FM in Slovenia](https://gadgeteer.co.za/40-years-later-kontrabant-2-for-zx-spectrum-is-rebroadcast-on-fm-in-slovenia/)
-- [Hackbat: This Raspberry Pi hacking tool is what the Flipper One could have been](https://gadgeteer.co.za/hackbat-this-raspberry-pi-hacking-tool-is-what-the-flipper-one-could-have-been/)
 <!-- BLOG-POST-LIST:END -->
 
 
