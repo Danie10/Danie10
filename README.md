@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RealVNC is ending their free Home plan but here are some alternatives for remote GUI desktop management](https://gadgeteer.co.za/realvnc-is-ending-their-free-home-plan-but-here-are-some-alternatives-for-remote-gui-desktop-management/)
 - [Wolf Grid is an OpenSim World With AI Integration and Other Innovations](https://gadgeteer.co.za/wolf-grid-is-an-opensim-world-with-ai-integration-and-other-innovations/)
 - [Manjaro’s Plasma 6 update has gone globally live today](https://gadgeteer.co.za/manjaros-plasma-6-update-has-gone-globally-live-today/)
 - [8 ways Android handles notifications better than iOS](https://gadgeteer.co.za/8-ways-android-handles-notifications-better-than-ios/)
 - [Garmin SOS fails South African biker after accident](https://gadgeteer.co.za/garmin-sos-fails-south-african-biker-after-accident/)
-- [GCam is a modded version of the Pixel Camera app that you can install on your Android phone](https://gadgeteer.co.za/gcam-is-a-modded-version-of-the-pixel-camera-app-that-you-can-install-on-your-android-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 
