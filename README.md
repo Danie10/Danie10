@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Netris is an open-source and self-hosted alternative to GeForce NOW, inspired by Stadia](https://gadgeteer.co.za/netris-is-an-open-source-and-self-hosted-alternative-to-geforce-now-inspired-by-stadia/)
 - [Apple needs to explain that bug that resurfaced deleted photos: Can we trust Apple’s PR?](https://gadgeteer.co.za/apple-needs-to-explain-that-bug-that-resurfaced-deleted-photos-can-we-trust-apples-pr/)
 - [Victim proves how to easily steal someone’s FNB bank payment card details and buy a tank of petrol in South Africa](https://gadgeteer.co.za/victim-proves-how-to-easily-steal-someones-fnb-bank-payment-card-details-and-buy-a-tank-of-petrol-in-south-africa/)
 - [Try these Linux bash aliases for more efficient use of the command line](https://gadgeteer.co.za/try-these-linux-bash-aliases-for-more-efficient-use-of-the-command-line/)
 - [RealVNC is ending their free Home plan but here are some alternatives for remote GUI desktop management](https://gadgeteer.co.za/realvnc-is-ending-their-free-home-plan-but-here-are-some-alternatives-for-remote-gui-desktop-management/)
-- [Wolf Grid is an OpenSim World With AI Integration and Other Innovations](https://gadgeteer.co.za/wolf-grid-is-an-opensim-world-with-ai-integration-and-other-innovations/)
 <!-- BLOG-POST-LIST:END -->
 
 
