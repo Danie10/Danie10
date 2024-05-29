@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Change Docker’s Default Data Directory](https://gadgeteer.co.za/how-to-change-dockers-default-data-directory/)
 - [LibreOffice has some really excellent getting-started Guides for their open-source Office Suite](https://gadgeteer.co.za/libreoffice-has-some-really-excellent-getting-started-guides-for-their-open-source-office-suite/)
 - [Token2 is an open-source Swiss FIDO2 security key that brings innovative features at a cheaper price](https://gadgeteer.co.za/token2-is-an-open-source-swiss-fido2-security-key-that-brings-innovative-features-at-a-cheaper-price/)
 - [Stop using Social Media for News, RSS is Much Better!](https://gadgeteer.co.za/stop-using-social-media-for-news-rss-is-much-better/)
 - [Google Search’s “udm=14” trick lets you kill AI search for good](https://gadgeteer.co.za/google-searchs-udm14-trick-lets-you-kill-ai-search-for-good/)
-- [Jumblie is a challenging browser-based open-source puzzle game to guess the four words of the day](https://gadgeteer.co.za/jumblie-is-a-challenging-browser-based-open-source-puzzle-game-to-guess-the-four-words-of-the-day/)
 <!-- BLOG-POST-LIST:END -->
 
 
