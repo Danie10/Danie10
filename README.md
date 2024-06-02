@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Take Control Of MS Flight Sim With Your Smartphone And This Open-Source App](https://gadgeteer.co.za/take-control-of-ms-flight-sim-with-your-smartphone-and-this-open-source-app/)
 - [5 Tips to Secure Your GPG Key in Linux](https://gadgeteer.co.za/5-tips-to-secure-your-gpg-key-in-linux/)
 - [Turning An ATX PSU Into A Variable Bench Supply](https://gadgeteer.co.za/turning-an-atx-psu-into-a-variable-bench-supply/)
 - [How to Change Docker’s Default Data Directory](https://gadgeteer.co.za/how-to-change-dockers-default-data-directory/)
 - [LibreOffice has some really excellent getting-started Guides for their open-source Office Suite](https://gadgeteer.co.za/libreoffice-has-some-really-excellent-getting-started-guides-for-their-open-source-office-suite/)
-- [Token2 is an open-source Swiss FIDO2 security key that brings innovative features at a cheaper price](https://gadgeteer.co.za/token2-is-an-open-source-swiss-fido2-security-key-that-brings-innovative-features-at-a-cheaper-price/)
 <!-- BLOG-POST-LIST:END -->
 
 
