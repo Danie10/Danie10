@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Space warfare: how the military could be forced to give up GPS and return to navigating by the stars](https://gadgeteer.co.za/space-warfare-how-the-military-could-be-forced-to-give-up-gps-and-return-to-navigating-by-the-stars/)
 - [The Verge tested Aptoide, the first free iPhone app store alternative](https://gadgeteer.co.za/the-verge-tested-aptoide-the-first-free-iphone-app-store-alternative/)
 - [South African Military Vehicles in War Thunder](https://gadgeteer.co.za/south-african-military-vehicles-in-war-thunder/)
 - [Take Control Of MS Flight Sim With Your Smartphone And This Open-Source App](https://gadgeteer.co.za/take-control-of-ms-flight-sim-with-your-smartphone-and-this-open-source-app/)
 - [5 Tips to Secure Your GPG Key in Linux](https://gadgeteer.co.za/5-tips-to-secure-your-gpg-key-in-linux/)
-- [Turning An ATX PSU Into A Variable Bench Supply](https://gadgeteer.co.za/turning-an-atx-psu-into-a-variable-bench-supply/)
 <!-- BLOG-POST-LIST:END -->
 
 
