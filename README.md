@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Galaxy phone will now automatically get locked if someone steals it](https://gadgeteer.co.za/your-galaxy-phone-will-now-automatically-get-locked-if-someone-steals-it/)
 - [10 of the most useful apps available on Steam](https://gadgeteer.co.za/10-of-the-most-useful-apps-available-on-steam/)
 - [Disenchanted Windows user? Pop open a fresh can of Linux Lite](https://gadgeteer.co.za/disenchanted-windows-user-pop-open-a-fresh-can-of-linux-lite/)
 - [6 Really Good Docker Containers to use on your NAS](https://gadgeteer.co.za/6-really-good-docker-containers-to-use-on-your-nas6-really-good-docker-containers-to-use-on-your-nas/)
 - [Space warfare: how the military could be forced to give up GPS and return to navigating by the stars](https://gadgeteer.co.za/space-warfare-how-the-military-could-be-forced-to-give-up-gps-and-return-to-navigating-by-the-stars/)
-- [The Verge tested Aptoide, the first free iPhone app store alternative](https://gadgeteer.co.za/the-verge-tested-aptoide-the-first-free-iphone-app-store-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 
