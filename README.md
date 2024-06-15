@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to change your Android phone’s DNS to Google, Cloudflare or Other DNS Provider](https://gadgeteer.co.za/how-to-change-your-android-phones-dns-to-google-cloudflare-or-other-dns-provider/)
 - [Use ‘Bridgy Fed’ to Connect Fediverse accounts &lpar;inc Mastodon&rpar; and Bluesky](https://gadgeteer.co.za/use-bridgy-fed-to-connect-fediverse-accounts-inc-mastodon-and-bluesky/)
 - [Your Galaxy phone will now automatically get locked if someone steals it](https://gadgeteer.co.za/your-galaxy-phone-will-now-automatically-get-locked-if-someone-steals-it/)
 - [10 of the most useful apps available on Steam](https://gadgeteer.co.za/10-of-the-most-useful-apps-available-on-steam/)
 - [Disenchanted Windows user? Pop open a fresh can of Linux Lite](https://gadgeteer.co.za/disenchanted-windows-user-pop-open-a-fresh-can-of-linux-lite/)
-- [6 Really Good Docker Containers to use on your NAS](https://gadgeteer.co.za/6-really-good-docker-containers-to-use-on-your-nas6-really-good-docker-containers-to-use-on-your-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 
