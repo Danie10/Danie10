@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux-based postmarketOS v24.06 supports over 250 devices, taking on Google’s Android and Apple’s iOS](https://gadgeteer.co.za/linux-based-postmarketos-v24-06-supports-over-250-devices-taking-on-googles-android-and-apples-ios/)
 - [FUTO Keyboard is an open-source mobile keyboard for Android that stays private and offline](https://gadgeteer.co.za/futo-keyboard-is-an-open-source-mobile-keyboard-for-android-that-stays-private-and-offline/)
 - [How to change your Android phone’s DNS to Google, Cloudflare or Other DNS Provider](https://gadgeteer.co.za/how-to-change-your-android-phones-dns-to-google-cloudflare-or-other-dns-provider/)
 - [Use ‘Bridgy Fed’ to Connect Fediverse accounts &lpar;inc Mastodon&rpar; and Bluesky](https://gadgeteer.co.za/use-bridgy-fed-to-connect-fediverse-accounts-inc-mastodon-and-bluesky/)
 - [Your Galaxy phone will now automatically get locked if someone steals it](https://gadgeteer.co.za/your-galaxy-phone-will-now-automatically-get-locked-if-someone-steals-it/)
-- [10 of the most useful apps available on Steam](https://gadgeteer.co.za/10-of-the-most-useful-apps-available-on-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 
