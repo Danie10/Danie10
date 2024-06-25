@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Moto Tag is an AirTag for Android: It Ticks my Boxes](https://gadgeteer.co.za/the-moto-tag-is-an-airtag-for-android-it-ticks-my-boxes/)
 - [Blackmagic’s free camera app is now available on Android, but only for newer Pixels and Galaxy models](https://gadgeteer.co.za/blackmagics-free-camera-app-is-now-available-on-android-but-only-for-newer-pixels-and-galaxy-models/)
 - [How do Video Game Graphics Work? This is likely why GPUs costs so much!](https://gadgeteer.co.za/how-do-video-game-graphics-work-this-is-likely-why-gpus-costs-so-much/)
 - [The StepWell Saga: first South African cellphone game for mental health aimed at youngsters](https://gadgeteer.co.za/the-stepwell-saga-first-south-african-cellphone-game-for-mental-health-aimed-at-youngsters/)
 - [AMD won Computex by extending AM5 support and launching new AM4 CPUs](https://gadgeteer.co.za/amd-won-computex-by-extending-am5-support-and-launching-new-am4-cpus/)
-- [Use DroidCam to turn your Android phone into a wireless webcam for Linux or Windows PC’s and laptops](https://gadgeteer.co.za/use-droidcam-to-turn-your-android-phone-into-a-wireless-webcam-for-linux-or-windows-pcs-and-laptops/)
 <!-- BLOG-POST-LIST:END -->
 
 
