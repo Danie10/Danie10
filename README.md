@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Steam’s new native gameplay recording tool also works on the Steam Deck](https://gadgeteer.co.za/steams-new-native-gameplay-recording-tool-also-works-on-the-steam-deck/)
 - [Switzerland mandates software source code disclosure for public sector: A legal milestone](https://gadgeteer.co.za/switzerland-mandates-software-source-code-disclosure-for-public-sector-a-legal-milestone/)
 - [The Moto Tag is an AirTag for Android: It Ticks my Boxes](https://gadgeteer.co.za/the-moto-tag-is-an-airtag-for-android-it-ticks-my-boxes/)
 - [Blackmagic’s free camera app is now available on Android, but only for newer Pixels and Galaxy models](https://gadgeteer.co.za/blackmagics-free-camera-app-is-now-available-on-android-but-only-for-newer-pixels-and-galaxy-models/)
 - [How do Video Game Graphics Work? This is likely why GPUs costs so much!](https://gadgeteer.co.za/how-do-video-game-graphics-work-this-is-likely-why-gpus-costs-so-much/)
-- [The StepWell Saga: first South African cellphone game for mental health aimed at youngsters](https://gadgeteer.co.za/the-stepwell-saga-first-south-african-cellphone-game-for-mental-health-aimed-at-youngsters/)
 <!-- BLOG-POST-LIST:END -->
 
 
