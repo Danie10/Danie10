@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New payment ring launched by VezoPay requiring no charging or unlocking – built by South Africans](https://gadgeteer.co.za/new-payment-ring-launched-by-vezopay-requiring-no-charging-or-unlocking-built-by-south-africans/)
 - [Google Translate has added South African languages Ndebele, Swati, Tswana, and Venda](https://gadgeteer.co.za/google-translate-has-added-south-african-languages-ndebele-swati-tswana-and-venda/)
 - [Is it worth buying a SBC Raspberry Pi 5 or rather something else?](https://gadgeteer.co.za/is-it-worth-buying-a-sbc-raspberry-pi-5-or-rather-something-else/)
 - [Steam’s new native gameplay recording tool also works on the Steam Deck](https://gadgeteer.co.za/steams-new-native-gameplay-recording-tool-also-works-on-the-steam-deck/)
 - [Switzerland mandates software source code disclosure for public sector: A legal milestone](https://gadgeteer.co.za/switzerland-mandates-software-source-code-disclosure-for-public-sector-a-legal-milestone/)
-- [The Moto Tag is an AirTag for Android: It Ticks my Boxes](https://gadgeteer.co.za/the-moto-tag-is-an-airtag-for-android-it-ticks-my-boxes/)
 <!-- BLOG-POST-LIST:END -->
 
 
