@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [StreamController Application on Linux for the Elgato Stream Deck](https://gadgeteer.co.za/streamcontroller-application-on-linux-for-the-elgato-stream-deck/)
 - [Paperless-ngx is an open-source document management system that transforms your physical documents into a searchable online archive](https://gadgeteer.co.za/paperless-ngx-is-an-open-source-document-management-system-that-transforms-your-physical-documents-into-a-searchable-online-archive/)
 - [Proton Just Launched a More Private Version of Google Docs with End-To-End Encryption](https://gadgeteer.co.za/proton-just-launched-a-more-private-version-of-google-docs-with-end-to-end-encryption/)
 - [The Youth should know there are WAY CHEAPER, and better, alternatives to expensive Gillette razor blades](https://gadgeteer.co.za/the-youth-should-know-there-are-way-cheaper-and-better-alternatives-to-expensive-gillette-razor-blades/)
 - [Canonical’s ‘distroless’ Linux images are a game-changer for enterprises](https://gadgeteer.co.za/canonicals-distroless-linux-images-are-a-game-changer-for-enterprises/)
-- [New payment ring launched by VezoPay requiring no charging or unlocking – built by South Africans](https://gadgeteer.co.za/new-payment-ring-launched-by-vezopay-requiring-no-charging-or-unlocking-built-by-south-africans/)
 <!-- BLOG-POST-LIST:END -->
 
 
