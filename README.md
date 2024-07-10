@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ydotool is an alternative to xdotool that works on both X11 and Wayland](https://gadgeteer.co.za/ydotool-is-an-alternative-to-xdotool-that-works-on-both-x11-and-wayland/)
 - [Cross-Platform ONLYOFFICE 8.1 office suite has an excellent PDF editor and forms creator](https://gadgeteer.co.za/cross-platform-onlyoffice-8-1-office-suite-has-an-excellent-pdf-editor-and-forms-creator/)
 - [StreamController Application on Linux for the Elgato Stream Deck](https://gadgeteer.co.za/streamcontroller-application-on-linux-for-the-elgato-stream-deck/)
 - [Paperless-ngx is an open-source document management system that transforms your physical documents into a searchable online archive](https://gadgeteer.co.za/paperless-ngx-is-an-open-source-document-management-system-that-transforms-your-physical-documents-into-a-searchable-online-archive/)
 - [Proton Just Launched a More Private Version of Google Docs with End-To-End Encryption](https://gadgeteer.co.za/proton-just-launched-a-more-private-version-of-google-docs-with-end-to-end-encryption/)
-- [The Youth should know there are WAY CHEAPER, and better, alternatives to expensive Gillette razor blades](https://gadgeteer.co.za/the-youth-should-know-there-are-way-cheaper-and-better-alternatives-to-expensive-gillette-razor-blades/)
 <!-- BLOG-POST-LIST:END -->
 
 
