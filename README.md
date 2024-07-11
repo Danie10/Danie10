@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to fake the GPS location on your iPhone or Android phone](https://gadgeteer.co.za/how-to-fake-the-gps-location-on-your-iphone-or-android-phone/)
 - [Samsung’s Latest Galaxy Buds Might Be Android’s Answer to AirPods](https://gadgeteer.co.za/samsungs-latest-galaxy-buds-might-be-androids-answer-to-airpods/)
 - [OMG!! R300 million stolen in massive cyber-heist in South African gov dept over 10 year period](https://gadgeteer.co.za/omg-r300-million-stolen-in-massive-cyber-heist-in-south-african-gov-dept-over-10-year-period/)
 - [ydotool is an alternative to xdotool that works on both X11 and Wayland](https://gadgeteer.co.za/ydotool-is-an-alternative-to-xdotool-that-works-on-both-x11-and-wayland/)
 - [Cross-Platform ONLYOFFICE 8.1 office suite has an excellent PDF editor and forms creator](https://gadgeteer.co.za/cross-platform-onlyoffice-8-1-office-suite-has-an-excellent-pdf-editor-and-forms-creator/)
-- [StreamController Application on Linux for the Elgato Stream Deck](https://gadgeteer.co.za/streamcontroller-application-on-linux-for-the-elgato-stream-deck/)
 <!-- BLOG-POST-LIST:END -->
 
 
