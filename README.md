@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Approves QEMU-Based PC Emulator App for iOS](https://gadgeteer.co.za/apple-approves-qemu-based-pc-emulator-app-for-ios/)
 - [11 Obsidian tips and tricks for boosting productivity with this Markdown editor and notes app](https://gadgeteer.co.za/11-obsidian-tips-and-tricks-for-boosting-productivity-with-this-markdown-editor-and-notes-app/)
 - [How to fake the GPS location on your iPhone or Android phone](https://gadgeteer.co.za/how-to-fake-the-gps-location-on-your-iphone-or-android-phone/)
 - [Samsung’s Latest Galaxy Buds Might Be Android’s Answer to AirPods](https://gadgeteer.co.za/samsungs-latest-galaxy-buds-might-be-androids-answer-to-airpods/)
 - [OMG!! R300 million stolen in massive cyber-heist in South African gov dept over 10 year period](https://gadgeteer.co.za/omg-r300-million-stolen-in-massive-cyber-heist-in-south-african-gov-dept-over-10-year-period/)
-- [ydotool is an alternative to xdotool that works on both X11 and Wayland](https://gadgeteer.co.za/ydotool-is-an-alternative-to-xdotool-that-works-on-both-x11-and-wayland/)
 <!-- BLOG-POST-LIST:END -->
 
 
