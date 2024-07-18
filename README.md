@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Communia bets social media can be good for you](https://gadgeteer.co.za/communia-bets-social-media-can-be-good-for-you/)
 - [This is why I bought the Logitech G502 X mouse for my Linux desktop instead of the MX Master 3S](https://gadgeteer.co.za/this-is-why-i-bought-the-logitech-g502-x-mouse-for-my-linux-desktop-instead-of-the-mx-master-3s/)
 - [How the Stream Deck rose from the ashes of a legendary keyboard](https://gadgeteer.co.za/how-the-stream-deck-rose-from-the-ashes-of-a-legendary-keyboard/)
 - [Apple Approves QEMU-Based PC Emulator App for iOS](https://gadgeteer.co.za/apple-approves-qemu-based-pc-emulator-app-for-ios/)
 - [11 Obsidian tips and tricks for boosting productivity with this Markdown editor and notes app](https://gadgeteer.co.za/11-obsidian-tips-and-tricks-for-boosting-productivity-with-this-markdown-editor-and-notes-app/)
-- [How to fake the GPS location on your iPhone or Android phone](https://gadgeteer.co.za/how-to-fake-the-gps-location-on-your-iphone-or-android-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 
