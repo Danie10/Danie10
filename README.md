@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Julia programming language: a missed opportunity for AI](https://gadgeteer.co.za/the-julia-programming-language-a-missed-opportunity-for-ai/)
 - [Video comparison of a Gillette Fusion Proglide Power vs a Gillette King C DE Razor](https://gadgeteer.co.za/video-comparison-of-a-gillette-fusion-proglide-power-vs-a-gillette-king-c-de-razor/)
 - [How you can play the old classics on your PC or other devices with ScummVM](https://gadgeteer.co.za/how-you-can-play-the-old-classics-on-your-pc-or-other-devices-with-scummvm/)
 - [Communia bets social media can be good for you](https://gadgeteer.co.za/communia-bets-social-media-can-be-good-for-you/)
 - [This is why I bought the Logitech G502 X mouse for my Linux desktop instead of the MX Master 3S](https://gadgeteer.co.za/this-is-why-i-bought-the-logitech-g502-x-mouse-for-my-linux-desktop-instead-of-the-mx-master-3s/)
-- [How the Stream Deck rose from the ashes of a legendary keyboard](https://gadgeteer.co.za/how-the-stream-deck-rose-from-the-ashes-of-a-legendary-keyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 
