@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Continent is a free &lpar;of cost, ads and trackers&rpar; news publication for Africans by Africans](https://gadgeteer.co.za/the-continent-is-a-free-of-cost-ads-and-trackers-news-publication-for-africans-by-africans/)
+- [How to test if your VPN is working](https://gadgeteer.co.za/how-to-test-if-your-vpn-is-working/)
 - [6 myths about mechanical keyboards that are no longer true](https://gadgeteer.co.za/6-myths-about-mechanical-keyboards-that-are-no-longer-true/)
 - [7 password rules to live by in 2024, according to security experts – No, frequent changes not one of the rules](https://gadgeteer.co.za/7-password-rules-to-live-by-in-2024-according-to-security-experts-no-frequent-changes-not-one-of-the-rules/)
 - [The Julia programming language: a missed opportunity for AI](https://gadgeteer.co.za/the-julia-programming-language-a-missed-opportunity-for-ai/)
-- [Video comparison of a Gillette Fusion Proglide Power vs a Gillette King C DE Razor](https://gadgeteer.co.za/video-comparison-of-a-gillette-fusion-proglide-power-vs-a-gillette-king-c-de-razor/)
-- [How you can play the old classics on your PC or other devices with ScummVM](https://gadgeteer.co.za/how-you-can-play-the-old-classics-on-your-pc-or-other-devices-with-scummvm/)
 <!-- BLOG-POST-LIST:END -->
 
 
