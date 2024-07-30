@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reading an electric meter with a SDR for use in Home Assistant](https://gadgeteer.co.za/reading-an-electric-meter-with-a-sdr-for-use-in-home-assistant/)
 - [5 Excellent reasons you should try using open source software](https://gadgeteer.co.za/5-excellent-reasons-you-should-try-using-open-source-software/)
 - [The Continent is a free &lpar;of cost, ads and trackers&rpar; news publication for Africans by Africans](https://gadgeteer.co.za/the-continent-is-a-free-of-cost-ads-and-trackers-news-publication-for-africans-by-africans/)
 - [How to test if your VPN is working](https://gadgeteer.co.za/how-to-test-if-your-vpn-is-working/)
 - [6 myths about mechanical keyboards that are no longer true](https://gadgeteer.co.za/6-myths-about-mechanical-keyboards-that-are-no-longer-true/)
-- [7 password rules to live by in 2024, according to security experts – No, frequent changes not one of the rules](https://gadgeteer.co.za/7-password-rules-to-live-by-in-2024-according-to-security-experts-no-frequent-changes-not-one-of-the-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 
