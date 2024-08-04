@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The status in 2024 of Linux distros with an undo function for updates](https://gadgeteer.co.za/the-status-in-2024-of-linux-distros-with-an-undo-function-for-updates/)
 - [3 reasons magnetic switches are shaking up the keyboard scene](https://gadgeteer.co.za/3-reasons-magnetic-switches-are-shaking-up-the-keyboard-scene/)
 - [Paperless-ngx is a privacy respecting open-source self-hosted document management solution](https://gadgeteer.co.za/paperless-ngx-is-a-privacy-respecting-open-source-self-hosted-document-management-solution/)
 - [Why Snap and Flatpak make Linux a better OS and how they’re different](https://gadgeteer.co.za/why-snap-and-flatpak-make-linux-a-better-os-and-how-theyre-different/)
 - [Reading an electric meter with a SDR for use in Home Assistant](https://gadgeteer.co.za/reading-an-electric-meter-with-a-sdr-for-use-in-home-assistant/)
-- [5 Excellent reasons you should try using open source software](https://gadgeteer.co.za/5-excellent-reasons-you-should-try-using-open-source-software/)
 <!-- BLOG-POST-LIST:END -->
 
 
