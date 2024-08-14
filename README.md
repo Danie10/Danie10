@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cheap DIY open-source button pad can do a lot of what an expensive Stream Deck does](https://gadgeteer.co.za/cheap-diy-open-source-button-pad-can-do-a-lot-of-what-an-expensive-stream-deck-does/)
 - [The best free password managers: Expert tested by ZDNET](https://gadgeteer.co.za/the-best-free-password-managers-expert-tested-by-zdnet/)
 - [Deep-Live-Cam goes viral, allowing anyone to become a digital doppelgangerDeep-Live-Cam goes viral, allowing anyone to become a digital doppelganger](https://gadgeteer.co.za/deep-live-cam-goes-viral-allowing-anyone-to-become-a-digital-doppelgangerdeep-live-cam-goes-viral-allowing-anyone-to-become-a-digital-doppelganger/)
 - [Cal.com is an open-source alternative to Calendy for scheduling meetings](https://gadgeteer.co.za/cal-com-is-an-open-source-alternative-to-calendy-for-scheduling-meetings/)
 - [Proton VPN adds ‘Discreet Icons’ to hide app on Android devices and adds more servers for countries with lack of freedoms](https://gadgeteer.co.za/proton-vpn-adds-discreet-icons-to-hide-app-on-android-devices-and-adds-more-servers-for-countries-with-lack-of-freedoms/)
-- [WordStar 7, the last ever DOS version, is re-released for free](https://gadgeteer.co.za/wordstar-7-the-last-ever-dos-version-is-re-released-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
 
