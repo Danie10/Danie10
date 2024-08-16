@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a Google Workspace alternative? OnlyOffice DocSpace is ready for the job](https://gadgeteer.co.za/looking-for-a-google-workspace-alternative-onlyoffice-docspace-is-ready-for-the-job/)
+- [You can Turn a Raspberry Pi into a Bluetooth Smart Speaker to Stream music via Bluetooth, Spotify Connect, and AirPlay](https://gadgeteer.co.za/you-can-turn-a-raspberry-pi-into-a-bluetooth-smart-speaker-to-stream-music-via-bluetooth-spotify-connect-and-airplay/)
 - [DuckDuckGo AI chat offers privacy, no user data used to train models, and a bare-bones text-only experience](https://gadgeteer.co.za/duckduckgo-ai-chat-offers-privacy-no-user-data-used-to-train-models-and-a-bare-bones-text-only-experience/)
 - [Cheap DIY open-source button pad can do a lot of what an expensive Stream Deck does](https://gadgeteer.co.za/cheap-diy-open-source-button-pad-can-do-a-lot-of-what-an-expensive-stream-deck-does/)
 - [The best free password managers: Expert tested by ZDNET](https://gadgeteer.co.za/the-best-free-password-managers-expert-tested-by-zdnet/)
-- [Deep-Live-Cam goes viral, allowing anyone to become a digital doppelgangerDeep-Live-Cam goes viral, allowing anyone to become a digital doppelganger](https://gadgeteer.co.za/deep-live-cam-goes-viral-allowing-anyone-to-become-a-digital-doppelgangerdeep-live-cam-goes-viral-allowing-anyone-to-become-a-digital-doppelganger/)
-- [Cal.com is an open-source alternative to Calendy for scheduling meetings](https://gadgeteer.co.za/cal-com-is-an-open-source-alternative-to-calendy-for-scheduling-meetings/)
 <!-- BLOG-POST-LIST:END -->
 
 
