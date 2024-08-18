@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Ring certainly seems to be an improvement on the Oura Ring](https://gadgeteer.co.za/samsung-galaxy-ring-certainly-seems-to-be-an-improvement-on-the-oura-ring/)
 - [10 obvious things I wish someone told me before I built my first PC](https://gadgeteer.co.za/10-obvious-things-i-wish-someone-told-me-before-i-built-my-first-pc/)
 - [Looking for a Google Workspace alternative? OnlyOffice DocSpace is ready for the job](https://gadgeteer.co.za/looking-for-a-google-workspace-alternative-onlyoffice-docspace-is-ready-for-the-job/)
 - [You can Turn a Raspberry Pi into a Bluetooth Smart Speaker to Stream music via Bluetooth, Spotify Connect, and AirPlay](https://gadgeteer.co.za/you-can-turn-a-raspberry-pi-into-a-bluetooth-smart-speaker-to-stream-music-via-bluetooth-spotify-connect-and-airplay/)
 - [DuckDuckGo AI chat offers privacy, no user data used to train models, and a bare-bones text-only experience](https://gadgeteer.co.za/duckduckgo-ai-chat-offers-privacy-no-user-data-used-to-train-models-and-a-bare-bones-text-only-experience/)
-- [Cheap DIY open-source button pad can do a lot of what an expensive Stream Deck does](https://gadgeteer.co.za/cheap-diy-open-source-button-pad-can-do-a-lot-of-what-an-expensive-stream-deck-does/)
 <!-- BLOG-POST-LIST:END -->
 
 
