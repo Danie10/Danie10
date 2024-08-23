@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your ‘Max Heart Rate’ Is Probably Wrong](https://gadgeteer.co.za/your-max-heart-rate-is-probably-wrong/)
 - [What is Wireguard, and What Makes It a Worthy VPN Protocol?](https://gadgeteer.co.za/what-is-wireguard-and-what-makes-it-a-worthy-vpn-protocol/)
 - [How to Browse the Web in Your Linux Terminal With Lynx](https://gadgeteer.co.za/how-to-browse-the-web-in-your-linux-terminal-with-lynx/)
 - [Organic Maps — Free, Open-Source, Private, Low Battery mapping app for Hiking, Biking, Trails and Navigation](https://gadgeteer.co.za/organic-maps-free-open-source-private-low-battery-mapping-app-for-hiking-biking-trails-and-navigation/)
 - [5 essential Linux terms every new user needs to know](https://gadgeteer.co.za/5-essential-linux-terms-every-new-user-needs-to-know/)
-- [Samsung Galaxy Ring certainly seems to be an improvement on the Oura Ring](https://gadgeteer.co.za/samsung-galaxy-ring-certainly-seems-to-be-an-improvement-on-the-oura-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 
