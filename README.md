@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This Raspberry Pi project can identify stray cats in your garden, and safely scare off birds if need be](https://gadgeteer.co.za/this-raspberry-pi-project-can-identify-stray-cats-in-your-garden-and-safely-scare-off-birds-if-need-be/)
+- [5 SSD specs you should really care about when buying one](https://gadgeteer.co.za/5-ssd-specs-you-should-really-care-about-when-buying-one/)
 - [40 Chill Games to Unwind From Your Stressful Life With](https://gadgeteer.co.za/40-chill-games-to-unwind-from-your-stressful-life-with/)
 - [Now Microsoft is bringing Start menu ads to Windows 10, too](https://gadgeteer.co.za/now-microsoft-is-bringing-start-menu-ads-to-windows-10-too/)
 - [iOS 18 Notes App: All the New Features: Google Must do Better](https://gadgeteer.co.za/ios-18-notes-app-all-the-new-features-google-must-do-better/)
-- [Your ‘Max Heart Rate’ Is Probably Wrong](https://gadgeteer.co.za/your-max-heart-rate-is-probably-wrong/)
-- [What is Wireguard, and What Makes It a Worthy VPN Protocol?](https://gadgeteer.co.za/what-is-wireguard-and-what-makes-it-a-worthy-vpn-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 
