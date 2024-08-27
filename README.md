@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Always Pin An App Before Handing Your Android Phone to Someone](https://gadgeteer.co.za/always-pin-an-app-before-handing-your-android-phone-to-someone/)
 - [The South African hacker who revolutionised cybersecurity around the world with his Canary honeypot tools](https://gadgeteer.co.za/the-south-african-hacker-who-revolutionised-cybersecurity-around-the-world-with-his-canary-honeypot-tools/)
 - [This Raspberry Pi project uses AI to tell visually impaired people what’s around them](https://gadgeteer.co.za/this-raspberry-pi-project-uses-ai-to-tell-visually-impaired-people-whats-around-them/)
 - [This Raspberry Pi project can identify stray cats in your garden, and safely scare off birds if need be](https://gadgeteer.co.za/this-raspberry-pi-project-can-identify-stray-cats-in-your-garden-and-safely-scare-off-birds-if-need-be/)
 - [5 SSD specs you should really care about when buying one](https://gadgeteer.co.za/5-ssd-specs-you-should-really-care-about-when-buying-one/)
-- [40 Chill Games to Unwind From Your Stressful Life With](https://gadgeteer.co.za/40-chill-games-to-unwind-from-your-stressful-life-with/)
 <!-- BLOG-POST-LIST:END -->
 
 
