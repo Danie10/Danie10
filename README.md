@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [South Africa’s Gauteng e-Panic button app tested — with impressive results](https://gadgeteer.co.za/south-africas-gauteng-e-panic-button-app-tested-with-impressive-results/)
+- [Starlink by SpaceX to offer free emergency SOS on ALL phones worldwide](https://gadgeteer.co.za/starlink-by-spacex-to-offer-free-emergency-sos-on-all-phones-worldwide/)
 - [South Africa’s Home Affairs needs a visible Dashboard for Uptime Monitoring of Service and Network Uptimes](https://gadgeteer.co.za/south-africas-home-affairs-needs-a-visible-dashboard-for-uptime-monitoring-of-service-and-network-uptimes/)
 - [Radio Shack Catalogues Online in Flipbook format going back to 1939](https://gadgeteer.co.za/radio-shack-catalogues-online-in-flipbook-format-going-back-to-1939/)
 - [Arc Search’s iOS browser is finally coming to Android](https://gadgeteer.co.za/arc-searchs-ios-browser-is-finally-coming-to-android/)
-- [Always Pin An App Before Handing Your Android Phone to Someone](https://gadgeteer.co.za/always-pin-an-app-before-handing-your-android-phone-to-someone/)
-- [The South African hacker who revolutionised cybersecurity around the world with his Canary honeypot tools](https://gadgeteer.co.za/the-south-african-hacker-who-revolutionised-cybersecurity-around-the-world-with-his-canary-honeypot-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 
