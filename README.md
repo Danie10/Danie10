@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Your Music from the Cloud with Open-Source Volumio Pi](https://gadgeteer.co.za/free-your-music-from-the-cloud-with-open-source-volumio-pi/)
 - [Putting a Raspberry Pi inside a Docker Container](https://gadgeteer.co.za/putting-a-raspberry-pi-inside-a-docker-container/)
 - [Alaska man busted with 10,000+ child sex abuse images despite his many encrypted apps](https://gadgeteer.co.za/alaska-man-busted-with-10000-child-sex-abuse-images-despite-his-many-encrypted-apps/)
 - [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://gadgeteer.co.za/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/)
 - [South Africa’s Gauteng e-Panic button app tested — with impressive results](https://gadgeteer.co.za/south-africas-gauteng-e-panic-button-app-tested-with-impressive-results/)
-- [Starlink by SpaceX to offer free emergency SOS on ALL phones worldwide](https://gadgeteer.co.za/starlink-by-spacex-to-offer-free-emergency-sos-on-all-phones-worldwide/)
 <!-- BLOG-POST-LIST:END -->
 
 
