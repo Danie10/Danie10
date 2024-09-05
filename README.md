@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The FloorBoard — a DIY Foot Operated PC Button Pad](https://gadgeteer.co.za/the-floorboard-a-diy-foot-operated-pc-button-pad/)
 - [You’ll Never Know How Accurate Your Fitness Tracker Is, and That’s OK](https://gadgeteer.co.za/youll-never-know-how-accurate-your-fitness-tracker-is-and-thats-ok/)
 - [WHO Review: ‘No link’ between mobile phones and brain cancer](https://gadgeteer.co.za/who-review-no-link-between-mobile-phones-and-brain-cancer/)
 - [Samsung Food Plus could be the ultimate meal-planning app but it costs $7 per month](https://gadgeteer.co.za/samsung-food-plus-could-be-the-ultimate-meal-planning-app-but-it-costs-7-per-month/)
 - [A Cheap Xiaomi Mi Router can become a Powerhouse using Free Open-Source OpenWRT](https://gadgeteer.co.za/a-cheap-xiaomi-mi-router-can-become-a-powerhouse-using-free-open-source-openwrt/)
-- [Review: South Africa’s Clicks branded Double Edge Razor Blades for R13 for 5 Blades](https://gadgeteer.co.za/review-south-africas-clicks-branded-double-edge-razor-blades-for-r13-for-5-blades/)
 <!-- BLOG-POST-LIST:END -->
 
 
