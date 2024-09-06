@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bluetooth 6.0 has more security and precision for tracking, hotel doors and finding](https://gadgeteer.co.za/bluetooth-6-0-has-more-security-and-precision-for-tracking-hotel-doors-and-finding/)
 - [SSDs have a secret way to protect your data when they fail](https://gadgeteer.co.za/ssds-have-a-secret-way-to-protect-your-data-when-they-fail/)
 - [The FloorBoard — a DIY Foot Operated PC Button Pad](https://gadgeteer.co.za/the-floorboard-a-diy-foot-operated-pc-button-pad/)
 - [You’ll Never Know How Accurate Your Fitness Tracker Is, and That’s OK](https://gadgeteer.co.za/youll-never-know-how-accurate-your-fitness-tracker-is-and-thats-ok/)
 - [WHO Review: ‘No link’ between mobile phones and brain cancer](https://gadgeteer.co.za/who-review-no-link-between-mobile-phones-and-brain-cancer/)
-- [Samsung Food Plus could be the ultimate meal-planning app but it costs $7 per month](https://gadgeteer.co.za/samsung-food-plus-could-be-the-ultimate-meal-planning-app-but-it-costs-7-per-month/)
 <!-- BLOG-POST-LIST:END -->
 
 
