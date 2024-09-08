@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [StoryGraph Is Goodreads for Readers Who Don’t Like Amazon](https://gadgeteer.co.za/storygraph-is-goodreads-for-readers-who-dont-like-amazon/)
+- [The USA’s NSA now has a podcast called “No Such Podcast”](https://gadgeteer.co.za/the-usas-nsa-now-has-a-podcast-called-no-such-podcast/)
+- [Core, Extra, Multilib? Unravelling the Arch Linux Repositories](https://gadgeteer.co.za/core-extra-multilib-unravelling-the-arch-linux-repositories/)
 - [Bitfocus Companion is a Cross-Platform Open-Source app for the Elgato Stream Deck](https://gadgeteer.co.za/bitfocus-companion-is-a-cross-platform-open-source-app-for-the-elgato-stream-deck/)
 - [Bluetooth 6.0 has more security and precision for tracking, hotel doors and finding](https://gadgeteer.co.za/bluetooth-6-0-has-more-security-and-precision-for-tracking-hotel-doors-and-finding/)
-- [SSDs have a secret way to protect your data when they fail](https://gadgeteer.co.za/ssds-have-a-secret-way-to-protect-your-data-when-they-fail/)
-- [The FloorBoard — a DIY Foot Operated PC Button Pad](https://gadgeteer.co.za/the-floorboard-a-diy-foot-operated-pc-button-pad/)
-- [You’ll Never Know How Accurate Your Fitness Tracker Is, and That’s OK](https://gadgeteer.co.za/youll-never-know-how-accurate-your-fitness-tracker-is-and-thats-ok/)
 <!-- BLOG-POST-LIST:END -->
 
 
