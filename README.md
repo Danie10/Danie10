@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fastfetch is the Perfect Replacement for Neofetch on Linux](https://gadgeteer.co.za/fastfetch-is-the-perfect-replacement-for-neofetch-on-linux/)
 - [StoryGraph Is Goodreads for Readers Who Don’t Like Amazon](https://gadgeteer.co.za/storygraph-is-goodreads-for-readers-who-dont-like-amazon/)
 - [The USA’s NSA now has a podcast called “No Such Podcast”](https://gadgeteer.co.za/the-usas-nsa-now-has-a-podcast-called-no-such-podcast/)
 - [Core, Extra, Multilib? Unravelling the Arch Linux Repositories](https://gadgeteer.co.za/core-extra-multilib-unravelling-the-arch-linux-repositories/)
 - [Bitfocus Companion is a Cross-Platform Open-Source app for the Elgato Stream Deck](https://gadgeteer.co.za/bitfocus-companion-is-a-cross-platform-open-source-app-for-the-elgato-stream-deck/)
-- [Bluetooth 6.0 has more security and precision for tracking, hotel doors and finding](https://gadgeteer.co.za/bluetooth-6-0-has-more-security-and-precision-for-tracking-hotel-doors-and-finding/)
 <!-- BLOG-POST-LIST:END -->
 
 
