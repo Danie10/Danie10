@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You Can Now Add Family Members to Your Steam Library](https://gadgeteer.co.za/you-can-now-add-family-members-to-your-steam-library/)
 - [Want to keep getting Windows 10 updates next year? No prices yet for consumers](https://gadgeteer.co.za/want-to-keep-getting-windows-10-updates-next-year-no-prices-yet-for-consumers/)
 - [10 of the best add-ons for Home Assistant — In case your setup has stagnated a bit](https://gadgeteer.co.za/10-of-the-best-add-ons-for-home-assistant-in-case-your-setup-has-stagnated-a-bit/)
 - [Fastfetch is the Perfect Replacement for Neofetch on Linux](https://gadgeteer.co.za/fastfetch-is-the-perfect-replacement-for-neofetch-on-linux/)
 - [StoryGraph Is Goodreads for Readers Who Don’t Like Amazon](https://gadgeteer.co.za/storygraph-is-goodreads-for-readers-who-dont-like-amazon/)
-- [The USA’s NSA now has a podcast called “No Such Podcast”](https://gadgeteer.co.za/the-usas-nsa-now-has-a-podcast-called-no-such-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
 
