@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Tildeverse is a minimalistic community-driven Internet experience without the commercial bloatware](https://gadgeteer.co.za/the-tildeverse-is-a-minimalistic-community-driven-internet-experience-without-the-commercial-bloatware/)
 - [7 non-SSD devices you may be able to use in your M.2 slot](https://gadgeteer.co.za/7-non-ssd-devices-you-may-be-able-to-use-in-your-m-2-slot/)
 - [You Can Now Add Family Members to Your Steam Library](https://gadgeteer.co.za/you-can-now-add-family-members-to-your-steam-library/)
 - [Want to keep getting Windows 10 updates next year? No prices yet for consumers](https://gadgeteer.co.za/want-to-keep-getting-windows-10-updates-next-year-no-prices-yet-for-consumers/)
 - [10 of the best add-ons for Home Assistant — In case your setup has stagnated a bit](https://gadgeteer.co.za/10-of-the-best-add-ons-for-home-assistant-in-case-your-setup-has-stagnated-a-bit/)
-- [Fastfetch is the Perfect Replacement for Neofetch on Linux](https://gadgeteer.co.za/fastfetch-is-the-perfect-replacement-for-neofetch-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
