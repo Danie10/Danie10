@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Archiving Data On Plain Paper Using 2D Images](https://gadgeteer.co.za/archiving-data-on-plain-paper-using-2d-images/)
+- [Secret crypto code that helped end apartheid has been cracked and open-sourced](https://gadgeteer.co.za/secret-crypto-code-that-helped-end-apartheid-has-been-cracked-and-open-sourced/)
 - [Installing Docker on Raspberry Pi OS](https://gadgeteer.co.za/installing-docker-on-raspberry-pi-os/)
 - [The Tildeverse is a minimalistic community-driven Internet experience without the commercial bloatware](https://gadgeteer.co.za/the-tildeverse-is-a-minimalistic-community-driven-internet-experience-without-the-commercial-bloatware/)
 - [7 non-SSD devices you may be able to use in your M.2 slot](https://gadgeteer.co.za/7-non-ssd-devices-you-may-be-able-to-use-in-your-m-2-slot/)
-- [You Can Now Add Family Members to Your Steam Library](https://gadgeteer.co.za/you-can-now-add-family-members-to-your-steam-library/)
-- [Want to keep getting Windows 10 updates next year? No prices yet for consumers](https://gadgeteer.co.za/want-to-keep-getting-windows-10-updates-next-year-no-prices-yet-for-consumers/)
 <!-- BLOG-POST-LIST:END -->
 
 
