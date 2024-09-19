@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kelsey Hightower: If governments rely on FOSS, they should fund it](https://gadgeteer.co.za/kelsey-hightower-if-governments-rely-on-foss-they-should-fund-it/)
 - [Inside Joburg’s new lithium battery recycling plant which uses food-safe chemicals](https://gadgeteer.co.za/inside-joburgs-new-lithium-battery-recycling-plant-which-uses-food-safe-chemicals/)
 - [How I turned OBS into a ShadowPlay replacement — works on Windows, macOS, and Linux](https://gadgeteer.co.za/how-i-turned-obs-into-a-shadowplay-replacement-works-on-windows-macos-and-linux/)
 - [Apple officially rolls out RCS for iPhone, but many carriers still don’t support it](https://gadgeteer.co.za/apple-officially-rolls-out-rcs-for-iphone-but-many-carriers-still-dont-support-it/)
 - [The Danger of Cheap Gadgets: The Rise Of Self-Cleaning, Cat-Killing Litter Boxes](https://gadgeteer.co.za/the-danger-of-cheap-gadgets-the-rise-of-self-cleaning-cat-killing-litter-boxes/)
-- [Archiving Data On Plain Paper Using 2D Images](https://gadgeteer.co.za/archiving-data-on-plain-paper-using-2d-images/)
 <!-- BLOG-POST-LIST:END -->
 
 
