@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The mystery of the rogue HP calculator: 12C or not 12C? That is the question](https://gadgeteer.co.za/the-mystery-of-the-rogue-hp-calculator-12c-or-not-12c-that-is-the-question/)
 - [Will your SSD lose data without power? Don’t store it for long periods](https://gadgeteer.co.za/will-your-ssd-lose-data-without-power-dont-store-it-for-long-periods/)
 - [Kelsey Hightower: If governments rely on FOSS, they should fund it](https://gadgeteer.co.za/kelsey-hightower-if-governments-rely-on-foss-they-should-fund-it/)
 - [Inside Joburg’s new lithium battery recycling plant which uses food-safe chemicals](https://gadgeteer.co.za/inside-joburgs-new-lithium-battery-recycling-plant-which-uses-food-safe-chemicals/)
 - [How I turned OBS into a ShadowPlay replacement — works on Windows, macOS, and Linux](https://gadgeteer.co.za/how-i-turned-obs-into-a-shadowplay-replacement-works-on-windows-macos-and-linux/)
-- [Apple officially rolls out RCS for iPhone, but many carriers still don’t support it](https://gadgeteer.co.za/apple-officially-rolls-out-rcs-for-iphone-but-many-carriers-still-dont-support-it/)
 <!-- BLOG-POST-LIST:END -->
 
 
