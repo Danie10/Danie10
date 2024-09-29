@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dog Poop Drone Cleans Up The Yard So You Don’t Have To](https://gadgeteer.co.za/dog-poop-drone-cleans-up-the-yard-so-you-dont-have-to/)
 - [Drivers in Cape Town could access official CCTV footage in certain circumstances](https://gadgeteer.co.za/drivers-in-cape-town-could-access-official-cctv-footage-in-certain-circumstances/)
 - [12 Best Free and Open Source Steganography Tools](https://gadgeteer.co.za/12-best-free-and-open-source-steganography-tools/)
 - [Japanese orgs now paying salaries direct into e-wallets](https://gadgeteer.co.za/japanese-orgs-now-paying-salaries-direct-into-e-wallets/)
 - [Adapter adds eSIM to any Android smartphone](https://gadgeteer.co.za/adapter-adds-esim-to-any-android-smartphone/)
-- [You can develop native apps for Android using Python](https://gadgeteer.co.za/you-can-develop-native-apps-for-android-using-python/)
 <!-- BLOG-POST-LIST:END -->
 
 
