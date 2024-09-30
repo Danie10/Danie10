@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with MP4 H264 in DaVinci Resolve on Linux](https://gadgeteer.co.za/working-with-mp4-h264-in-davinci-resolve-on-linux/)
 - [Yes, You Can Get the Epic Games Store on Your Linux PC. Here’s How](https://gadgeteer.co.za/yes-you-can-get-the-epic-games-store-on-your-linux-pc-heres-how/)
 - [Dog Poop Drone Cleans Up The Yard So You Don’t Have To](https://gadgeteer.co.za/dog-poop-drone-cleans-up-the-yard-so-you-dont-have-to/)
 - [Drivers in Cape Town could access official CCTV footage in certain circumstances](https://gadgeteer.co.za/drivers-in-cape-town-could-access-official-cctv-footage-in-certain-circumstances/)
 - [12 Best Free and Open Source Steganography Tools](https://gadgeteer.co.za/12-best-free-and-open-source-steganography-tools/)
-- [Japanese orgs now paying salaries direct into e-wallets](https://gadgeteer.co.za/japanese-orgs-now-paying-salaries-direct-into-e-wallets/)
 <!-- BLOG-POST-LIST:END -->
 
 
