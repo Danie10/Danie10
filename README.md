@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pebblebee’s new Universal trackers can switch between Google’s and Apple’s networks on the fly](https://gadgeteer.co.za/pebblebees-new-universal-trackers-can-switch-between-googles-and-apples-networks-on-the-fly/)
 - [New $70 AI Camera works with all Raspberry Pi’s without requiring additional accelerators or a GPU](https://gadgeteer.co.za/new-70-ai-camera-works-with-all-raspberry-pis-without-requiring-additional-accelerators-or-a-gpu/)
 - [Mozilla Thunderbird Lands On Android With New Beta Release](https://gadgeteer.co.za/mozilla-thunderbird-lands-on-android-with-new-beta-release/)
 - [South Africa’s first electric minibus taxi to hit the road in Cape Town](https://gadgeteer.co.za/south-africas-first-electric-minibus-taxi-to-hit-the-road-in-cape-town/)
 - [Working with MP4 H264 in DaVinci Resolve on Linux](https://gadgeteer.co.za/working-with-mp4-h264-in-davinci-resolve-on-linux/)
-- [Yes, You Can Get the Epic Games Store on Your Linux PC. Here’s How](https://gadgeteer.co.za/yes-you-can-get-the-epic-games-store-on-your-linux-pc-heres-how/)
 <!-- BLOG-POST-LIST:END -->
 
 
