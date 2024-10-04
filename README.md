@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [World Wide Web Foundation to close, as Berners-Lee shifts focus to Solid Protocol to take on centralised social media](https://gadgeteer.co.za/world-wide-web-foundation-to-close-as-berners-lee-shifts-focus-to-solid-protocol-to-take-on-centralised-social-media/)
+- [Cloudflare beats patent troll so badly it basically gives up: Patents will go Public](https://gadgeteer.co.za/cloudflare-beats-patent-troll-so-badly-it-basically-gives-up-patents-will-go-public/)
 - [Pebblebee’s new Universal trackers can switch between Google’s and Apple’s networks on the fly](https://gadgeteer.co.za/pebblebees-new-universal-trackers-can-switch-between-googles-and-apples-networks-on-the-fly/)
 - [New $70 AI Camera works with all Raspberry Pi’s without requiring additional accelerators or a GPU](https://gadgeteer.co.za/new-70-ai-camera-works-with-all-raspberry-pis-without-requiring-additional-accelerators-or-a-gpu/)
 - [Mozilla Thunderbird Lands On Android With New Beta Release](https://gadgeteer.co.za/mozilla-thunderbird-lands-on-android-with-new-beta-release/)
-- [South Africa’s first electric minibus taxi to hit the road in Cape Town](https://gadgeteer.co.za/south-africas-first-electric-minibus-taxi-to-hit-the-road-in-cape-town/)
-- [Working with MP4 H264 in DaVinci Resolve on Linux](https://gadgeteer.co.za/working-with-mp4-h264-in-davinci-resolve-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
