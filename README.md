@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crypto payments explosion in South Africa as Zapper is now supported as a payment system](https://gadgeteer.co.za/crypto-payments-explosion-in-south-africa-as-zapper-is-now-supported-as-a-payment-system/)
 - [10 best operating systems for Raspberry Pi 5 — Good ideas of what to use a Pi for, too!](https://gadgeteer.co.za/10-best-operating-systems-for-raspberry-pi-5-good-ideas-of-what-to-use-a-pi-for-too/)
 - [Banana Pi and OpenWrt’s One/AP-24.XY Router Board Hits the Market](https://gadgeteer.co.za/banana-pi-and-openwrts-one-ap-24-xy-router-board-hits-the-market/)
 - [5 reasons you should replace your regular SSD with an NVMe if you haven’t already](https://gadgeteer.co.za/5-reasons-you-should-replace-your-regular-ssd-with-an-nvme-if-you-havent-already/)
 - [FFmpeg 7.1 debuts with full Vulkan encoding pipelines, enhanced AAC decoding, MV-HEVC support, and more](https://gadgeteer.co.za/ffmpeg-7-1-debuts-with-full-vulkan-encoding-pipelines-enhanced-aac-decoding-mv-hevc-support-and-more/)
-- [World Wide Web Foundation to close, as Berners-Lee shifts focus to Solid Protocol to take on centralised social media](https://gadgeteer.co.za/world-wide-web-foundation-to-close-as-berners-lee-shifts-focus-to-solid-protocol-to-take-on-centralised-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 
