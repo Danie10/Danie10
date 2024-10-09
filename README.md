@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Will IPv6 ever replace IPv4? It’s like moving from Windows to Linux](https://gadgeteer.co.za/will-ipv6-ever-replace-ipv4-its-like-moving-from-windows-to-linux/)
 - [Thinking of Buying a Cheap Racing Wheel? Don’t Bother](https://gadgeteer.co.za/thinking-of-buying-a-cheap-racing-wheel-dont-bother/)
 - [Picking out the best SD card for a Raspberry Pi just got a ton easier](https://gadgeteer.co.za/picking-out-the-best-sd-card-for-a-raspberry-pi-just-got-a-ton-easier/)
 - [Crypto payments explosion in South Africa as Zapper is now supported as a payment system](https://gadgeteer.co.za/crypto-payments-explosion-in-south-africa-as-zapper-is-now-supported-as-a-payment-system/)
 - [10 best operating systems for Raspberry Pi 5 — Good ideas of what to use a Pi for, too!](https://gadgeteer.co.za/10-best-operating-systems-for-raspberry-pi-5-good-ideas-of-what-to-use-a-pi-for-too/)
-- [Banana Pi and OpenWrt’s One/AP-24.XY Router Board Hits the Market](https://gadgeteer.co.za/banana-pi-and-openwrts-one-ap-24-xy-router-board-hits-the-market/)
 <!-- BLOG-POST-LIST:END -->
 
 
