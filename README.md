@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Android Find My Device app that works without any Google services](https://gadgeteer.co.za/open-source-android-find-my-device-app-that-works-without-any-google-services/)
 - [Openvibe is a single iOS and Android app for Bluesky, Mastodon, Threads, and Nostr decentralised networks](https://gadgeteer.co.za/openvibe-is-a-single-ios-and-android-app-for-bluesky-mastodon-threads-and-nostr-decentralised-networks/)
 - [Missing Thunderbirds footage found in British garden shed](https://gadgeteer.co.za/missing-thunderbirds-footage-found-in-british-garden-shed/)
 - [Will IPv6 ever replace IPv4? It’s like moving from Windows to Linux](https://gadgeteer.co.za/will-ipv6-ever-replace-ipv4-its-like-moving-from-windows-to-linux/)
 - [Thinking of Buying a Cheap Racing Wheel? Don’t Bother](https://gadgeteer.co.za/thinking-of-buying-a-cheap-racing-wheel-dont-bother/)
-- [Picking out the best SD card for a Raspberry Pi just got a ton easier](https://gadgeteer.co.za/picking-out-the-best-sd-card-for-a-raspberry-pi-just-got-a-ton-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 
