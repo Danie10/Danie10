@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install ZRAM to Boost Ubuntu Performance](https://gadgeteer.co.za/how-to-install-zram-to-boost-ubuntu-performance/)
+- [DC Releases New Range of Webcomics Formatted for Mobile Devices](https://gadgeteer.co.za/dc-releases-new-range-of-webcomics-formatted-for-mobile-devices/)
 - [South African doctor building breakthrough apps – Real Innovation is needed for Change](https://gadgeteer.co.za/south-african-doctor-building-breakthrough-apps-real-innovation-is-needed-for-change/)
 - [The 30-year-old internet backdoor law that came back to bite](https://gadgeteer.co.za/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/)
 - [Open Source Android Find My Device app that works without any Google services](https://gadgeteer.co.za/open-source-android-find-my-device-app-that-works-without-any-google-services/)
-- [Openvibe is a single iOS and Android app for Bluesky, Mastodon, Threads, and Nostr decentralised networks](https://gadgeteer.co.za/openvibe-is-a-single-ios-and-android-app-for-bluesky-mastodon-threads-and-nostr-decentralised-networks/)
-- [Missing Thunderbirds footage found in British garden shed](https://gadgeteer.co.za/missing-thunderbirds-footage-found-in-british-garden-shed/)
 <!-- BLOG-POST-LIST:END -->
 
 
