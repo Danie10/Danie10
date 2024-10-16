@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon finally has a colour Kindle, and it looks pretty good](https://gadgeteer.co.za/amazon-finally-has-a-colour-kindle-and-it-looks-pretty-good/)
 - [A Phone? A Ham Radio? Relax! It’s Both!](https://gadgeteer.co.za/a-phone-a-ham-radio-relax-its-both/)
 - [How to Install ZRAM to Boost Ubuntu Performance](https://gadgeteer.co.za/how-to-install-zram-to-boost-ubuntu-performance/)
 - [DC Releases New Range of Webcomics Formatted for Mobile Devices](https://gadgeteer.co.za/dc-releases-new-range-of-webcomics-formatted-for-mobile-devices/)
 - [South African doctor building breakthrough apps – Real Innovation is needed for Change](https://gadgeteer.co.za/south-african-doctor-building-breakthrough-apps-real-innovation-is-needed-for-change/)
-- [The 30-year-old internet backdoor law that came back to bite](https://gadgeteer.co.za/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/)
 <!-- BLOG-POST-LIST:END -->
 
 
