@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 reasons Photopea is the best free alternative to Photoshop and Lightroom, and 1 why not](https://gadgeteer.co.za/7-reasons-photopea-is-the-best-free-alternative-to-photoshop-and-lightroom-and-1-why-not/)
+- [GSConnect is KDE Connect for GNOME desktop users](https://gadgeteer.co.za/gsconnect-is-kde-connect-for-gnome-desktop-users/)
 - [Pi-Apps: The Unofficial but Definitely Better App Store for Raspberry Pi](https://gadgeteer.co.za/pi-apps-the-unofficial-but-definitely-better-app-store-for-raspberry-pi/)
 - [Android 15 Private Space and Samsung Secure Folder: A Side-By-Side Comparison](https://gadgeteer.co.za/android-15-private-space-and-samsung-secure-folder-a-side-by-side-comparison/)
 - [Samsung Backups and Cloud Sync can be End-To-End-Encrypted, but you need to Enable it](https://gadgeteer.co.za/samsung-backups-and-cloud-sync-can-be-end-to-end-encrypted-but-you-need-to-enable-it/)
-- [How you can use Kanban boards in Obsidian to manage personal projects](https://gadgeteer.co.za/how-you-can-use-kanban-boards-in-obsidian-to-manage-personal-projects/)
-- [Google Is Cracking Down on Ad Blockers, But Here’s How You Can Fight Back](https://gadgeteer.co.za/google-is-cracking-down-on-ad-blockers-but-heres-how-you-can-fight-back/)
 <!-- BLOG-POST-LIST:END -->
 
 
