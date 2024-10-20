@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [4 reasons your cloud provider should be using end-to-end encryption](https://gadgeteer.co.za/4-reasons-your-cloud-provider-should-be-using-end-to-end-encryption/)
 - [Shutter Encoder is an open source converter designed by video editors](https://gadgeteer.co.za/shutter-encoder-is-an-open-source-converter-designed-by-video-editors/)
 - [7 reasons Photopea is the best free alternative to Photoshop and Lightroom, and 1 why not](https://gadgeteer.co.za/7-reasons-photopea-is-the-best-free-alternative-to-photoshop-and-lightroom-and-1-why-not/)
 - [GSConnect is KDE Connect for GNOME desktop users](https://gadgeteer.co.za/gsconnect-is-kde-connect-for-gnome-desktop-users/)
 - [Pi-Apps: The Unofficial but Definitely Better App Store for Raspberry Pi](https://gadgeteer.co.za/pi-apps-the-unofficial-but-definitely-better-app-store-for-raspberry-pi/)
-- [Android 15 Private Space and Samsung Secure Folder: A Side-By-Side Comparison](https://gadgeteer.co.za/android-15-private-space-and-samsung-secure-folder-a-side-by-side-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 
