@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Streamyfin is an open source mobile app for Jellyfin with some extra features](https://gadgeteer.co.za/streamyfin-is-an-open-source-mobile-app-for-jellyfin-with-some-extra-features/)
+- [Winamp Open Source Story Is Over: A lesson in what open source actually is](https://gadgeteer.co.za/winamp-open-source-story-is-over-a-lesson-in-what-open-source-actually-is/)
 - [IOPaint is an open source locally run Python app for AI-powered photo editing](https://gadgeteer.co.za/iopaint-is-an-open-source-locally-run-python-app-for-ai-powered-photo-editing/)
 - [4 reasons your cloud provider should be using end-to-end encryption](https://gadgeteer.co.za/4-reasons-your-cloud-provider-should-be-using-end-to-end-encryption/)
 - [Shutter Encoder is an open source converter designed by video editors](https://gadgeteer.co.za/shutter-encoder-is-an-open-source-converter-designed-by-video-editors/)
-- [7 reasons Photopea is the best free alternative to Photoshop and Lightroom, and 1 why not](https://gadgeteer.co.za/7-reasons-photopea-is-the-best-free-alternative-to-photoshop-and-lightroom-and-1-why-not/)
-- [GSConnect is KDE Connect for GNOME desktop users](https://gadgeteer.co.za/gsconnect-is-kde-connect-for-gnome-desktop-users/)
 <!-- BLOG-POST-LIST:END -->
 
 
