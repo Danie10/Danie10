@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Happy 20th Anniversary, Ubuntu!](https://gadgeteer.co.za/happy-20th-anniversary-ubuntu/)
 - [Good password manager comparison table](https://gadgeteer.co.za/good-password-manager-comparison-table/)
 - [Streamyfin is an open source mobile app for Jellyfin with some extra features](https://gadgeteer.co.za/streamyfin-is-an-open-source-mobile-app-for-jellyfin-with-some-extra-features/)
 - [Winamp Open Source Story Is Over: A lesson in what open source actually is](https://gadgeteer.co.za/winamp-open-source-story-is-over-a-lesson-in-what-open-source-actually-is/)
 - [IOPaint is an open source locally run Python app for AI-powered photo editing](https://gadgeteer.co.za/iopaint-is-an-open-source-locally-run-python-app-for-ai-powered-photo-editing/)
-- [4 reasons your cloud provider should be using end-to-end encryption](https://gadgeteer.co.za/4-reasons-your-cloud-provider-should-be-using-end-to-end-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 
