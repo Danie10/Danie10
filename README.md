@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BoxBuddy – graphical manager for Distrobox](https://gadgeteer.co.za/boxbuddy-graphical-manager-for-distrobox/)
 - [OpenSnitch is a comprehensive open source Linux application firewall](https://gadgeteer.co.za/opensnitch-is-a-comprehensive-open-source-linux-application-firewall/)
 - [Flyby11 is a Rufus-like app is here to help you dodge Windows 11’s system requirements](https://gadgeteer.co.za/flyby11-is-a-rufus-like-app-is-here-to-help-you-dodge-windows-11s-system-requirements/)
 - [Happy 20th Anniversary, Ubuntu!](https://gadgeteer.co.za/happy-20th-anniversary-ubuntu/)
 - [Good password manager comparison table](https://gadgeteer.co.za/good-password-manager-comparison-table/)
-- [Streamyfin is an open source mobile app for Jellyfin with some extra features](https://gadgeteer.co.za/streamyfin-is-an-open-source-mobile-app-for-jellyfin-with-some-extra-features/)
 <!-- BLOG-POST-LIST:END -->
 
 
