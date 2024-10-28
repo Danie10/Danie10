@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SearXNG is an open source privacy respecting metasearch engine that is really easy to use](https://gadgeteer.co.za/searxng-is-an-open-source-privacy-respecting-metasearch-engine-that-is-really-easy-to-use/)
 - [The open secret of open washing – why companies pretend to be open source](https://gadgeteer.co.za/the-open-secret-of-open-washing-why-companies-pretend-to-be-open-source/)
 - [Samsung Dual Audio: What it is and how to use it](https://gadgeteer.co.za/samsung-dual-audio-what-it-is-and-how-to-use-it/)
 - [Apple Tested Blood Sugar App for Preventing Type 2 Diabetes](https://gadgeteer.co.za/apple-tested-blood-sugar-app-for-preventing-type-2-diabetes/)
 - [How to Turn Any Website Into an Android App &lpar;and Why You Should&rpar;](https://gadgeteer.co.za/how-to-turn-any-website-into-an-android-app-and-why-you-should/)
-- [Passkey portability is what the password-less future needs: FIDO Alliance standard coming](https://gadgeteer.co.za/passkey-portability-is-what-the-password-less-future-needs-fido-alliance-standard-coming/)
 <!-- BLOG-POST-LIST:END -->
 
 
