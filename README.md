@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 brilliant PC games you can enjoy without a graphics card](https://gadgeteer.co.za/10-brilliant-pc-games-you-can-enjoy-without-a-graphics-card/)
 - [The ultrasonic fingerprint sensor revolution is here, and OnePlus is leading the charge](https://gadgeteer.co.za/the-ultrasonic-fingerprint-sensor-revolution-is-here-and-oneplus-is-leading-the-charge/)
 - [SearXNG is an open source privacy respecting metasearch engine that is really easy to use](https://gadgeteer.co.za/searxng-is-an-open-source-privacy-respecting-metasearch-engine-that-is-really-easy-to-use/)
 - [The open secret of open washing – why companies pretend to be open source](https://gadgeteer.co.za/the-open-secret-of-open-washing-why-companies-pretend-to-be-open-source/)
 - [Samsung Dual Audio: What it is and how to use it](https://gadgeteer.co.za/samsung-dual-audio-what-it-is-and-how-to-use-it/)
-- [Apple Tested Blood Sugar App for Preventing Type 2 Diabetes](https://gadgeteer.co.za/apple-tested-blood-sugar-app-for-preventing-type-2-diabetes/)
 <!-- BLOG-POST-LIST:END -->
 
 
