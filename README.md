@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BrickMasterVR – Building Lego using Oculus Quest VR Glasses](https://gadgeteer.co.za/brickmastervr-building-lego-using-oculus-quest-vr-glasses/)
 - [10 non-stream things to use a Stream Deck for](https://gadgeteer.co.za/10-non-stream-things-to-use-a-stream-deck-for/)
 - [Apple Maps on Web Now Works on Linux &lpar;But Only in Firefox&rpar;](https://gadgeteer.co.za/apple-maps-on-web-now-works-on-linux-but-only-in-firefox/)
 - [Capacities could be a very good alternative to Obsidian Notes](https://gadgeteer.co.za/capacities-could-be-a-very-good-alternative-to-obsidian-notes/)
 - [10 brilliant PC games you can enjoy without a graphics card](https://gadgeteer.co.za/10-brilliant-pc-games-you-can-enjoy-without-a-graphics-card/)
-- [The ultrasonic fingerprint sensor revolution is here, and OnePlus is leading the charge](https://gadgeteer.co.za/the-ultrasonic-fingerprint-sensor-revolution-is-here-and-oneplus-is-leading-the-charge/)
 <!-- BLOG-POST-LIST:END -->
 
 
