@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mensinator is an open source privacy respecting period tracking app for Android](https://gadgeteer.co.za/mensinator-is-an-open-source-privacy-respecting-period-tracking-app-for-android/)
+- [7 ways to optimize an SSD for longevity and performance](https://gadgeteer.co.za/7-ways-to-optimize-an-ssd-for-longevity-and-performance/)
+- [Future Apple Watches Could Have Sensors Embedded in the Bands: Maybe Not A Great Idea](https://gadgeteer.co.za/future-apple-watches-could-have-sensors-embedded-in-the-bands-maybe-not-a-great-idea/)
 - [BrickMasterVR – Building Lego using Oculus Quest VR Glasses](https://gadgeteer.co.za/brickmastervr-building-lego-using-oculus-quest-vr-glasses/)
 - [10 non-stream things to use a Stream Deck for](https://gadgeteer.co.za/10-non-stream-things-to-use-a-stream-deck-for/)
-- [Apple Maps on Web Now Works on Linux &lpar;But Only in Firefox&rpar;](https://gadgeteer.co.za/apple-maps-on-web-now-works-on-linux-but-only-in-firefox/)
-- [Capacities could be a very good alternative to Obsidian Notes](https://gadgeteer.co.za/capacities-could-be-a-very-good-alternative-to-obsidian-notes/)
-- [10 brilliant PC games you can enjoy without a graphics card](https://gadgeteer.co.za/10-brilliant-pc-games-you-can-enjoy-without-a-graphics-card/)
 <!-- BLOG-POST-LIST:END -->
 
 
