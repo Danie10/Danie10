@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Time Changes Everything Including Our Favourite Social Media](https://gadgeteer.co.za/time-changes-everything-including-our-favourite-social-media/)
 - [Mensinator is an open source privacy respecting period tracking app for Android](https://gadgeteer.co.za/mensinator-is-an-open-source-privacy-respecting-period-tracking-app-for-android/)
 - [7 ways to optimize an SSD for longevity and performance](https://gadgeteer.co.za/7-ways-to-optimize-an-ssd-for-longevity-and-performance/)
 - [Future Apple Watches Could Have Sensors Embedded in the Bands: Maybe Not A Great Idea](https://gadgeteer.co.za/future-apple-watches-could-have-sensors-embedded-in-the-bands-maybe-not-a-great-idea/)
 - [BrickMasterVR – Building Lego using Oculus Quest VR Glasses](https://gadgeteer.co.za/brickmastervr-building-lego-using-oculus-quest-vr-glasses/)
-- [10 non-stream things to use a Stream Deck for](https://gadgeteer.co.za/10-non-stream-things-to-use-a-stream-deck-for/)
 <!-- BLOG-POST-LIST:END -->
 
 
