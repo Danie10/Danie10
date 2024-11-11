@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 of the coolest things you can run on Docker](https://gadgeteer.co.za/5-of-the-coolest-things-you-can-run-on-docker/)
+- [Victron’s VRM app can now install on Your Apple, Android or Garmin Smartwatches](https://gadgeteer.co.za/victrons-vrm-app-can-now-install-on-your-apple-android-or-garmin-smartwatches/)
 - [How To Use Reddit to Stay on Top of The News as well as more Good News](https://gadgeteer.co.za/how-to-use-reddit-to-stay-on-top-of-the-news-as-well-as-more-good-news/)
 - [Time Changes Everything Including Our Favourite Social Media](https://gadgeteer.co.za/time-changes-everything-including-our-favourite-social-media/)
 - [Mensinator is an open source privacy respecting period tracking app for Android](https://gadgeteer.co.za/mensinator-is-an-open-source-privacy-respecting-period-tracking-app-for-android/)
-- [7 ways to optimize an SSD for longevity and performance](https://gadgeteer.co.za/7-ways-to-optimize-an-ssd-for-longevity-and-performance/)
-- [Future Apple Watches Could Have Sensors Embedded in the Bands: Maybe Not A Great Idea](https://gadgeteer.co.za/future-apple-watches-could-have-sensors-embedded-in-the-bands-maybe-not-a-great-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 
