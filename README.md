@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Signal introduces convenient “call links” for private group chats up to 50 people with creating a group](https://gadgeteer.co.za/signal-introduces-convenient-call-links-for-private-group-chats-up-to-50-people-with-creating-a-group/)
 - [5 of the coolest things you can run on Docker](https://gadgeteer.co.za/5-of-the-coolest-things-you-can-run-on-docker/)
 - [Victron’s VRM app can now install on Your Apple, Android or Garmin Smartwatches](https://gadgeteer.co.za/victrons-vrm-app-can-now-install-on-your-apple-android-or-garmin-smartwatches/)
 - [How To Use Reddit to Stay on Top of The News as well as more Good News](https://gadgeteer.co.za/how-to-use-reddit-to-stay-on-top-of-the-news-as-well-as-more-good-news/)
 - [Time Changes Everything Including Our Favourite Social Media](https://gadgeteer.co.za/time-changes-everything-including-our-favourite-social-media/)
-- [Mensinator is an open source privacy respecting period tracking app for Android](https://gadgeteer.co.za/mensinator-is-an-open-source-privacy-respecting-period-tracking-app-for-android/)
 <!-- BLOG-POST-LIST:END -->
 
 
