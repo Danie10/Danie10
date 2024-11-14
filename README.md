@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Free and Open Source Alternatives to Apple Health](https://gadgeteer.co.za/best-free-and-open-source-alternatives-to-apple-health/)
 - [Open Source Cardiography Signal Measuring Device](https://gadgeteer.co.za/open-source-cardiography-signal-measuring-device/)
 - [In a historic first, Microsoft releases Windows 11 24H2 Arm64 ISOs for direct download for Raspberry Pi’s etc](https://gadgeteer.co.za/in-a-historic-first-microsoft-releases-windows-11-24h2-arm64-isos-for-direct-download-for-raspberry-pis-etc/)
 - [You can finally move your health data across Android devices — Can’t believe this was not backed up before](https://gadgeteer.co.za/you-can-finally-move-your-health-data-across-android-devices-cant-believe-this-was-not-backed-up-before/)
 - [Signal introduces convenient “call links” for private group chats up to 50 people without creating a group](https://gadgeteer.co.za/signal-introduces-convenient-call-links-for-private-group-chats-up-to-50-people-with-creating-a-group/)
-- [5 of the coolest things you can run on Docker](https://gadgeteer.co.za/5-of-the-coolest-things-you-can-run-on-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 
