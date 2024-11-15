@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Must-Have Docker Tools To Simplify Your Workflow And Why CLI Is Good](https://gadgeteer.co.za/11-must-have-docker-tools-to-simplify-your-workflow-and-why-cli-is-good/)
 - [Mermaid is an open source tool that can be used to create such charts using Markdown plaintext](https://gadgeteer.co.za/mermaid-is-an-open-source-tool-that-can-be-used-to-create-such-charts-using-markdown-plaintext/)
 - [Nebraskan Farmers Were Using Wind Turbines Before Environmentalism Was Invented](https://gadgeteer.co.za/nebraskan-farmers-were-using-wind-turbines-before-environmentalism-was-invented/)
 - [Successful South African electric vehicle maker that few people know about](https://gadgeteer.co.za/successful-south-african-electric-vehicle-maker-that-few-people-know-about/)
 - [Online shopping syndicate warning in South Africa](https://gadgeteer.co.za/online-shopping-syndicate-warning-in-south-africa/)
-- [Google’s Gemini AI Chatbot Finally Has an iPhone App](https://gadgeteer.co.za/googles-gemini-ai-chatbot-finally-has-an-iphone-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
