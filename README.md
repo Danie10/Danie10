@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Successful South African electric vehicle maker that few people know about](https://gadgeteer.co.za/successful-south-african-electric-vehicle-maker-that-few-people-know-about/)
 - [Online shopping syndicate warning in South Africa](https://gadgeteer.co.za/online-shopping-syndicate-warning-in-south-africa/)
 - [Google’s Gemini AI Chatbot Finally Has an iPhone App](https://gadgeteer.co.za/googles-gemini-ai-chatbot-finally-has-an-iphone-app/)
 - [Best Free and Open Source Alternatives to Apple Health](https://gadgeteer.co.za/best-free-and-open-source-alternatives-to-apple-health/)
 - [Open Source Cardiography Signal Measuring Device](https://gadgeteer.co.za/open-source-cardiography-signal-measuring-device/)
-- [In a historic first, Microsoft releases Windows 11 24H2 Arm64 ISOs for direct download for Raspberry Pi’s etc](https://gadgeteer.co.za/in-a-historic-first-microsoft-releases-windows-11-24h2-arm64-isos-for-direct-download-for-raspberry-pis-etc/)
 <!-- BLOG-POST-LIST:END -->
 
 
