@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenGarage is an open source device that can add intelligence to any garage door opener](https://gadgeteer.co.za/opengarage-is-an-open-source-device-that-can-add-intelligence-to-any-garage-door-opener/)
 - [Some of Edison’s earliest voice recordings of famous Britons from 1888](https://gadgeteer.co.za/some-of-edisons-earliest-voice-recordings-of-famous-britons-from-1888/)
 - [11 Must-Have Docker Tools To Simplify Your Workflow And Why CLI Is Good](https://gadgeteer.co.za/11-must-have-docker-tools-to-simplify-your-workflow-and-why-cli-is-good/)
 - [Mermaid is an open source tool that can be used to create such charts using Markdown plaintext](https://gadgeteer.co.za/mermaid-is-an-open-source-tool-that-can-be-used-to-create-such-charts-using-markdown-plaintext/)
 - [Nebraskan Farmers Were Using Wind Turbines Before Environmentalism Was Invented](https://gadgeteer.co.za/nebraskan-farmers-were-using-wind-turbines-before-environmentalism-was-invented/)
-- [Successful South African electric vehicle maker that few people know about](https://gadgeteer.co.za/successful-south-african-electric-vehicle-maker-that-few-people-know-about/)
 <!-- BLOG-POST-LIST:END -->
 
 
