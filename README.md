@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You can actually turn an old phone into a NAS](https://gadgeteer.co.za/you-can-actually-turn-an-old-phone-into-a-nas/)
 - [eSIM security vs. a physical SIM: An eSIM is safer](https://gadgeteer.co.za/esim-security-vs-a-physical-sim-an-esim-is-safer/)
 - [Google is CRIPPLING their Find My Device network with ‘aggregation by default’ setting](https://gadgeteer.co.za/google-is-crippling-their-find-my-device-network-with-aggregation-by-default-setting/)
 - [7 free open-source tools for amazing photo and video edits](https://gadgeteer.co.za/7-free-open-source-tools-for-amazing-photo-and-video-edits/)
 - [OpenGarage is an open source device that can add intelligence to any garage door opener](https://gadgeteer.co.za/opengarage-is-an-open-source-device-that-can-add-intelligence-to-any-garage-door-opener/)
-- [Some of Edison’s earliest voice recordings of famous Britons from 1888](https://gadgeteer.co.za/some-of-edisons-earliest-voice-recordings-of-famous-britons-from-1888/)
 <!-- BLOG-POST-LIST:END -->
 
 
