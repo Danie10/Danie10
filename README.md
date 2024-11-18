@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why and How News Media and Brands should Self-Verify on the Bluesky Social Network](https://gadgeteer.co.za/why-news-media-and-brands-should-self-verify-on-bluesky-social-network/)
 - [You can actually turn an old phone into a NAS](https://gadgeteer.co.za/you-can-actually-turn-an-old-phone-into-a-nas/)
 - [eSIM security vs. a physical SIM: An eSIM is safer](https://gadgeteer.co.za/esim-security-vs-a-physical-sim-an-esim-is-safer/)
 - [Google is CRIPPLING their Find My Device network with ‘aggregation by default’ setting](https://gadgeteer.co.za/google-is-crippling-their-find-my-device-network-with-aggregation-by-default-setting/)
 - [7 free open-source tools for amazing photo and video edits](https://gadgeteer.co.za/7-free-open-source-tools-for-amazing-photo-and-video-edits/)
-- [OpenGarage is an open source device that can add intelligence to any garage door opener](https://gadgeteer.co.za/opengarage-is-an-open-source-device-that-can-add-intelligence-to-any-garage-door-opener/)
 <!-- BLOG-POST-LIST:END -->
 
 
