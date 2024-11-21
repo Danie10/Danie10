@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cape has been selling a privacy-focused cellphone service to the U.S. military, now offering to high-risk members of the public](https://gadgeteer.co.za/cape-has-been-selling-a-privacy-focused-cellphone-service-to-the-u-s-military-now-offering-to-high-risk-members-of-the-public/)
+- [Why electric car charging stations are expensive in South Africa](https://gadgeteer.co.za/why-electric-car-charging-stations-are-expensive-in-south-africa/)
 - [DXOMARK’s Apple iPhone 16 Camera test](https://gadgeteer.co.za/dxomarks-apple-iphone-16-camera-test/)
 - [4 reasons why you should use Docker containers on your PC](https://gadgeteer.co.za/4-reasons-why-you-should-use-docker-containers-on-your-pc/)
 - [Listen to the oldest known recording of a human voice from 1860 before they could even play it back](https://gadgeteer.co.za/listen-to-the-oldest-known-recording-of-a-human-voice-from-1860-before-they-could-even-play-it-back/)
-- [How to update your SSD firmware on Windows](https://gadgeteer.co.za/how-to-update-your-ssd-firmware-on-windows/)
-- [No solar panels, no wind turbines, but the Aeroleaf WindTree: This tree produces infinite energy in your garden &lpar;see EDIT&rpar;](https://gadgeteer.co.za/no-solar-panels-no-wind-turbines-but-the-aeroleaf-windtree-this-tree-produces-infinite-energy-in-your-garden/)
 <!-- BLOG-POST-LIST:END -->
 
 
