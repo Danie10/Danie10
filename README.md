@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Metr: Electricity Tracker is a new Android app to track Pre-Paid Electricity in South Africa](https://gadgeteer.co.za/metr-electricity-tracker-is-a-new-android-app-to-track-pre-paid-electricity-in-south-africa/)
 - [Beginner’s Guide to Install and Use Conky in any Linux distro](https://gadgeteer.co.za/beginners-guide-to-install-and-use-conky-in-any-linux-distro/)
 - [Cape has been selling a privacy-focused cellphone service to the U.S. military, now offering to high-risk members of the public](https://gadgeteer.co.za/cape-has-been-selling-a-privacy-focused-cellphone-service-to-the-u-s-military-now-offering-to-high-risk-members-of-the-public/)
 - [Why electric car charging stations are expensive in South Africa](https://gadgeteer.co.za/why-electric-car-charging-stations-are-expensive-in-south-africa/)
 - [DXOMARK’s Apple iPhone 16 Camera test](https://gadgeteer.co.za/dxomarks-apple-iphone-16-camera-test/)
-- [4 reasons why you should use Docker containers on your PC](https://gadgeteer.co.za/4-reasons-why-you-should-use-docker-containers-on-your-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 
