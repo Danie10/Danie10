@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Not Sure What a Linux Command Will Do to Your System? Ask ChatGPT or Google Gemini](https://gadgeteer.co.za/not-sure-what-a-linux-command-will-do-to-your-system-ask-chatgpt-or-google-gemini/)
+- [5 Things I Wish I Knew When I First Learned Programming](https://gadgeteer.co.za/5-things-i-wish-i-knew-when-i-first-learned-programming/)
 - [Is Choosing Last Year’s Flagship Smartphone Worth Your Money? Here Are 5 Reasons Why](https://gadgeteer.co.za/is-choosing-last-years-flagship-smartphone-worth-your-money-here-are-5-reasons-why/)
 - [You can easily disassemble this repairable Spectra smartwatch using just a Phillips screwdriver](https://gadgeteer.co.za/you-can-easily-disassemble-this-repairable-spectra-smartwatch-using-just-a-phillips-screwdriver/)
 - [PrivateBin and MicroBin compared as alternatives to Pastebin for text and file sharing](https://gadgeteer.co.za/privatebin-and-microbin-compared-as-alternatives-to-pastebin-for-text-and-file-sharing/)
-- [Metr: Electricity Tracker is a new Android app to track Pre-Paid Electricity in South Africa](https://gadgeteer.co.za/metr-electricity-tracker-is-a-new-android-app-to-track-pre-paid-electricity-in-south-africa/)
-- [Beginner’s Guide to Install and Use Conky in any Linux distro](https://gadgeteer.co.za/beginners-guide-to-install-and-use-conky-in-any-linux-distro/)
 <!-- BLOG-POST-LIST:END -->
 
 
