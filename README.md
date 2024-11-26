@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Linux File Manager Right-Click Menus to Quickly run Scripts](https://gadgeteer.co.za/using-linux-file-manager-right-click-menus-to-quickly-run-scripts/)
 - [Serval Tracker will notify you of price specials on Takealot in South Africa](https://gadgeteer.co.za/serval-tracker-will-notify-you-of-price-specials-on-takealot-in-south-africa/)
 - [Not Sure What a Linux Command Will Do to Your System? Ask ChatGPT or Google Gemini](https://gadgeteer.co.za/not-sure-what-a-linux-command-will-do-to-your-system-ask-chatgpt-or-google-gemini/)
 - [5 Things I Wish I Knew When I First Learned Programming](https://gadgeteer.co.za/5-things-i-wish-i-knew-when-i-first-learned-programming/)
 - [Is Choosing Last Year’s Flagship Smartphone Worth Your Money? Here Are 5 Reasons Why](https://gadgeteer.co.za/is-choosing-last-years-flagship-smartphone-worth-your-money-here-are-5-reasons-why/)
-- [You can easily disassemble this repairable Spectra smartwatch using just a Phillips screwdriver](https://gadgeteer.co.za/you-can-easily-disassemble-this-repairable-spectra-smartwatch-using-just-a-phillips-screwdriver/)
 <!-- BLOG-POST-LIST:END -->
 
 
