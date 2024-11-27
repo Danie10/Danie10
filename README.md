@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TagSpaces is a privacy-focused file manager that combines tagging and note-taking without relying on the cloud](https://gadgeteer.co.za/tagspaces-is-a-privacy-focused-file-manager-that-combines-tagging-and-note-taking-without-relying-on-the-cloud/)
 - [How to make a 3D model from a 2D image in Blender](https://gadgeteer.co.za/how-to-make-a-3d-model-from-a-2d-image-in-blender/)
 - [How many years do we need to be told VR is the future before it actually takes off?](https://gadgeteer.co.za/how-many-years-do-we-need-to-be-told-vr-is-the-future-before-it-actually-takes-off/)
 - [Using Linux File Manager Right-Click Menus to Quickly run Scripts](https://gadgeteer.co.za/using-linux-file-manager-right-click-menus-to-quickly-run-scripts/)
 - [Serval Tracker will notify you of price specials on Takealot in South Africa](https://gadgeteer.co.za/serval-tracker-will-notify-you-of-price-specials-on-takealot-in-south-africa/)
-- [Not Sure What a Linux Command Will Do to Your System? Ask ChatGPT or Google Gemini](https://gadgeteer.co.za/not-sure-what-a-linux-command-will-do-to-your-system-ask-chatgpt-or-google-gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 
