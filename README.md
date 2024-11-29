@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Casio made a tiny fully functional Ring Watch](https://gadgeteer.co.za/casio-made-a-tiny-fully-functional-ring-watch/)
 - [You can turn your non-smart TV into an Android TV with just a Raspberry Pi](https://gadgeteer.co.za/you-can-turn-your-non-smart-tv-into-an-android-tv-with-just-a-raspberry-pi/)
 - [The Samsung SmartTag 2 is down to $15 for Black Friday — But In South Africa still at Full Price!](https://gadgeteer.co.za/the-samsung-smarttag-2-is-down-to-15-for-black-friday-but-in-south-africa-still-at-full-price/)
 - [First time a satellite operator and a wireless carrier have received FCC authorization for a Direct-To-Cell service](https://gadgeteer.co.za/first-time-a-satellite-operator-and-a-wireless-carrier-have-received-fcc-authorization-for-a-direct-to-cell-service/)
 - [TagSpaces is a privacy-focused file manager that combines tagging and note-taking without relying on the cloud](https://gadgeteer.co.za/tagspaces-is-a-privacy-focused-file-manager-that-combines-tagging-and-note-taking-without-relying-on-the-cloud/)
-- [How to make a 3D model from a 2D image in Blender](https://gadgeteer.co.za/how-to-make-a-3d-model-from-a-2d-image-in-blender/)
 <!-- BLOG-POST-LIST:END -->
 
 
