@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Linux works pretty well on a 2014 MacBook Air](https://gadgeteer.co.za/ubuntu-linux-works-pretty-well-on-a-2014-macbook-air/)
 - [YOURLS is an open source self-hosted alternative to Bitly or TinyURL](https://gadgeteer.co.za/yourls-is-an-open-source-self-hosted-alternative-to-bitly-or-tinyurl/)
 - [Casio made a tiny fully functional Ring Watch](https://gadgeteer.co.za/casio-made-a-tiny-fully-functional-ring-watch/)
 - [You can turn your non-smart TV into an Android TV with just a Raspberry Pi](https://gadgeteer.co.za/you-can-turn-your-non-smart-tv-into-an-android-tv-with-just-a-raspberry-pi/)
 - [The Samsung SmartTag 2 is down to $15 for Black Friday — But In South Africa still at Full Price!](https://gadgeteer.co.za/the-samsung-smarttag-2-is-down-to-15-for-black-friday-but-in-south-africa-still-at-full-price/)
-- [First time a satellite operator and a wireless carrier have received FCC authorization for a Direct-To-Cell service](https://gadgeteer.co.za/first-time-a-satellite-operator-and-a-wireless-carrier-have-received-fcc-authorization-for-a-direct-to-cell-service/)
 <!-- BLOG-POST-LIST:END -->
 
 
