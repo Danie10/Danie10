@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This Website Shows How Much Google’s AI Can Glean From Your Photos](https://gadgeteer.co.za/this-website-shows-how-much-googles-ai-can-glean-from-your-photos/)
 - [South Korea arrests CEO for adding DDoS feature to 240,000 satellite receivers](https://gadgeteer.co.za/south-korea-arrests-ceo-for-adding-ddos-feature-to-240000-satellite-receivers/)
 - [Cross-platform open source HandBrake Video Converter Just Got a Big Update](https://gadgeteer.co.za/cross-platform-open-source-handbrake-video-converter-just-got-a-big-update/)
 - [DistroSea.com: a website that lets you run and test 60+ Linux distributions straight from your web browser](https://gadgeteer.co.za/distrosea-com-a-website-that-lets-you-run-and-test-60-linux-distributions-straight-from-your-web-browser/)
 - [Latest Piper app has built-in support for the Logitech G502 X mouse](https://gadgeteer.co.za/latest-piper-app-has-built-in-support-for-the-logitech-g502-x-mouse/)
-- [Ubuntu Linux works pretty well on a 2014 MacBook Air](https://gadgeteer.co.za/ubuntu-linux-works-pretty-well-on-a-2014-macbook-air/)
 <!-- BLOG-POST-LIST:END -->
 
 
