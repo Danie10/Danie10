@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to expand your NAS with USB drives – and why it’s not always a good idea](https://gadgeteer.co.za/how-to-expand-your-nas-with-usb-drives-and-why-its-not-always-a-good-idea/)
 - [How to Choose the Best &lpar;and Fastest&rpar; Alternative DNS Server](https://gadgeteer.co.za/how-to-choose-the-best-and-fastest-alternative-dns-server/)
 - [Red Dead Redemption 2 Relaxing Ambient Third Person Horse Carriage Ride](https://gadgeteer.co.za/red-dead-redemption-2-relaxing-ambient-third-person-horse-carriage-ride/)
 - [These temporary tattoos could eventually replace clunky EEG wires and “potentially revolutionize” brain-computer interface devices](https://gadgeteer.co.za/these-temporary-tattoos-could-eventually-replace-clunky-eeg-wires-and-potentially-revolutionize-brain-computer-interface-devices/)
 - [7 Ways Tech Can Improve Your Mental Health](https://gadgeteer.co.za/7-ways-tech-can-improve-your-mental-health/)
-- [This Website Shows How Much Google’s AI Can Glean From Your Photos](https://gadgeteer.co.za/this-website-shows-how-much-googles-ai-can-glean-from-your-photos/)
 <!-- BLOG-POST-LIST:END -->
 
 
