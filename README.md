@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [iVerify’s $1 phone scanner finds seven Pegasus spyware infections](https://gadgeteer.co.za/iverifys-1-phone-scanner-finds-seven-pegasus-spyware-infections/)
 - [Jack Dorsey explains very concisely how Nostr works in 2 minutes](https://gadgeteer.co.za/jack-dorsey-explains-very-concisely-how-nostr-works-in-2-minutes/)
 - [KDE is Making its Own Distro, and So is GNOME](https://gadgeteer.co.za/kde-is-making-its-own-distro-and-so-is-gnome/)
 - [How to expand your NAS with USB drives – and why it’s not always a good idea](https://gadgeteer.co.za/how-to-expand-your-nas-with-usb-drives-and-why-its-not-always-a-good-idea/)
 - [How to Choose the Best &lpar;and Fastest&rpar; Alternative DNS Server](https://gadgeteer.co.za/how-to-choose-the-best-and-fastest-alternative-dns-server/)
-- [Red Dead Redemption 2 Relaxing Ambient Third Person Horse Carriage Ride](https://gadgeteer.co.za/red-dead-redemption-2-relaxing-ambient-third-person-horse-carriage-ride/)
 <!-- BLOG-POST-LIST:END -->
 
 
