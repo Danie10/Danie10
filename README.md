@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Location data firm helps US police find out when suspects visited their doctor](https://gadgeteer.co.za/location-data-firm-helps-us-police-find-out-when-suspects-visited-their-doctor/)
 - [Before Replacing Your Phone Battery Watch This — Scams Abound](https://gadgeteer.co.za/before-replacing-your-phone-battery-watch-this-scams-abound/)
 - [The Raspberry Pi 500 with an integrated keyboard is the perfect starter mini-PC](https://gadgeteer.co.za/the-raspberry-pi-500-with-an-integrated-keyboard-is-the-perfect-starter-mini-pc/)
 - [You can ‘play’ AAA games on a Pi &lpar;or anything else&rpar; using open source Sunshine and Moonlight](https://gadgeteer.co.za/you-can-play-aaa-games-on-a-pi-or-anything-else-using-open-source-sunshine-and-moonlight/)
 - [The OTIO standard can allow importing of a video editor’s timeline into a different video editor](https://gadgeteer.co.za/the-otio-standard-can-allow-importing-of-a-video-editors-timeline-into-a-different-video-editor/)
-- [RaspController is an Android app for remotely managing a Raspberry Pi](https://gadgeteer.co.za/raspcontroller-is-an-android-app-for-remotely-managing-a-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 
