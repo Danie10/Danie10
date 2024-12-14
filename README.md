@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 self-hosted apps that could improve your life](https://gadgeteer.co.za/5-self-hosted-apps-that-could-improve-your-life/)
 - [6 reasons why OnlyOffice is a great Microsoft Office alternative](https://gadgeteer.co.za/6-reasons-why-onlyoffice-is-a-great-microsoft-office-alternative/)
 - [Why a Chest Strap Is the Best Way to Track Your Heart Rate During Exercise](https://gadgeteer.co.za/why-a-chest-strap-is-the-best-way-to-track-your-heart-rate-during-exercise/)
 - [RIP Safely Home Reporter — Western Cape Government has discontinued the service](https://gadgeteer.co.za/rip-safely-home-reporter-western-cape-government-has-discontinued-the-service/)
 - [EFF Launches Digital Rights Bytes to Answer Tech Questions that Bug Us All](https://gadgeteer.co.za/eff-launches-digital-rights-bytes-to-answer-tech-questions-that-bug-us-all/)
-- [PeerTube, the Open-Source YouTube in the Fediverse, Now Has Official Mobile Apps](https://gadgeteer.co.za/peertube-the-open-source-youtube-in-the-fediverse-now-has-official-mobile-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 
