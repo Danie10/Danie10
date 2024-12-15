@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seafile is an enterprise-ready free and open source alternative to DropBox or NextCloud for file syncing and sharing](https://gadgeteer.co.za/seafile-is-an-enterprise-ready-free-and-open-source-alternative-to-dropbox-or-nextcloud-for-file-syncing-and-sharing/)
 - [Does your phone yet have a Silicon-Carbon Battery?](https://gadgeteer.co.za/does-your-phone-yet-have-a-silicon-carbon-battery/)
 - [Admyt parking app is working well for me in Cape Town, even where free parking is applicable](https://gadgeteer.co.za/admyt-parking-app-is-working-well-for-me-in-cape-town-even-where-free-parking-is-applicable/)
 - [Your brain can grow from reading and learning – e-books offer the same benefit as paper books](https://gadgeteer.co.za/your-brain-can-grow-from-reading-and-learning-e-books-offer-the-same-benefit-as-paper-books/)
 - [5 self-hosted apps that could improve your life](https://gadgeteer.co.za/5-self-hosted-apps-that-could-improve-your-life/)
-- [6 reasons why OnlyOffice is a great Microsoft Office alternative](https://gadgeteer.co.za/6-reasons-why-onlyoffice-is-a-great-microsoft-office-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 
