@@ -12,6 +12,7 @@ My interests lean toward open source, green technology, security, privacy, amate
 # <img align="left" alt="Java" width="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" /> Follow Me
 
 I blog daily (about 3 to 5 posts pd) on various social networks such as:
+
 - Mastodon: <a rel="me" href="https://mastodon.social/@danie10">@Danie10</a>
 - Bluesky: <a rel="me" href="https://bsky.app/profile/gadgeteer.co.za">@gadgeteer.co.za</a>
 - Friendica: https://squeet.me/profile/danie10/
@@ -20,17 +21,17 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 - WordPress (option to subscribe to e-mails): https://gadgeteer.co.za/blog/
 - RSS feed: https://gadgeteer.co.za/category/uncategorized/feed/
 - Secure Scuttlebutt (P2P): @0Tv5f/opjv/m1ONAKl6S79HWbHdLaCtt/emdXl2MCO0=.ed25519
-- Matrix Room (also bridged to my IRC channel): https://matrix.to/#/
-- Nostr: public key npub1g2jpj7x9rjcqd9dp3hnvja2tjr3q3hf362z3ulrfzpyfnsdw5qlqyayjj6 or danie@nostr.fan
-
+- Matrix Room (also bridged to my IRC channel): https://matrix.to/#/#gadgeteerza:libera.chat
+- MeWe: https://mewe.com/join/tech__gadgets
+- Nost: Public key npub1g2jpj7x9rjcqd9dp3hnvja2tjr3q3hf362z3ulrfzpyfnsdw5qlqyayjj6 or danie@nostr.fan
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [An easy-to-make Pi-powered pocket password pal – using self-hosted Bitwarden](https://gadgeteer.co.za/an-easy-to-make-pi-powered-pocket-password-pal-using-self-hosted-bitwarden/)
-- [All but one of South Africa’s major mobile operators offer RCS messaging](https://gadgeteer.co.za/all-but-one-of-south-africas-major-mobile-operators-offer-rcs-messaging/)
-- [Scrolla is making news more accessible to South Africans by being extra light on data use, especially for pre-paid data customers](https://gadgeteer.co.za/scrolla-is-making-news-more-accessible-to-south-africans-by-being-extra-light-on-data-use-especially-for-pre-paid-data-customers/)
-- [Why I think my posts on Mastodon consistently get more favourites and reshares than on Twitter](https://gadgeteer.co.za/why-i-think-my-posts-on-mastodon-get-more-favourites-and-reshares-than-on-twitter/)
-- [The power of crowdsourcing data for good: Android phones got a notification that a temblor was about to rock Silicon Valley](https://gadgeteer.co.za/the-power-of-crowd-sourcing-data-for-good-android-phones-got-a-notification-that-a-temblor-was-about-to-rock-silicon-valley/)
+- [Europe’s Starlink competitor is a go](https://gadgeteer.co.za/europes-starlink-competitor-is-go/)
+- [Some Tips on How to Check if a Screenshot Has Been Photoshopped](https://gadgeteer.co.za/some-tips-on-how-to-check-if-a-screenshot-has-been-photoshopped/)
+- [Star Flash is a universal remote control standard because we have too many proprietary remote controls](https://gadgeteer.co.za/star-flash-is-a-universal-remote-control-standard-because-we-have-too-many-proprietary-remote-controls/)
+- [Seafile is an enterprise-ready free and open source alternative to DropBox or NextCloud for file syncing and sharing](https://gadgeteer.co.za/seafile-is-an-enterprise-ready-free-and-open-source-alternative-to-dropbox-or-nextcloud-for-file-syncing-and-sharing/)
+- [Does your phone yet have a Silicon-Carbon Battery?](https://gadgeteer.co.za/does-your-phone-yet-have-a-silicon-carbon-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 
