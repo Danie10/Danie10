@@ -30,11 +30,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Europe’s Starlink competitor is a go](https://gadgeteer.co.za/europes-starlink-competitor-is-go/)
+- [Some Tips on How to Check if a Screenshot Has Been Photoshopped](https://gadgeteer.co.za/some-tips-on-how-to-check-if-a-screenshot-has-been-photoshopped/)
 - [Star Flash is a universal remote control standard because we have too many proprietary remote controls](https://gadgeteer.co.za/star-flash-is-a-universal-remote-control-standard-because-we-have-too-many-proprietary-remote-controls/)
 - [Seafile is an enterprise-ready free and open source alternative to DropBox or NextCloud for file syncing and sharing](https://gadgeteer.co.za/seafile-is-an-enterprise-ready-free-and-open-source-alternative-to-dropbox-or-nextcloud-for-file-syncing-and-sharing/)
 - [Does your phone yet have a Silicon-Carbon Battery?](https://gadgeteer.co.za/does-your-phone-yet-have-a-silicon-carbon-battery/)
-- [Admyt parking app is working well for me in Cape Town, even where free parking is applicable](https://gadgeteer.co.za/admyt-parking-app-is-working-well-for-me-in-cape-town-even-where-free-parking-is-applicable/)
-- [Your brain can grow from reading and learning – e-books offer the same benefit as paper books](https://gadgeteer.co.za/your-brain-can-grow-from-reading-and-learning-e-books-offer-the-same-benefit-as-paper-books/)
 <!-- BLOG-POST-LIST:END -->
 
 
