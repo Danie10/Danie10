@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Here’s how you can replace Google Photos with a self-hosted Immich server](https://gadgeteer.co.za/heres-how-you-can-replace-google-photos-with-a-self-hosted-immich-server/)
 - [How to Install Arch Linux: A Beginner’s Practical Guide](https://gadgeteer.co.za/how-to-install-arch-linux-a-beginners-practical-guide/)
 - [You Can Now Search the Internet With ChatGPT](https://gadgeteer.co.za/you-can-now-search-the-internet-with-chatgpt/)
 - [Europe’s Starlink competitor is a go](https://gadgeteer.co.za/europes-starlink-competitor-is-go/)
 - [Some Tips on How to Check if a Screenshot Has Been Photoshopped](https://gadgeteer.co.za/some-tips-on-how-to-check-if-a-screenshot-has-been-photoshopped/)
-- [Star Flash is a universal remote control standard because we have too many proprietary remote controls](https://gadgeteer.co.za/star-flash-is-a-universal-remote-control-standard-because-we-have-too-many-proprietary-remote-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 
