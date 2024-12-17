@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install Arch Linux: A Beginner’s Practical Guide](https://gadgeteer.co.za/how-to-install-arch-linux-a-beginners-practical-guide/)
+- [You Can Now Search the Internet With ChatGPT](https://gadgeteer.co.za/you-can-now-search-the-internet-with-chatgpt/)
 - [Europe’s Starlink competitor is a go](https://gadgeteer.co.za/europes-starlink-competitor-is-go/)
 - [Some Tips on How to Check if a Screenshot Has Been Photoshopped](https://gadgeteer.co.za/some-tips-on-how-to-check-if-a-screenshot-has-been-photoshopped/)
 - [Star Flash is a universal remote control standard because we have too many proprietary remote controls](https://gadgeteer.co.za/star-flash-is-a-universal-remote-control-standard-because-we-have-too-many-proprietary-remote-controls/)
-- [Seafile is an enterprise-ready free and open source alternative to DropBox or NextCloud for file syncing and sharing](https://gadgeteer.co.za/seafile-is-an-enterprise-ready-free-and-open-source-alternative-to-dropbox-or-nextcloud-for-file-syncing-and-sharing/)
-- [Does your phone yet have a Silicon-Carbon Battery?](https://gadgeteer.co.za/does-your-phone-yet-have-a-silicon-carbon-battery/)
 <!-- BLOG-POST-LIST:END -->
 
 
