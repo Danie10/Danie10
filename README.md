@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant’s new hardware voice assistant answers to ‘Hey Jarvis’ and can work offline](https://gadgeteer.co.za/home-assistants-new-hardware-voice-assistant-answers-to-hey-jarvis-and-can-work-offline/)
 - [Oasis Security Research Team Discovers Microsoft Azure MFA Bypass: We Expect More From An Enterprise Provider Though](https://gadgeteer.co.za/oasis-security-research-team-discovers-microsoft-azure-mfa-bypass-we-expect-more-from-an-enterprise-provider-though/)
 - [Thanks to Whiskey, You Will Be Gaming on Your Mac More Than Ever](https://gadgeteer.co.za/thanks-to-whiskey-you-will-be-gaming-on-your-mac-more-than-ever/)
 - [GRC’s DNS Benchmark software is getting a new version after 15 years](https://gadgeteer.co.za/grcs-dns-benchmark-software-is-getting-a-new-version-after-15-years/)
 - [HamClock provides real time space weather, radio propagation models, and other info useful to radio amateurs](https://gadgeteer.co.za/hamclock-provides-real-time-space-weather-radio-propagation-models-and-other-info-useful-to-radio-amateurs/)
-- [Here’s how you can replace Google Photos with a self-hosted Immich server](https://gadgeteer.co.za/heres-how-you-can-replace-google-photos-with-a-self-hosted-immich-server/)
 <!-- BLOG-POST-LIST:END -->
 
 
