@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Who needs a roof when you can use balcony solar for apartments](https://gadgeteer.co.za/who-needs-a-roof-when-you-can-use-balcony-solar-for-apartments/)
 - [This USB-C cable can rotate 360 degrees for optimal cable management](https://gadgeteer.co.za/this-usb-c-cable-can-rotate-360-degrees-for-optimal-cable-management/)
 - [10 Awesome Games You Can Play Right Now In Your Browser Without Installing Anything](https://gadgeteer.co.za/10-awesome-games-you-can-play-right-now-in-your-browser-without-installing-anything/)
 - [After market office chair wheels can be a worthy and cheap upgrade](https://gadgeteer.co.za/aafter-market-office-chair-wheels-can-be-a-worthy-and-cheap-upgrade/)
 - [Where to Watch New Year’s Eve Celebrations From Around the World](https://gadgeteer.co.za/where-to-watch-new-years-eve-celebrations-from-around-the-world/)
-- [Home Assistant’s new hardware voice assistant answers to ‘Hey Jarvis’ and can work offline](https://gadgeteer.co.za/home-assistants-new-hardware-voice-assistant-answers-to-hey-jarvis-and-can-work-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 
