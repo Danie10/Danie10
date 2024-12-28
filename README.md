@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dolibarr is open source ERP and CRM for businesses](https://gadgeteer.co.za/dolibarr-is-open-source-erp-and-crm-for-businesses/)
 - [How to test if a self-hosted Alby Hub wallet is connected, and to get an alert if not](https://gadgeteer.co.za/how-to-test-if-a-self-hosted-alby-hub-wallet-is-connected-and-to-get-an-alert-if-not/)
 - [Absolute Essentials You Need to Know to Survive Vi Editor](https://gadgeteer.co.za/absolute-essentials-you-need-to-know-to-survive-vi-editor/)
 - [LosslessCut is an open source cross-platform FFmpeg GUI for extremely fast and lossless operations on video and audio files](https://gadgeteer.co.za/losslesscut-is-an-open-source-cross-platform-ffmpeg-gui-for-extremely-fast-and-lossless-operations-on-video-and-audio-files/)
 - [8 best free-to-play games on Steam](https://gadgeteer.co.za/8-best-free-to-play-games-on-steam/)
-- [4 Free eBook Reader Apps for Android to Get You Out of Your Reading Slump](https://gadgeteer.co.za/4-free-ebook-reader-apps-for-android-to-get-you-out-of-your-reading-slump/)
 <!-- BLOG-POST-LIST:END -->
 
 
