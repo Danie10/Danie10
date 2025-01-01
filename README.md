@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If Online Grammar Checks Concern You, Run Your Own Private Grammarly Clone Using Docker and LanguageTool](https://gadgeteer.co.za/if-online-grammar-checks-concern-you-run-your-own-private-grammarly-clone-using-docker-and-languagetool/)
+- [5 reasons you should use Markdown for documentation and notetaking](https://gadgeteer.co.za/5-reasons-you-should-use-markdown-for-documentation-and-notetaking/)
 - [Bringing OpenStreetMap Data Into Minecraft](https://gadgeteer.co.za/bringing-openstreetmap-data-into-minecraft/)
 - [Microsoft claims its new Windows 11 Xbox popups aren’t ads, merely “options you can purchase”](https://gadgeteer.co.za/microsoft-claims-its-new-windows-11-xbox-popups-arent-ads-merely-options-you-can-purchase/)
 - [Dolibarr is open source ERP and CRM for businesses](https://gadgeteer.co.za/dolibarr-is-open-source-erp-and-crm-for-businesses/)
-- [How to test if a self-hosted Alby Hub wallet is connected, and to get an alert if not](https://gadgeteer.co.za/how-to-test-if-a-self-hosted-alby-hub-wallet-is-connected-and-to-get-an-alert-if-not/)
-- [Absolute Essentials You Need to Know to Survive Vi Editor](https://gadgeteer.co.za/absolute-essentials-you-need-to-know-to-survive-vi-editor/)
 <!-- BLOG-POST-LIST:END -->
 
 
