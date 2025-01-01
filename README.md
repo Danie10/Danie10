@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ghostty – The Fast GPU-Accelerated Terminal Emulator for Linux and macOS](https://gadgeteer.co.za/ghostty-the-fast-gpu-accelerated-terminal-emulator-for-linux-and-macos/)
+- [Most users don’t own their social profiles nor domain names or any other presence on the Internet](https://gadgeteer.co.za/most-users-dont-own-their-social-profiles-nor-domain-names-or-any-other-presence-on-the-internet/)
 - [If Online Grammar Checks Concern You, Run Your Own Private Grammarly Clone Using Docker and LanguageTool](https://gadgeteer.co.za/if-online-grammar-checks-concern-you-run-your-own-private-grammarly-clone-using-docker-and-languagetool/)
 - [5 reasons you should use Markdown for documentation and notetaking](https://gadgeteer.co.za/5-reasons-you-should-use-markdown-for-documentation-and-notetaking/)
 - [Bringing OpenStreetMap Data Into Minecraft](https://gadgeteer.co.za/bringing-openstreetmap-data-into-minecraft/)
-- [Microsoft claims its new Windows 11 Xbox popups aren’t ads, merely “options you can purchase”](https://gadgeteer.co.za/microsoft-claims-its-new-windows-11-xbox-popups-arent-ads-merely-options-you-can-purchase/)
-- [Dolibarr is open source ERP and CRM for businesses](https://gadgeteer.co.za/dolibarr-is-open-source-erp-and-crm-for-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 
