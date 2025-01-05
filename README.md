@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChangeDetection.io is a private self-hosted website change detection and price monitor service](https://gadgeteer.co.za/changedetection-io-is-a-private-self-hosted-website-change-detection-and-price-monitor-service/)
 - [Follow updates across the web in a feed that only you control, even if the site does not offer an RSS feed](https://gadgeteer.co.za/follow-updates-across-the-web-in-a-feed-that-only-you-control-even-if-the-site-does-not-offer-an-rss-feed/)
 - [Linden Lab Test Launches Browser-Based Streaming for Second Life — And You Can Try it Now](https://gadgeteer.co.za/linden-lab-test-launches-browser-based-streaming-for-second-life-and-you-can-try-it-now/)
 - [Openreads: A Private and Open Source Mobile App To Keep Track of Your Books as an Alternative to Goodreads](https://gadgeteer.co.za/openreads-a-private-and-open-source-mobile-app-to-keep-track-of-your-books-as-an-alternative-to-goodreads/)
 - [Ghostty – The Fast GPU-Accelerated Terminal Emulator for Linux and macOS](https://gadgeteer.co.za/ghostty-the-fast-gpu-accelerated-terminal-emulator-for-linux-and-macos/)
-- [Most users don’t own their social profiles nor domain names or any other presence on the Internet](https://gadgeteer.co.za/most-users-dont-own-their-social-profiles-nor-domain-names-or-any-other-presence-on-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 
