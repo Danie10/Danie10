@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bike Index — Over $28,937,727 Worth of Bikes Recovered Globally Through Crowdsourcing](https://gadgeteer.co.za/bike-index-over-28937727-worth-of-bikes-recovered-globally-through-crowdsourcing/)
 - [Penpot is the web-based open-source design tool that bridges the gap between designers and developers](https://gadgeteer.co.za/penpot-is-the-web-based-open-source-design-tool-that-bridges-the-gap-between-designers-and-developers/)
 - [Warning for people buying electronics in South Africa](https://gadgeteer.co.za/warning-for-people-buying-electronics-in-south-africa/)
 - [Love KDE Plasma? These 7 Linux Distros Use Plasma as Their Default Desktops](https://gadgeteer.co.za/love-kde-plasma-these-7-linux-distros-use-plasma-as-their-default-desktops/)
 - [ChangeDetection.io is a private self-hosted website change detection and price monitor service](https://gadgeteer.co.za/changedetection-io-is-a-private-self-hosted-website-change-detection-and-price-monitor-service/)
-- [Follow updates across the web in a feed that only you control, even if the site does not offer an RSS feed](https://gadgeteer.co.za/follow-updates-across-the-web-in-a-feed-that-only-you-control-even-if-the-site-does-not-offer-an-rss-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 
