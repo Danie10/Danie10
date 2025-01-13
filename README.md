@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AppFlowy is an open-source alternative to Notion, Trello, and Asana](https://gadgeteer.co.za/appflowy-is-an-open-source-alternative-to-notion-trello-and-asana/)
 - [German router maker is reminded that open source licences are legally enforceable](https://gadgeteer.co.za/german-router-maker-is-reminded-that-open-source-licences-are-legally-enforceable/)
 - [Remembering Usenet — The OG Social Network that Existed Even Before the World Wide Web](https://gadgeteer.co.za/remembering-usenet-the-og-social-network-that-existed-even-before-the-world-wide-web/)
 - [Bike Index — Over $28,937,727 Worth of Bikes Recovered Globally Through Crowdsourcing](https://gadgeteer.co.za/bike-index-over-28937727-worth-of-bikes-recovered-globally-through-crowdsourcing/)
 - [Penpot is the web-based open-source design tool that bridges the gap between designers and developers](https://gadgeteer.co.za/penpot-is-the-web-based-open-source-design-tool-that-bridges-the-gap-between-designers-and-developers/)
-- [Warning for people buying electronics in South Africa](https://gadgeteer.co.za/warning-for-people-buying-electronics-in-south-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 
