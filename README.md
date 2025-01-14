@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Be Careful What You Wish For — What is RedNote, the Chinese social media app that US TikTokers are flocking to?](https://gadgeteer.co.za/be-careful-what-you-wish-for-what-is-rednote-the-chinese-social-media-app-that-us-tiktokers-are-flocking-to/)
 - [Why I Switched to Firefox and Never Looked Back](https://gadgeteer.co.za/why-i-switched-to-firefox-and-never-looked-back/)
 - [AppFlowy is an open-source alternative to Notion, Trello, and Asana](https://gadgeteer.co.za/appflowy-is-an-open-source-alternative-to-notion-trello-and-asana/)
 - [German router maker is reminded that open source licences are legally enforceable](https://gadgeteer.co.za/german-router-maker-is-reminded-that-open-source-licences-are-legally-enforceable/)
 - [Remembering Usenet — The OG Social Network that Existed Even Before the World Wide Web](https://gadgeteer.co.za/remembering-usenet-the-og-social-network-that-existed-even-before-the-world-wide-web/)
-- [Bike Index — Over $28,937,727 Worth of Bikes Recovered Globally Through Crowdsourcing](https://gadgeteer.co.za/bike-index-over-28937727-worth-of-bikes-recovered-globally-through-crowdsourcing/)
 <!-- BLOG-POST-LIST:END -->
 
 
