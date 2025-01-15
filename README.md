@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 hidden features in Krita to boost your creative workflow](https://gadgeteer.co.za/7-hidden-features-in-krita-to-boost-your-creative-workflow/)
 - [The streams repository is a self-hosted Fediverse server that offers more of a Facebook alternative type experience](https://gadgeteer.co.za/the-streams-repository-is-a-self-hosted-fediverse-server-that-offers-more-of-a-facebook-alternative-type-experience/)
 - [Microsoft patch to Linux kernel is disabled — Maybe this explains the numerous Windows vulnerabilities](https://gadgeteer.co.za/microsoft-patch-to-linux-kernel-is-disabled-maybe-this-explains-the-numerous-windows-vulnerabilities/)
 - [Be Careful What You Wish For — What is RedNote, the Chinese social media app that US TikTokers are flocking to?](https://gadgeteer.co.za/be-careful-what-you-wish-for-what-is-rednote-the-chinese-social-media-app-that-us-tiktokers-are-flocking-to/)
 - [Why I Switched to Firefox and Never Looked Back](https://gadgeteer.co.za/why-i-switched-to-firefox-and-never-looked-back/)
-- [AppFlowy is an open-source alternative to Notion, Trello, and Asana](https://gadgeteer.co.za/appflowy-is-an-open-source-alternative-to-notion-trello-and-asana/)
 <!-- BLOG-POST-LIST:END -->
 
 
