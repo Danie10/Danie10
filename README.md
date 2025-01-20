@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Datacus extractus: Harry Potter publisher breached without resorting to magic](https://gadgeteer.co.za/datacus-extractus-harry-potter-publisher-breached-without-resorting-to-magic/)
 - [New study suggests that the co-location of solar farming with sheep grazing is not negatively impacting wool production](https://gadgeteer.co.za/new-study-suggests-that-the-co-location-of-solar-farming-with-sheep-grazing-is-not-negatively-impacting-wool-production/)
 - [I Feel Like a Hacker Using These Cool Linux Terminal Tools](https://gadgeteer.co.za/i-feel-like-a-hacker-using-these-cool-linux-terminal-tools/)
 - [BusKill is an open source laptop kill cord that can trigger your computer to lock or shutdown when it’s physically separated from you](https://gadgeteer.co.za/buskill-is-an-open-source-laptop-kill-cord-that-can-trigger-your-computer-to-lock-or-shutdown-when-its-physically-separated-from-you/)
 - [7 hidden features in Krita to boost your creative workflow](https://gadgeteer.co.za/7-hidden-features-in-krita-to-boost-your-creative-workflow/)
-- [The streams repository is a self-hosted Fediverse server that offers more of a Facebook alternative type experience](https://gadgeteer.co.za/the-streams-repository-is-a-self-hosted-fediverse-server-that-offers-more-of-a-facebook-alternative-type-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 
