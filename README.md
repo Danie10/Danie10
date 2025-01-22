@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finally, You Can Automatically Block Spam Calls on Your iPhone: Too Late For Me Though](https://gadgeteer.co.za/finally-you-can-automatically-block-spam-calls-on-your-iphone-too-late-for-me-though/)
 - [Datacus extractus: Harry Potter publisher breached without resorting to magic](https://gadgeteer.co.za/datacus-extractus-harry-potter-publisher-breached-without-resorting-to-magic/)
 - [New study suggests that the co-location of solar farming with sheep grazing is not negatively impacting wool production](https://gadgeteer.co.za/new-study-suggests-that-the-co-location-of-solar-farming-with-sheep-grazing-is-not-negatively-impacting-wool-production/)
 - [I Feel Like a Hacker Using These Cool Linux Terminal Tools](https://gadgeteer.co.za/i-feel-like-a-hacker-using-these-cool-linux-terminal-tools/)
 - [BusKill is an open source laptop kill cord that can trigger your computer to lock or shutdown when it’s physically separated from you](https://gadgeteer.co.za/buskill-is-an-open-source-laptop-kill-cord-that-can-trigger-your-computer-to-lock-or-shutdown-when-its-physically-separated-from-you/)
-- [7 hidden features in Krita to boost your creative workflow](https://gadgeteer.co.za/7-hidden-features-in-krita-to-boost-your-creative-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 
