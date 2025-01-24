@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Even if you don’t know Linux well enough, you should know these common terms to blend in](https://gadgeteer.co.za/even-if-you-dont-know-linux-well-enough-you-should-know-these-common-terms-to-blend-in/)
 - [Alfred is the best productivity app on macOS, and it’s not even close](https://gadgeteer.co.za/alfred-is-the-best-productivity-app-on-macos-and-its-not-even-close/)
 - [Free Latest App Checks Your MacBook Apps for Updates](https://gadgeteer.co.za/free-latest-app-checks-your-macbook-apps-for-updates/)
 - [8 Cool Tricks You Can Do With Your Browser’s Element Inspector](https://gadgeteer.co.za/8-cool-tricks-you-can-do-with-your-browsers-element-inspector/)
 - [Finally, You Can Automatically Block Spam Calls on Your iPhone: Too Late For Me Though](https://gadgeteer.co.za/finally-you-can-automatically-block-spam-calls-on-your-iphone-too-late-for-me-though/)
-- [Datacus extractus: Harry Potter publisher breached without resorting to magic](https://gadgeteer.co.za/datacus-extractus-harry-potter-publisher-breached-without-resorting-to-magic/)
 <!-- BLOG-POST-LIST:END -->
 
 
