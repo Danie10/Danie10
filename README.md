@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Pebble smartwatch is making a comeback: Shows Founders are more Innovative than Big Tech](https://gadgeteer.co.za/the-pebble-smartwatch-is-making-a-comeback-shows-founders-are-more-innovative-than-big-tech/)
 - [Be careful of misleading security claims by hosting companies: US FTC cracks down on GoDaddy](https://gadgeteer.co.za/be-careful-of-misleading-security-claims-by-hosting-companies-us-ftc-cracks-down-on-godaddy/)
 - [Even if you don’t know Linux well enough, you should know these common terms to blend in](https://gadgeteer.co.za/even-if-you-dont-know-linux-well-enough-you-should-know-these-common-terms-to-blend-in/)
 - [Alfred is the best productivity app on macOS, and it’s not even close](https://gadgeteer.co.za/alfred-is-the-best-productivity-app-on-macos-and-its-not-even-close/)
 - [Free Latest App Checks Your MacBook Apps for Updates](https://gadgeteer.co.za/free-latest-app-checks-your-macbook-apps-for-updates/)
-- [8 Cool Tricks You Can Do With Your Browser’s Element Inspector](https://gadgeteer.co.za/8-cool-tricks-you-can-do-with-your-browsers-element-inspector/)
 <!-- BLOG-POST-LIST:END -->
 
 
