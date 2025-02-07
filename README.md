@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 of the best plug-ins for your OpenMediaVault NAS](https://gadgeteer.co.za/10-of-the-best-plug-ins-for-your-openmediavault-nas/)
+- [5 reasons why FreeOffice is a great Microsoft Office alternative](https://gadgeteer.co.za/5-reasons-why-freeoffice-is-a-great-microsoft-office-alternative/)
 - [Opera Air is the most relaxing browser you’ve ever seen](https://gadgeteer.co.za/opera-air-is-the-most-relaxing-browser-youve-ever-seen/)
 - [Someone built a DIY wall-mounted NAS with Lego and a Raspberry Pi](https://gadgeteer.co.za/someone-built-a-diy-wall-mounted-nas-with-lego-and-a-raspberry-pi/)
 - [Challenges with Asus Router and VLANs &lpar;Video&rpar;](https://gadgeteer.co.za/challenges-with-asus-router-and-vlans-video/)
-- [The Pebble smartwatch is making a comeback: Shows Founders are more Innovative than Big Tech](https://gadgeteer.co.za/the-pebble-smartwatch-is-making-a-comeback-shows-founders-are-more-innovative-than-big-tech/)
-- [Be careful of misleading security claims by hosting companies: US FTC cracks down on GoDaddy](https://gadgeteer.co.za/be-careful-of-misleading-security-claims-by-hosting-companies-us-ftc-cracks-down-on-godaddy/)
 <!-- BLOG-POST-LIST:END -->
 
 
