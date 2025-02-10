@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Say goodbye to parking tickets in South Africa](https://gadgeteer.co.za/say-goodbye-to-parking-tickets-in-south-africa/)
 - [OpenBoard is a free and open source cross-platform interactive whiteboard for schools and universities](https://gadgeteer.co.za/openboard-is-a-free-and-open-source-cross-platform-interactive-whiteboard-for-schools-and-universities/)
 - [5 quirky self-hosted services to manage your relationships, adventures, and more](https://gadgeteer.co.za/5-quirky-self-hosted-services-to-manage-your-relationships-adventures-and-more/)
 - [HAMNET Emergency Coms at 99ER Cycle Tour 2025 in Cape Town](https://gadgeteer.co.za/hamnet-emergency-coms-at-99er-cycle-tour-2025-in-cape-town/)
 - [10 of the best plug-ins for your OpenMediaVault NAS](https://gadgeteer.co.za/10-of-the-best-plug-ins-for-your-openmediavault-nas/)
-- [5 reasons why FreeOffice is a great Microsoft Office alternative](https://gadgeteer.co.za/5-reasons-why-freeoffice-is-a-great-microsoft-office-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 
