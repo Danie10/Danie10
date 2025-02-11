@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Mount A Drive Permanently In Linux Using Fstab: A Step-by-Step Guide](https://gadgeteer.co.za/how-to-mount-a-drive-permanently-in-linux-using-fstab-a-step-by-step-guide/)
 - [The New OnePlus Watch 3 Lasts 5 Days In Smart Mode](https://gadgeteer.co.za/the-new-oneplus-watch-3-lasts-5-days-in-smart-mode/)
 - [5 networking tools to safeguard your home lab from the inside out](https://gadgeteer.co.za/5-networking-tools-to-safeguard-your-home-lab-from-the-inside-out/)
 - [I Spend More Time Watching Games Than Playing Them &lpar;and I’m Not Alone&rpar;](https://gadgeteer.co.za/i-spend-more-time-watching-games-than-playing-them-and-im-not-alone/)
 - [Say goodbye to parking tickets in South Africa](https://gadgeteer.co.za/say-goodbye-to-parking-tickets-in-south-africa/)
-- [OpenBoard is a free and open source cross-platform interactive whiteboard for schools and universities](https://gadgeteer.co.za/openboard-is-a-free-and-open-source-cross-platform-interactive-whiteboard-for-schools-and-universities/)
 <!-- BLOG-POST-LIST:END -->
 
 
