@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WikiTok is a Web App Is TikTok for Reading Wikipedia](https://gadgeteer.co.za/wikitok-is-a-web-app-is-tiktok-for-reading-wikipedia/)
 - [Apple hearing aid feature now available in South Africa](https://gadgeteer.co.za/apple-hearing-aid-feature-now-available-in-south-africa/)
 - [uTag App Brings Galaxy Trackers Non-Samsung Phones](https://gadgeteer.co.za/utag-app-brings-galaxy-trackers-non-samsung-phones/)
 - [How To Mount A Drive Permanently In Linux Using Fstab: A Step-by-Step Guide](https://gadgeteer.co.za/how-to-mount-a-drive-permanently-in-linux-using-fstab-a-step-by-step-guide/)
 - [The New OnePlus Watch 3 Lasts 5 Days In Smart Mode](https://gadgeteer.co.za/the-new-oneplus-watch-3-lasts-5-days-in-smart-mode/)
-- [5 networking tools to safeguard your home lab from the inside out](https://gadgeteer.co.za/5-networking-tools-to-safeguard-your-home-lab-from-the-inside-out/)
 <!-- BLOG-POST-LIST:END -->
 
 
