@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I migrated from a Consumer Router to an OPNsense Firewall Appliance](https://gadgeteer.co.za/i-migrated-from-a-consumer-router-to-an-opnsense-firewall-appliance/)
 - [You can turn an old phone into a Stream Deck for your PC: here’s how](https://gadgeteer.co.za/you-can-turn-an-old-phone-into-a-stream-deck-for-your-pc-heres-how/)
 - [WikiTok is a Web App Is TikTok for Reading Wikipedia](https://gadgeteer.co.za/wikitok-is-a-web-app-is-tiktok-for-reading-wikipedia/)
 - [Apple hearing aid feature now available in South Africa](https://gadgeteer.co.za/apple-hearing-aid-feature-now-available-in-south-africa/)
 - [uTag App Brings Galaxy Trackers Non-Samsung Phones](https://gadgeteer.co.za/utag-app-brings-galaxy-trackers-non-samsung-phones/)
-- [How To Mount A Drive Permanently In Linux Using Fstab: A Step-by-Step Guide](https://gadgeteer.co.za/how-to-mount-a-drive-permanently-in-linux-using-fstab-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
