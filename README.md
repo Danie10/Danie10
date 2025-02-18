@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to do split tunnelling with ProtonVPN &lpar;or other VPN&rpar; on Linux](https://gadgeteer.co.za/how-to-do-split-tunnelling-with-protonvpn-or-other-vpn-on-linux/)
 - [Wox is the open source Alfred alternative Windows users need to boost their productivity](https://gadgeteer.co.za/wox-is-the-open-source-alfred-alternative-windows-users-need-to-boost-their-productivity/)
 - [6 reasons Darktable is better than Adobe Lightroom for hobbyist photo editors](https://gadgeteer.co.za/6-reasons-darktable-is-better-than-adobe-lightroom-for-hobbyist-photo-editors/)
 - [I migrated from a Consumer Router to an OPNsense Firewall Appliance](https://gadgeteer.co.za/i-migrated-from-a-consumer-router-to-an-opnsense-firewall-appliance/)
 - [You can turn an old phone into a Stream Deck for your PC: here’s how](https://gadgeteer.co.za/you-can-turn-an-old-phone-into-a-stream-deck-for-your-pc-heres-how/)
-- [WikiTok is a Web App Is TikTok for Reading Wikipedia](https://gadgeteer.co.za/wikitok-is-a-web-app-is-tiktok-for-reading-wikipedia/)
 <!-- BLOG-POST-LIST:END -->
 
 
