@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clicks keyboard comes to Android to give your Galaxy, Pixel, or Moto that BlackBerry look](https://gadgeteer.co.za/clicks-keyboard-comes-to-android-to-give-your-galaxy-pixel-or-moto-that-blackberry-look/)
 - [9 hidden features in VLC you might not know about](https://gadgeteer.co.za/9-hidden-features-in-vlc-you-might-not-know-about/)
 - [Watch this if you think home routers are not being tried to be hacked](https://gadgeteer.co.za/watch-this-if-you-think-home-routers-are-not-being-tried-to-be-hacked/)
 - [5 ways ZFS is superior to Btrfs for storing data](https://gadgeteer.co.za/5-ways-zfs-is-superior-to-btrfs-for-storing-data/)
 - [Good news for EskomSePush fans in South Africa](https://gadgeteer.co.za/good-news-for-eskomsepush-fans-in-south-africa/)
-- [What is a Home lab, and why tech enthusiasts should build one](https://gadgeteer.co.za/what-is-a-home-lab-and-why-tech-enthusiasts-should-build-one/)
 <!-- BLOG-POST-LIST:END -->
 
 
