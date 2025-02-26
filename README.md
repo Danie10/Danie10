@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Poynting Antennas is an internationally recognised manufacturer of antennas based in South Africa](https://gadgeteer.co.za/poynting-antennas-is-an-internationally-recognised-manufacturer-of-antennas-based-in-south-africa/)
 - [Firefox continues Manifest V2 support as Chrome disables MV2 ad-blockers](https://gadgeteer.co.za/firefox-continues-manifest-v2-support-as-chrome-disables-mv2-ad-blockers/)
 - [I monitor my home network by self-hosting ntopng – here’s how](https://gadgeteer.co.za/i-monitor-my-home-network-by-self-hosting-ntopng-heres-how/)
 - [Clicks keyboard comes to Android to give your Galaxy, Pixel, or Moto that BlackBerry look](https://gadgeteer.co.za/clicks-keyboard-comes-to-android-to-give-your-galaxy-pixel-or-moto-that-blackberry-look/)
 - [9 hidden features in VLC you might not know about](https://gadgeteer.co.za/9-hidden-features-in-vlc-you-might-not-know-about/)
-- [Watch this if you think home routers are not being tried to be hacked](https://gadgeteer.co.za/watch-this-if-you-think-home-routers-are-not-being-tried-to-be-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 
