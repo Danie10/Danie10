@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Uptime Status Page for GadgeteerZA Site](https://gadgeteer.co.za/new-uptime-status-page-for-gadgeteerza-site/)
 - [Forget about Excel — You can self-host open source Grist to manage your spreadsheets](https://gadgeteer.co.za/forget-about-excel-you-can-self-host-open-source-grist-to-manage-your-spreadsheets/)
 - [Breezy Weather is an open source Android weather app with many local weather services supported inc 17 African states](https://gadgeteer.co.za/breezy-weather-is-an-open-source-android-weather-app-with-many-local-weather-services-supported-inc-17-african-states/)
 - [Poynting Antennas is an internationally recognised manufacturer of antennas based in South Africa](https://gadgeteer.co.za/poynting-antennas-is-an-internationally-recognised-manufacturer-of-antennas-based-in-south-africa/)
 - [Firefox continues Manifest V2 support as Chrome disables MV2 ad-blockers](https://gadgeteer.co.za/firefox-continues-manifest-v2-support-as-chrome-disables-mv2-ad-blockers/)
-- [I monitor my home network by self-hosting ntopng – here’s how](https://gadgeteer.co.za/i-monitor-my-home-network-by-self-hosting-ntopng-heres-how/)
 <!-- BLOG-POST-LIST:END -->
 
 
