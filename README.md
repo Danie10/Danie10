@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ExpressVPN Finally Gives Linux Users Split Tunnelling and a GUI](https://gadgeteer.co.za/expressvpn-finally-gives-linux-users-split-tunnelling-and-a-gui/)
 - [Open source software can benefit South African youth, fight joblessness](https://gadgeteer.co.za/open-source-software-can-benefit-south-african-youth-fight-joblessness/)
 - [Ente Photos is an Open Source End-to-End Encrypted Cloud Management Photo Management Service](https://gadgeteer.co.za/ente-photos-is-an-open-source-end-to-end-encrypted-cloud-management-photo-management-service/)
 - [Top 7 Best Open Source Skype Alternatives In 2025](https://gadgeteer.co.za/top-7-best-open-source-skype-alternatives-in-2025/)
 - [4 reasons I choose Firefox over Brave for maximum security](https://gadgeteer.co.za/4-reasons-i-choose-firefox-over-brave-for-maximum-security/)
-- [How Noise-Cancelling Headphones Work—and Why You’ll Never Go Back](https://gadgeteer.co.za/how-noise-cancelling-headphones-work-and-why-youll-never-go-back/)
 <!-- BLOG-POST-LIST:END -->
 
 
