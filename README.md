@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Has a Hidden Software Package Manager](https://gadgeteer.co.za/windows-has-a-hidden-software-package-manager/)
+- [Over 360,000km on one battery — South Africa’s highest mileage electric car](https://gadgeteer.co.za/over-360000km-on-one-battery-south-africas-highest-mileage-electric-car/)
 - [Prolong Laptop Battery Life in Linux by Limiting Charging Levels](https://gadgeteer.co.za/prolong-laptop-battery-life-in-linux-by-limiting-charging-levels/)
 - [Notesnook is a cross-platform end-to-end encrypted open source note-taking alternative to Evernote](https://gadgeteer.co.za/notesnook-is-a-cross-platform-end-to-end-encrypted-open-source-note-taking-alternative-to-evernote/)
 - [Vodacom joins fight against firearm theft in South Africa with Peacemaker E2E Firearm Tracking System](https://gadgeteer.co.za/vodacom-joins-fight-against-firearm-theft-in-south-africa-with-peacemaker-e2e-firearm-tracking-system/)
-- [Bitfocus Companion buttons can show status info from OS commands or OPNsense firewall on Stream Deck](https://gadgeteer.co.za/bitfocus-companion-buttons-can-show-status-info-from-os-commands-or-opnsense-firewall-on-stream-deck/)
-- [Pinksky is a photo client for Bluesky &lpar;iOS and Android&rpar;](https://gadgeteer.co.za/pinksky-is-a-photo-client-for-bluesky-ios-and-android/)
 <!-- BLOG-POST-LIST:END -->
 
 
