@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An SSD docking station is a great idea to easily utilise replaced SSSD drives](https://gadgeteer.co.za/an-ssd-docking-station-is-a-great-idea-to-easily-utilise-replaced-sssd-drives/)
 - [OPNManager is a beta version Android app for the OPNsense firewall](https://gadgeteer.co.za/opnmanager-is-a-beta-version-android-app-for-the-opnsense-firewall/)
 - [It’s Already Worth Downloading the Mobile Epic Games Store](https://gadgeteer.co.za/its-already-worth-downloading-the-mobile-epic-games-store/)
 - [Homebrew Traffic Monitor Performs Useful Traffic Surveys](https://gadgeteer.co.za/homebrew-traffic-monitor-performs-useful-traffic-surveys/)
 - [Windows Has a Hidden Software Package Manager](https://gadgeteer.co.za/windows-has-a-hidden-software-package-manager/)
-- [Over 360,000km on one battery — South Africa’s highest mileage electric car](https://gadgeteer.co.za/over-360000km-on-one-battery-south-africas-highest-mileage-electric-car/)
 <!-- BLOG-POST-LIST:END -->
 
 
