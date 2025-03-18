@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [These 6 myths about gaming on Linux just aren’t true &lpar;except one&rpar;](https://gadgeteer.co.za/these-6-myths-about-gaming-on-linux-just-arent-true-except-one/)
 - [There is a lot of good news to be found outside of your social media feeds](https://gadgeteer.co.za/there-is-a-lot-of-good-news-to-be-found-outside-of-your-social-media-feeds/)
 - [‘Critical concerns’ about internet of things security](https://gadgeteer.co.za/critical-concerns-about-internet-of-things-security/)
 - [RCS Universal Profile 3.0 will fully encrypt texts between iPhone and Android](https://gadgeteer.co.za/rcs-universal-profile-3-0-will-fully-encrypt-texts-between-iphone-and-android/)
 - [An SSD docking station is a great idea to easily utilise replaced SSSD drives](https://gadgeteer.co.za/an-ssd-docking-station-is-a-great-idea-to-easily-utilise-replaced-sssd-drives/)
-- [OPNManager is a beta version Android app for the OPNsense firewall](https://gadgeteer.co.za/opnmanager-is-a-beta-version-android-app-for-the-opnsense-firewall/)
 <!-- BLOG-POST-LIST:END -->
 
 
