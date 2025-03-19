@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Photography Sim Games are now a Thing too](https://gadgeteer.co.za/photography-sim-games-are-now-a-thing-too/)
 - [GIMP 3’s New Features Make the Best Free and Open Source Image Editor Even Better](https://gadgeteer.co.za/gimp-3s-new-features-make-the-best-free-and-open-source-image-editor-even-better/)
 - [PeerTube 7.1 Expands Podcast 2.0 and Apple Podcast Support](https://gadgeteer.co.za/peertube-7-1-expands-podcast-2-0-and-apple-podcast-support/)
 - [These 6 myths about gaming on Linux just aren’t true &lpar;except one&rpar;](https://gadgeteer.co.za/these-6-myths-about-gaming-on-linux-just-arent-true-except-one/)
 - [There is a lot of good news to be found outside of your social media feeds](https://gadgeteer.co.za/there-is-a-lot-of-good-news-to-be-found-outside-of-your-social-media-feeds/)
-- [‘Critical concerns’ about internet of things security](https://gadgeteer.co.za/critical-concerns-about-internet-of-things-security/)
 <!-- BLOG-POST-LIST:END -->
 
 
