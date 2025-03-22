@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WeatherSpark offers detailed reports of the typical weather for 145,479 locations worldwide](https://gadgeteer.co.za/weatherspark-offers-detailed-reports-of-the-typical-weather-for-145479-locations-worldwide/)
 - [8 Tiny Utilities to Make Your Linux Experience Even Better](https://gadgeteer.co.za/8-tiny-utilities-to-make-your-linux-experience-even-better/)
 - [An NVMe drive is giving me 700% faster performance than my previous SATA SSD drive](https://gadgeteer.co.za/an-nvme-drive-is-giving-me-700-faster-performance-than-my-previous-sata-ssd-drive/)
 - [Use FilePizza App to Send Someone a File Without Using Any Cloud Storage](https://gadgeteer.co.za/use-filepizza-app-to-send-someone-a-file-without-using-any-cloud-storage/)
 - [Time to ditch US tech for homegrown options, says Dutch parliament](https://gadgeteer.co.za/time-to-ditch-us-tech-for-homegrown-options-says-dutch-parliament/)
-- [Photography Sim Games are now a Thing too](https://gadgeteer.co.za/photography-sim-games-are-now-a-thing-too/)
 <!-- BLOG-POST-LIST:END -->
 
 
