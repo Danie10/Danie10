@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FBI warnings are true—fake file converters do push malware](https://gadgeteer.co.za/fbi-warnings-are-true-fake-file-converters-do-push-malware/)
 - [7 reasons Thunderbird should be your new email client](https://gadgeteer.co.za/7-reasons-thunderbird-should-be-your-new-email-client/)
 - [Here’s Everything You Can Do With the Ports on Your Monitor](https://gadgeteer.co.za/heres-everything-you-can-do-with-the-ports-on-your-monitor/)
 - [The RingConn Gen 2 may be a good subscription-free alternative to the Oura ring](https://gadgeteer.co.za/the-ringconn-gen-2-may-be-a-good-subscription-free-alternative-to-the-oura-ring/)
 - [WeatherSpark offers detailed reports of the typical weather for 145,479 locations worldwide](https://gadgeteer.co.za/weatherspark-offers-detailed-reports-of-the-typical-weather-for-145479-locations-worldwide/)
-- [8 Tiny Utilities to Make Your Linux Experience Even Better](https://gadgeteer.co.za/8-tiny-utilities-to-make-your-linux-experience-even-better/)
 <!-- BLOG-POST-LIST:END -->
 
 
