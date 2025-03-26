@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Signal vs WhatsApp: Signal is still the most private by a long way](https://gadgeteer.co.za/signal-vs-whatsapp-signal-is-still-the-most-private-by-a-long-way/)
 - [Powerfoyle may be able to keep many battery powered products permanently charged](https://gadgeteer.co.za/powerfoyle-may-be-able-to-keep-many-battery-powered-products-permanently-charged/)
 - [inZOI is a hyperrealistic life simulation going into public early access by end March 2025](https://gadgeteer.co.za/inzoi-is-a-hyperrealistic-life-simulation-going-into-public-early-access-by-end-march-2025/)
 - [It’s true that Big Tech are not the most innovative companies around](https://gadgeteer.co.za/its-true-that-big-tech-are-not-the-most-innovative-companies-around/)
 - [10 Tricks You Can Do With FFmpeg on Linux, macOS, and Windows](https://gadgeteer.co.za/10-tricks-you-can-do-with-ffmpeg-on-linux-macos-and-windows/)
-- [FBI warnings are true—fake file converters do push malware](https://gadgeteer.co.za/fbi-warnings-are-true-fake-file-converters-do-push-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 
