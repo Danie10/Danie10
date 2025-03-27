@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First direct-to-satellite phone call in South Africa using a LEO satellite and unmodified mobile phones](https://gadgeteer.co.za/first-direct-to-satellite-phone-call-in-south-africa-using-a-leo-satellite-and-unmodified-mobile-phones/)
 - [4 reasons CryptPad is the best privacy-focused alternative to Google Drive, Docs, and Sheets](https://gadgeteer.co.za/4-reasons-cryptpad-is-the-best-privacy-focused-alternative-to-google-drive-docs-and-sheets/)
 - [Sez Us Is A New Social Media App Punishes Users for Rage-Baiting](https://gadgeteer.co.za/sez-us-is-a-new-social-media-app-punishes-users-for-rage-baiting/)
 - [Signal vs WhatsApp: Signal is still the most private by a long way](https://gadgeteer.co.za/signal-vs-whatsapp-signal-is-still-the-most-private-by-a-long-way/)
 - [Powerfoyle may be able to keep many battery powered products permanently charged](https://gadgeteer.co.za/powerfoyle-may-be-able-to-keep-many-battery-powered-products-permanently-charged/)
-- [inZOI is a hyperrealistic life simulation going into public early access by end March 2025](https://gadgeteer.co.za/inzoi-is-a-hyperrealistic-life-simulation-going-into-public-early-access-by-end-march-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 
