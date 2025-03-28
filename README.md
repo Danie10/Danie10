@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keep Tabs On Your Vehicle’s Needs With Self-Hosted LubeLogger](https://gadgeteer.co.za/keep-tabs-on-your-vehicles-needs-with-self-hosted-lubelogger/)
 - [These 5 Companies Make Linux-First PCs](https://gadgeteer.co.za/these-5-companies-make-linux-first-pcs/)
 - [First direct-to-satellite phone call in South Africa using a LEO satellite and unmodified mobile phones](https://gadgeteer.co.za/first-direct-to-satellite-phone-call-in-south-africa-using-a-leo-satellite-and-unmodified-mobile-phones/)
 - [4 reasons CryptPad is the best privacy-focused alternative to Google Drive, Docs, and Sheets](https://gadgeteer.co.za/4-reasons-cryptpad-is-the-best-privacy-focused-alternative-to-google-drive-docs-and-sheets/)
 - [Sez Us Is A New Social Media App Punishes Users for Rage-Baiting](https://gadgeteer.co.za/sez-us-is-a-new-social-media-app-punishes-users-for-rage-baiting/)
-- [Signal vs WhatsApp: Signal is still the most private by a long way](https://gadgeteer.co.za/signal-vs-whatsapp-signal-is-still-the-most-private-by-a-long-way/)
 <!-- BLOG-POST-LIST:END -->
 
 
