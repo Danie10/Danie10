@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mini rolling robot takes virtual biopsies — And it’s all in the shape](https://gadgeteer.co.za/mini-rolling-robot-takes-virtual-biopsies-and-its-all-in-the-shape/)
 - [Ear Tip Fit Tests: How Do They Work, and Are They Accurate?](https://gadgeteer.co.za/ear-tip-fit-tests-how-do-they-work-and-are-they-accurate/)
 - [Wow, this is a 25-year-old Palm Pilot still being used in 2025](https://gadgeteer.co.za/wow-this-is-a-25-year-old-palm-pilot-still-being-used-in-2025/)
 - [Keep Tabs On Your Vehicle’s Needs With Self-Hosted LubeLogger](https://gadgeteer.co.za/keep-tabs-on-your-vehicles-needs-with-self-hosted-lubelogger/)
 - [These 5 Companies Make Linux-First PCs](https://gadgeteer.co.za/these-5-companies-make-linux-first-pcs/)
-- [First direct-to-satellite phone call in South Africa using a LEO satellite and unmodified mobile phones](https://gadgeteer.co.za/first-direct-to-satellite-phone-call-in-south-africa-using-a-leo-satellite-and-unmodified-mobile-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 
