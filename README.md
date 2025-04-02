@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source KStars is the most feature-rich free astronomy software for Linux, macOS, and Windows](https://gadgeteer.co.za/open-source-kstars-is-the-most-feature-rich-free-astronomy-software-for-linux-macos-and-windows/)
 - [Huginn is a free, open-source IFTTT alternative that’s much more powerful](https://gadgeteer.co.za/huginn-is-a-free-open-source-ifttt-alternative-thats-much-more-powerful/)
 - [OxiCloud is an open source lightweight alternative to NextCloud](https://gadgeteer.co.za/oxicloud-is-an-open-source-lightweight-alternative-to-nextcloud/)
 - [Nitisinone Could Make Human Blood Deadly to Mosquitos, Combatting Malaria](https://gadgeteer.co.za/nitisinone-could-make-human-blood-deadly-to-mosquitos-combatting-malaria/)
 - [Mini rolling robot takes virtual biopsies — And it’s all in the shape](https://gadgeteer.co.za/mini-rolling-robot-takes-virtual-biopsies-and-its-all-in-the-shape/)
-- [Ear Tip Fit Tests: How Do They Work, and Are They Accurate?](https://gadgeteer.co.za/ear-tip-fit-tests-how-do-they-work-and-are-they-accurate/)
 <!-- BLOG-POST-LIST:END -->
 
 
