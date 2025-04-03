@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EU OS: Community-led Proof-of-Concept for a free Operating System for the EU public sector](https://gadgeteer.co.za/eu-os-community-led-proof-of-concept-for-a-free-operating-system-for-the-eu-public-sector/)
 - [This Machine Flattens Your Old Warped Vinyl Records](https://gadgeteer.co.za/this-machine-flattens-your-old-warped-vinyl-records/)
 - [Open Source KStars is the most feature-rich free astronomy software for Linux, macOS, and Windows](https://gadgeteer.co.za/open-source-kstars-is-the-most-feature-rich-free-astronomy-software-for-linux-macos-and-windows/)
 - [Huginn is a free, open-source IFTTT alternative that’s much more powerful](https://gadgeteer.co.za/huginn-is-a-free-open-source-ifttt-alternative-thats-much-more-powerful/)
 - [OxiCloud is an open source lightweight alternative to NextCloud](https://gadgeteer.co.za/oxicloud-is-an-open-source-lightweight-alternative-to-nextcloud/)
-- [Nitisinone Could Make Human Blood Deadly to Mosquitos, Combatting Malaria](https://gadgeteer.co.za/nitisinone-could-make-human-blood-deadly-to-mosquitos-combatting-malaria/)
 <!-- BLOG-POST-LIST:END -->
 
 
