@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [‘Careless People’ Is the Book About Facebook I’ve Wanted for a Decade, but it is Banned](https://gadgeteer.co.za/careless-people-is-the-book-about-facebook-ive-wanted-for-a-decade-but-it-is-banned/)
 - [Zorin OS 17.3 Tries to Attract Windows 10 Users](https://gadgeteer.co.za/zorin-os-17-3-tries-to-attract-windows-10-users/)
 - [Lessons from open source in the Mexican government](https://gadgeteer.co.za/lessons-from-open-source-in-the-mexican-government/)
 - [It’s not just clock speed: Here’s what makes one CPU better than another](https://gadgeteer.co.za/its-not-just-clock-speed-heres-what-makes-one-cpu-better-than-another/)
 - [GKrellM: A Cross-Platform Open Source System Monitor](https://gadgeteer.co.za/gkrellm-a-cross-platform-open-source-system-monitor/)
-- [EU OS: Community-led Proof-of-Concept for a free Operating System for the EU public sector](https://gadgeteer.co.za/eu-os-community-led-proof-of-concept-for-a-free-operating-system-for-the-eu-public-sector/)
 <!-- BLOG-POST-LIST:END -->
 
 
