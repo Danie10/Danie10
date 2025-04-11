@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Street View data can now help analyse infrastructure like roads and utility poles](https://gadgeteer.co.za/googles-street-view-data-can-now-help-analyse-infrastructure-like-roads-and-utility-poles/)
 - [How having an online backup saved my home server today](https://gadgeteer.co.za/how-having-an-online-backup-saved-my-home-server-today/)
 - [4 reasons you may want to use Virtual Hard Disks instead of partitioning storage, or not](https://gadgeteer.co.za/4-reasons-you-may-want-to-use-virtual-hard-disks-instead-of-partitioning-storage-or-not/)
 - [South Africa gets online system for reporting data breaches](https://gadgeteer.co.za/south-africa-gets-online-system-for-reporting-data-breaches/)
 - [‘Careless People’ Is the Book About Facebook I’ve Wanted for a Decade, but the Author is Gagged from Promoting It](https://gadgeteer.co.za/careless-people-is-the-book-about-facebook-ive-wanted-for-a-decade-but-it-is-banned/)
-- [Zorin OS 17.3 Tries to Attract Windows 10 Users](https://gadgeteer.co.za/zorin-os-17-3-tries-to-attract-windows-10-users/)
 <!-- BLOG-POST-LIST:END -->
 
 
