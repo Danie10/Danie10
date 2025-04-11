@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 cable management tricks I regret not learning sooner](https://gadgeteer.co.za/7-cable-management-tricks-i-regret-not-learning-sooner/)
 - [Hackers Exploit WordPress mu-Plugins to Inject Spam and Hijack Site Images](https://gadgeteer.co.za/hackers-exploit-wordpress-mu-plugins-to-inject-spam-and-hijack-site-images/)
 - [Google’s Street View data can now help analyse infrastructure like roads and utility poles](https://gadgeteer.co.za/googles-street-view-data-can-now-help-analyse-infrastructure-like-roads-and-utility-poles/)
 - [How having an online backup saved my home server today](https://gadgeteer.co.za/how-having-an-online-backup-saved-my-home-server-today/)
 - [4 reasons you may want to use Virtual Hard Disks instead of partitioning storage, or not](https://gadgeteer.co.za/4-reasons-you-may-want-to-use-virtual-hard-disks-instead-of-partitioning-storage-or-not/)
-- [South Africa gets online system for reporting data breaches](https://gadgeteer.co.za/south-africa-gets-online-system-for-reporting-data-breaches/)
 <!-- BLOG-POST-LIST:END -->
 
 
