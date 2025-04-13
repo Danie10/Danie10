@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Didn’t Think I Needed Noise-cancelling Headphones—Until I Tried Them](https://gadgeteer.co.za/i-didnt-think-i-needed-noise-cancelling-headphones-until-i-tried-them/)
 - [Mapping legend UK Ordnance Survey releases blocky Britain in Minecraft – again](https://gadgeteer.co.za/mapping-legend-uk-ordnance-survey-releases-blocky-britain-in-minecraft-again/)
 - [7 cable management tricks I regret not learning sooner](https://gadgeteer.co.za/7-cable-management-tricks-i-regret-not-learning-sooner/)
 - [Hackers Exploit WordPress mu-Plugins to Inject Spam and Hijack Site Images](https://gadgeteer.co.za/hackers-exploit-wordpress-mu-plugins-to-inject-spam-and-hijack-site-images/)
 - [Google’s Street View data can now help analyse infrastructure like roads and utility poles](https://gadgeteer.co.za/googles-street-view-data-can-now-help-analyse-infrastructure-like-roads-and-utility-poles/)
-- [How having an online backup saved my home server today](https://gadgeteer.co.za/how-having-an-online-backup-saved-my-home-server-today/)
 <!-- BLOG-POST-LIST:END -->
 
 
