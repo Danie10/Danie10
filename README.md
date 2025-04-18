@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vantec NexStar JX NST-358SU3-BK External Drive Enclosure Video](https://gadgeteer.co.za/vantec-nexstar-jx-nst-358su3-bk-external-drive-enclosure-video/)
 - [You’re Missing Out on Hidden Android Updates](https://gadgeteer.co.za/youre-missing-out-on-hidden-android-updates/)
 - [You Don’t Have to Choose Between iPhone and Android With the New Chipolo Pop Tracker](https://gadgeteer.co.za/you-dont-have-to-choose-between-iphone-and-android-with-the-new-chipolo-pop-tracker/)
 - [I Didn’t Think I Needed Noise-cancelling Headphones—Until I Tried Them](https://gadgeteer.co.za/i-didnt-think-i-needed-noise-cancelling-headphones-until-i-tried-them/)
 - [Mapping legend UK Ordnance Survey releases blocky Britain in Minecraft – again](https://gadgeteer.co.za/mapping-legend-uk-ordnance-survey-releases-blocky-britain-in-minecraft-again/)
-- [7 cable management tricks I regret not learning sooner](https://gadgeteer.co.za/7-cable-management-tricks-i-regret-not-learning-sooner/)
 <!-- BLOG-POST-LIST:END -->
 
 
