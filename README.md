@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Someone made a LiDAR scanner with a Raspberry Pi, and it looks awesome](https://gadgeteer.co.za/someone-made-a-lidar-scanner-with-a-raspberry-pi-and-it-looks-awesome/)
 - [6 mistakes you’re making when buying new case fans for your PC](https://gadgeteer.co.za/6-mistakes-youre-making-when-buying-new-case-fans-for-your-pc/)
 - [Vantec NexStar JX NST-358SU3-BK External Drive Enclosure Video](https://gadgeteer.co.za/vantec-nexstar-jx-nst-358su3-bk-external-drive-enclosure-video/)
 - [You’re Missing Out on Hidden Android Updates](https://gadgeteer.co.za/youre-missing-out-on-hidden-android-updates/)
 - [You Don’t Have to Choose Between iPhone and Android With the New Chipolo Pop Tracker](https://gadgeteer.co.za/you-dont-have-to-choose-between-iphone-and-android-with-the-new-chipolo-pop-tracker/)
-- [I Didn’t Think I Needed Noise-cancelling Headphones—Until I Tried Them](https://gadgeteer.co.za/i-didnt-think-i-needed-noise-cancelling-headphones-until-i-tried-them/)
 <!-- BLOG-POST-LIST:END -->
 
 
