@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vivo has an optional Photographer Kit that adds a removable grip and a telephoto lens with an 8.7x zoom](https://gadgeteer.co.za/vivo-has-an-optional-photographer-kit-that-adds-a-removable-grip-and-a-telephoto-lens-with-an-8-7x-zoom/)
 - [The cross-platform open source Kate Text Editor is a powerhouse of features](https://gadgeteer.co.za/the-cross-platform-open-source-kate-text-editor-is-a-powerhouse-of-features/)
 - [Bluesky Is Rolling Out Official Verification](https://gadgeteer.co.za/bluesky-is-rolling-out-official-verification/)
 - [Someone made a LiDAR scanner with a Raspberry Pi, and it looks awesome](https://gadgeteer.co.za/someone-made-a-lidar-scanner-with-a-raspberry-pi-and-it-looks-awesome/)
 - [6 mistakes you’re making when buying new case fans for your PC](https://gadgeteer.co.za/6-mistakes-youre-making-when-buying-new-case-fans-for-your-pc/)
-- [Vantec NexStar JX NST-358SU3-BK External Drive Enclosure Video](https://gadgeteer.co.za/vantec-nexstar-jx-nst-358su3-bk-external-drive-enclosure-video/)
 <!-- BLOG-POST-LIST:END -->
 
 
