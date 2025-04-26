@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This is why Big Tech sites are free of cost, and thriving](https://gadgeteer.co.za/this-is-why-big-tech-sites-are-free-of-cost-and-thriving/)
 - [A solution to turn YouTube video playlists into a cleanly formatted text document](https://gadgeteer.co.za/a-solution-to-turn-youtube-video-playlists-into-a-cleanly-formatted-text-document/)
 - [Samsung’s Glasses-Free 3D Gaming Monitors Are Now Available](https://gadgeteer.co.za/samsungs-glasses-free-3d-gaming-monitors-are-now-available/)
 - [Vivo has an optional Photographer Kit that adds a removable grip and a telephoto lens with an 8.7x zoom](https://gadgeteer.co.za/vivo-has-an-optional-photographer-kit-that-adds-a-removable-grip-and-a-telephoto-lens-with-an-8-7x-zoom/)
 - [The cross-platform open source Kate Text Editor is a powerhouse of features](https://gadgeteer.co.za/the-cross-platform-open-source-kate-text-editor-is-a-powerhouse-of-features/)
-- [Bluesky Is Rolling Out Official Verification](https://gadgeteer.co.za/bluesky-is-rolling-out-official-verification/)
 <!-- BLOG-POST-LIST:END -->
 
 
