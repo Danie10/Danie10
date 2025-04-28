@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Winget brings Linux-like centralised package management to Windows](https://gadgeteer.co.za/winget-brings-linux-like-centralised-package-management-to-windows/)
+- [7 network security myths that make you less secure](https://gadgeteer.co.za/7-network-security-myths-that-make-you-less-secure/)
 - [SmokePing is a cross-platform open source deluxe latency measurement tool](https://gadgeteer.co.za/smokeping-is-a-cross-platform-open-source-deluxe-latency-measurement-tool/)
 - [South Africans should check their Experian credit reports for unknown reports against themselves from Vodacom](https://gadgeteer.co.za/south-africans-should-check-their-experian-credit-reports-for-unknown-reports-against-themselves-from-vodacom/)
 - [This is why Big Tech sites are free of cost, and thriving](https://gadgeteer.co.za/this-is-why-big-tech-sites-are-free-of-cost-and-thriving/)
-- [A solution to turn YouTube video playlists into a cleanly formatted text document](https://gadgeteer.co.za/a-solution-to-turn-youtube-video-playlists-into-a-cleanly-formatted-text-document/)
-- [Samsung’s Glasses-Free 3D Gaming Monitors Are Now Available](https://gadgeteer.co.za/samsungs-glasses-free-3d-gaming-monitors-are-now-available/)
 <!-- BLOG-POST-LIST:END -->
 
 
