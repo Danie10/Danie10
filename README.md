@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SmokePing is a cross-platform open source deluxe latency measurement tool](https://gadgeteer.co.za/smokeping-is-a-cross-platform-open-source-deluxe-latency-measurement-tool/)
 - [South Africans should check their Experian credit reports for unknown reports against themselves from Vodacom](https://gadgeteer.co.za/south-africans-should-check-their-experian-credit-reports-for-unknown-reports-against-themselves-from-vodacom/)
 - [This is why Big Tech sites are free of cost, and thriving](https://gadgeteer.co.za/this-is-why-big-tech-sites-are-free-of-cost-and-thriving/)
 - [A solution to turn YouTube video playlists into a cleanly formatted text document](https://gadgeteer.co.za/a-solution-to-turn-youtube-video-playlists-into-a-cleanly-formatted-text-document/)
 - [Samsung’s Glasses-Free 3D Gaming Monitors Are Now Available](https://gadgeteer.co.za/samsungs-glasses-free-3d-gaming-monitors-are-now-available/)
-- [Vivo has an optional Photographer Kit that adds a removable grip and a telephoto lens with an 8.7x zoom](https://gadgeteer.co.za/vivo-has-an-optional-photographer-kit-that-adds-a-removable-grip-and-a-telephoto-lens-with-an-8-7x-zoom/)
 <!-- BLOG-POST-LIST:END -->
 
 
