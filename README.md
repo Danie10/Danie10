@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ookla Founder Launches “Orb,” a Smarter Internet Quality Tracker](https://gadgeteer.co.za/ookla-founder-launches-orb-a-smarter-internet-quality-tracker/)
 - [Valve’s Proton 10.0 Beta Released With More Windows Games Now Playable On Linux inc MS Flight Sim 2024](https://gadgeteer.co.za/valves-proton-10-0-beta-released-with-more-windows-games-now-playable-on-linux-inc-ms-flight-sim-2024/)
 - [This is probably what desktop Linux needed: PewDiePie installs Linux](https://gadgeteer.co.za/this-is-probably-what-desktop-linux-needed-pewdiepie-installs-linux/)
-- [Winget brings Linux-like centralised package management to Windows](https://gadgeteer.co.za/winget-brings-linux-like-centralised-package-management-to-windows/)
+- [Winget brings Linux-like unified package management to Windows](https://gadgeteer.co.za/winget-brings-linux-like-centralised-package-management-to-windows/)
 - [7 network security myths that make you less secure](https://gadgeteer.co.za/7-network-security-myths-that-make-you-less-secure/)
-- [SmokePing is a cross-platform open source deluxe latency measurement tool](https://gadgeteer.co.za/smokeping-is-a-cross-platform-open-source-deluxe-latency-measurement-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 
