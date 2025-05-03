@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Privacy Please is a browser extension that redirects users from major websites to privacy-respecting front end alternatives](https://gadgeteer.co.za/privacy-please-is-a-browser-extension-that-redirects-users-from-major-websites-to-privacy-respecting-front-end-alternatives/)
 - [5 reasons to use CryptPad instead of Google Docs](https://gadgeteer.co.za/5-reasons-to-use-cryptpad-instead-of-google-docs/)
 - [TidyOS is a free and open-source tool to debloat Windows 11](https://gadgeteer.co.za/tidyos-is-a-free-and-open-source-tool-to-debloat-windows-11/)
 - [Ookla Founder Launches “Orb,” a Smarter Internet Quality Tracker](https://gadgeteer.co.za/ookla-founder-launches-orb-a-smarter-internet-quality-tracker/)
 - [Valve’s Proton 10.0 Beta Released With More Windows Games Now Playable On Linux inc MS Flight Sim 2024](https://gadgeteer.co.za/valves-proton-10-0-beta-released-with-more-windows-games-now-playable-on-linux-inc-ms-flight-sim-2024/)
-- [This is probably what desktop Linux needed: PewDiePie installs Linux](https://gadgeteer.co.za/this-is-probably-what-desktop-linux-needed-pewdiepie-installs-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
