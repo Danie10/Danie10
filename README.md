@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linkwarden is an open source self-hosted collaborative bookmark manager](https://gadgeteer.co.za/linkwarden-is-an-open-source-self-hosted-collaborative-bookmark-manager/)
 - [YouTube just ignores reports of misleading information about videos](https://gadgeteer.co.za/youtube-just-ignores-reports-of-misleading-information-about-videos/)
 - [6 OPNsense plugins that make a home network a joy to use](https://gadgeteer.co.za/6-opnsense-plugins-that-make-a-home-network-a-joy-to-use/)
 - [Open Document Format turns 20, but Microsoft Office still reigns supreme](https://gadgeteer.co.za/open-document-format-turns-20-but-microsoft-office-still-reigns-supreme/)
 - [Privacy Please is a browser extension that redirects users from major websites to privacy-respecting front end alternatives](https://gadgeteer.co.za/privacy-please-is-a-browser-extension-that-redirects-users-from-major-websites-to-privacy-respecting-front-end-alternatives/)
-- [5 reasons to use CryptPad instead of Google Docs](https://gadgeteer.co.za/5-reasons-to-use-cryptpad-instead-of-google-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 
