@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Europe plots escape hatch from the enshittification of search](https://gadgeteer.co.za/europe-plots-escape-hatch-from-the-enshittification-of-search/)
 - [Google eventually adds UWB support to its rebranded Find Hub tracker app](https://gadgeteer.co.za/google-eventually-adds-uwb-support-to-its-rebranded-find-hub-tracker-app/)
 - [5 signs your NVMe SSD might actually need a heatsink](https://gadgeteer.co.za/5-signs-your-nvme-ssd-might-actually-need-a-heatsink/)
 - [Unlike Signal, WhatsApp provides no cryptographic management for group messages](https://gadgeteer.co.za/unlike-signal-whatsapp-provides-no-cryptographic-management-for-group-messages/)
 - [GadgeteerZA site update status back on Uptime Robot](https://gadgeteer.co.za/gadgeteerza-site-update-status-back-on-uptime-robot/)
-- [Ham radio turns 100 in South Africa](https://gadgeteer.co.za/ham-radio-turns-100-in-south-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 
