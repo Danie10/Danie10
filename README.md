@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ntfy is a pretty good open source notification service which you can host yourself](https://gadgeteer.co.za/ntfy-is-a-pretty-good-open-source-notification-service-which-you-can-host-yourself/)
 - [Rogue communication devices found in Chinese solar power inverters](https://gadgeteer.co.za/rogue-communication-devices-found-in-chinese-solar-power-inverters/)
 - [BleachBit 5.0 System Cleaning Utility Released with Major Upgrades](https://gadgeteer.co.za/bleachbit-5-0-system-cleaning-utility-released-with-major-upgrades/)
 - [Immich Public Proxy shares your Immich photos and albums safely without exposing your Immich instance to the public](https://gadgeteer.co.za/immich-public-proxy-shares-your-immich-photos-and-albums-safely-without-exposing-your-immich-instance-to-the-public/)
 - [Installed a network cabinet to tidy up my networking mess at home](https://gadgeteer.co.za/installed-a-network-cabinet-to-tidy-up-my-networking-mess-at-home/)
-- [Europe plots escape hatch from the enshittification of search](https://gadgeteer.co.za/europe-plots-escape-hatch-from-the-enshittification-of-search/)
 <!-- BLOG-POST-LIST:END -->
 
 
