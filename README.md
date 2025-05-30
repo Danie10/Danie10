@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Keep Containers Up-to-Date with What’s Up Docker &lpar;WUD&rpar;](https://gadgeteer.co.za/how-to-keep-containers-up-to-date-with-whats-up-docker-wud/)
 - [How to set up a self-hosted newsletter using listmonk](https://gadgeteer.co.za/how-to-set-up-a-self-hosted-newsletter-using-listmonk/)
 - [Thousands of Asus routers are being hit with stealthy, persistent backdoors](https://gadgeteer.co.za/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/)
 - [AFFiNE is an open-source, self-hosted alternative with a user interface very similar to Notion’s](https://gadgeteer.co.za/affine-is-an-open-source-self-hosted-alternative-with-a-user-interface-very-similar-to-notions/)
 - [KOReader is an ebook reader application supporting many formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices](https://gadgeteer.co.za/koreader-is-an-ebook-reader-application-supporting-many-formats-running-on-cervantes-kindle-kobo-pocketbook-and-android-devices/)
-- [Speedtest-Tracker is a self-hosted Internet Performance Dashboard](https://gadgeteer.co.za/speedtest-tracker-is-a-self-hosted-internet-performance-dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 
