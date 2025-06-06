@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Statistics for Strava is a self-hosted tool that gives you full control over your fitness data](https://gadgeteer.co.za/statistics-for-strava-is-a-self-hosted-tool-that-gives-you-full-control-over-your-fitness-data/)
 - [South African app Sociable aims to shake up social media](https://gadgeteer.co.za/south-african-app-sociable-aims-to-shake-up-social-media/)
 - [Nextcloud in 2025: How 25 Million Users Escaped Big Tech’s Data Prison](https://gadgeteer.co.za/nextcloud-in-2025-how-25-million-users-escaped-big-techs-data-prison/)
 - [Navidrome is an open source web-based music collection server and streamer](https://gadgeteer.co.za/navidrome-is-an-open-source-web-based-music-collection-server-and-streamer/)
 - [How to Keep Containers Up-to-Date with What’s Up Docker &lpar;WUD&rpar;](https://gadgeteer.co.za/how-to-keep-containers-up-to-date-with-whats-up-docker-wud/)
-- [How to set up a self-hosted newsletter using listmonk](https://gadgeteer.co.za/how-to-set-up-a-self-hosted-newsletter-using-listmonk/)
 <!-- BLOG-POST-LIST:END -->
 
 
