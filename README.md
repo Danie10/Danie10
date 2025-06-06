@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [These 8 Free Multiplayer Browser Games Are Too Fun to Miss Out On](https://gadgeteer.co.za/these-8-free-multiplayer-browser-games-are-too-fun-to-miss-out-on/)
+- [Packet is a Linux app that uses Android’s native Quick Share feature to exchange files](https://gadgeteer.co.za/packet-is-a-linux-app-that-uses-androids-native-quick-share-feature-to-exchange-files/)
 - [Statistics for Strava is a self-hosted tool that gives you full control over your fitness data](https://gadgeteer.co.za/statistics-for-strava-is-a-self-hosted-tool-that-gives-you-full-control-over-your-fitness-data/)
 - [South African app Sociable aims to shake up social media](https://gadgeteer.co.za/south-african-app-sociable-aims-to-shake-up-social-media/)
 - [Nextcloud in 2025: How 25 Million Users Escaped Big Tech’s Data Prison](https://gadgeteer.co.za/nextcloud-in-2025-how-25-million-users-escaped-big-techs-data-prison/)
-- [Navidrome is an open source web-based music collection server and streamer](https://gadgeteer.co.za/navidrome-is-an-open-source-web-based-music-collection-server-and-streamer/)
-- [How to Keep Containers Up-to-Date with What’s Up Docker &lpar;WUD&rpar;](https://gadgeteer.co.za/how-to-keep-containers-up-to-date-with-whats-up-docker-wud/)
 <!-- BLOG-POST-LIST:END -->
 
 
