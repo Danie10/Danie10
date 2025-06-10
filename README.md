@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Peep show: 40K IoT cameras worldwide stream secrets to anyone with a browser](https://gadgeteer.co.za/peep-show-40k-iot-cameras-worldwide-stream-secrets-to-anyone-with-a-browser/)
 - [Linux Foundation unveils decentralised WordPress plugin manager](https://gadgeteer.co.za/linux-foundation-unveils-decentralised-wordpress-plugin-manager/)
 - [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://gadgeteer.co.za/openai-slams-court-order-to-save-all-chatgpt-logs-including-deleted-chats/)
 - [Self-Hosting Isn’t Just for Nerds Anymore—Here’s Why You Should Care](https://gadgeteer.co.za/self-hosting-isnt-just-for-nerds-anymore-heres-why-you-should-care/)
 - [PowerTOP is a Linux tool created by Intel to monitor and diagnose power usage by running apps and services](https://gadgeteer.co.za/powertop-is-a-linux-tool-created-by-intel-to-monitor-and-diagnose-power-usage-by-running-apps-and-services/)
-- [Jelly Music App is an open source app that turns Jellyfin into a true Spotify alternative](https://gadgeteer.co.za/jelly-music-app-is-an-open-source-app-that-turns-jellyfin-into-a-true-spotify-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 
