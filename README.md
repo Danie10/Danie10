@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Watch 7 battery life hammered by Samsung Health Monitor app](https://gadgeteer.co.za/samsung-galaxy-watch-7-battery-life-hammered-by-samsung-health-monitor-app/)
 - [How To Check Disk Health In Linux: A Beginners Guide](https://gadgeteer.co.za/how-to-check-disk-health-in-linux-a-beginners-guide/)
 - [How much VRAM do games really use in 2025?](https://gadgeteer.co.za/how-much-vram-do-games-really-use-in-2025/)
 - [Denmark’s Government Ditches Microsoft for Open Source](https://gadgeteer.co.za/denmarks-government-ditches-microsoft-for-open-source/)
 - [Peep show: 40K IoT cameras worldwide stream secrets to anyone with a browser](https://gadgeteer.co.za/peep-show-40k-iot-cameras-worldwide-stream-secrets-to-anyone-with-a-browser/)
-- [Linux Foundation unveils decentralised WordPress plugin manager](https://gadgeteer.co.za/linux-foundation-unveils-decentralised-wordpress-plugin-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 
