@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You could use an M2 SSD in a PCIe adapter instead of a dedicated M2 slot on the motherboard](https://gadgeteer.co.za/you-could-use-an-m2-ssd-in-a-pcie-adapter-instead-of-a-dedicated-m2-slot-on-the-motherboard/)
 - [6 Free Games With Hundreds of Hours of Content to Enjoy](https://gadgeteer.co.za/6-free-games-with-hundreds-of-hours-of-content-to-enjoy/)
 - [Anker’s Soundcore Sleep earbuds finally feature active noise cancelling – At a Price](https://gadgeteer.co.za/ankers-soundcore-sleep-earbuds-finally-feature-active-noise-cancelling-at-a-price/)
 - [Samsung Galaxy Watch 7 battery life hammered by Samsung Health Monitor app](https://gadgeteer.co.za/samsung-galaxy-watch-7-battery-life-hammered-by-samsung-health-monitor-app/)
 - [How To Check Disk Health In Linux: A Beginners Guide](https://gadgeteer.co.za/how-to-check-disk-health-in-linux-a-beginners-guide/)
-- [How much VRAM do games really use in 2025?](https://gadgeteer.co.za/how-much-vram-do-games-really-use-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 
