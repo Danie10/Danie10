@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WUD is a better alternative to Watchtower for Docker updates](https://gadgeteer.co.za/wud-is-a-better-alternative-to-watchtower-for-docker-updates/)
 - [This is a good overview of how regex works](https://gadgeteer.co.za/this-is-a-good-overview-of-how-regex-works/)
 - [ZorinOS is a worthy consideration for Windows users newly moving to Linux](https://gadgeteer.co.za/zorinos-is-a-worthy-consideration-for-windows-users-newly-moving-to-linux/)
 - [OpenCloud is the lightweight Nextcloud alternative that runs on anything](https://gadgeteer.co.za/opencloud-is-the-lightweight-nextcloud-alternative-that-runs-on-anything/)
 - [Steam’s latest beta build makes gaming on Linux a breeze by enabling Proton for all titles by default](https://gadgeteer.co.za/steams-latest-beta-build-makes-gaming-on-linux-a-breeze-by-enabling-proton-for-all-titles-by-default/)
-- [You could use an M2 SSD in a PCIe adapter instead of a dedicated M2 slot on the motherboard](https://gadgeteer.co.za/you-could-use-an-m2-ssd-in-a-pcie-adapter-instead-of-a-dedicated-m2-slot-on-the-motherboard/)
 <!-- BLOG-POST-LIST:END -->
 
 
