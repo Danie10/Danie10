@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux](https://gadgeteer.co.za/microsoft-surprises-ms-dos-fans-with-remake-of-ancient-text-editor-that-works-on-linux/)
 - [The British VarEVolt battery fully recharges in 18 seconds — and it just got the green light for mass production](https://gadgeteer.co.za/the-british-varevolt-battery-fully-recharges-in-18-seconds-and-it-just-got-the-green-light-for-mass-production/)
 - [Steam Now Has an Overlay Performance Monitor](https://gadgeteer.co.za/steam-now-has-an-overlay-performance-monitor/)
 - [WUD is a better alternative to Watchtower for Docker updates](https://gadgeteer.co.za/wud-is-a-better-alternative-to-watchtower-for-docker-updates/)
 - [This is a good overview of how regex works](https://gadgeteer.co.za/this-is-a-good-overview-of-how-regex-works/)
-- [ZorinOS is a worthy consideration for Windows users newly moving to Linux](https://gadgeteer.co.za/zorinos-is-a-worthy-consideration-for-windows-users-newly-moving-to-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
