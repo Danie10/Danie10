@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [South Korea Brought High-Rise Fire Escape Solutions To The Masses](https://gadgeteer.co.za/south-korea-brought-high-rise-fire-escape-solutions-to-the-masses/)
 - [EasiShop is a South African comparative groceries shopping service developed by an ex-student from Cape Town](https://gadgeteer.co.za/easishop-is-a-south-african-comparative-groceries-shopping-service-developed-by-an-ex-student-from-cape-town/)
 - [I replaced my ISP router with OPNsense months ago, and I don’t regret it at all](https://gadgeteer.co.za/i-replaced-my-isp-router-with-opnsense-months-ago-and-i-dont-regret-it-at-all/)
 - [Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux](https://gadgeteer.co.za/microsoft-surprises-ms-dos-fans-with-remake-of-ancient-text-editor-that-works-on-linux/)
 - [The British VarEVolt battery fully recharges in 18 seconds — and it just got the green light for mass production](https://gadgeteer.co.za/the-british-varevolt-battery-fully-recharges-in-18-seconds-and-it-just-got-the-green-light-for-mass-production/)
-- [Steam Now Has an Overlay Performance Monitor](https://gadgeteer.co.za/steam-now-has-an-overlay-performance-monitor/)
 <!-- BLOG-POST-LIST:END -->
 
 
