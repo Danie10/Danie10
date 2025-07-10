@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Short Overview Video of the Ships at Sea Simulation Game](https://gadgeteer.co.za/my-short-overview-video-of-the-ships-at-sea-simulation-game/)
+- [Bluesky is rolling out age verification in the UK – No Way I Trust any Social Network with my ID](https://gadgeteer.co.za/bluesky-is-rolling-out-age-verification-in-the-uk-no-way-i-trust-any-social-network-with-my-id/)
 - [Jack Dorsey made an open source peer-to-peer encrypted Bluetooth messaging app called Bitchat](https://gadgeteer.co.za/jack-dorsey-made-an-open-source-peer-to-peer-encrypted-bluetooth-messaging-app-called-bitchat/)
 - [I’m enjoying playing Ships at Sea on Steam Games](https://gadgeteer.co.za/im-enjoying-playing-ships-at-sea-on-steam-games/)
 - [CoMaps is a fully open source navigation app that works offline and doesn’t track users](https://gadgeteer.co.za/comaps-is-a-fully-open-source-navigation-app-that-works-offline-and-doesnt-track-users/)
-- [French City of Lyon Kicks Out Microsoft](https://gadgeteer.co.za/french-city-of-lyon-kicks-out-microsoft/)
-- [South Korea Brought High-Rise Fire Escape Solutions To The Masses](https://gadgeteer.co.za/south-korea-brought-high-rise-fire-escape-solutions-to-the-masses/)
 <!-- BLOG-POST-LIST:END -->
 
 
