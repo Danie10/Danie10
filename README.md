@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [With Waydroid, It Is Easy to Run Android Apps on Linux Now](https://gadgeteer.co.za/with-waydroid-it-is-easy-to-run-android-apps-on-linux-now/)
 - [Bluestar Linux: Arch Power, User-Friendly Polish](https://gadgeteer.co.za/bluestar-linux-arch-power-user-friendly-polish/)
 - [My Short Overview Video of the Ships at Sea Simulation Game](https://gadgeteer.co.za/my-short-overview-video-of-the-ships-at-sea-simulation-game/)
 - [Bluesky is rolling out age verification in the UK – No Way I Trust any Social Network with my ID](https://gadgeteer.co.za/bluesky-is-rolling-out-age-verification-in-the-uk-no-way-i-trust-any-social-network-with-my-id/)
 - [Jack Dorsey made an open source peer-to-peer encrypted Bluetooth messaging app called Bitchat](https://gadgeteer.co.za/jack-dorsey-made-an-open-source-peer-to-peer-encrypted-bluetooth-messaging-app-called-bitchat/)
-- [I’m enjoying playing Ships at Sea on Steam Games](https://gadgeteer.co.za/im-enjoying-playing-ships-at-sea-on-steam-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
