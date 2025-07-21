@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Manage Linux Systemd Services Easily With Systemd-manager-tui](https://gadgeteer.co.za/manage-linux-systemd-services-easily-with-systemd-manager-tui/)
 - [KDE Itinerary is a digital travel assistant with a priority on protecting your privacy](https://gadgeteer.co.za/kde-itinerary-is-a-digital-travel-assistant-with-a-priority-on-protecting-your-privacy/)
 - [Jack Dorsey interview on the problems with Big Tech social media](https://gadgeteer.co.za/jack-dorsey-interview-on-the-problems-with-big-tech-social-media/)
 - [With Waydroid, It Is Easy to Run Android Apps on Linux Now](https://gadgeteer.co.za/with-waydroid-it-is-easy-to-run-android-apps-on-linux-now/)
 - [Bluestar Linux: Arch Power, User-Friendly Polish](https://gadgeteer.co.za/bluestar-linux-arch-power-user-friendly-polish/)
-- [My Short Overview Video of the Ships at Sea Simulation Game](https://gadgeteer.co.za/my-short-overview-video-of-the-ships-at-sea-simulation-game/)
 <!-- BLOG-POST-LIST:END -->
 
 
