@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You can watch YouTube on Jellyfin with TubeArchivist](https://gadgeteer.co.za/you-can-watch-youtube-on-jellyfin-with-tubearchivist/)
 - [Proton’s New AI Assistant Lumo Offers a Private and Encrypted Chat Alternative](https://gadgeteer.co.za/protons-new-ai-assistant-lumo-offers-a-private-and-encrypted-chat-alternative/)
 - [I’m finally able to use Wayland on an ongoing basis](https://gadgeteer.co.za/im-finally-able-to-use-wayland-on-an-ongoing-basis/)
 - [Harper is a grammar checker that is on-device and open source](https://gadgeteer.co.za/harper-is-a-grammar-checker-that-is-on-device-and-open-source/)
 - [Manage Linux Systemd Services Easily With Systemd-manager-tui](https://gadgeteer.co.za/manage-linux-systemd-services-easily-with-systemd-manager-tui/)
-- [KDE Itinerary is a digital travel assistant with a priority on protecting your privacy](https://gadgeteer.co.za/kde-itinerary-is-a-digital-travel-assistant-with-a-priority-on-protecting-your-privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 
