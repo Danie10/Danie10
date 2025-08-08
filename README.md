@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Signal groups for activism](https://gadgeteer.co.za/using-signal-groups-for-activism/)
 - [How to Clear RAM Cache, Buffers, and Swap in Linux Without Reboot](https://gadgeteer.co.za/how-to-clear-ram-cache-buffers-and-swap-in-linux-without-reboot/)
 - [If you find OpenStreetMap a bit difficult to plan off-road routes, try OpenRouteService](https://gadgeteer.co.za/if-you-find-openstreetmap-a-bit-difficult-to-plan-off-road-routes-try-openrouteservice/)
 - [You can watch YouTube on Jellyfin with TubeArchivist](https://gadgeteer.co.za/you-can-watch-youtube-on-jellyfin-with-tubearchivist/)
 - [Proton’s New AI Assistant Lumo Offers a Private and Encrypted Chat Alternative](https://gadgeteer.co.za/protons-new-ai-assistant-lumo-offers-a-private-and-encrypted-chat-alternative/)
-- [I’m finally able to use Wayland on an ongoing basis](https://gadgeteer.co.za/im-finally-able-to-use-wayland-on-an-ongoing-basis/)
 <!-- BLOG-POST-LIST:END -->
 
 
