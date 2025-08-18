@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You can once again buy an official Commodore C64](https://gadgeteer.co.za/you-can-once-again-buy-an-official-commodore-c64/)
 - [Homepage – An Open Source Self-Hosted Dashboard](https://gadgeteer.co.za/homepage-an-open-source-self-hosted-dashboard/)
 - [Various desktop Linux tips for newbies](https://gadgeteer.co.za/various-desktop-linux-tips-for-newbies/)
 - [Using Signal groups for activism](https://gadgeteer.co.za/using-signal-groups-for-activism/)
 - [How to Clear RAM Cache, Buffers, and Swap in Linux Without Reboot](https://gadgeteer.co.za/how-to-clear-ram-cache-buffers-and-swap-in-linux-without-reboot/)
-- [If you find OpenStreetMap a bit difficult to plan off-road routes, try OpenRouteService](https://gadgeteer.co.za/if-you-find-openstreetmap-a-bit-difficult-to-plan-off-road-routes-try-openrouteservice/)
 <!-- BLOG-POST-LIST:END -->
 
 
