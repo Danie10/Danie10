@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[URGENT] DEF CON Researcher Exposes How Password Managers Betray Your Trust](https://gadgeteer.co.za/urgent-def-con-researcher-exposes-how-password-managers-betray-your-trust/)
 - [You want your UPS to be NUT compatible](https://gadgeteer.co.za/you-want-your-ups-to-be-nut-compatible/)
 - [You can once again buy an official Commodore C64](https://gadgeteer.co.za/you-can-once-again-buy-an-official-commodore-c64/)
 - [Homepage – An Open Source Self-Hosted Dashboard](https://gadgeteer.co.za/homepage-an-open-source-self-hosted-dashboard/)
 - [Various desktop Linux tips for newbies](https://gadgeteer.co.za/various-desktop-linux-tips-for-newbies/)
-- [Using Signal groups for activism](https://gadgeteer.co.za/using-signal-groups-for-activism/)
 <!-- BLOG-POST-LIST:END -->
 
 
