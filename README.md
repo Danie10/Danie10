@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Love Letter To Internet Relay Chat — The Original Social Media That Is Still With Us Today](https://gadgeteer.co.za/a-love-letter-to-internet-relay-chat-the-original-social-media-that-is-still-with-us-today/)
 - [Switzerland releases its own AI model trained on public data and its open source](https://gadgeteer.co.za/switzerland-releases-its-own-ai-model-trained-on-public-data-and-its-open-source/)
 - [Vodacom wrecked my credit rating without reason – This is how I fixed it](https://gadgeteer.co.za/vodacom-wrecked-my-credit-rating-without-reason-this-is-how-i-fixed-it/)
 - [[URGENT] DEF CON Researcher Exposes How Password Managers Betray Your Trust](https://gadgeteer.co.za/urgent-def-con-researcher-exposes-how-password-managers-betray-your-trust/)
 - [You want your UPS to be NUT compatible](https://gadgeteer.co.za/you-want-your-ups-to-be-nut-compatible/)
-- [You can once again buy an official Commodore C64](https://gadgeteer.co.za/you-can-once-again-buy-an-official-commodore-c64/)
 <!-- BLOG-POST-LIST:END -->
 
 
