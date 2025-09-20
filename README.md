@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pix payments happen in 24/7 real-time, are free, and supported by the Central Bank of Brazil](https://gadgeteer.co.za/pix-payments-happen-in-24-7-real-time-are-free-and-supported-by-the-central-bank-of-brazil/)
 - [Keratin extracted from sheep’s wool repairs teeth in breakthrough](https://gadgeteer.co.za/keratin-extracted-from-sheeps-wool-repairs-teeth-in-breakthrough/)
 - [Mastodon social network is bringing quote posts to the Fediverse](https://gadgeteer.co.za/mastodon-social-network-is-bringing-quote-posts-to-the-fediverse/)
 - [New Movie “Python: The Documentary” Traces the Language’s Story](https://gadgeteer.co.za/new-movie-python-the-documentary-traces-the-languages-story/)
 - [The Intergalactic Indestructible Shatterproof Travel Scuttle by Phoenix Shaving](https://gadgeteer.co.za/the-intergalactic-indestructible-shatterproof-travel-scuttle-by-phoenix-shaving/)
-- [Pessimists Archive educates people on and archives the history of technophobia and moral panics](https://gadgeteer.co.za/pessimists-archive-educates-people-on-and-archives-the-history-of-technophobia-and-moral-panics/)
 <!-- BLOG-POST-LIST:END -->
 
 
