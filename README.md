@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FOSS Force Asked LibreOffice and Collabora: Why Aren’t They in Schools Instead of Word and Google Docs?](https://gadgeteer.co.za/foss-force-asked-libreoffice-and-collabora-why-arent-they-in-schools-instead-of-word-and-google-docs/)
+- [A Step-by-Step Guide to Switch from Rootful Docker to Rootless Docker in Debian and Ubuntu](https://gadgeteer.co.za/a-step-by-step-guide-to-switch-from-rootful-docker-to-rootless-docker-in-debian-and-ubuntu/)
 - [Heart Rate Measurement Via Wi-Fi without any skin contact needed](https://gadgeteer.co.za/heart-rate-measurement-via-wi-fi-without-any-skin-contact-needed/)
 - [Custom Home Assistant Floor Plan Dashboard with Real-Time Controls](https://gadgeteer.co.za/custom-home-assistant-floor-plan-dashboard-with-real-time-controls/)
 - [Pix payments happen in 24/7 real-time, are free, and supported by the Central Bank of Brazil](https://gadgeteer.co.za/pix-payments-happen-in-24-7-real-time-are-free-and-supported-by-the-central-bank-of-brazil/)
-- [Keratin extracted from sheep’s wool repairs teeth in breakthrough](https://gadgeteer.co.za/keratin-extracted-from-sheeps-wool-repairs-teeth-in-breakthrough/)
-- [Mastodon social network is bringing quote posts to the Fediverse](https://gadgeteer.co.za/mastodon-social-network-is-bringing-quote-posts-to-the-fediverse/)
 <!-- BLOG-POST-LIST:END -->
 
 
