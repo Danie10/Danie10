@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Steam Client Adds Advanced Options to the In-Game Overlay for AMD &amp; NVIDIA GPUs on Linux](https://gadgeteer.co.za/steam-client-adds-advanced-options-to-the-in-game-overlay-for-amd-nvidia-gpus-on-linux/)
+- [TCL’s 8-inch Nxtpaper Android tablet could lure you away from the colour Kindle](https://gadgeteer.co.za/tcls-8-inch-nxtpaper-android-tablet-could-lure-you-away-from-the-colour-kindle/)
 - [Tecmint’s 6 Best Linux Distros for Gaming and Playing Windows Games](https://gadgeteer.co.za/tecmints-6-best-linux-distros-for-gaming-and-playing-windows-games/)
 - [FOSS Force Asked LibreOffice and Collabora: Why Aren’t They in Schools Instead of Word and Google Docs?](https://gadgeteer.co.za/foss-force-asked-libreoffice-and-collabora-why-arent-they-in-schools-instead-of-word-and-google-docs/)
 - [A Step-by-Step Guide to Switch from Rootful Docker to Rootless Docker in Debian and Ubuntu](https://gadgeteer.co.za/a-step-by-step-guide-to-switch-from-rootful-docker-to-rootless-docker-in-debian-and-ubuntu/)
-- [Heart Rate Measurement Via Wi-Fi without any skin contact needed](https://gadgeteer.co.za/heart-rate-measurement-via-wi-fi-without-any-skin-contact-needed/)
-- [Custom Home Assistant Floor Plan Dashboard with Real-Time Controls](https://gadgeteer.co.za/custom-home-assistant-floor-plan-dashboard-with-real-time-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 
