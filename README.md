@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Molten Salt Won’t Be the Future of Industrial Heat Storage](https://gadgeteer.co.za/why-molten-salt-wont-be-the-future-of-industrial-heat-storage/)
 - [Which browsers with integrated AIs collect the most user data](https://gadgeteer.co.za/which-browsers-with-integrated-ais-collect-the-most-user-data/)
 - [Steam Client Adds Advanced Options to the In-Game Overlay for AMD &amp; NVIDIA GPUs on Linux](https://gadgeteer.co.za/steam-client-adds-advanced-options-to-the-in-game-overlay-for-amd-nvidia-gpus-on-linux/)
 - [TCL’s 8-inch Nxtpaper Android tablet could lure you away from the colour Kindle](https://gadgeteer.co.za/tcls-8-inch-nxtpaper-android-tablet-could-lure-you-away-from-the-colour-kindle/)
 - [Tecmint’s 6 Best Linux Distros for Gaming and Playing Windows Games](https://gadgeteer.co.za/tecmints-6-best-linux-distros-for-gaming-and-playing-windows-games/)
-- [FOSS Force Asked LibreOffice and Collabora: Why Aren’t They in Schools Instead of Word and Google Docs?](https://gadgeteer.co.za/foss-force-asked-libreoffice-and-collabora-why-arent-they-in-schools-instead-of-word-and-google-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 
