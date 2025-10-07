@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Confirms Non-ADB APK Installs Will Require Developer Registration](https://gadgeteer.co.za/google-confirms-non-adb-apk-installs-will-require-developer-registration/)
 - [Cairo-Dock 3.6 Released With Wayland Support and HiDPI Display Handling](https://gadgeteer.co.za/cairo-dock-3-6-released-with-wayland-support-and-hidpi-display-handling/)
 - [Linux 6.18 Will Be A Big Improvement For Servers Encountering DDoS Attacks](https://gadgeteer.co.za/linux-6-18-will-be-a-big-improvement-for-servers-encountering-ddos-attacks/)
 - [Austria’s military has switched from Microsoft Office to LibreOffice](https://gadgeteer.co.za/austrias-military-has-switched-from-microsoft-office-to-libreoffice/)
 - [Why Molten Salt Won’t Be the Future of Industrial Heat Storage](https://gadgeteer.co.za/why-molten-salt-wont-be-the-future-of-industrial-heat-storage/)
-- [Which browsers with integrated AIs collect the most user data](https://gadgeteer.co.za/which-browsers-with-integrated-ais-collect-the-most-user-data/)
 <!-- BLOG-POST-LIST:END -->
 
 
