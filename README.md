@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Discord Hack is Every User’s Worst Nightmare — Why Uploaded IDs are a Problem](https://gadgeteer.co.za/the-discord-hack-is-every-users-worst-nightmare-why-uploaded-ids-are-a-problem/)
 - [ProtonUp-Qt v2.14 Brings New Proton-EM Compatibility Tool](https://gadgeteer.co.za/protonup-qt-v2-14-brings-new-proton-em-compatibility-tool/)
 - [South Africans can now spend cryptocurrency directly at more than 650 000 Scan to Pay-enabled stores](https://gadgeteer.co.za/south-africans-can-now-spend-cryptocurrency-directly-at-more-than-650-000-scan-to-pay-enabled-stores/)
 - [Google Confirms Non-ADB APK Installs Will Require Developer Registration](https://gadgeteer.co.za/google-confirms-non-adb-apk-installs-will-require-developer-registration/)
 - [Cairo-Dock 3.6 Released With Wayland Support and HiDPI Display Handling](https://gadgeteer.co.za/cairo-dock-3-6-released-with-wayland-support-and-hidpi-display-handling/)
-- [Linux 6.18 Will Be A Big Improvement For Servers Encountering DDoS Attacks](https://gadgeteer.co.za/linux-6-18-will-be-a-big-improvement-for-servers-encountering-ddos-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 
