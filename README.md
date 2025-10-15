@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Software Foundation announced its Librephone project to bring mobile phone freedom to users](https://gadgeteer.co.za/free-software-foundation-announced-its-librephone-project-to-bring-mobile-phone-freedom-to-users/)
 - [How to Control Kernel Boot-Time Parameters in Linux](https://gadgeteer.co.za/how-to-control-kernel-boot-time-parameters-in-linux/)
 - [German state replaces Microsoft Exchange and Outlook with open-source email](https://gadgeteer.co.za/german-state-replaces-microsoft-exchange-and-outlook-with-open-source-email/)
 - [LACT – Linux GPU Configuration And Monitoring Tool for AMD, Nvidia or Intel GPUs](https://gadgeteer.co.za/lact-linux-gpu-configuration-and-monitoring-tool-for-amd-nvidia-or-intel-gpus/)
 - [Fantastic News! South Africa’s Outeniqua Choo-Tjoe to steam ahead again after 19 years](https://gadgeteer.co.za/fantastic-news-south-africas-outeniqua-choo-tjoe-to-steam-ahead-again-after-19-years/)
-- [The Discord Hack is Every User’s Worst Nightmare — Why Uploaded IDs are a Problem](https://gadgeteer.co.za/the-discord-hack-is-every-users-worst-nightmare-why-uploaded-ids-are-a-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 
