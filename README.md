@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CoolerControl is a Powerful cooling control and monitoring tool for Linux](https://gadgeteer.co.za/coolercontrol-is-a-powerful-cooling-control-and-monitoring-tool-for-linux/)
 - [The EFF’s How to: Get to Know iPhone Privacy and Security Settings](https://gadgeteer.co.za/the-effs-how-to-get-to-know-iphone-privacy-and-security-settings/)
 - [You Must Be Joking: Facebook’s new button lets its AI look at photos you haven’t uploaded yet](https://gadgeteer.co.za/you-must-be-joking-facebooks-new-button-lets-its-ai-look-at-photos-you-havent-uploaded-yet/)
 - [Free Software Foundation announced its Librephone project to bring mobile phone freedom to users](https://gadgeteer.co.za/free-software-foundation-announced-its-librephone-project-to-bring-mobile-phone-freedom-to-users/)
 - [How to Control Kernel Boot-Time Parameters in Linux](https://gadgeteer.co.za/how-to-control-kernel-boot-time-parameters-in-linux/)
-- [German state replaces Microsoft Exchange and Outlook with open-source email](https://gadgeteer.co.za/german-state-replaces-microsoft-exchange-and-outlook-with-open-source-email/)
 <!-- BLOG-POST-LIST:END -->
 
 
