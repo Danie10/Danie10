@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TT-RSS Shuts Down, but the Project Lives On Under a New Fork](https://gadgeteer.co.za/tt-rss-shuts-down-but-the-project-lives-on-under-a-new-fork/)
 - [Sanity Prevails Finally! Your passwords don’t need so many fiddly characters, NIST says](https://gadgeteer.co.za/sanity-prevails-finally-your-passwords-dont-need-so-many-fiddly-characters-nist-says/)
 - [No surprise: Research shows you cannot believe everything on social media](https://gadgeteer.co.za/no-surprise-research-shows-you-cannot-believe-everything-on-social-media/)
 - [20 Essential SSH Configurations and Security Tips for Linux](https://gadgeteer.co.za/20-essential-ssh-configurations-and-security-tips-for-linux/)
 - [A Fascinating History in Photos of Tram and ‘Bus Transport in Cape Town since the 1800s](https://gadgeteer.co.za/a-fascinating-history-in-photos-of-tram-and-bus-transport-in-cape-town-since-the-1800s/)
-- [CoolerControl is a Powerful cooling control and monitoring tool for Linux](https://gadgeteer.co.za/coolercontrol-is-a-powerful-cooling-control-and-monitoring-tool-for-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
