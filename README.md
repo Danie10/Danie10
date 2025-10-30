@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Consumers should be very wary of buying cloud connected appliances or devices](https://gadgeteer.co.za/consumers-should-be-very-wary-of-buying-cloud-connected-appliances-or-devices/)
 - [Suzuki Jimny 5-Door Additional Storage Space Solutions Needed](https://gadgeteer.co.za/suzuki-jimny-5-door-additional-storage-space-solutions-needed/)
 - [Electric vs petrol car running costs in South Africa – The winner is clear](https://gadgeteer.co.za/electric-vs-petrol-car-running-costs-in-south-africa-the-winner-is-clear/)
 - [TT-RSS Shuts Down, but the Project Lives On Under a New Fork](https://gadgeteer.co.za/tt-rss-shuts-down-but-the-project-lives-on-under-a-new-fork/)
 - [Sanity Prevails Finally! Your passwords don’t need so many fiddly characters, NIST says](https://gadgeteer.co.za/sanity-prevails-finally-your-passwords-dont-need-so-many-fiddly-characters-nist-says/)
-- [No surprise: Research shows you cannot believe everything on social media](https://gadgeteer.co.za/no-surprise-research-shows-you-cannot-believe-everything-on-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 
