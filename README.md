@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Banning Phones in Schools Is Drastically Changing the Behaviour of Kids, Teachers Say](https://gadgeteer.co.za/banning-phones-in-schools-is-drastically-changing-the-behaviour-of-kids-teachers-say/)
 - [This OpenWrt-Based Router Has Swappable Wi-Fi Modules for Future Upgrades](https://gadgeteer.co.za/this-openwrt-based-router-has-swappable-wi-fi-modules-for-future-upgrades/)
 - [Scientists Say They’ve Figured Out How to Transcribe Your Thoughts From an MRI Scan](https://gadgeteer.co.za/scientists-say-theyve-figured-out-how-to-transcribe-your-thoughts-from-an-mri-scan/)
 - [Why self-hosting matters now more than ever in the age of cloud](https://gadgeteer.co.za/why-self-hosting-matters-now-more-than-ever-in-the-age-of-cloud/)
 - [AFFiNE is an excellent open-source knowledge management tool](https://gadgeteer.co.za/affine-is-an-excellent-open-source-knowledge-management-tool/)
-- [AI Is Amplifying the Dunning-Kruger Effect, New Research Finds](https://gadgeteer.co.za/ai-is-amplifying-the-dunning-kruger-effect-new-research-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 
