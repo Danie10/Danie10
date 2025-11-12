@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Portainer or Watchtower just broke on OMV 7?](https://gadgeteer.co.za/portainer-or-watchtower-just-broke-on-omv-7/)
 - [Join The Newest Social Network And Party Like Its 1987](https://gadgeteer.co.za/join-the-newest-social-network-and-party-like-its-1987/)
 - [Testing Whether Fast Charging Kills Smartphone Batteries, And Other Myths](https://gadgeteer.co.za/testing-whether-fast-charging-kills-smartphone-batteries-and-other-myths/)
 - [ODF 1.4 Release Marks 20 Years of OpenDocument Format](https://gadgeteer.co.za/odf-1-4-release-marks-20-years-of-opendocument-format/)
 - [Banning Phones in Schools Is Drastically Changing the Behaviour of Kids, Teachers Say](https://gadgeteer.co.za/banning-phones-in-schools-is-drastically-changing-the-behaviour-of-kids-teachers-say/)
-- [This OpenWrt-Based Router Has Swappable Wi-Fi Modules for Future Upgrades](https://gadgeteer.co.za/this-openwrt-based-router-has-swappable-wi-fi-modules-for-future-upgrades/)
 <!-- BLOG-POST-LIST:END -->
 
 
