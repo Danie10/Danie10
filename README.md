@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hate Meta &lpar;Facebook&rpar;? Even Realities Is Making the Smart Glasses You Want](https://gadgeteer.co.za/hate-meta-facebook-even-realities-is-making-the-smart-glasses-you-want/)
 - [In-depth Comparison between Open Source AFFiNE and Joplin Notes for Note-Taking](https://gadgeteer.co.za/in-depth-comparison-between-open-source-affine-and-joplin-notes-for-note-taking/)
 - [I replaced Microsoft Word with a self-hosted, open-source alternative](https://gadgeteer.co.za/i-replaced-microsoft-word-with-a-self-hosted-open-source-alternative/)
 - [Portainer or Watchtower just broke on OMV 7?](https://gadgeteer.co.za/portainer-or-watchtower-just-broke-on-omv-7/)
 - [Join The Newest Social Network And Party Like Its 1987](https://gadgeteer.co.za/join-the-newest-social-network-and-party-like-its-1987/)
-- [Testing Whether Fast Charging Kills Smartphone Batteries, And Other Myths](https://gadgeteer.co.za/testing-whether-fast-charging-kills-smartphone-batteries-and-other-myths/)
 <!-- BLOG-POST-LIST:END -->
 
 
