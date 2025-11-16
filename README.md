@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Viseron is a self-hosted camera monitoring app and the perfect Frigate alternative](https://gadgeteer.co.za/viseron-is-a-self-hosted-camera-monitoring-app-and-the-perfect-frigate-alternative/)
 - [FreeDV – Open Source HF Digital Voice for Amateur Radio](https://gadgeteer.co.za/freedv-open-source-hf-digital-voice-for-amateur-radio/)
 - [LibreOffice has a new fix for Microsoft changing its default font to Aptos](https://gadgeteer.co.za/libreoffice-has-a-new-fix-for-microsoft-changing-its-default-font-to-aptos/)
 - [Hate Meta &lpar;Facebook&rpar;? Even Realities Is Making the Smart Glasses You Want](https://gadgeteer.co.za/hate-meta-facebook-even-realities-is-making-the-smart-glasses-you-want/)
 - [In-depth Comparison between Open Source AFFiNE and Joplin Notes for Note-Taking](https://gadgeteer.co.za/in-depth-comparison-between-open-source-affine-and-joplin-notes-for-note-taking/)
-- [I replaced Microsoft Word with a self-hosted, open-source alternative](https://gadgeteer.co.za/i-replaced-microsoft-word-with-a-self-hosted-open-source-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 
