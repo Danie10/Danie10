@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Ditched My Smartwatch for a Retro-Styled Casio Watch](https://gadgeteer.co.za/why-i-ditched-my-smartwatch-for-a-retro-styled-casio-watch/)
 - [By now, we should know you CANNOT believe all you see on social media](https://gadgeteer.co.za/by-now-we-should-know-you-cannot-believe-all-you-see-on-social-media/)
 - [Finamp – an open source Jellyfin music client for mobile devices](https://gadgeteer.co.za/finamp-an-open-source-jellyfin-music-client-for-mobile-devices/)
 - [Viseron is a self-hosted camera monitoring app and the perfect Frigate alternative](https://gadgeteer.co.za/viseron-is-a-self-hosted-camera-monitoring-app-and-the-perfect-frigate-alternative/)
 - [FreeDV – Open Source HF Digital Voice for Amateur Radio](https://gadgeteer.co.za/freedv-open-source-hf-digital-voice-for-amateur-radio/)
-- [LibreOffice has a new fix for Microsoft changing its default font to Aptos](https://gadgeteer.co.za/libreoffice-has-a-new-fix-for-microsoft-changing-its-default-font-to-aptos/)
 <!-- BLOG-POST-LIST:END -->
 
 
