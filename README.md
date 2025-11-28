@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Progressive Web Apps &lpar;PWA&rpar; are better to use for major social network services than their mobile apps](https://gadgeteer.co.za/progressive-web-apps-pwa-are-better-to-use-for-major-social-network-services-than-their-mobile-apps/)
 - [The Astrion smart remote is a game-changer for Home Assistant users](https://gadgeteer.co.za/the-astrion-smart-remote-is-a-game-changer-for-home-assistant-users/)
 - [Why I Ditched My Smartwatch for a Retro-Styled Casio Watch](https://gadgeteer.co.za/why-i-ditched-my-smartwatch-for-a-retro-styled-casio-watch/)
 - [By now, we should know you CANNOT believe all you see on social media](https://gadgeteer.co.za/by-now-we-should-know-you-cannot-believe-all-you-see-on-social-media/)
 - [Finamp – an open source Jellyfin music client for mobile devices](https://gadgeteer.co.za/finamp-an-open-source-jellyfin-music-client-for-mobile-devices/)
-- [Viseron is a self-hosted camera monitoring app and the perfect Frigate alternative](https://gadgeteer.co.za/viseron-is-a-self-hosted-camera-monitoring-app-and-the-perfect-frigate-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 
