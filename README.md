@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Tor Can Help You Be More Anonymous on the Internet](https://gadgeteer.co.za/how-tor-can-help-you-be-more-anonymous-on-the-internet/)
 - [5 Docker Compose tricks that made my home server more reliable](https://gadgeteer.co.za/5-docker-compose-tricks-that-made-my-home-server-more-reliable/)
 - [5 open-source projects that secretly power your favourite apps](https://gadgeteer.co.za/5-open-source-projects-that-secretly-power-your-favourite-apps/)
 - [Filedropshare uses WebRTC for local peer-to-peer &lpar;P2P&rpar; file transfers without the cloud](https://gadgeteer.co.za/filedropshare-uses-webrtc-for-local-peer-to-peer-p2p-file-transfers-without-the-cloud/)
 - [Progressive Web Apps &lpar;PWA&rpar; are better to use for major social network services than their mobile apps](https://gadgeteer.co.za/progressive-web-apps-pwa-are-better-to-use-for-major-social-network-services-than-their-mobile-apps/)
-- [The Astrion smart remote is a game-changer for Home Assistant users](https://gadgeteer.co.za/the-astrion-smart-remote-is-a-game-changer-for-home-assistant-users/)
 <!-- BLOG-POST-LIST:END -->
 
 
