@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 tiny open source utilities that can instantly make your Linux desktop feel faster](https://gadgeteer.co.za/8-tiny-open-source-utilities-that-can-instantly-make-your-linux-desktop-feel-faster/)
 - [I tried this text adventure game from 1977, and it was better than I expected](https://gadgeteer.co.za/i-tried-this-text-adventure-game-from-1977-and-it-was-better-than-i-expected/)
 - [Big Microsoft 365 price increases coming next year](https://gadgeteer.co.za/big-microsoft-365-price-increases-coming-next-year/)
 - [The Rest Is History has received the 2025 Apple Podcasts Award for Show of the Year](https://gadgeteer.co.za/the-rest-is-history-has-received-the-2025-apple-podcasts-award-for-show-of-the-year/)
 - [Been waiting for this! Proton now has a Google Sheets clone with end-to-end encryption](https://gadgeteer.co.za/been-waiting-for-this-proton-now-has-a-google-sheets-clone-with-end-to-end-encryption/)
-- [[RAMBLE] offers privacy-respecting user forums similar to Reddit](https://gadgeteer.co.za/ramble-offers-privacy-respecting-user-forums-similar-to-reddit/)
 <!-- BLOG-POST-LIST:END -->
 
 
