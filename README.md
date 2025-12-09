@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [4 productivity Docker containers that don’t require 24/7 runtime](https://gadgeteer.co.za/4-productivity-docker-containers-that-dont-require-24-7-runtime/)
 - [Hurray! This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://gadgeteer.co.za/hurray-this-german-state-decides-to-save-e15-million-each-year-by-kicking-out-microsoft-for-open-source/)
 - [The Intel N100 killed the Raspberry Pi for home servers](https://gadgeteer.co.za/the-intel-n100-killed-the-raspberry-pi-for-home-servers/)
 - [8 tiny open source utilities that can instantly make your Linux desktop feel faster](https://gadgeteer.co.za/8-tiny-open-source-utilities-that-can-instantly-make-your-linux-desktop-feel-faster/)
 - [I tried this text adventure game from 1977, and it was better than I expected](https://gadgeteer.co.za/i-tried-this-text-adventure-game-from-1977-and-it-was-better-than-i-expected/)
-- [Big Microsoft 365 price increases coming next year](https://gadgeteer.co.za/big-microsoft-365-price-increases-coming-next-year/)
 <!-- BLOG-POST-LIST:END -->
 
 
