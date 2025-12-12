@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ClipCascade is a self-hosted clipboard manager that syncs across devices without the cloud](https://gadgeteer.co.za/clipcascade-is-a-self-hosted-clipboard-manager-that-syncs-across-devices-without-the-cloud/)
 - [Henson Razors are engineered to give a spectacular shave with dirt-cheap generic blades, and it’s on sale](https://gadgeteer.co.za/henson-razors-are-engineered-to-give-a-spectacular-shave-with-dirt-cheap-generic-blades-and-its-on-sale/)
 - [Pikimov is a free video editor that runs entirely in your browser](https://gadgeteer.co.za/pikimov-is-a-free-video-editor-that-runs-entirely-in-your-browser/)
 - [This new Steam game lets you dissect and repair an Atari 2600](https://gadgeteer.co.za/this-new-steam-game-lets-you-dissect-and-repair-an-atari-2600/)
 - [4 productivity Docker containers that don’t require 24/7 runtime](https://gadgeteer.co.za/4-productivity-docker-containers-that-dont-require-24-7-runtime/)
-- [Hurray! This German State Decides to Save €15 Million Each Year By Kicking Out Microsoft for Open Source](https://gadgeteer.co.za/hurray-this-german-state-decides-to-save-e15-million-each-year-by-kicking-out-microsoft-for-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 
