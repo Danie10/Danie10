@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AA Browser is a WebView browser experience for Android Auto head units](https://gadgeteer.co.za/aa-browser-is-a-webview-browser-experience-for-android-auto-head-units/)
 - [Hacker Busts Startup Running Huge Web of AI-Generated “Influencers” on TikTok](https://gadgeteer.co.za/hacker-busts-startup-running-huge-web-of-ai-generated-influencers-on-tiktok/)
 - [Chrome and Edge browser extensions with 8 million users, collect extended AI conversations](https://gadgeteer.co.za/chrome-and-edge-browser-extensions-with-8-million-users-collect-extended-ai-conversations/)
 - [Easier Than Nano! Fresh is a Fresh New Rust-based Terminal Editor](https://gadgeteer.co.za/easier-than-nano-fresh-is-a-fresh-new-rust-based-terminal-editor/)
 - [Valve Has the Secret to Playing Your Games Everywhere, and It’s Not Streaming](https://gadgeteer.co.za/valve-has-the-secret-to-playing-your-games-everywhere-and-its-not-streaming/)
-- [Glances vs Dozzle vs Beszel for Docker Container Monitoring](https://gadgeteer.co.za/glances-vs-dozzle-vs-beszel-for-docker-container-monitoring/)
 <!-- BLOG-POST-LIST:END -->
 
 
