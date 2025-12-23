@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Manually Checking GitHub Releases — These Tools Automatically Install &amp; Update Apps on Linux](https://gadgeteer.co.za/stop-manually-checking-github-releases-these-tools-automatically-install-update-apps-on-linux/)
 - [Windows fatigue continues to push thousands of gamers to switch to Bazzite Linux distro](https://gadgeteer.co.za/windows-fatigue-continues-to-push-thousands-of-gamers-to-switch-to-bazzite-linux-distro/)
 - [GreyNoise launches a free scanner to check if you’re part of a botnet](https://gadgeteer.co.za/greynoise-launches-a-free-scanner-to-check-if-youre-part-of-a-botnet/)
 - [Portmaster is an open source application firewall built to monitor and control network activity on Windows and Linux](https://gadgeteer.co.za/portmaster-is-an-open-source-application-firewall-built-to-monitor-and-control-network-activity-on-windows-and-linux/)
 - [Decentralized YouTube Alternative PeerTube Adds Creator Mode](https://gadgeteer.co.za/decentralized-youtube-alternative-peertube-adds-creator-mode/)
-- [Affinity, as an alternative to Photoshop, runs as an AppImage on Linux](https://gadgeteer.co.za/affinity-as-an-alternative-to-photoshop-runs-as-an-appimage-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
