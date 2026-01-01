@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://gadgeteer.co.za/you-cant-trust-your-eyes-to-tell-you-whats-real-anymore-says-the-head-of-instagram/)
 - [Alzheimer’s Fully Reversed in Mice, Scientists Say](https://gadgeteer.co.za/alzheimers-fully-reversed-in-mice-scientists-say/)
 - [LanguageTool ends free use of Browser Extension – Here are some Options](https://gadgeteer.co.za/languagetool-ends-free-use-of-browser-extension-here-are-some-options/)
 - [Stop Manually Checking GitHub Releases — These Tools Automatically Install &amp; Update Apps on Linux](https://gadgeteer.co.za/stop-manually-checking-github-releases-these-tools-automatically-install-update-apps-on-linux/)
 - [Windows fatigue continues to push thousands of gamers to switch to Bazzite Linux distro](https://gadgeteer.co.za/windows-fatigue-continues-to-push-thousands-of-gamers-to-switch-to-bazzite-linux-distro/)
-- [GreyNoise launches a free scanner to check if you’re part of a botnet](https://gadgeteer.co.za/greynoise-launches-a-free-scanner-to-check-if-youre-part-of-a-botnet/)
 <!-- BLOG-POST-LIST:END -->
 
 
