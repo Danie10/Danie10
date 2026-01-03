@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This New Android Smartphone Is For Everyone Who Misses the Blackberry — And Has A Hidden Advantage](https://gadgeteer.co.za/this-new-android-smartphone-is-for-everyone-who-misses-the-blackberry-and-has-a-hidden-advantage/)
+- [Pebble’s round smartwatch returns in an unexpected reboot](https://gadgeteer.co.za/pebbles-round-smartwatch-returns-in-an-unexpected-reboot/)
 - [13 Open-Source Apps You Can Use from a Web Browser](https://gadgeteer.co.za/13-open-source-apps-you-can-use-from-a-web-browser/)
 - [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://gadgeteer.co.za/you-cant-trust-your-eyes-to-tell-you-whats-real-anymore-says-the-head-of-instagram/)
 - [Alzheimer’s Fully Reversed in Mice, Scientists Say](https://gadgeteer.co.za/alzheimers-fully-reversed-in-mice-scientists-say/)
-- [LanguageTool ends free use of Browser Extension – Here are some Options](https://gadgeteer.co.za/languagetool-ends-free-use-of-browser-extension-here-are-some-options/)
-- [Stop Manually Checking GitHub Releases — These Tools Automatically Install &amp; Update Apps on Linux](https://gadgeteer.co.za/stop-manually-checking-github-releases-these-tools-automatically-install-update-apps-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
