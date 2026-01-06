@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solid state batteries are now a reality – better in ALL ways than Lithium-Ion](https://gadgeteer.co.za/solid-state-batteries-are-now-a-reality-better-in-all-ways-than-lithium-ion/)
 - [Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App](https://gadgeteer.co.za/stop-using-your-keyboard-and-start-using-handy-a-free-speech-to-text-app/)
 - [This New Android Smartphone Is For Everyone Who Misses the Blackberry — And Has A Hidden Advantage](https://gadgeteer.co.za/this-new-android-smartphone-is-for-everyone-who-misses-the-blackberry-and-has-a-hidden-advantage/)
 - [Pebble’s round smartwatch returns in an unexpected reboot](https://gadgeteer.co.za/pebbles-round-smartwatch-returns-in-an-unexpected-reboot/)
 - [13 Open-Source Apps You Can Use from a Web Browser](https://gadgeteer.co.za/13-open-source-apps-you-can-use-from-a-web-browser/)
-- [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://gadgeteer.co.za/you-cant-trust-your-eyes-to-tell-you-whats-real-anymore-says-the-head-of-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 
