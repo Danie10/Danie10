@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FireWally Is A Great Firewall App for Mac, and It’s Free](https://gadgeteer.co.za/firewally-is-a-great-firewall-app-for-mac-and-its-free/)
 - [Jack Dorsey’s Bitchat App Sees Downloads Spike in Uganda Over Internet Shutdown Worries](https://gadgeteer.co.za/jack-dorseys-bitchat-app-sees-downloads-spike-in-uganda-over-internet-shutdown-worries/)
 - [I replaced Trello, Toggl, and TickTick with free, open-source Super Productivity](https://gadgeteer.co.za/i-replaced-trello-toggl-and-ticktick-with-free-open-source-super-productivity/)
 - [5 costs of self-hosting that nobody talks about](https://gadgeteer.co.za/5-costs-of-self-hosting-that-nobody-talks-about/)
 - [Solid state batteries are now a reality – better in ALL ways than Lithium-Ion](https://gadgeteer.co.za/solid-state-batteries-are-now-a-reality-better-in-all-ways-than-lithium-ion/)
-- [Stop Using Your Keyboard and Start Using Handy, a Free Speech-to-Text App](https://gadgeteer.co.za/stop-using-your-keyboard-and-start-using-handy-a-free-speech-to-text-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
