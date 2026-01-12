@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Healthchecks.io emails me when my automation jobs don’t run](https://gadgeteer.co.za/healthchecks-io-emails-me-when-my-automation-jobs-dont-run/)
 - [6 things RAID does not protect you from](https://gadgeteer.co.za/6-things-raid-does-not-protect-you-from/)
 - [FavBox is an open source browser extension that enhances and simplifies bookmark management without cloud storage or third-party services](https://gadgeteer.co.za/favbox-is-an-open-source-browser-extension-that-enhances-and-simplifies-bookmark-management-without-cloud-storage-or-third-party-services/)
 - [SSD thumb drives could be better than cheap USB flash drives](https://gadgeteer.co.za/ssd-thumb-drives-could-be-better-than-cheap-usb-flash-drives/)
 - [Make Jellyfin look like Spotify and Plex: 5 clients you need to install](https://gadgeteer.co.za/make-jellyfin-look-like-spotify-and-plex-5-clients-you-need-to-install/)
-- [FireWally Is A Great Firewall App for Mac, and It’s Free](https://gadgeteer.co.za/firewally-is-a-great-firewall-app-for-mac-and-its-free/)
 <!-- BLOG-POST-LIST:END -->
 
 
