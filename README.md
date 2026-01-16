@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Digg Relaunches From the Grave With Some ‘AI Enhancements’](https://gadgeteer.co.za/digg-relaunches-from-the-grave-with-some-ai-enhancements/)
 - [How American Big Tech guards the profits it extracts around the world](https://gadgeteer.co.za/how-american-big-tech-guards-the-profits-it-extracts-around-the-world/)
 - [Threema Encrypted Messenger Service Sold to Private Equity Again](https://gadgeteer.co.za/threema-encrypted-messenger-service-sold-to-private-equity-again/)
 - [DarkMX is a decentralised comms app that utilises Tor and I2P to have an anonymous, reliable, and censorship-resistant presence on the internet](https://gadgeteer.co.za/darkmx-is-a-decentralised-comms-app-that-utilises-tor-and-i2p-to-have-an-anonymous-reliable-and-censorship-resistant-presence-on-the-internet/)
 - [Healthchecks.io emails me when my automation jobs don’t run](https://gadgeteer.co.za/healthchecks-io-emails-me-when-my-automation-jobs-dont-run/)
-- [6 things RAID does not protect you from](https://gadgeteer.co.za/6-things-raid-does-not-protect-you-from/)
 <!-- BLOG-POST-LIST:END -->
 
 
