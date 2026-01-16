@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How American Big Tech guards the profits it extracts around the world](https://gadgeteer.co.za/how-american-big-tech-guards-the-profits-it-extracts-around-the-world/)
 - [Threema Encrypted Messenger Service Sold to Private Equity Again](https://gadgeteer.co.za/threema-encrypted-messenger-service-sold-to-private-equity-again/)
 - [DarkMX is a decentralised comms app that utilises Tor and I2P to have an anonymous, reliable, and censorship-resistant presence on the internet](https://gadgeteer.co.za/darkmx-is-a-decentralised-comms-app-that-utilises-tor-and-i2p-to-have-an-anonymous-reliable-and-censorship-resistant-presence-on-the-internet/)
 - [Healthchecks.io emails me when my automation jobs don’t run](https://gadgeteer.co.za/healthchecks-io-emails-me-when-my-automation-jobs-dont-run/)
 - [6 things RAID does not protect you from](https://gadgeteer.co.za/6-things-raid-does-not-protect-you-from/)
-- [FavBox is an open source browser extension that enhances and simplifies bookmark management without cloud storage or third-party services](https://gadgeteer.co.za/favbox-is-an-open-source-browser-extension-that-enhances-and-simplifies-bookmark-management-without-cloud-storage-or-third-party-services/)
 <!-- BLOG-POST-LIST:END -->
 
 
