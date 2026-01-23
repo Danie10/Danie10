@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sony returns to vinyl with two new Bluetooth wireless decks](https://gadgeteer.co.za/sony-returns-to-vinyl-with-two-new-bluetooth-wireless-decks/)
 - [Satellite is helping the internet to slip beyond authoritarian control](https://gadgeteer.co.za/satellite-is-helping-the-internet-to-slip-beyond-authoritarian-control/)
 - [Digg Relaunches From the Grave With Some ‘AI Enhancements’](https://gadgeteer.co.za/digg-relaunches-from-the-grave-with-some-ai-enhancements/)
 - [How American Big Tech guards the profits it extracts around the world](https://gadgeteer.co.za/how-american-big-tech-guards-the-profits-it-extracts-around-the-world/)
 - [Threema Encrypted Messenger Service Sold to Private Equity Again](https://gadgeteer.co.za/threema-encrypted-messenger-service-sold-to-private-equity-again/)
-- [DarkMX is a decentralised comms app that utilises Tor and I2P to have an anonymous, reliable, and censorship-resistant presence on the internet](https://gadgeteer.co.za/darkmx-is-a-decentralised-comms-app-that-utilises-tor-and-i2p-to-have-an-anonymous-reliable-and-censorship-resistant-presence-on-the-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 
