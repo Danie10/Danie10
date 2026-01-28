@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop scrolling through Google’s AI junk: Startpage’s “classic” search engine is better](https://gadgeteer.co.za/stop-scrolling-through-googles-ai-junk-startpages-classic-search-engine-is-better/)
 - [Meet Roomy: An Open-Source Discord Alternative for the Decentralised Web](https://gadgeteer.co.za/meet-roomy-an-open-source-discord-alternative-for-the-decentralised-web/)
 - [French government announces move from US based video conferencing to open source Visio](https://gadgeteer.co.za/french-government-announces-move-from-us-based-video-conferencing-to-open-source-visio/)
 - [TikTokers are heading to UpScrolled following US takeover](https://gadgeteer.co.za/tiktokers-are-heading-to-upscrolled-following-us-takeover/)
 - [Sony returns to vinyl with two new Bluetooth wireless decks](https://gadgeteer.co.za/sony-returns-to-vinyl-with-two-new-bluetooth-wireless-decks/)
-- [Satellite is helping the internet to slip beyond authoritarian control](https://gadgeteer.co.za/satellite-is-helping-the-internet-to-slip-beyond-authoritarian-control/)
 <!-- BLOG-POST-LIST:END -->
 
 
