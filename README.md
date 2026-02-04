@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Netdata and some free AI searches saved me a ton of resource usage on my desktop and server](https://gadgeteer.co.za/netdata-and-some-free-ai-searches-saved-me-a-ton-of-resource-usage-on-my-desktop-and-server/)
 - [Google’s Project Genie lets you conjure entire interactive worlds and step into them](https://gadgeteer.co.za/googles-project-genie-lets-you-conjure-entire-interactive-worlds-and-step-into-them/)
 - [Microsoft handed encryption keys for customer data to the government](https://gadgeteer.co.za/microsoft-handed-encryption-keys-for-customer-data-to-the-government/)
 - [Suunto’s New Route Planner Is Free and Awesome](https://gadgeteer.co.za/suuntos-new-route-planner-is-free-and-awesome/)
 - [Stop scrolling through Google’s AI junk: Startpage’s “classic” search engine is better](https://gadgeteer.co.za/stop-scrolling-through-googles-ai-junk-startpages-classic-search-engine-is-better/)
-- [Meet Roomy: An Open-Source Discord Alternative for the Decentralised Web](https://gadgeteer.co.za/meet-roomy-an-open-source-discord-alternative-for-the-decentralised-web/)
 <!-- BLOG-POST-LIST:END -->
 
 
