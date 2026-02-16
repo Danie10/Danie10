@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Science says your Kindle might be better for sleep than a paperback](https://gadgeteer.co.za/science-says-your-kindle-might-be-better-for-sleep-than-a-paperback/)
 - [These video doorbells don’t rely on the cloud or subscriptions](https://gadgeteer.co.za/these-video-doorbells-dont-rely-on-the-cloud-or-subscriptions/)
 - [This Docker Compose visual builder is the tool I wish I had as a beginner](https://gadgeteer.co.za/this-docker-compose-visual-builder-is-the-tool-i-wish-i-had-as-a-beginner/)
 - [Rallly is an open source self-hosted tool to make organising events and meetings easier](https://gadgeteer.co.za/rallly-is-an-open-source-self-hosted-tool-to-make-organising-events-and-meetings-easier/)
 - [Chatbots Make Terrible Doctors, New Study Finds](https://gadgeteer.co.za/chatbots-make-terrible-doctors-new-study-finds/)
-- [Matrix secure chat is quietly becoming the chat layer for governments chasing digital sovereignty](https://gadgeteer.co.za/matrix-secure-chat-is-quietly-becoming-the-chat-layer-for-governments-chasing-digital-sovereignty/)
 <!-- BLOG-POST-LIST:END -->
 
 
