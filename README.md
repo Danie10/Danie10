@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s Copilot spills the beans, summarising emails it’s not supposed to read](https://gadgeteer.co.za/microsofts-copilot-spills-the-beans-summarising-emails-its-not-supposed-to-read/)
 - [This is Probably the Best Video Downloader App &lpar;And it is Free and Open Source&rpar;](https://gadgeteer.co.za/this-is-probably-the-best-video-downloader-app-and-it-is-free-and-open-source/)
 - [LastSignal Is a New Open-Source Dead Man’s Switch You Can Self-Host](https://gadgeteer.co.za/lastsignal-is-a-new-open-source-dead-mans-switch-you-can-self-host/)
 - [Science says your Kindle might be better for sleep than a paperback](https://gadgeteer.co.za/science-says-your-kindle-might-be-better-for-sleep-than-a-paperback/)
 - [These video doorbells don’t rely on the cloud or subscriptions](https://gadgeteer.co.za/these-video-doorbells-dont-rely-on-the-cloud-or-subscriptions/)
-- [This Docker Compose visual builder is the tool I wish I had as a beginner](https://gadgeteer.co.za/this-docker-compose-visual-builder-is-the-tool-i-wish-i-had-as-a-beginner/)
 <!-- BLOG-POST-LIST:END -->
 
 
