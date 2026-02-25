@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The US has ordered its diplomats to lobby against foreign data privacy laws that could limit American tech firms](https://gadgeteer.co.za/the-us-has-ordered-its-diplomats-to-lobby-against-foreign-data-privacy-laws-that-could-limit-american-tech-firms/)
+- [Why OOXML is not a standard format for office documents](https://gadgeteer.co.za/why-ooxml-is-not-a-standard-format-for-office-documents/)
 - [New App Detects the BT Fingerprint of Smart Glasses and Warns You When Someone Is Using Them Nearby](https://gadgeteer.co.za/new-app-detects-the-bt-fingerprint-of-smart-glasses-and-warns-you-when-someone-is-using-them-nearby/)
 - [Technology is being used to obscure and sway public opinion](https://gadgeteer.co.za/technology-is-being-used-to-obscure-and-sway-public-opinion/)
 - [Tugtainer is a self-hosted app for automating updates of your docker containers](https://gadgeteer.co.za/tugtainer-is-a-self-hosted-app-for-automating-updates-of-your-docker-containers/)
-- [Microsoft’s Copilot spills the beans, summarising emails it’s not supposed to read](https://gadgeteer.co.za/microsofts-copilot-spills-the-beans-summarising-emails-its-not-supposed-to-read/)
-- [This is Probably the Best Video Downloader App &lpar;And it is Free and Open Source&rpar;](https://gadgeteer.co.za/this-is-probably-the-best-video-downloader-app-and-it-is-free-and-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 
