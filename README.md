@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [More than 800 gamers took an exam to prove they could complete an ’80s adventure game without peeking at a walkthrough—and only 2 passed](https://gadgeteer.co.za/more-than-800-gamers-took-an-exam-to-prove-they-could-complete-an-80s-adventure-game-without-peeking-at-a-walkthrough-and-only-2-passed/)
 - [No surprise: Meta Workers Say They’re Seeing Disturbing Things THROUGH USERS’ SMART GLASSES](https://gadgeteer.co.za/no-surprise-meta-workers-say-theyre-seeing-disturbing-things-through-users-smart-glasses/)
 - [The US has ordered its diplomats to lobby against foreign data privacy laws that could limit American tech firms](https://gadgeteer.co.za/the-us-has-ordered-its-diplomats-to-lobby-against-foreign-data-privacy-laws-that-could-limit-american-tech-firms/)
 - [Why OOXML is not a standard format for office documents](https://gadgeteer.co.za/why-ooxml-is-not-a-standard-format-for-office-documents/)
 - [New App Detects the BT Fingerprint of Smart Glasses and Warns You When Someone Is Using Them Nearby](https://gadgeteer.co.za/new-app-detects-the-bt-fingerprint-of-smart-glasses-and-warns-you-when-someone-is-using-them-nearby/)
-- [Technology is being used to obscure and sway public opinion](https://gadgeteer.co.za/technology-is-being-used-to-obscure-and-sway-public-opinion/)
 <!-- BLOG-POST-LIST:END -->
 
 
