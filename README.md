@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Portracker – an open source self-hosted real-time port monitoring and discovery tool](https://gadgeteer.co.za/portracker-an-open-source-self-hosted-real-time-port-monitoring-and-discovery-tool/)
 - [10 tricks you can do with FFmpeg on Linux](https://gadgeteer.co.za/10-tricks-you-can-do-with-ffmpeg-on-linux/)
 - [More than 800 gamers took an exam to prove they could complete an ’80s adventure game without peeking at a walkthrough—and only 2 passed](https://gadgeteer.co.za/more-than-800-gamers-took-an-exam-to-prove-they-could-complete-an-80s-adventure-game-without-peeking-at-a-walkthrough-and-only-2-passed/)
 - [No surprise: Meta Workers Say They’re Seeing Disturbing Things THROUGH USERS’ SMART GLASSES](https://gadgeteer.co.za/no-surprise-meta-workers-say-theyre-seeing-disturbing-things-through-users-smart-glasses/)
 - [The US has ordered its diplomats to lobby against foreign data privacy laws that could limit American tech firms](https://gadgeteer.co.za/the-us-has-ordered-its-diplomats-to-lobby-against-foreign-data-privacy-laws-that-could-limit-american-tech-firms/)
-- [Why OOXML is not a standard format for office documents](https://gadgeteer.co.za/why-ooxml-is-not-a-standard-format-for-office-documents/)
 <!-- BLOG-POST-LIST:END -->
 
 
