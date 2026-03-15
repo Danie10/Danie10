@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Hacks Every Signal User Should Know](https://gadgeteer.co.za/10-hacks-every-signal-user-should-know/)
+- [Hister indexes every web page you visit and lets you search the full text of your browsing history offline](https://gadgeteer.co.za/hister-indexes-every-web-page-you-visit-and-lets-you-search-the-full-text-of-your-browsing-history-offline/)
 - [DBAN is a relic for HDD wiping, and ShredOS is the only software you should use](https://gadgeteer.co.za/dban-is-a-relic-for-hdd-wiping-and-shredos-is-the-only-software-you-should-use/)
 - [The Creator of Wordle Just Came Out With a New Game, and It’s Difficult](https://gadgeteer.co.za/the-creator-of-wordle-just-came-out-with-a-new-game-and-its-difficult/)
 - [Europe is building an alternative to Microsoft Office](https://gadgeteer.co.za/europe-is-building-an-alternative-to-microsoft-office/)
-- [AmneziaVPN is a self-hosted VPN that works in countries where WireGuard gets blocked](https://gadgeteer.co.za/amneziavpn-is-a-self-hosted-vpn-that-works-in-countries-where-wireguard-gets-blocked/)
-- [Portracker – an open source self-hosted real-time port monitoring and discovery tool](https://gadgeteer.co.za/portracker-an-open-source-self-hosted-real-time-port-monitoring-and-discovery-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 
