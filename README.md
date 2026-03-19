@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [US Federal Cyber Experts Thought Microsoft’s Cloud Was Garbage — They Approved It Anyway](https://gadgeteer.co.za/us-federal-cyber-experts-thought-microsofts-cloud-was-garbage-they-approved-it-anyway/)
 - [OpenSpeedTest an Open-Source Self Hostable HTML5 Network Performance Estimation Tool](https://gadgeteer.co.za/openspeedtest-an-open-source-self-hostable-html5-network-performance-estimation-tool/)
 - [Not a Firefox or Chrome Fork! Kagi’s Orion Browser Arrives on Linux as a Public Beta](https://gadgeteer.co.za/not-a-firefox-or-chrome-fork-kagis-orion-browser-arrives-on-linux-as-a-public-beta/)
 - [10 Hacks Every Signal User Should Know](https://gadgeteer.co.za/10-hacks-every-signal-user-should-know/)
 - [Hister indexes every web page you visit and lets you search the full text of your browsing history offline](https://gadgeteer.co.za/hister-indexes-every-web-page-you-visit-and-lets-you-search-the-full-text-of-your-browsing-history-offline/)
-- [DBAN is a relic for HDD wiping, and ShredOS is the only software you should use](https://gadgeteer.co.za/dban-is-a-relic-for-hdd-wiping-and-shredos-is-the-only-software-you-should-use/)
 <!-- BLOG-POST-LIST:END -->
 
 
