@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ClipCascade is an open-source lightweight utility that automatically syncs the clipboard across devices](https://gadgeteer.co.za/clipcascade-is-an-open-source-lightweight-utility-that-automatically-syncs-the-clipboard-across-devices/)
 - [I just moved from Manjaro Linux to EndeavourOS](https://gadgeteer.co.za/i-just-moved-from-manjaro-linux-to-endeavouros/)
 - [Big Win for Open Source as Germany Backs Open Document Format](https://gadgeteer.co.za/big-win-for-open-source-as-germany-backs-open-document-format/)
 - [Single button press to start or stop a Portainer docker stack](https://gadgeteer.co.za/single-button-press-to-start-or-stop-a-portainer-docker-stack/)
 - [US Federal Cyber Experts Thought Microsoft’s Cloud Was Garbage — They Approved It Anyway](https://gadgeteer.co.za/us-federal-cyber-experts-thought-microsofts-cloud-was-garbage-they-approved-it-anyway/)
-- [OpenSpeedTest an Open-Source Self Hostable HTML5 Network Performance Estimation Tool](https://gadgeteer.co.za/openspeedtest-an-open-source-self-hostable-html5-network-performance-estimation-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 
