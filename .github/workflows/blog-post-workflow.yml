@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1.8.6
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "5"
           remove_duplicates: true
