@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dangerzone — an open source app to safely open suspect PDFs, office docs, or images](https://gadgeteer.co.za/dangerzone-an-open-source-app-to-safely-open-suspect-pdfs-office-docs-or-images/)
 - [Easy way South Africans can find fuel stations with the cheapest diesel](https://gadgeteer.co.za/easy-way-south-africans-can-find-fuel-stations-with-the-cheapest-diesel/)
 - [ClipCascade is an open-source lightweight utility that automatically syncs the clipboard across devices](https://gadgeteer.co.za/clipcascade-is-an-open-source-lightweight-utility-that-automatically-syncs-the-clipboard-across-devices/)
 - [I just moved from Manjaro Linux to EndeavourOS](https://gadgeteer.co.za/i-just-moved-from-manjaro-linux-to-endeavouros/)
 - [Big Win for Open Source as Germany Backs Open Document Format](https://gadgeteer.co.za/big-win-for-open-source-as-germany-backs-open-document-format/)
-- [Single button press to start or stop a Portainer docker stack](https://gadgeteer.co.za/single-button-press-to-start-or-stop-a-portainer-docker-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 
