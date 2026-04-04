@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn paper hiking maps into real-time GPS guides with Matchy Maps](https://gadgeteer.co.za/turn-paper-hiking-maps-into-real-time-gps-guides-with-matchy-maps/)
 - [Sweden goes back to basics, swapping screens for books in the classroom](https://gadgeteer.co.za/sweden-goes-back-to-basics-swapping-screens-for-books-in-the-classroom/)
 - [Proton launches new “Meet” privacy-focused conferencing platform](https://gadgeteer.co.za/proton-launches-new-meet-privacy-focused-conferencing-platform/)
 - [Dangerzone — an open source app to safely open suspect PDFs, office docs, or images](https://gadgeteer.co.za/dangerzone-an-open-source-app-to-safely-open-suspect-pdfs-office-docs-or-images/)
 - [Easy way South Africans can find fuel stations with the cheapest diesel](https://gadgeteer.co.za/easy-way-south-africans-can-find-fuel-stations-with-the-cheapest-diesel/)
-- [ClipCascade is an open-source lightweight utility that automatically syncs the clipboard across devices](https://gadgeteer.co.za/clipcascade-is-an-open-source-lightweight-utility-that-automatically-syncs-the-clipboard-across-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 
