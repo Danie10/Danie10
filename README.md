@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Little Snitch, the macOS network tool, is now available on Linux](https://gadgeteer.co.za/little-snitch-the-macos-network-tool-is-now-available-on-linux/)
 - [PacHub finally lets you manage pacman and the AUR on Arch without touching the terminal](https://gadgeteer.co.za/pachub-finally-lets-you-manage-pacman-and-the-aur-on-arch-without-touching-the-terminal/)
 - [Turn paper hiking maps into real-time GPS guides with Matchy Maps](https://gadgeteer.co.za/turn-paper-hiking-maps-into-real-time-gps-guides-with-matchy-maps/)
 - [Sweden goes back to basics, swapping screens for books in the classroom](https://gadgeteer.co.za/sweden-goes-back-to-basics-swapping-screens-for-books-in-the-classroom/)
 - [Proton launches new “Meet” privacy-focused conferencing platform](https://gadgeteer.co.za/proton-launches-new-meet-privacy-focused-conferencing-platform/)
-- [Dangerzone — an open source app to safely open suspect PDFs, office docs, or images](https://gadgeteer.co.za/dangerzone-an-open-source-app-to-safely-open-suspect-pdfs-office-docs-or-images/)
 <!-- BLOG-POST-LIST:END -->
 
 
