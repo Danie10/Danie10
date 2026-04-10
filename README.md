@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [France’s government is ditching Windows for Linux, calling US tech dependence a strategic risk](https://gadgeteer.co.za/frances-government-is-ditching-windows-for-linux-calling-us-tech-dependence-a-strategic-risk/)
+- [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://gadgeteer.co.za/linkedin-secretly-scans-for-6000-chrome-extensions-collects-data/)
 - [You Should Be Using Reddit on Your RSS Reader](https://gadgeteer.co.za/you-should-be-using-reddit-on-your-rss-reader/)
 - [The EFF is quitting X](https://gadgeteer.co.za/the-eff-is-quitting-x/)
 - [Little Snitch, the macOS network tool, is now available on Linux](https://gadgeteer.co.za/little-snitch-the-macos-network-tool-is-now-available-on-linux/)
-- [PacHub finally lets you manage pacman and the AUR on Arch without touching the terminal](https://gadgeteer.co.za/pachub-finally-lets-you-manage-pacman-and-the-aur-on-arch-without-touching-the-terminal/)
-- [Turn paper hiking maps into real-time GPS guides with Matchy Maps](https://gadgeteer.co.za/turn-paper-hiking-maps-into-real-time-gps-guides-with-matchy-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 
