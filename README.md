@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bitsocial is an Open Source P2P Network for Social Apps](https://gadgeteer.co.za/bitsocial-is-an-open-source-p2p-network-for-social-apps/)
 - [Instead of upgrading your motherboard you may be able to use your spare PCIe x1 slot](https://gadgeteer.co.za/instead-of-upgrading-your-motherboard-you-may-be-able-to-use-your-spare-pcie-x1-slot/)
 - [Immich Kiosk turns any screen into a photo display](https://gadgeteer.co.za/immich-kiosk-turns-any-screen-into-a-photo-display/)
 - [This Bicycle Bell Can Even Be Heard by People Wearing Noise-Cancelling Headphones because its 2026](https://gadgeteer.co.za/this-bicycle-bell-can-even-be-heard-by-people-wearing-noise-cancelling-headphones-because-its-2026/)
 - [France’s government is ditching Windows for Linux, calling US tech dependence a strategic risk](https://gadgeteer.co.za/frances-government-is-ditching-windows-for-linux-calling-us-tech-dependence-a-strategic-risk/)
-- [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://gadgeteer.co.za/linkedin-secretly-scans-for-6000-chrome-extensions-collects-data/)
 <!-- BLOG-POST-LIST:END -->
 
 
