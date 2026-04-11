@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Immich Kiosk turns any screen into a photo display](https://gadgeteer.co.za/immich-kiosk-turns-any-screen-into-a-photo-display/)
 - [This Bicycle Bell Can Even Be Heard by People Wearing Noise-Cancelling Headphones because its 2026](https://gadgeteer.co.za/this-bicycle-bell-can-even-be-heard-by-people-wearing-noise-cancelling-headphones-because-its-2026/)
 - [France’s government is ditching Windows for Linux, calling US tech dependence a strategic risk](https://gadgeteer.co.za/frances-government-is-ditching-windows-for-linux-calling-us-tech-dependence-a-strategic-risk/)
 - [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://gadgeteer.co.za/linkedin-secretly-scans-for-6000-chrome-extensions-collects-data/)
 - [You Should Be Using Reddit on Your RSS Reader](https://gadgeteer.co.za/you-should-be-using-reddit-on-your-rss-reader/)
-- [The EFF is quitting X](https://gadgeteer.co.za/the-eff-is-quitting-x/)
 <!-- BLOG-POST-LIST:END -->
 
 
