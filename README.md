@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [All my GadgeteerZA services statuses are back on Uptime Kuma](https://gadgeteer.co.za/all-my-gadgeteerza-services-statuses-are-back-on-uptime-kuma/)
 - [Google, Microsoft, Meta All Tracking You Even When You Opt Out, According to an Independent Audit](https://gadgeteer.co.za/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/)
 - [Bitsocial is an Open Source P2P Network for Social Apps](https://gadgeteer.co.za/bitsocial-is-an-open-source-p2p-network-for-social-apps/)
 - [Instead of upgrading your motherboard you may be able to use your spare PCIe x1 slot](https://gadgeteer.co.za/instead-of-upgrading-your-motherboard-you-may-be-able-to-use-your-spare-pcie-x1-slot/)
 - [Immich Kiosk turns any screen into a photo display](https://gadgeteer.co.za/immich-kiosk-turns-any-screen-into-a-photo-display/)
-- [This Bicycle Bell Can Even Be Heard by People Wearing Noise-Cancelling Headphones because its 2026](https://gadgeteer.co.za/this-bicycle-bell-can-even-be-heard-by-people-wearing-noise-cancelling-headphones-because-its-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 
