@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-hosted Pinchflat will download YouTube videos or playlists into Jellyfin](https://gadgeteer.co.za/self-hosted-pinchflat-will-download-youtube-videos-or-playlists-into-jellyfin/)
 - [25 years later, is it time for a new iPod?](https://gadgeteer.co.za/25-years-later-is-it-time-for-a-new-ipod/)
 - [Open-source KOReader is an alternative to the default Kindle interface](https://gadgeteer.co.za/open-source-koreader-is-an-alternative-to-the-default-kindle-interface/)
 - [All my GadgeteerZA services statuses are back on Uptime Kuma](https://gadgeteer.co.za/all-my-gadgeteerza-services-statuses-are-back-on-uptime-kuma/)
 - [Google, Microsoft, Meta All Tracking You Even When You Opt Out, According to an Independent Audit](https://gadgeteer.co.za/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/)
-- [Bitsocial is an Open Source P2P Network for Social Apps](https://gadgeteer.co.za/bitsocial-is-an-open-source-p2p-network-for-social-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 
