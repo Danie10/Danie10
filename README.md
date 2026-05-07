@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I cut $800 in subscriptions by running free tools on hardware I already owned](https://gadgeteer.co.za/i-cut-800-in-subscriptions-by-running-free-tools-on-hardware-i-already-owned/)
 - [My First Meanderings With My Own Locally Hosted AI Tools](https://gadgeteer.co.za/my-first-meanderings-with-my-own-locally-hosted-ai-tools/)
 - [Google quietly fixed AirPods compatibility with Android, and the LibrePod app is all you need](https://gadgeteer.co.za/google-quietly-fixed-airpods-compatibility-with-android-and-the-librepod-app-is-all-you-need/)
 - [Stop using Cloudflare’s default 1.1.1.1 DNS &lpar;changing one digit blocks malware at the router level&rpar;](https://gadgeteer.co.za/stop-using-cloudflares-default-1-1-1-1-dns-changing-one-digit-blocks-malware-at-the-router-level/)
 - [Stop Guessing if Your Servers are Up: Free VPS Monitoring Guide](https://gadgeteer.co.za/stop-guessing-if-your-servers-are-up-free-vps-monitoring-guide/)
-- [Self-hosted Pinchflat will download YouTube videos or playlists into Jellyfin](https://gadgeteer.co.za/self-hosted-pinchflat-will-download-youtube-videos-or-playlists-into-jellyfin/)
 <!-- BLOG-POST-LIST:END -->
 
 
