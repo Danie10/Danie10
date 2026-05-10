@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [South African universities developing their own ChatGPTs that better understand local languages](https://gadgeteer.co.za/south-african-universities-developing-their-own-chatgpts-that-better-understand-local-languages/)
 - [I cut $800 in subscriptions by running free tools on hardware I already owned](https://gadgeteer.co.za/i-cut-800-in-subscriptions-by-running-free-tools-on-hardware-i-already-owned/)
 - [My First Meanderings With My Own Locally Hosted AI Tools](https://gadgeteer.co.za/my-first-meanderings-with-my-own-locally-hosted-ai-tools/)
 - [Google quietly fixed AirPods compatibility with Android, and the LibrePod app is all you need](https://gadgeteer.co.za/google-quietly-fixed-airpods-compatibility-with-android-and-the-librepod-app-is-all-you-need/)
 - [Stop using Cloudflare’s default 1.1.1.1 DNS &lpar;changing one digit blocks malware at the router level&rpar;](https://gadgeteer.co.za/stop-using-cloudflares-default-1-1-1-1-dns-changing-one-digit-blocks-malware-at-the-router-level/)
-- [Stop Guessing if Your Servers are Up: Free VPS Monitoring Guide](https://gadgeteer.co.za/stop-guessing-if-your-servers-are-up-free-vps-monitoring-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
