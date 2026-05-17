@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MeshCore radio network in Cape Town for off-grid communications](https://gadgeteer.co.za/meshcore-radio-network-in-cape-town-for-off-grid-communications/)
 - [Large Study Finds That Replacing Workers With AI Is Backfiring Badly](https://gadgeteer.co.za/large-study-finds-that-replacing-workers-with-ai-is-backfiring-badly/)
 - [With KOReader My ancient Kobo eReader is now better than a new Kindle](https://gadgeteer.co.za/with-koreader-my-ancient-kobo-ereader-is-now-better-than-a-new-kindle/)
 - [South African universities developing their own ChatGPTs that better understand local languages](https://gadgeteer.co.za/south-african-universities-developing-their-own-chatgpts-that-better-understand-local-languages/)
 - [I cut $800 in subscriptions by running free tools on hardware I already owned](https://gadgeteer.co.za/i-cut-800-in-subscriptions-by-running-free-tools-on-hardware-i-already-owned/)
-- [My First Meanderings With My Own Locally Hosted AI Tools](https://gadgeteer.co.za/my-first-meanderings-with-my-own-locally-hosted-ai-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 
