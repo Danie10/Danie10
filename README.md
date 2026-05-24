@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Virtual OS Museum opens its doors](https://gadgeteer.co.za/the-virtual-os-museum-opens-its-doors/)
 - [South African app AutoFinders helps people identify problem cars before they buy them](https://gadgeteer.co.za/south-african-app-autofinders-helps-people-identify-problem-cars-before-they-buy-them/)
 - [8 LEGO 3D printing projects to build this weekend](https://gadgeteer.co.za/8-lego-3d-printing-projects-to-build-this-weekend/)
 - [Switched my social media posting from paid Make to self-hosted n8n and Postiz](https://gadgeteer.co.za/switched-my-social-media-posting-from-paid-make-to-self-hosted-n8n-and-postiz/)
 - [MeshCore radio network in Cape Town for off-grid communications](https://gadgeteer.co.za/meshcore-radio-network-in-cape-town-for-off-grid-communications/)
-- [Large Study Finds That Replacing Workers With AI Is Backfiring Badly](https://gadgeteer.co.za/large-study-finds-that-replacing-workers-with-ai-is-backfiring-badly/)
 <!-- BLOG-POST-LIST:END -->
 
 
