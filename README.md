@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Over 150 Mathematicians Warn Governments Not to “Believe the Hype” About AI](https://gadgeteer.co.za/over-150-mathematicians-warn-governments-not-to-believe-the-hype-about-ai/)
 - [Meta Quietly Added Facial Recognition to Its Smart Glasses](https://gadgeteer.co.za/meta-quietly-added-facial-recognition-to-its-smart-glasses/)
 - [I tried using Google NotebookLM to generate an overview podcast of my YouTube channel](https://gadgeteer.co.za/i-tried-using-google-notebooklm-to-generate-an-overview-podcast-of-my-youtube-channel/)
 - [Woman Alarmed When Her Trusted Therapist Starts Recording Her With AI — Where Is Her Voice Going?](https://gadgeteer.co.za/woman-alarmed-when-her-trusted-therapist-starts-recording-her-with-ai-where-is-her-voice-going/)
 - [Ordinary WiFi can now identify people with near perfect accuracy](https://gadgeteer.co.za/ordinary-wifi-can-now-identify-people-with-near-perfect-accuracy/)
-- [MeshCore SAR – The final hurdle has been reached for MeshCore](https://gadgeteer.co.za/meshcore-sar-the-final-hurdle-has-been-reached-for-meshcore/)
 <!-- BLOG-POST-LIST:END -->
 
 
