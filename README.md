@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Strava killed its free API, so I built my own fitness platform with Endurain and FitPub instead](https://gadgeteer.co.za/strava-killed-its-free-api-so-i-built-my-own-fitness-platform-with-endurain-and-fitpub-instead/)
 - [Firefox’s free VPN lifts data limit, offers 28 server locations](https://gadgeteer.co.za/firefoxs-free-vpn-lifts-data-limit-offers-28-server-locations/)
 - [Google Earth’s flight simulator is now available in your browser](https://gadgeteer.co.za/google-earths-flight-simulator-is-now-available-in-your-browser/)
 - [How one GPL lawsuit accidentally created the homelab router that changed networking forever](https://gadgeteer.co.za/how-one-gpl-lawsuit-accidentally-created-the-homelab-router-that-changed-networking-forever/)
 - [Over 150 Mathematicians Warn Governments Not to “Believe the Hype” About AI](https://gadgeteer.co.za/over-150-mathematicians-warn-governments-not-to-believe-the-hype-about-ai/)
-- [Meta Quietly Added Facial Recognition to Its Smart Glasses](https://gadgeteer.co.za/meta-quietly-added-facial-recognition-to-its-smart-glasses/)
 <!-- BLOG-POST-LIST:END -->
 
 
