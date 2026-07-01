@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [They’ve read the scroll thing! AI helps decipher ancient document charred by Vesuvius](https://gadgeteer.co.za/theyve-read-the-scroll-thing-ai-helps-decipher-ancient-document-charred-by-vesuvius/)
 - [Voicebox is a local-first AI voice studio — a free and open-source alternative to ElevenLabs and WisprFlow](https://gadgeteer.co.za/voicebox-is-a-local-first-ai-voice-studio-a-free-and-open-source-alternative-to-elevenlabs-and-wisprflow/)
 - [After a week with my new Pebble Time 2 watch I’m really happy with it](https://gadgeteer.co.za/after-a-week-with-my-new-pebble-time-2-watch-im-really-happy-with-it/)
 - [Every Physics Teacher &lpar;And Student&rpar; Should Try This Open Source Software](https://gadgeteer.co.za/every-physics-teacher-and-student-should-try-this-open-source-software/)
 - [Strava killed its free API, so I built my own fitness platform with Endurain and FitPub instead](https://gadgeteer.co.za/strava-killed-its-free-api-so-i-built-my-own-fitness-platform-with-endurain-and-fitpub-instead/)
-- [Firefox’s free VPN lifts data limit, offers 28 server locations](https://gadgeteer.co.za/firefoxs-free-vpn-lifts-data-limit-offers-28-server-locations/)
 <!-- BLOG-POST-LIST:END -->
 
 
