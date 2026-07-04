@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This Linux storage feature feels like cheating once you understand it](https://gadgeteer.co.za/this-linux-storage-feature-feels-like-cheating-once-you-understand-it/)
 - [Here’s what end-to-end encryption protects—and what it doesn’t](https://gadgeteer.co.za/heres-what-end-to-end-encryption-protects-and-what-it-doesnt/)
 - [David Potter, the man who put Psion in the palm of your hand, logs off at 82](https://gadgeteer.co.za/david-potter-the-man-who-put-psion-in-the-palm-of-your-hand-logs-off-at-82/)
 - [I ran the same SSD health check on Linux and Windows—only Linux gave me the full picture](https://gadgeteer.co.za/i-ran-the-same-ssd-health-check-on-linux-and-windows-only-linux-gave-me-the-full-picture/)
 - [Brave Browser just summarily disabled an extension I’m using](https://gadgeteer.co.za/brave-browser-just-summarily-disabled-an-extension-im-using/)
-- [They’ve read the scroll thing! AI helps decipher ancient document charred by Vesuvius](https://gadgeteer.co.za/theyve-read-the-scroll-thing-ai-helps-decipher-ancient-document-charred-by-vesuvius/)
 <!-- BLOG-POST-LIST:END -->
 
 
