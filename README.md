@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Patents AI Device That Tracks Your Emotions, Watches You Take Your Meds](https://gadgeteer.co.za/meta-patents-ai-device-that-tracks-your-emotions-watches-you-take-your-meds/)
+- [German state of Mecklenburg-Vorpommern heads down the open source sovereignty road](https://gadgeteer.co.za/german-state-of-mecklenburg-vorpommern-heads-down-the-open-source-sovereignty-road/)
 - [Wallos — An Open-Source Personal Subscriptions Tracker Which Saved Quite A Bit Of Money For Me](https://gadgeteer.co.za/wallos-an-open-source-personal-subscriptions-tracker-which-saved-quite-a-bit-of-money-for-me/)
 - [This Linux storage feature feels like cheating once you understand it](https://gadgeteer.co.za/this-linux-storage-feature-feels-like-cheating-once-you-understand-it/)
 - [Here’s what end-to-end encryption protects—and what it doesn’t](https://gadgeteer.co.za/heres-what-end-to-end-encryption-protects-and-what-it-doesnt/)
-- [David Potter, the man who put Psion in the palm of your hand, logs off at 82](https://gadgeteer.co.za/david-potter-the-man-who-put-psion-in-the-palm-of-your-hand-logs-off-at-82/)
-- [I ran the same SSD health check on Linux and Windows—only Linux gave me the full picture](https://gadgeteer.co.za/i-ran-the-same-ssd-health-check-on-linux-and-windows-only-linux-gave-me-the-full-picture/)
 <!-- BLOG-POST-LIST:END -->
 
 
