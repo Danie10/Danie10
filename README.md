@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Bevel Is a Way Better iOS App for the Fitbit Air Than Google Health](https://gadgeteer.co.za/why-bevel-is-a-way-better-ios-app-for-the-fitbit-air-than-google-health/)
 - [Vital Signals’ New Ring Brings Blood Pressure Monitoring to Your Finger](https://gadgeteer.co.za/vital-signals-new-ring-brings-blood-pressure-monitoring-to-your-finger/)
 - [Making A Locked Down WHOOP Wearable Work Without A Subscription](https://gadgeteer.co.za/making-a-locked-down-whoop-wearable-work-without-a-subscription/)
 - [AI Barometer: the best AI for every job right now because choosing is difficult](https://gadgeteer.co.za/ai-barometer-the-best-ai-for-every-job-right-now-because-choosing-is-difficult/)
 - [HeliBoard is a privacy-conscious and customisable open-source keyboard for Android](https://gadgeteer.co.za/heliboard-is-a-privacy-conscious-and-customisable-open-source-keyboard-for-android/)
-- [Tech Bros Puzzled by Why AI Hasn’t “Massively Disrupted” Books Yet](https://gadgeteer.co.za/tech-bros-puzzled-by-why-ai-hasnt-massively-disrupted-books-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 
