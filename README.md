@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Euki Period-Tracking App Actually Keeps Your Data Private](https://gadgeteer.co.za/euki-period-tracking-app-actually-keeps-your-data-private/)
 - [OpenAI Exec Laments That China Is Giving Away Models So Good That For-Profit Companies Won’t Be Able to Compete](https://gadgeteer.co.za/openai-exec-laments-that-china-is-giving-away-models-so-good-that-for-profit-companies-wont-be-able-to-compete/)
 - [Why Bevel Is a Way Better iOS App for the Fitbit Air Than Google Health](https://gadgeteer.co.za/why-bevel-is-a-way-better-ios-app-for-the-fitbit-air-than-google-health/)
 - [Vital Signals’ New Ring Brings Blood Pressure Monitoring to Your Finger](https://gadgeteer.co.za/vital-signals-new-ring-brings-blood-pressure-monitoring-to-your-finger/)
 - [Making A Locked Down WHOOP Wearable Work Without A Subscription](https://gadgeteer.co.za/making-a-locked-down-whoop-wearable-work-without-a-subscription/)
-- [AI Barometer: the best AI for every job right now because choosing is difficult](https://gadgeteer.co.za/ai-barometer-the-best-ai-for-every-job-right-now-because-choosing-is-difficult/)
 <!-- BLOG-POST-LIST:END -->
 
 
