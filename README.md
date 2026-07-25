@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EskomSePush app transitioned to neighbourhood service disruptions otherwise it would have died](https://gadgeteer.co.za/eskomsepush-app-transitioned-to-neighbourhood-service-disruptions-otherwise-it-would-have-died/)
 - [Africa’s most popular phones have a tracking problem and explains where data disappears to](https://gadgeteer.co.za/africas-most-popular-phones-have-a-tracking-problem-and-explains-where-data-disappears-to/)
 - [MeshCore Radio for Social Networking and Disasters with zero Internet required](https://gadgeteer.co.za/meshcore-radio-for-social-networking-and-disasters-with-zero-internet-required/)
 - [FokOffMense is South Africa’s spam block and POPIA toolkit](https://gadgeteer.co.za/fokoffmense-is-south-africas-spam-block-and-popia-toolkit/)
 - [Hugging Face Said Last Week It Was Attacked. An Unreleased OpenAI Model Did It, OpenAI Now Says](https://gadgeteer.co.za/hugging-face-said-last-week-it-was-attacked-an-unreleased-openai-model-did-it-openai-now-says/)
-- [Euki Period-Tracking App Actually Keeps Your Data Private](https://gadgeteer.co.za/euki-period-tracking-app-actually-keeps-your-data-private/)
 <!-- BLOG-POST-LIST:END -->
 
 
