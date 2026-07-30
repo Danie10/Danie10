@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LG Monitors Fill Windows PCs With Adware, and It’s Not Just Recent Displays](https://gadgeteer.co.za/lg-monitors-fill-windows-pcs-with-adware-and-its-not-just-recent-displays/)
 - [It Seems a Lot Like Dead Internet Has Actually Come True](https://gadgeteer.co.za/it-seems-a-lot-like-dead-internet-has-actually-come-true/)
 - [EskomSePush app transitioned to neighbourhood service disruptions otherwise it would have died](https://gadgeteer.co.za/eskomsepush-app-transitioned-to-neighbourhood-service-disruptions-otherwise-it-would-have-died/)
 - [Africa’s most popular phones have a tracking problem and explains where data disappears to](https://gadgeteer.co.za/africas-most-popular-phones-have-a-tracking-problem-and-explains-where-data-disappears-to/)
 - [MeshCore Radio for Social Networking and Disasters with zero Internet required](https://gadgeteer.co.za/meshcore-radio-for-social-networking-and-disasters-with-zero-internet-required/)
-- [FokOffMense is South Africa’s spam block and POPIA toolkit](https://gadgeteer.co.za/fokoffmense-is-south-africas-spam-block-and-popia-toolkit/)
 <!-- BLOG-POST-LIST:END -->
 
 
