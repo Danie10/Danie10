@@ -39,7 +39,6 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 
 I also publish videos mostly about technology, open source and alternative social media at:
 - YouTube: https://www.youtube.com/@GadgeteerZA
-- Odysee: https://odysee.com/@GadgeteerZA:4
 - Peertube: https://video.hardlimit.com/c/gadgeteerza/videos
 
 
