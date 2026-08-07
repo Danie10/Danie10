@@ -1,6 +1,6 @@
 ![](https://yt3.ggpht.com/ytc/AKedOLTjSvgBgtLmvQSNuuP-z22LFql2QOlcweAzH50-GW8=s88-c-k-c0x00ffffff-no-rj)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Danie10.Danie10&left_color=grey&right_color=blue)
+![visitors](https://komarev.com/ghpvc/?username=Danie10&left_color=grey&right_color=blue)
 # 🧑🏼‍🏭 About Me
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=Manjaro&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=plastic&logo=Brave&logoColor=white)
@@ -11,19 +11,19 @@ My interests lean toward open source, green technology, security, privacy, amate
 
 # <img align="left" alt="Java" width="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" /> Follow Me
 
-I blog daily (about 3 to 5 posts pd) on various social networks such as:
+I blog daily (about 3 to 5 posts per day) on various social networks such as:
 
 - Mastodon: <a rel="me" href="https://mastodon.social/@danie10">@Danie10</a>
 - Bluesky: <a rel="me" href="https://bsky.app/profile/gadgeteer.co.za">@gadgeteer.co.za</a>
 - Friendica: https://squeet.me/profile/danie10/
-- Hubzilla: https://hub.vilarejo.pro.br/channel/gadgeteer
+- Hubzilla: https://hub.netzgemeinde.eu/channel/gadgeteer
 - Linkedin: https://www.linkedin.com/company/gadgeteerza/
 - WordPress (option to subscribe to e-mails): https://gadgeteer.co.za/blog/
 - RSS feed: https://gadgeteer.co.za/category/uncategorized/feed/
 - Secure Scuttlebutt (P2P): @0Tv5f/opjv/m1ONAKl6S79HWbHdLaCtt/emdXl2MCO0=.ed25519
 - Matrix Room (also bridged to my IRC channel): https://matrix.to/#/#gadgeteerza:libera.chat
 - MeWe: https://mewe.com/join/tech__gadgets
-- Nost: Public key npub1g2jpj7x9rjcqd9dp3hnvja2tjr3q3hf362z3ulrfzpyfnsdw5qlqyayjj6 or danie@nostr.fan
+- Nostr: Public key npub1g2jpj7x9rjcqd9dp3hnvja2tjr3q3hf362z3ulrfzpyfnsdw5qlqyayjj6 or danie@nostr.fan
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
