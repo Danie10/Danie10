@@ -16,7 +16,7 @@
 
 Technology and gadgets are my passion! After spending most of my career in IT, I now spend my days reading tech news and blogging daily about what I find interesting. I try to transform the techspeak into something that ordinary non-tech folk can see a use for, and I just post about what I find really interesting that day.
 
-My interests lean toward open source, green technology, security, privacy, amateur radio (ZS1OSS), alternative social networks, etc.
+My interests lean toward open source, green technology, security, privacy, amateur radio ([ZS1OSS](https://www.qrz.com/db/ZS1OSS)), alternative social networks, etc.
 
 <a id="follow-me"></a>
 # <img align="left" alt="Follow Me icon" width="30px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" /> Follow Me
