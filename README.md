@@ -27,11 +27,11 @@ I blog daily (about 3 to 5 posts pd) on various social networks such as:
 
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RSS-Bridge generates web feeds for websites that don’t have one](https://gadgeteer.co.za/rss-bridge-generates-web-feeds-for-websites-that-dont-have-one/)
 - [OpenAI is giving ChatGPT free users unlimited text chats](https://gadgeteer.co.za/openai-is-giving-chatgpt-free-users-unlimited-text-chats/)
 - [Team South Africa wins at NASA space engineering competition](https://gadgeteer.co.za/team-south-africa-wins-at-nasa-space-engineering-competition/)
 - [Spam callers face penalties of up to R1,000,000 in South Africa](https://gadgeteer.co.za/spam-callers-face-penalties-of-up-to-r1000000-in-south-africa/)
 - [LG Monitors Fill Windows PCs With Adware, and It’s Not Just Recent Displays](https://gadgeteer.co.za/lg-monitors-fill-windows-pcs-with-adware-and-its-not-just-recent-displays/)
-- [It Seems a Lot Like Dead Internet Has Actually Come True](https://gadgeteer.co.za/it-seems-a-lot-like-dead-internet-has-actually-come-true/)
 <!-- BLOG-POST-LIST:END -->
 
 
