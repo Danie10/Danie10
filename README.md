@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I turned my security cameras into AI assistants with open-source LLM Vision](https://gadgeteer.co.za/i-turned-my-security-cameras-into-ai-assistants-with-open-source-llm-vision/)
 - [Netflix accounts taken over in South Africa through session cookie hijacking](https://gadgeteer.co.za/netflix-accounts-taken-over-in-south-africa-through-session-cookie-hijacking/)
 - [Google Search is likely Yahooed now](https://gadgeteer.co.za/google-search-is-likely-yahooed-now/)
 - [RSS-Bridge generates web feeds for websites that don’t have one](https://gadgeteer.co.za/rss-bridge-generates-web-feeds-for-websites-that-dont-have-one/)
 - [OpenAI is giving ChatGPT free users unlimited text chats](https://gadgeteer.co.za/openai-is-giving-chatgpt-free-users-unlimited-text-chats/)
-- [Team South Africa wins at NASA space engineering competition](https://gadgeteer.co.za/team-south-africa-wins-at-nasa-space-engineering-competition/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
