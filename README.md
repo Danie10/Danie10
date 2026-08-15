@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Remember These Modular Electronics Kits](https://gadgeteer.co.za/i-remember-these-modular-electronics-kits/)
 - [Homelabbers and Desktop Tweakers may want to move beyond just plain AI chat](https://gadgeteer.co.za/homelabbers-and-desktop-tweakers-may-want-to-move-beyond-just-plain-ai-chat/)
 - [SoloMD is a simpler markdown open-source app that opens your whole Obsidian vault](https://gadgeteer.co.za/solomd-is-a-simpler-markdown-open-source-app-that-opens-your-whole-obsidian-vault/)
 - [Track Bird Visitors With A Raspberry Pi And A USB Mic](https://gadgeteer.co.za/track-bird-visitors-with-a-raspberry-pi-and-a-usb-mic/)
 - [I turned my security cameras into AI assistants with open-source LLM Vision](https://gadgeteer.co.za/i-turned-my-security-cameras-into-ai-assistants-with-open-source-llm-vision/)
-- [Netflix accounts taken over in South Africa through session cookie hijacking](https://gadgeteer.co.za/netflix-accounts-taken-over-in-south-africa-through-session-cookie-hijacking/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
