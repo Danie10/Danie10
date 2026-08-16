@@ -38,7 +38,7 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [nfSensei is an open source fork of pfSense, by the original creator, for Linux](https://gadgeteer.co.za/nfsensei-is-an-open-source-fork-of-pfsense-by-the-original-creator-for-linux/)
+- [nfSensei is an open source spiritual successor of pfSense, by the original creator, for Linux](https://gadgeteer.co.za/nfsensei-is-an-open-source-fork-of-pfsense-by-the-original-creator-for-linux/)
 - [FairEmail is an open source privacy orientated email app](https://gadgeteer.co.za/fairemail-is-an-open-source-privacy-orientated-email-app/)
 - [I Remember These Modular Electronics Kits](https://gadgeteer.co.za/i-remember-these-modular-electronics-kits/)
 - [Homelabbers and Desktop Tweakers may want to move beyond just plain AI chat](https://gadgeteer.co.za/homelabbers-and-desktop-tweakers-may-want-to-move-beyond-just-plain-ai-chat/)
