@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [N64 classic GoldenEye 007 has been 100% decompiled, paving the way for mods and ports](https://gadgeteer.co.za/n64-classic-goldeneye-007-has-been-100-decompiled-paving-the-way-for-mods-and-ports/)
 - [Cheap USB-C chargers are actually fine—these 4 specs are all that matter](https://gadgeteer.co.za/cheap-usb-c-chargers-are-actually-fine-these-4-specs-are-all-that-matter/)
 - [nfSensei is an open source spiritual successor of pfSense, by the original creator, for Linux](https://gadgeteer.co.za/nfsensei-is-an-open-source-fork-of-pfsense-by-the-original-creator-for-linux/)
 - [FairEmail is an open source privacy orientated email app](https://gadgeteer.co.za/fairemail-is-an-open-source-privacy-orientated-email-app/)
 - [I Remember These Modular Electronics Kits](https://gadgeteer.co.za/i-remember-these-modular-electronics-kits/)
-- [Homelabbers and Desktop Tweakers may want to move beyond just plain AI chat](https://gadgeteer.co.za/homelabbers-and-desktop-tweakers-may-want-to-move-beyond-just-plain-ai-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
