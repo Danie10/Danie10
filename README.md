@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving your Linux home folder to a dedicated drive is the distro-hopping secret I wish I knew earlier](https://gadgeteer.co.za/moving-your-linux-home-folder-to-a-dedicated-drive-is-the-distro-hopping-secret-i-wish-i-knew-earlier/)
 - [The Powerful Chinese AI Model Experts Warned About Is Here](https://gadgeteer.co.za/the-powerful-chinese-ai-model-experts-warned-about-is-here/)
 - [Open Source Caving: 20 Years of Making Cave Mapping Tools](https://gadgeteer.co.za/open-source-caving-20-years-of-making-cave-mapping-tools/)
 - [N64 classic GoldenEye 007 has been 100% decompiled, paving the way for mods and ports](https://gadgeteer.co.za/n64-classic-goldeneye-007-has-been-100-decompiled-paving-the-way-for-mods-and-ports/)
 - [Cheap USB-C chargers are actually fine—these 4 specs are all that matter](https://gadgeteer.co.za/cheap-usb-c-chargers-are-actually-fine-these-4-specs-are-all-that-matter/)
-- [nfSensei is an open source spiritual successor of pfSense, by the original creator, for Linux](https://gadgeteer.co.za/nfsensei-is-an-open-source-fork-of-pfsense-by-the-original-creator-for-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
