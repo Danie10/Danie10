@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Image Toolbox is an open source Android app for social media creators](https://gadgeteer.co.za/image-toolbox-is-an-open-source-android-app-for-social-media-creators/)
+- [HAMgpt Launches as a Personal AI Copilot Built Specifically for Amateur Radio](https://gadgeteer.co.za/hamgpt-launches-as-a-personal-ai-copilot-built-specifically-for-amateur-radio/)
 - [The Days Of Broadcast Digital TV Could Be Numbered](https://gadgeteer.co.za/the-days-of-broadcast-digital-tv-could-be-numbered/)
 - [Quest VR Headset Becomes Unlocked Hardware](https://gadgeteer.co.za/quest-vr-headset-becomes-unlocked-hardware/)
 - [I tested out the new Elecrow ThinkNode M9 with MeshCore Decentralised Radio Network](https://gadgeteer.co.za/i-tested-out-the-new-elecrow-thinknode-m9-with-meshcore-decentralised-radio-network/)
-- [Jellyfin Playlist Membership — Easily browse Jellyfin Music song titles to add or remove from playlists](https://gadgeteer.co.za/jellyfin-playlist-membership-easily-browse-jellyfin-music-song-titles-to-add-or-remove-from-playlists/)
-- [Moving your Linux home folder to a dedicated drive is the distro-hopping secret I wish I knew earlier](https://gadgeteer.co.za/moving-your-linux-home-folder-to-a-dedicated-drive-is-the-distro-hopping-secret-i-wish-i-knew-earlier/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
