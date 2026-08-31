@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tether Brings the Apple Continuity Experience to Linux](https://gadgeteer.co.za/tether-brings-the-apple-continuity-experience-to-linux/)
 - [Could flipping Raise wrist to wake and Always On Display &lpar;AOD&rpar; improve battery life?](https://gadgeteer.co.za/could-flipping-raise-wrist-to-wake-and-always-on-display-aod-improve-battery-life/)
 - [Scientist learns in front of peers why we cannot trust AI Blindly](https://gadgeteer.co.za/scientist-learns-in-front-of-peers-why-we-cannot-trust-ai-blindly/)
 - [Image Toolbox is an open source Android app for social media creators](https://gadgeteer.co.za/image-toolbox-is-an-open-source-android-app-for-social-media-creators/)
 - [HAMgpt Launches as a Personal AI Copilot Built Specifically for Amateur Radio](https://gadgeteer.co.za/hamgpt-launches-as-a-personal-ai-copilot-built-specifically-for-amateur-radio/)
-- [The Days Of Broadcast Digital TV Could Be Numbered](https://gadgeteer.co.za/the-days-of-broadcast-digital-tv-could-be-numbered/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
