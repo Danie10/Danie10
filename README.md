@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Efficiency Could Cost Us the Next Generation of Experts](https://gadgeteer.co.za/ai-efficiency-could-cost-us-the-next-generation-of-experts/)
 - [Immurok Fingerprint Key Unlocks Linux, Approves SSH and AI Agents](https://gadgeteer.co.za/immurok-fingerprint-key-unlocks-linux-approves-ssh-and-ai-agents/)
 - [Australians Could Soon Opt Out of Social Media Algorithms Altogether](https://gadgeteer.co.za/australians-could-soon-opt-out-of-social-media-algorithms-altogether/)
 - [I discovered KDE’s hidden superpowers after installing these 3 open-source utilities](https://gadgeteer.co.za/i-discovered-kdes-hidden-superpowers-after-installing-these-3-open-source-utilities/)
 - [Kept is an open-source self-hosted alternative to Google Keep notes](https://gadgeteer.co.za/kept-is-an-open-source-self-hosted-alternative-to-google-keep-notes/)
-- [“I’m Not Dead Yet!” Reverse Polish Notation Calculators You Can Still Buy](https://gadgeteer.co.za/im-not-dead-yet-reverse-polish-notation-calculators-you-can-still-buy/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
