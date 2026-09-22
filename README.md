@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OSS Document Scanner is an open source mobile app to scan documents to PDF](https://gadgeteer.co.za/oss-document-scanner-is-an-open-source-mobile-app-to-scan-documents-to-pdf/)
 - [Grist is an open source self-hosted spreadsheet with a database hiding underneath](https://gadgeteer.co.za/grist-is-an-open-source-self-hosted-spreadsheet-with-a-database-hiding-underneath/)
 - [OpenCode is an open source alternative to Claude Code](https://gadgeteer.co.za/opencode-is-an-open-source-alternative-to-claude-code/)
 - [AI Efficiency Could Cost Us the Next Generation of Experts](https://gadgeteer.co.za/ai-efficiency-could-cost-us-the-next-generation-of-experts/)
 - [Immurok Fingerprint Key Unlocks Linux, Approves SSH and AI Agents](https://gadgeteer.co.za/immurok-fingerprint-key-unlocks-linux-approves-ssh-and-ai-agents/)
-- [Australians Could Soon Opt Out of Social Media Algorithms Altogether](https://gadgeteer.co.za/australians-could-soon-opt-out-of-social-media-algorithms-altogether/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
