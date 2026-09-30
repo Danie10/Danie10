@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Veilamp is an open source music player that also streams your music to friends](https://gadgeteer.co.za/veilamp-is-an-open-source-music-player-that-also-streams-your-music-to-friends/)
 - [First for South Africa as robotic exoskeleton aids Table Mountain rescue](https://gadgeteer.co.za/first-for-south-africa-as-robotic-exoskeleton-aids-table-mountain-rescue/)
 - [Microsoft going back to its roots and breaking spreadsheet compatibility](https://gadgeteer.co.za/microsoft-going-back-to-its-roots-and-breaking-spreadsheet-compatibility/)
 - [F-Droid’s Android open-source app store has been rebuilt from the ground up](https://gadgeteer.co.za/f-droids-android-open-source-app-store-has-been-rebuilt-from-the-ground-up/)
 - [OSS Document Scanner is an open source mobile app to scan documents to PDF](https://gadgeteer.co.za/oss-document-scanner-is-an-open-source-mobile-app-to-scan-documents-to-pdf/)
-- [Grist is an open source self-hosted spreadsheet with a database hiding underneath](https://gadgeteer.co.za/grist-is-an-open-source-self-hosted-spreadsheet-with-a-database-hiding-underneath/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
