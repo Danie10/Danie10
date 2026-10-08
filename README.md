@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Rolling Release Linux Distros for Every Kind of User](https://gadgeteer.co.za/best-rolling-release-linux-distros-for-every-kind-of-user/)
+- [Voicebox can clone your voice from a few seconds of audio on your own PC](https://gadgeteer.co.za/voicebox-can-clone-your-voice-from-a-few-seconds-of-audio-on-your-own-pc/)
 - [Map Animator makes animated route maps for travel and adventure videos, right in your browser](https://gadgeteer.co.za/map-animator-makes-animated-route-maps-for-travel-and-adventure-videos-right-in-your-browser/)
 - [Honor’s Magic 9 Pro Max Has a Shotgun Mic and a 500mm Lens Mount](https://gadgeteer.co.za/honors-magic-9-pro-max-has-a-shotgun-mic-and-a-500mm-lens-mount/)
 - [Veilamp is an open source music player that also streams your music to friends](https://gadgeteer.co.za/veilamp-is-an-open-source-music-player-that-also-streams-your-music-to-friends/)
-- [First for South Africa as robotic exoskeleton aids Table Mountain rescue](https://gadgeteer.co.za/first-for-south-africa-as-robotic-exoskeleton-aids-table-mountain-rescue/)
-- [Microsoft going back to its roots and breaking spreadsheet compatibility](https://gadgeteer.co.za/microsoft-going-back-to-its-roots-and-breaking-spreadsheet-compatibility/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
