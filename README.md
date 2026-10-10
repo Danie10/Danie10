@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [No phone signal? LastBar will find the nearest place that has it.](https://gadgeteer.co.za/no-phone-signal-lastbar-will-find-the-nearest-place-that-has-it/)
 - [You can now tell telemarkers to get lost officially in South Africa](https://gadgeteer.co.za/you-can-now-tell-telemarkers-to-get-lost-officially-in-south-africa/)
 - [Someone Vibe Coded a Free and Open Source Knockoff of Adobe Creative Suite](https://gadgeteer.co.za/someone-vibe-coded-a-free-and-open-source-knockoff-of-adobe-creative-suite/)
 - [Best Rolling Release Linux Distros for Every Kind of User](https://gadgeteer.co.za/best-rolling-release-linux-distros-for-every-kind-of-user/)
 - [Voicebox can clone your voice from a few seconds of audio on your own PC](https://gadgeteer.co.za/voicebox-can-clone-your-voice-from-a-few-seconds-of-audio-on-your-own-pc/)
-- [Map Animator makes animated route maps for travel and adventure videos, right in your browser](https://gadgeteer.co.za/map-animator-makes-animated-route-maps-for-travel-and-adventure-videos-right-in-your-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
