@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source Self-Hosted Zer0 URL Shortener](https://gadgeteer.co.za/open-source-self-hosted-zer0-url-shortener/)
 - [Data sovereignty in South Africa is not an address](https://gadgeteer.co.za/data-sovereignty-in-south-africa-is-not-an-address/)
 - [Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting](https://gadgeteer.co.za/fairphones-latest-repairable-earbuds-are-smaller-lighter-and-longer-lasting/)
 - [Strata is an alternative file manager for Linux written in Rust](https://gadgeteer.co.za/strata-is-an-alternative-file-manager-for-linux-written-in-rust/)
 - [2026 Kindles Have Removable Back Panels for Easy Battery Replacement](https://gadgeteer.co.za/2026-kindles-have-removable-back-panels-for-easy-battery-replacement/)
-- [Free cybercrime and online scams helpline goes live in South Africa](https://gadgeteer.co.za/free-cybercrime-and-online-scams-helpline-goes-live-in-south-africa/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
