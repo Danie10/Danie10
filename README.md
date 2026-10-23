@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jack Dorsey’s Bitchat Becomes France’s Top Social App Amid Riots and Mobile Network Outage](https://gadgeteer.co.za/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage/)
 - [BeamNG.Earth is a 1:1 scale streamed Earth for the BeamNG.drive game](https://gadgeteer.co.za/beamng-earth-is-a-11-scale-streamed-earth-for-the-beamng-drive-game/)
 - [Self-hosting doesn’t actually save you money, and the people who promise it does are setting beginners up to quit](https://gadgeteer.co.za/self-hosting-doesnt-actually-save-you-money-and-the-people-who-promise-it-does-are-setting-beginners-up-to-quit/)
 - [Open-Source Self-Hosted Zer0 URL Shortener](https://gadgeteer.co.za/open-source-self-hosted-zer0-url-shortener/)
 - [Data sovereignty in South Africa is not an address](https://gadgeteer.co.za/data-sovereignty-in-south-africa-is-not-an-address/)
-- [Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting](https://gadgeteer.co.za/fairphones-latest-repairable-earbuds-are-smaller-lighter-and-longer-lasting/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
