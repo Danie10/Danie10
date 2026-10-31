@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Courier Guy off-grid smart lockers replacing the Post Office in South Africa](https://gadgeteer.co.za/the-courier-guy-off-grid-smart-lockers-replacing-the-post-office-in-south-africa/)
 - [SafeRoute SA shows crime hotspots across all of South Africa and plans driving routes that steer around them](https://gadgeteer.co.za/saferoute-sa-shows-crime-hotspots-across-all-of-south-africa-and-plans-driving-routes-that-steer-around-them/)
 - [Readwise is taking on Kindle and Kobo for ebook supremacy](https://gadgeteer.co.za/readwise-is-taking-on-kindle-and-kobo-for-ebook-supremacy/)
 - [Jack Dorsey’s Bitchat Becomes France’s Top Social App Amid Riots and Mobile Network Outage](https://gadgeteer.co.za/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage/)
 - [BeamNG.Earth is a 1:1 scale streamed Earth for the BeamNG.drive game](https://gadgeteer.co.za/beamng-earth-is-a-11-scale-streamed-earth-for-the-beamng-drive-game/)
-- [Self-hosting doesn’t actually save you money, and the people who promise it does are setting beginners up to quit](https://gadgeteer.co.za/self-hosting-doesnt-actually-save-you-money-and-the-people-who-promise-it-does-are-setting-beginners-up-to-quit/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
