@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AiSList blocks AI-generated slop content from your YouTube experience](https://gadgeteer.co.za/aislist-blocks-ai-generated-slop-content-from-your-youtube-experience/)
 - [AARE is an open-source alternative to Android Auto](https://gadgeteer.co.za/aare-is-an-open-source-alternative-to-android-auto/)
 - [Dawarich — a privacy-focused and open-source alternative to Google Timeline location history](https://gadgeteer.co.za/dawarich-a-privacy-focused-and-open-source-alternative-to-google-timeline-location-history/)
 - [Here’s How You Can Use VPNs for FREE](https://gadgeteer.co.za/heres-how-you-can-use-vpns-for-free/)
 - [The Courier Guy off-grid smart lockers replacing the Post Office in South Africa](https://gadgeteer.co.za/the-courier-guy-off-grid-smart-lockers-replacing-the-post-office-in-south-africa/)
-- [SafeRoute SA shows crime hotspots across all of South Africa and plans driving routes that steer around them](https://gadgeteer.co.za/saferoute-sa-shows-crime-hotspots-across-all-of-south-africa-and-plans-driving-routes-that-steer-around-them/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
