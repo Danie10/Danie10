@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nextcloud’s new Euro-Office desktop app lets you edit Microsoft Office and ODF files locally](https://gadgeteer.co.za/nextclouds-new-euro-office-desktop-app-lets-you-edit-microsoft-office-and-odf-files-locally/)
 - [About half the videos recommended to me on YouTube are AI Slop](https://gadgeteer.co.za/about-half-the-videos-recommended-to-me-on-youtube-are-ai-slop/)
 - [RadioShake, a free internet radio player that also works with Android Auto](https://gadgeteer.co.za/radioshake-a-free-internet-radio-player-that-also-works-with-android-auto/)
 - [Garmin Cyclists Can Now Make Themselves Appear on Waze in Real Time](https://gadgeteer.co.za/garmin-cyclists-can-now-make-themselves-appear-on-waze-in-real-time/)
 - [AiSList blocks AI-generated slop content from your YouTube experience](https://gadgeteer.co.za/aislist-blocks-ai-generated-slop-content-from-your-youtube-experience/)
-- [AARE is an open-source alternative to Android Auto](https://gadgeteer.co.za/aare-is-an-open-source-alternative-to-android-auto/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
