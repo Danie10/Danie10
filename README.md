@@ -38,11 +38,11 @@ I blog daily (about 3 to 5 posts per day) on various social networks such as:
 <a id="recent-blog-posts"></a>
 # 📰 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can’t tell your USB-C cable’s specs? This free Android app reads them in seconds](https://gadgeteer.co.za/cant-tell-your-usb-c-cables-specs-this-free-android-app-reads-them-in-seconds/)
 - [SOGo is an enterprise level open source collaboration suite](https://gadgeteer.co.za/sogo-is-an-enterprise-level-open-source-collaboration-suite/)
 - [Nextcloud’s new Euro-Office desktop app lets you edit Microsoft Office and ODF files locally](https://gadgeteer.co.za/nextclouds-new-euro-office-desktop-app-lets-you-edit-microsoft-office-and-odf-files-locally/)
 - [About half the videos recommended to me on YouTube are AI Slop](https://gadgeteer.co.za/about-half-the-videos-recommended-to-me-on-youtube-are-ai-slop/)
 - [RadioShake, a free internet radio player that also works with Android Auto](https://gadgeteer.co.za/radioshake-a-free-internet-radio-player-that-also-works-with-android-auto/)
-- [Garmin Cyclists Can Now Make Themselves Appear on Waze in Real Time](https://gadgeteer.co.za/garmin-cyclists-can-now-make-themselves-appear-on-waze-in-real-time/)
 <!-- BLOG-POST-LIST:END -->
 
 <a id="videos"></a>
